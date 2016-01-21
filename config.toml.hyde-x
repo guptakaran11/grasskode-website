@@ -1,0 +1,33 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+MetaDataFormat = "toml"
+theme = "hyde-x"
+paginate = 10
+
+[author]
+	name = "grasskode"
+
+[taxonomies]
+	category = "categories"
+	tag = "tags"
+
+[params]
+	theme = "theme-base-0b"
+	tagline = "..."
+	home = "Home"
+
+	# Sidebar social links
+	linkedin = "https://in.linkedin.com/in/karan-gupta-67614925"
+	stackOverflow = "http://stackoverflow.com/users/2359814/grasskode"
+	facebook = "http://www.facebook.com/gupta.karan.11"
+
+[[menu.main]]
+    name = "Posts"
+    identifier = "posts"
+    url = "/post/"
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"

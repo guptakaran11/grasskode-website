@@ -1,0 +1,34 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+MetaDataFormat = "toml"
+theme = "robust"
+title = "grasskode"
+author = "Karan Gupta"
+copyright = "Copyright (c) 2016, Karan Gupta; some rights reserved."
+canonifyurls = true
+paginate = 4
+
+[taxonomies]
+	category = "categories"
+    tag = "tags"
+
+[[menu.main]]
+	name = "Home"
+	weight = -110
+	url = "/"
+[[menu.main]]
+	name = "Posts"
+	weight = -109
+	url = "/post/"
+[[menu.main]]
+	name = "Categories"
+	weight = -108
+	url = "/categories/"
+[[menu.main]]
+	name = "About"
+	weight = -107
+	url = "/about/"
+[[menu.main]]
+	name = "License"
+	weight = -106
+	url = "/license/"
