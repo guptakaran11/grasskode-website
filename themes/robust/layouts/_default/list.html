@@ -8,9 +8,11 @@
       <div class="articles">
         <div class="row">
           {{ range (.Paginate .Data.Pages).Pages }}
-          <div class="col-sm-4">
-            {{ .Render "li" }}
-          </div>
+            {{ if ne .Params.noimg true}}
+              <div class="col-sm-4">
+                {{ .Render "li" }}
+              </div>
+            {{ end }}
           {{ end }}
         </div>
       </div>
