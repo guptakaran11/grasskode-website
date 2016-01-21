@@ -251,6 +251,7 @@ article.single {
 
 article.single .article-header {
   padding: 2rem;
+  padding-bottom: 0rem;
 }
 
 @media (max-width: 768px) {
@@ -258,6 +259,14 @@ article.single .article-header {
     padding: 1rem;
     padding-bottom: 2rem;
   }
+}
+
+article.single .article-date {
+  font-size: 1rem;
+}
+
+article.single .article-title {
+  font-size: 2.2rem;
 }
 
 article.single .image {
