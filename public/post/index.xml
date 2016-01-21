@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>grasskode </title>
-    <link>http://replace-this-with-your-hugo-site.com/post/</link>
+    <link>http://guptakaran11.github.io/grasskode-website/post/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>Robustness</title>
-          <link>http://replace-this-with-your-hugo-site.com/post/robustness/</link>
+          <link>http://guptakaran11.github.io/grasskode-website/post/robustness/</link>
           <pubDate>Wed, 20 Jan 2016 19:45:30 IST</pubDate>
           <author></author>
-          <guid>http://replace-this-with-your-hugo-site.com/post/robustness/</guid>
+          <guid>http://guptakaran11.github.io/grasskode-website/post/robustness/</guid>
           <description>
 
 &lt;h2 id=&#34;heading-one:e3042908b86d1e862cf3a984d06dbb37&#34;&gt;Heading one&lt;/h2&gt;
@@ -32,10 +32,10 @@
       
         <item>
           <title>robustness</title>
-          <link>http://replace-this-with-your-hugo-site.com/post/morerobustness/</link>
+          <link>http://guptakaran11.github.io/grasskode-website/post/morerobustness/</link>
           <pubDate>Wed, 20 Jan 2016 19:45:30 IST</pubDate>
           <author></author>
-          <guid>http://replace-this-with-your-hugo-site.com/post/morerobustness/</guid>
+          <guid>http://guptakaran11.github.io/grasskode-website/post/morerobustness/</guid>
           <description>
 
 &lt;h2 id=&#34;heading-one:f5707ff97562b9e79a972c1fb3621f5c&#34;&gt;Heading one&lt;/h2&gt;
@@ -52,10 +52,10 @@
       
         <item>
           <title>Hello World</title>
-          <link>http://replace-this-with-your-hugo-site.com/post/hello-world/</link>
+          <link>http://guptakaran11.github.io/grasskode-website/post/hello-world/</link>
           <pubDate>Tue, 19 Jan 2016 19:40:54 IST</pubDate>
           <author></author>
-          <guid>http://replace-this-with-your-hugo-site.com/post/hello-world/</guid>
+          <guid>http://guptakaran11.github.io/grasskode-website/post/hello-world/</guid>
           <description>&lt;p&gt;As is customary, we start with saying a polite hello to this wonderful world!&lt;/p&gt;
 </description>
         </item>
