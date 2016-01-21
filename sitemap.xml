@@ -3,18 +3,8 @@
   
   <url>
     <loc>http://grasskode.xyz/</loc>
-    <lastmod>2016-01-20T19:45:30+05:30</lastmod>
+    <lastmod>2016-01-19T19:40:54+05:30</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/post/robustness/</loc>
-    <lastmod>2016-01-20T19:45:30+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/post/morerobustness/</loc>
-    <lastmod>2016-01-20T19:45:30+05:30</lastmod>
   </url>
   
   <url>
@@ -25,6 +15,11 @@
   <url>
     <loc>http://grasskode.xyz/license/</loc>
     <lastmod>2016-01-19T18:08:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/about/</loc>
+    <lastmod>2016-01-19T16:14:32+05:30</lastmod>
   </url>
   
 </urlset>
