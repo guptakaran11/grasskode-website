@@ -3,18 +3,23 @@
   
   <url>
     <loc>http://grasskode.xyz/</loc>
-    <lastmod>2016-01-22T16:14:32+05:30</lastmod>
+    <lastmod>2016-01-29T23:57:11+05:30</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/hampi-revisisted/</loc>
+    <lastmod>2016-01-29T23:57:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/hello-world/</loc>
+    <lastmod>2016-01-22T19:40:54+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/about/</loc>
     <lastmod>2016-01-22T16:14:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/post/hello-world/</loc>
-    <lastmod>2016-01-19T19:40:54+05:30</lastmod>
   </url>
   
   <url>

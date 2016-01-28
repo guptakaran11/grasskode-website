@@ -37,6 +37,12 @@
 
         <hr width="80%" size="8" align="center">
 
+        {{ if eq .Params.toc true }}
+        <div class="list-default">{{ .TableOfContents }}</div>
+        {{ end }}
+
+        <hr width="80%" size="8" align="center">
+
         <div class="article-body" itemprop="articleBody">
           {{ .Content }}
         </div>

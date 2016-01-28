@@ -1,11 +1,11 @@
 <aside class="site">
 
-  {{ if and .IsPage (eq .Params.toc true) }}
+  <!-- {{ if and .IsPage (eq .Params.toc true) }}
   <div class="section">
     <header><div class="title">Table Of Contents</div></header>
     <div class="list-default">{{ .TableOfContents }}</div>
   </div>
-  {{ end }}
+  {{ end }} -->
 
   {{ if ne (len .Site.Menus) 0 }}
   <div class="section menu">
