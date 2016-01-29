@@ -8,6 +8,9 @@ copyright = "Copyright (c) 2016, Karan Gupta; some rights reserved."
 canonifyurls = true
 paginate = 4
 
+[params]
+	disqusShortname = "grasskode"
+
 [taxonomies]
 	category = "categories"
     tag = "tags"
