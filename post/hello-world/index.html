@@ -98,8 +98,11 @@
           <div id="disqus_thread"></div>
           <script type="text/javascript">
 (function() {
+  if (window.location.hostname == "localhost")
+        return;
+      
   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-  var disqus_shortname = 'grasskode';
+  var disqus_shortname = 'grasskodexyz';
   dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
 })();
@@ -215,13 +218,13 @@
     <header><div class="title">Tags</div></header>
     <div class="content">
       
-        <a href="http://grasskode.xyz/tags/karnataka">karnataka (1)</a>
-      
-        <a href="http://grasskode.xyz/tags/hampi">hampi (1)</a>
-      
         <a href="http://grasskode.xyz/tags/travel">travel (1)</a>
       
         <a href="http://grasskode.xyz/tags/india">india (1)</a>
+      
+        <a href="http://grasskode.xyz/tags/karnataka">karnataka (1)</a>
+      
+        <a href="http://grasskode.xyz/tags/hampi">hampi (1)</a>
       
     </div>
   </div>
