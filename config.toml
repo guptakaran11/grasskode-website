@@ -9,7 +9,7 @@ canonifyurls = true
 paginate = 4
 
 [params]
-	disqusShortname = "grasskode"
+	disqusShortname = "grasskodexyz"
 
 [taxonomies]
 	category = "categories"
