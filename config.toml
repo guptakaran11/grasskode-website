@@ -10,6 +10,7 @@ paginate = 4
 
 [params]
 	disqusShortname = "grasskodexyz"
+	GoogleAnalyticsUserID = "UA-73062996-1"
 
 [taxonomies]
 	category = "categories"
