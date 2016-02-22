@@ -106,6 +106,7 @@ I would spend the coming week repairing Typhon, taking care of some professional
 
 I do recommend a bike trip, if you have the time and appetite for it. Riding is an experience of it's own. I have not yet come up with a convincing argument of my own as to why one should ride. So, for the time being, I will redirect you to a post that my friend wrote about our [road trip through the Great Indian Thar desert](http://www.devashish.me/2016/01/04/riding-across-the-thar/). The opening paragraphs list some compelling reasons of why one would, in his sane mind, choose to ride on two wheels rather than four.
 
+<hr />
 Whether you enjoyed the post or not, do leave a comment!
 
 And here is a complete album of the road trip.

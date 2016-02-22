@@ -79,3 +79,7 @@ We picked up a bottle of **Old Monk** on our way back to the room. Then we watch
 
 <hr />
 [Read about Day 3 here.](/post/delhi-pune-day-3/)
+
+And here is a complete album of the road trip.
+
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157664382442610" title="Delhi Pune Roadtrip, Feb 2016"><img src="https://farm2.staticflickr.com/1478/24558083584_fc44cac6db.jpg" width="500" height="398" alt="Delhi Pune Roadtrip, Feb 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
