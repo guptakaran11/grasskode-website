@@ -1,3 +1,17 @@
+article.single .article-body blockquote {
+  padding: 1.5rem;
+}
+
+article.single .article-body blockquote p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  text-align: center;
+}
+
+article.single .article-body h2 {
+  word-break: normal;
+}
+
 .postimg { 
 	text-align: center;
 	margin: 10px 0 10px 0;
