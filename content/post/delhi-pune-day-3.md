@@ -50,7 +50,7 @@ We spent close to an hour at **Bheemkund**. It was a delightful find. We swam in
 We went back outside and had another couple of cups of tea. For the lack of a good option for food, we decided to hit the highway and stop at a *dhaba*. We went back and sat at the shop where our luggage was dumped. The shopkeeper told his story this time; of how he had lost his ability to stand. He was stricken with partial paralysis since birth and the ailment aggravated with each passing year till it consumed his legs. Even his left hand was not completely functional. But this man had the spirit of a fighter. "Better to die than to beg!" he said. I told him the country needed more like him. People had gotten used to freeloading here. We said our goodbyes and he told us to come back sometime. I answered in the affirmative and we offroaded our way back to the highway. Immediately after, we saw a *dhaba* and sat down to have some delicious lunch of *dal* and *sev tamatar* with *rotis*.
 
 <p class="postimg">
-	<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/25095857711/in/album-72157664382442610/" title="mp-roads-4"><img src="https://farm2.staticflickr.com/1637/25095857711_109c913f42.jpg" width="500" height="281" alt="mp-roads-4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/25095857711/in/album-72157664382442610/" title="mp-roads-4"><img src="https://farm2.staticflickr.com/1637/25095857711_109c913f42.jpg" width="500" height="281" alt="mp-roads-4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>Beautiful highways of Madhya Pradesh</em>
 </p>
 
