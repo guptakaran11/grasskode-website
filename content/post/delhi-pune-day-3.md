@@ -68,6 +68,12 @@ After a quick bath we went to the other side of the railway station for dinner a
 <hr />
 [Read about Day 4 and 5 here.](/post/delhi-pune-finale/)
 
+Here is the route taken on Day 3 on Google Maps.
+
+<p>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m32!1m12!1m3!1d931538.5154302493!2d78.4356091054783!3d24.21300150307937!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m17!3e0!4m5!1s0x0%3A0x9189682a3b8b0eba!2sGuest+House%2CPanna!3m2!1d24.7049442!2d80.1797471!4m5!1s0x397881febff595e5%3A0x51d4e000eccf9ff0!2sBhimkund%2C+Madhya+Pradesh!3m2!1d24.4384759!2d79.37612179999999!4m3!3m2!1d23.5216186!2d77.8151476!5e0!3m2!1sen!2sin!4v1456210763261" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
 And here is a complete album of the road trip.
 
 <a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157664382442610" title="Delhi Pune Roadtrip, Feb 2016"><img src="https://farm2.staticflickr.com/1478/24558083584_fc44cac6db.jpg" width="500" height="398" alt="Delhi Pune Roadtrip, Feb 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

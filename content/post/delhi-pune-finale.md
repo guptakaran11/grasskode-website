@@ -109,6 +109,12 @@ I do recommend a bike trip, if you have the time and appetite for it. Riding is 
 <hr />
 Whether you enjoyed the post or not, do leave a comment!
 
+Here is the route taken during the final leg on Google Maps.
+
+<p>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m36!1m12!1m3!1d3813404.656020959!2d73.61389780901759!3d21.031566248718285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m21!3e0!4m3!3m2!1d23.5216186!2d77.8151476!4m5!1s0x397c0ff7481b1191%3A0x9ebd3713a36096b2!2sSanchi+Stupa%2C+Sanchi%2C+Madhya+Pradesh!3m2!1d23.479390499999997!2d77.73958979999999!4m5!1s0x3bdec5f2c571bb47%3A0x5827ae11b9d7cb1c!2sDhule%2C+Maharashtra!3m2!1d20.9042201!2d74.7748979!4m3!3m2!1d18.5682434!2d73.91093769999999!5e0!3m2!1sen!2sin!4v1456210947913" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
 And here is a complete album of the road trip.
 
 <a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157664382442610" title="Delhi Pune Roadtrip, Feb 2016"><img src="https://farm2.staticflickr.com/1478/24558083584_fc44cac6db.jpg" width="500" height="398" alt="Delhi Pune Roadtrip, Feb 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
