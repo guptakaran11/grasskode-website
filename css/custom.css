@@ -12,16 +12,32 @@ article.single .article-body h2 {
   word-break: normal;
 }
 
+article.single .image {
+  height: 35rem;
+}
+
 .postimg { 
 	text-align: center;
 	margin: 10px 0 10px 0;
 }
 
-.postimg img { 
-	padding-bottom: 0.5rem;
+.vertimg img { 
+	width: 60%;
 }
 
-.postimg  em { 
+.borderedimg img {
+	padding: 0.2rem;
+	border: 1.5px solid #021a40;
+}
+
+.postimg img { 
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0.5rem;
+}
+
+.postimg em { 
 	font-size: 0.8rem;
 	font-weight: 500;
 	text-align: center;
