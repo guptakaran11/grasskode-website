@@ -9,6 +9,7 @@ canonifyurls = true
 paginate = 6
 
 [params]
+    indexPageSize = 6
 	disqusShortname = "grasskodexyz"
 	GoogleAnalyticsUserID = "UA-73062996-1"
 
