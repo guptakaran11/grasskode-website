@@ -37,7 +37,7 @@
     <header><div class="title">Latest Posts</div></header>
     <div class="content">
       {{ range first 5 .Site.Pages }}
-      <div class="sm">{{ .Render "li" }}</div>
+        <div class="sm">{{ .Render "li" }}</div>
       {{ end }}
     </div>
   </div>
