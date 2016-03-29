@@ -16,9 +16,15 @@ article.single .image {
   height: 35rem;
 }
 
-.postimg { 
-	text-align: center;
+.unscaledimg { 
 	margin: 10px 0 10px 0;
+}
+
+.unscaledimg img {
+	text-align: center;
+	width: auto;
+	max-width: 100%;
+	height: auto;
 }
 
 .vertimg img { 
@@ -28,6 +34,11 @@ article.single .image {
 .borderedimg img {
 	padding: 0.2rem;
 	border: 1.5px solid #021a40;
+}
+
+.postimg { 
+	text-align: center;
+	margin: 10px 0 10px 0;
 }
 
 .postimg img { 
