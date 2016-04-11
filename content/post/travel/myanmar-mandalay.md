@@ -276,7 +276,7 @@ We walked around for a bit and clicked photos, accidentally walked in on couples
 	<em>Funny?</em>
 </p>
 
-The sun was bright and harsh by now. We went to the Mandalay hill and parked our bikes next to the staircase. This was one of those few places where you had to pay to store your shoes. We did and started walked up the stairs. There were quite a few pagodas all along the staircase to the top. Parul's research had told us that there was one pagoda worth seeing, the **Kusinara Pagoda**. This was also supposedly a little difficult to find. After the second flight of steps, there was a board with vague letterings declaring Kusinara on the left. That wasn't so difficult to find! The stairs to the left led down again and almost at the base level we hit upon a gate that led into a room with golden leaves, owls and lizards painted on white walls. The colour combination looked very different because of the staccato bursts in which the colours came. A wooden Buddha face looked on with a mix of ecstasy and knowledge on his face. Another door led us to the inner chamber.
+The sun was bright and harsh by now. We went to the Mandalay hill and parked our bikes next to the staircase. This was one of those few places where you had to pay to store your shoes. We did and started walking up the stairs. There were quite a few pagodas all along the staircase to the top. Parul's research had told us that there was one pagoda worth seeing, the **Kusinara Pagoda**. This was also supposedly a little difficult to find. After the second flight of steps, there was a board with vague letterings declaring Kusinara on the left. That wasn't so difficult to find! The stairs to the left led down again and almost at the base level we hit upon a gate that led into a room with golden leaves, owls and lizards painted on white walls. The colour combination looked very different because of the staccato bursts in which the colours came. A wooden Buddha face looked on with a mix of ecstasy and knowledge on his face. Another door led us to the inner chamber.
 
 <p class="postimg borderedimg">
 	<img src="https://farm2.staticflickr.com/1543/25395348854_beb7446bc0.jpg" alt="Wooden Buddha"></a>
@@ -441,6 +441,10 @@ All bordered images are credited to [Parul](https://www.facebook.com/Captured-by
 
 Whether you enjoyed the post or not, do leave a comment!
 
+Previous post in this series :
+
+* [Bagan](/post/travel/myanmar-bagan)
+
 And here is the complete album of the Mandalay leg of our trip.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157664017913913" title="Mandalay, Mar 2016"><img src="https://farm2.staticflickr.com/1564/25395475764_399acb8a39.jpg" width="500" height="333" alt="Mandalay, Mar 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/140507143@N02/albums/72157664017913913" title="Mandalay, Mar 2016"><img src="https://farm2.staticflickr.com/1564/25395475764_399acb8a39.jpg" width="500" height="333" alt="Mandalay, Mar 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
