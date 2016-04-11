@@ -12,10 +12,6 @@ article.single .article-body h2 {
   word-break: normal;
 }
 
-article.single .image {
-  height: 35rem;
-}
-
 .unscaledimg { 
 	margin: 10px 0 10px 0;
 }
