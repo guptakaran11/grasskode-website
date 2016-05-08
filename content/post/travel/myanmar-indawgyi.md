@@ -10,7 +10,7 @@ toc = true
 
 Parul and I decided to visit Burma / Myanmar for a vacation in late February 2016. We ended up getting three full weeks to travel the beautiful country. In a country like Myanmar that has a rapidly evolving tourism industry, I intend to fill the gaps that I found while trying to plan a trip myself. That and a first hand narrative of the wonderful experiences that we have had.
 
-This post is for the third leg of travel - Indawgyi Lake (6 Mar 2016 - 10 Mar 2016).
+This post is for the third leg of travel - Indawgyi Lake (6 Mar 2016 - 11 Mar 2016).
 
 <hr />
 

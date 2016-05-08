@@ -1,6 +1,6 @@
 +++
 categories = ["blog", "travel", "backpacking"]
-date = "2016-05-07T12:05:51+05:30"
+date = "2016-05-08T12:05:51+05:30"
 title = "Inle Lake - Three Weeks in Burma"
 image = "https://farm8.staticflickr.com/7524/26290489963_a88dbdf4b6_c.jpg"
 tags = ["backpacking", "burma", "myanmar", "asia", "lake", "nature"]
@@ -10,7 +10,7 @@ toc = true
 
 Parul and I decided to visit Burma / Myanmar for a vacation in late February 2016. We ended up getting three full weeks to travel the beautiful country. In a country like Myanmar that has a rapidly evolving tourism industry, I intend to fill the gaps that I found while trying to plan a trip myself. That and a first hand narrative of the wonderful experiences that we have had.
 
-This post is for the third leg of travel - Indawgyi Lake (6 Mar 2016 - 10 Mar 2016).
+This post is for the fourth leg of travel - Inle Lake (12 Mar 2016 - 15 Mar 2016).
 
 <hr />
 
