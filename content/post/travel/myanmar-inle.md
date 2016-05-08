@@ -207,7 +207,7 @@ Around 4 PM, we went back to the hotel and waited for the pick-up to the bus sta
 The ride took less than half an hour and we reached Shwenyaung by 5:15 PM. The bus to Bagan came first and all the others hopped in. Apparently, this was the usual route that backpackers take in the country; landing in Mandalay or Yangon, thence to Inle and then to Bagan. Our bus arrived in another 15 minutes. It was a big and comfortable bus. I was expecting it to be a run down one after our journey from Mandalay to Shwenyaung. There was a rock concert playing on the screen inside the bus. I thought I recognised most of the tunes but all the lyrics were in Burmese. I had barely drifted off to sleep when the bus stopped for some food. It was European supper time! We had fried noodles which were quite good and cheapish.
 
 <p class="postimg">
-	<img src="https://farm8.staticflickr.com/7139/26863408466_4fcef60704.jpg" width="500" height="281" alt="midway-food">
+	<img src="https://farm8.staticflickr.com/7139/26863408466_4fcef60704.jpg" alt="midway-food">
 	<em>Fried noodles en route to Yangon</em>
 </p>
 
