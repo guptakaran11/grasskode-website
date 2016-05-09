@@ -129,7 +129,7 @@ At **Maing Thauk** we were courted by boatmen offering to take us to the lake to
 All the houses sat a few feet above the water on teak stilts. Houses, farms, restaurants; everything was built on water and people used boats to navigate through the "lanes" of the village. We waited for the sun to set. There were not many people around; a few locals and a handful of tourists. It was much more peaceful than U Bain. I saw the boats making their way to the village (or beyond) with it's load of daily commuters. Parul took some pictures of the bridge and the setting sun.
 
 <p class="postimg borderedimg">
-	<img src="https://farm8.staticflickr.com/7390/26827130291_3b62a66816.jpg" alt="sunset on teak bridge">
+	<img src="https://farm8.staticflickr.com/7390/26827130291_db9b72367f.jpg" alt="sunset on teak bridge">
 	<em>Another sunset over a teak bridge</em>
 </p>
 
