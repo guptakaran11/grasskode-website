@@ -56,7 +56,7 @@ Towards the evening we rented out a couple of bicycles from the guest house and 
 	<em>Biking on the rustic roads</em>
 </p>
 
-We road slow and steady and were at a board announcing **Red Mountain Vineyard and Winery** in about 15 minutes since we had started from Nyaung Shwe. A small lane shot off the main road and inclined it's way to the winery. A group of four girls on cycles passed us by and the inclination separated the six of us in two groups. I was second in the faster group and Parul was leading the slower one. I waited for Parul at cycle parking and she came flustered at why I had not rode up the incline "together" with her. We had one of our silly spats and went to see the winery.
+We rode slow and steady and were at a board announcing **Red Mountain Vineyard and Winery** in about 15 minutes since we had started from Nyaung Shwe. A small lane shot off the main road and inclined it's way to the winery. A group of four girls on cycles passed us by and the inclination separated the six of us in two groups. I was second in the faster group and Parul was leading the slower one. I waited for Parul at cycle parking and she came flustered at why I had not rode up the incline "together" with her. We had one of our silly spats and went to see the winery.
 
 <p class="postimg">
 	<img src="https://farm8.staticflickr.com/7778/26801383082_d368dae00d.jpg" alt="vineyard">
@@ -70,7 +70,7 @@ The winery was a huge building in the middle of a sprawling vineyard. The settin
 	<em>Cheap wine and cheese</em>
 </p>
 
-As we sat looking to the west and sipping on the mediocre wine, a couple walked up to us and asked if they could share our table. The place had filled up fast and there were barely any seats left. We agreed and they sat down and ordered a couple of glasses of their own. We guessed each other's nationalities. Despite not having detected one Spanish word in their conversation, I guessed that they were Spanish. My guess was far off. They were Israelis : Noam and Michal. They guessed us as being Indians; no surprises there. We started talking and got to know each other a little better. Noam had been travelling for a while now. Michal had just joined him and they were planning to go to Nepal next for Holi. Thence to India! We introduced them to [Bob](https://www.facebook.com/groups/BobTravelsTheWorld/) and invited them to follow his adventures on facebook.
+As we sat looking to the west and sipping on the mediocre wine, a couple walked up to us and asked if they could share our table. The place had filled up fast and there were barely any seats left. We agreed and they sat down and ordered a couple of glasses of their own. We guessed each other's nationalities. Despite not having detected one Spanish word in their conversation, I guessed that they were Spanish. My guess was far off. They were Israelis : Noam and Michal. They guessed us as being Indians; no surprises there. We started talking and got to know each other a little better. Noam had been travelling for a while now. Michal had just joined him and they were planning to go to Nepal next for Holi. Thence to India! We introduced them to Bob and invited them to follow [his adventures on Facebook](https://www.facebook.com/groups/BobTravelsTheWorld/).
 
 <p class="postimg borderedimg">
 	<img src="https://farm8.staticflickr.com/7101/26828844071_57aa0b9c05.jpg" alt="bob's new friends">
