@@ -20,18 +20,20 @@
         a.src=g;
         m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    // disable analytics for localhost
-    if (window.location.hostname == "localhost")
-        return;
-    ga('create', '{{ . }}', 'auto');
-    ga('send', 'pageview');
-    setTimeout(function() {
-        window.onscroll = function() {
-            // track the scroll event on the page
-            window.onscroll = null; // track the event only once
-            ga('send', 'event', 'page', 'scroll');
-        }
-    }, 5000);
+
+    (function() {
+        if (window.location.hostname == "localhost")
+            return;
+        ga('create', '{{ . }}', 'auto');
+        ga('send', 'pageview');
+        setTimeout(function() {
+            window.onscroll = function() {
+                // track the scroll event on the page
+                window.onscroll = null; // track the event only once
+                ga('send', 'event', 'page', 'scroll');
+            }
+        }, 5000);
+    })();
     </script>
     {{ end }}
 
