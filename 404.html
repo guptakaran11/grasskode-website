@@ -65,18 +65,20 @@
         a.src=g;
         m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
-    if (window.location.hostname == "localhost")
-        return;
-    ga('create', 'UA-73062996-1', 'auto');
-    ga('send', 'pageview');
-    setTimeout(function() {
-        window.onscroll = function() {
-            
-            window.onscroll = null; 
-            ga('send', 'event', 'page', 'scroll');
-        }
-    }, 5000);
+
+    (function() {
+        if (window.location.hostname == "localhost")
+            return;
+        ga('create', 'UA-73062996-1', 'auto');
+        ga('send', 'pageview');
+        setTimeout(function() {
+            window.onscroll = function() {
+                
+                window.onscroll = null; 
+                ga('send', 'event', 'page', 'scroll');
+            }
+        }, 5000);
+    })();
     </script>
     
 

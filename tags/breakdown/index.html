@@ -183,15 +183,11 @@
       
         <a href="http://grasskode.xyz/tags/travel">travel (5)</a>
       
-        <a href="http://grasskode.xyz/tags/burma">burma (5)</a>
-      
         <a href="http://grasskode.xyz/tags/india">india (5)</a>
       
-        <a href="http://grasskode.xyz/tags/madhya-pradesh">madhya-pradesh (4)</a>
+        <a href="http://grasskode.xyz/tags/burma">burma (5)</a>
       
         <a href="http://grasskode.xyz/tags/biking">biking (4)</a>
-      
-        <a href="http://grasskode.xyz/tags/backpacking">backpacking (4)</a>
       
         <a href="http://grasskode.xyz/tags/myanmar">myanmar (4)</a>
       
@@ -199,7 +195,11 @@
       
         <a href="http://grasskode.xyz/tags/roadtrip">roadtrip (4)</a>
       
-        <a href="http://grasskode.xyz/tags/mythology">mythology (2)</a>
+        <a href="http://grasskode.xyz/tags/backpacking">backpacking (4)</a>
+      
+        <a href="http://grasskode.xyz/tags/madhya-pradesh">madhya-pradesh (4)</a>
+      
+        <a href="http://grasskode.xyz/tags/lake">lake (2)</a>
       
     </div>
   </div>
@@ -233,18 +233,20 @@
         a.src=g;
         m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
-    if (window.location.hostname == "localhost")
-        return;
-    ga('create', 'UA-73062996-1', 'auto');
-    ga('send', 'pageview');
-    setTimeout(function() {
-        window.onscroll = function() {
-            
-            window.onscroll = null; 
-            ga('send', 'event', 'page', 'scroll');
-        }
-    }, 5000);
+
+    (function() {
+        if (window.location.hostname == "localhost")
+            return;
+        ga('create', 'UA-73062996-1', 'auto');
+        ga('send', 'pageview');
+        setTimeout(function() {
+            window.onscroll = function() {
+                
+                window.onscroll = null; 
+                ga('send', 'event', 'page', 'scroll');
+            }
+        }, 5000);
+    })();
     </script>
     
 
