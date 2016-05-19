@@ -5,7 +5,6 @@ title = "Yangon and Back - Three Weeks in Burma"
 image = "https://farm8.staticflickr.com/7185/27106870755_fc17f3e860.jpg"
 tags = ["backpacking", "burma", "myanmar", "asia", "yangon"]
 toc = true
-draft = true
 
 +++
 
@@ -70,7 +69,7 @@ After the ceremony we went in and got some drinks. These events might be boring 
 
 Once we had had enough of the exhibition, we took a cab to Yaw Min Gyi Street. Emul had suggested a Vietnamese food joint for dinner and we had immediately agreed. There was a profusion of options on the menu and it took me a while to decide. The food was quite delicious. We sat talking about life in Yangon as such. Emul's friend was trying to start a company and was having troubles with his ISP. Internet connectivity in Myanmar was in pretty bad shape. Then Emul and Parul started discussing about fabrics while I returned my attention to the food.
 
-<p class="postimg borederedimg">
+<p class="postimg borderedimg">
 	<img src="https://farm8.staticflickr.com/7587/26502912353_34584d2737.jpg" alt="dinner-with-emul">
 	<em>Dinner selfie with Emul</em>
 </p>
