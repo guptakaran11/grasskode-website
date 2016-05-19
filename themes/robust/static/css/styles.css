@@ -58,6 +58,13 @@ code, pre {
   line-height: 1rem;
 }
 
+img.emoji {
+  height: 1.5rem;
+  width: 1.5rem;
+  margin: 0px !important;
+  display: inline !important;
+}
+
 img {
   width: 100%;
 }

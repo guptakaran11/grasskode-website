@@ -9,6 +9,7 @@
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
+    <script src="//twemoji.maxcdn.com/twemoji.min.js"></script>  
 
     {{ with .Site.Params.GoogleAnalyticsUserID }}
     <script>
@@ -33,6 +34,18 @@
                 ga('send', 'event', 'page', 'scroll');
             }
         }, 5000);
+    })();
+
+    (function() {
+        window.onload = function() {
+            // Set the size of the rendered Emojis
+            // This can be set to 16x16, 36x36, or 72x72
+            twemoji.size = '36x36';
+
+            // Parse the document body and
+            // insert <img> tags in place of Unicode Emojis
+            twemoji.parse(document.body);
+        }
     })();
     </script>
     {{ end }}
