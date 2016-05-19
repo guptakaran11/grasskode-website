@@ -45,7 +45,7 @@ The market had come alive by now. We immediately walked into an area that sold h
 	<em>Our movie watching gear</em>
 </p>
 
-Back outside, we faced a hotter Yangon. We walked back towards the hostel and stopped for some food at a street side Chinese place. I could see several ethnicities in Yangon. There were the various national ethnicities of course. Then there were a lot of Chinese and Indians as well. Some of the Indians were dressed in *htamein*s and *lungi*s and wore *thanaka* but some still had their *saree*s on, holding on to their Indian identity as long as they could. The Chinese food that we had was pretty delicious. By the time we got back to the hostel, it was check in time and we were given out "room".
+Back outside, we faced a hotter Yangon. We walked back towards the hostel and stopped for some food at a street side Chinese place. I could see several ethnicities in Yangon. There were the various national ethnicities of course. Then there were a lot of Chinese and Indians as well. Some of the Indians were dressed in *htameins* and *lungis* and wore *thanaka* but some still had their *sarees* on, holding on to their Indian identity as long as they could. The Chinese food that we had was pretty delicious. By the time we got back to the hostel, it was check in time and we were given our "room".
 
 <p class="postimg">
 	<img src="https://farm8.staticflickr.com/7347/26502912003_b41554eb82.jpg" alt="chinese-food">
@@ -181,7 +181,10 @@ Covering all the spots on the map required an effort and we were exhausted by th
 
 We sat putting on our shoes below and watched a group of men play *chinlone*. It was a treat to watch them play.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/26501150174/in/album-72157668290291901/" title="chinlone"><img src="https://farm8.staticflickr.com/7777/26501150174_e42dc6edae.jpg" alt="chinlone"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p class="postimg">
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/26501150174/in/album-72157668290291901/" title="chinlone"><img src="https://farm8.staticflickr.com/7777/26501150174_e42dc6edae.jpg" alt="chinlone"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<em>Men playing chinlone</em>
+</p>
 
 We waked back to Yaw Min Gyi street from Shwedagon. Since we no longer had the money to splurge, we had a simple dinner at another local joint. Another ten minutes walk found us back to the hotel. We slept a sound sleep, curing our legs of the ache it had acquired from the rounds of Shwedagon complex.
 
@@ -192,7 +195,7 @@ The next day we got up and packed our luggage. We had initially thought of takin
 We reached the airport and parted ways. Parul's flight was at 3 PM and mine at 7 later in the evening. I had not booked a return flight initially and planned a return journey to India later. Parul was going to return to Delhi and I would be going to Chennai and then to Pune. I worked in a coffee shop next to the airport entrance. I ordered some butter toast, coffee and eggs which were quite nice.
 
 <p class="postimg">
-	<src="https://farm8.staticflickr.com/7429/26502906243_f178fdbe1b.jpg" alt="butter-toast-eggs-coffee">
+	<img src="https://farm8.staticflickr.com/7429/26502906243_f178fdbe1b.jpg" alt="butter-toast-eggs-coffee">
 	<em>Butter toast at the airport cafe</em>
 </p>
 
