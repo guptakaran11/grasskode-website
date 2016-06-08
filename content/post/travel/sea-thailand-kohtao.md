@@ -196,7 +196,7 @@ Then we put on the scuba equipment and went to the shallower waters near the bea
 </p>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/27468549541/in/album-72157666872606333/" title="P5280191"><img src="https://c6.staticflickr.com/8/7669/27468549541_865df1e7d8.jpg" width="500" height="281" alt="P5280191"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/27548992185/in/album-72157666872606333/" title="diveboat-vid"><img src="https://c2.staticflickr.com/8/7791/27548992185_4f8cf3e541.jpg" width="500" height="281" alt="diveboat-vid"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>Roughing it out</em>
 </p>
 
