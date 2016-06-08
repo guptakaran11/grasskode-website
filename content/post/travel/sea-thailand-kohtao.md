@@ -1,7 +1,7 @@
 +++
 categories = ["blog", "travel", "backpacking"]
 date = "2016-06-08T23:37:41+07:00"
-image = "https://c2.staticflickr.com/8/7248/27468364041_a5a264e02e_c.jpg"
+image = "https://c4.staticflickr.com/8/7295/26932167963_5f97cd5537_c.jpg"
 tags = ["backpacking", "south east asia", "thailand", "koh tao", "diving"]
 title = "SEA Chronicles - Koh Tao"
 toc = true
