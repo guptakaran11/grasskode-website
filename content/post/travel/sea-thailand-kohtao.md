@@ -312,3 +312,11 @@ I looked around and realised that I was the only tourist there. I wondered why p
 </p>
 
 Around 21:30, the staff ushered us into the bus and we drove out to the main highway where another bus was waiting for us. The American girl with the suitcase had a new suitor now, a French guy, whom she was telling about her spring breaks. The new bus was coming from further south and was already more or less full. I was the last one to board the bus so the seats were limited in choice. I got one that did not recline but then the seat next to mine was empty so I spread out horizontally. The bus made a small stop for dinner and then went on to Bangkok. The roads were smooth and well made and the bus was comfortable. I slept a good sleep despite the weird angle that my neck was dangling in.
+
+<hr />
+
+Whether you enjoyed the post or not, do leave a comment!
+
+And here is the complete album of the Koh Tao leg of the trip.
+
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157666872606333" title="Koh Tao, May 2016"><img src="https://c6.staticflickr.com/8/7464/27540779885_3c0008b518.jpg" width="500" height="376" alt="Koh Tao, May 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
