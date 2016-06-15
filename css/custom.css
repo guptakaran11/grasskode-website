@@ -12,6 +12,22 @@ article.single .article-body h2 {
   word-break: normal;
 }
 
+article.li {
+	margin-top: 1rem;
+}
+
+article.li time {
+	font-size: 0.8rem;
+}
+
+article.li .image {
+	height: 18rem;
+}
+
+article.li .summary {
+	word-break: break-word;
+}
+
 .unscaledimg { 
 	margin: 10px 0 10px 0;
 }
