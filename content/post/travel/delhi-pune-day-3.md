@@ -2,7 +2,7 @@
 categories = ["blog", "travel", "roadtrip"]
 date = "2016-02-22T01:03:10+05:30"
 title = "Day 3 - Delhi to Pune Roadtrip"
-tags = ["travel", "india", "roadtrip", "biking", "madhya pradesh", "bheemkund", "mythology"]
+tags = ["india", "biking", "madhya pradesh", "culture"]
 image = "https://farm2.staticflickr.com/1627/24821392659_7bb8828daf.jpg"
 series = "Delhi to Pune Roadtrip"
 +++

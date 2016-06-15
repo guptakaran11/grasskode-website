@@ -2,7 +2,7 @@
 categories = ["blog", "travel", "roadtrip"]
 date = "2016-02-22T01:04:10+05:30"
 title = "Finale - Delhi to Pune Roadtrip"
-tags = ["travel", "india", "roadtrip", "biking", "madhya pradesh", "sanchi", "stupa", "buddhism", "history", "breakdown"]
+tags = ["india", "biking", "madhya pradesh", "temple", "buddhism", "history"]
 image = "https://farm2.staticflickr.com/1486/25162854746_7f3177940d.jpg"
 series = "Delhi to Pune Roadtrip"
 toc = true

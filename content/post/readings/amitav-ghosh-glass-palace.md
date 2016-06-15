@@ -2,7 +2,7 @@
 categories = ["book review"]
 date = "2016-03-29T20:15:09+05:30"
 image = "images/books.jpg"
-tags = ["books", "burma", "history", "fiction"]
+tags = ["burma", "history", "fiction"]
 title = "Amitav Ghosh - The Glass Palace"
 toc = false
 

@@ -2,7 +2,7 @@
 categories = ["blog", "travel", "backpacking"]
 date = "2016-03-25T11:03:25+05:30"
 image = "https://farm2.staticflickr.com/1487/25933364611_451ae275f6_c.jpg"
-tags = ["backpacking", "burma", "myanmar", "asia", "irrawaddy river cruise", "mandalay", "mingun", "innwa", "street food"]
+tags = ["burma", "myanmar", "irrawaddy", "history", "city"]
 title = "Mandalay - Three Weeks in Burma"
 toc = true
 series = "Three Weeks in Burma"

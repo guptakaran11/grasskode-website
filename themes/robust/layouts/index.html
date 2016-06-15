@@ -5,9 +5,9 @@
 
       <div class="articles">
         <div class="row">
-          {{ $paginator := .Paginate (where .Data.Pages "Type" "post") .Site.Params.indexPageSize }}
+          {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
           {{ range $key, $value := $paginator.Pages }}
-            <div class="col-sm-6">
+            <div class="col-sm-11">
               {{ .Render "li" }}
             </div>
           {{ end }}

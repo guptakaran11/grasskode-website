@@ -3,7 +3,7 @@ categories = ["blog", "travel", "backpacking"]
 date = "2016-05-19T10:37:57+05:30"
 title = "Yangon & Back - Three Weeks in Burma"
 image = "https://farm8.staticflickr.com/7185/27106870755_fc17f3e860.jpg"
-tags = ["backpacking", "burma", "myanmar", "asia", "yangon"]
+tags = ["burma", "myanmar", "city"]
 toc = true
 series = "Three Weeks in Burma"
 +++

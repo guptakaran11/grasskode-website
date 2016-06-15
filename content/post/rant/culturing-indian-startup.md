@@ -1,7 +1,7 @@
 +++
 date = "2016-05-29T07:41:26+05:30"
 commented_categories = ["blog", "rant", "startups"]
-commented_tags = ["startup culture", "workation", "mindtickle"]
+commented_tags = ["company culture", "mindtickle"]
 type = "draft"
 title = "Culturing the Indian Startup"
 image = ""

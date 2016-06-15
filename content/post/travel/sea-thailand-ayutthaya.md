@@ -1,7 +1,7 @@
 +++
 date = "2016-06-14T22:06:35+07:00"
 commented_categories = ["blog", "travel", "backpacking"]
-commented_tags = ["backpacking", "south east asia", "thailand", "ayutthaya", "history"]
+commented_tags = ["south east asia", "thailand", "history", "temples"]
 commented_series = "SEA Chronicles"
 type = "draft"
 title = "Ayutthaya - SEA Chronicles"
@@ -245,7 +245,7 @@ Back in the hostel I watched [The Hateful Eight](http://www.imdb.com/title/tt346
 
 ## Abrupt Ending
 
-I was not bitten during the night, at least none that I could make out. But I woke up to one of the girls talking on her phone with her parents. They were trying to figure out whether there were bugs in her bed or not. I later saw that her entire led was covered with bites. Anyway, the three guys in the dorm apart from her (myself included) assured her that there were bugs and she freaked out some more.
+I was not bitten during the night, at least none that I could make out. But I woke up to one of the girls talking on her phone with her parents. They were trying to figure out whether there were bugs in her bed or not. I later saw that her entire leg was covered with bites. Anyway, the three guys in the dorm apart from her (myself included) assured her that there were bugs and she freaked out some more.
 
 I went out to the balcony and saw that the sun was out. It had been an overcast few days thus far. That was when I suddenly decided to end my stay in Ayutthaya. I unpacked my luggage and inspected it thoroughly. I also went along the seams of the bag. Then I repacked everything and went to take another bath. Once I was done, I checked out and returned the bicycle. I managed to grab a bite at the chicken and rice joint that Bella had suggested the previous day. It was really good! Then I picked up my luggage and got out of the hostel. It had been a weird stay and I can still not make up my mind whether I loved it or dreaded it.
 

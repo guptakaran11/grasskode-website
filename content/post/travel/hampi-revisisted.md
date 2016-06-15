@@ -2,7 +2,7 @@
 categories = ["blog", "travel"]
 date = "2016-01-29T23:57:11+05:30"
 title = "Hampi Revisisted"
-tags = ["travel", "india", "karnataka", "hampi"]
+tags = ["india", "karnataka", "marathon", "hippie place", "temples", "history"]
 image = "images/hampi/hampi.jpg"
 toc = true
 +++

@@ -2,7 +2,7 @@
 categories = ["book review"]
 date = "2016-03-29T23:25:30+05:30"
 image = "images/books.jpg"
-tags = ["books", "mythology", "lgbt", "non-fiction"]
+tags = ["mythology", "lgbt", "non-fiction"]
 title = "Dr. Devdutt Pattanaik - Shikhandi and Other Stories They Don't Tell You"
 toc = false
 
