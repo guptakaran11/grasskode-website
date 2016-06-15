@@ -6,7 +6,7 @@ title = "grasskode"
 author = "Karan Gupta"
 copyright = "Copyright (c) 2016, Karan Gupta; some rights reserved."
 canonifyurls = true
-paginate = 5
+paginate = 4
 preserveTaxonomyNames = true
 
 [params]

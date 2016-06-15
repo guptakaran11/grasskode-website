@@ -20,12 +20,12 @@ article.li time {
 	font-size: 0.8rem;
 }
 
-article.li .image {
-	height: 18rem;
-}
-
 article.li .summary {
 	word-break: break-word;
+}
+
+.sidebar {
+	padding: 2rem;
 }
 
 .unscaledimg { 

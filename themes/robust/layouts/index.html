@@ -7,7 +7,7 @@
         <div class="row">
           {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
           {{ range $key, $value := $paginator.Pages }}
-            <div class="col-sm-11">
+            <div class="col-sm-6">
               {{ .Render "li" }}
             </div>
           {{ end }}
@@ -18,7 +18,7 @@
 
     </div>
 
-    <div class="col-sm-3">
+    <div class="col-sm-3 sidebar">
       {{ partial "sidebar.html" . }}
     </div>
 
