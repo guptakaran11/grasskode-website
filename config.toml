@@ -36,10 +36,14 @@ preserveTaxonomyNames = true
 	weight = -107
 	url = "/series/"
 [[menu.main]]
-	name = "About"
+	name = "Tags"
 	weight = -106
+	url = "/tags/"
+[[menu.main]]
+	name = "About"
+	weight = -105
 	url = "/about/"
 [[menu.main]]
 	name = "License"
-	weight = -105
+	weight = -104
 	url = "/license/"
