@@ -7,6 +7,7 @@ author = "Karan Gupta"
 copyright = "Copyright (c) 2016, Karan Gupta; some rights reserved."
 canonifyurls = true
 paginate = 6
+preserveTaxonomyNames = true
 
 [params]
     indexPageSize = 6
@@ -16,6 +17,7 @@ paginate = 6
 [taxonomies]
 	category = "categories"
     tag = "tags"
+    series = "series"
 
 [[menu.main]]
 	name = "Home"
@@ -30,10 +32,14 @@ paginate = 6
 	weight = -108
 	url = "/categories/"
 [[menu.main]]
-	name = "About"
+	name = "Series"
 	weight = -107
+	url = "/series/"
+[[menu.main]]
+	name = "About"
+	weight = -106
 	url = "/about/"
 [[menu.main]]
 	name = "License"
-	weight = -106
+	weight = -105
 	url = "/license/"

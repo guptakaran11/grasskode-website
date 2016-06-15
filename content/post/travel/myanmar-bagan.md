@@ -5,7 +5,7 @@ title = "Bagan - Three Weeks in Burma"
 image = "https://farm2.staticflickr.com/1608/25089325403_32730b0814_c.jpg"
 tags = ["backpacking", "burma", "myanmar", "asia", "aung mingalar", "bagan", "pagodas", "temples"]
 toc = true
-
+series = "Three Weeks in Burma"
 +++
 
 Parul and I decided to visit Burma / Myanmar for a vacation in late February 2016. We ended up getting three full weeks to travel the beautiful country. In a country like Myanmar that has a rapidly evolving tourism industry, I intend to fill the gaps that I found while trying to plan a trip myself. That and a first hand narrative of the wonderful experiences that we have had.

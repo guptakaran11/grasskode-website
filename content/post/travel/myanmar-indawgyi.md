@@ -5,7 +5,7 @@ title = "Indawgyi Lake - Three Weeks in Burma"
 image = "https://farm2.staticflickr.com/1507/26098528790_472e562d68_c.jpg"
 tags = ["backpacking", "burma", "myanmar", "asia", "lake", "nature"]
 toc = true
-
+series = "Three Weeks in Burma"
 +++
 
 Parul and I decided to visit Burma / Myanmar for a vacation in late February 2016. We ended up getting three full weeks to travel the beautiful country. In a country like Myanmar that has a rapidly evolving tourism industry, I intend to fill the gaps that I found while trying to plan a trip myself. That and a first hand narrative of the wonderful experiences that we have had.
@@ -29,7 +29,7 @@ The man nodded. "Yes. C1. Seats 3 and 4."
 
 He pointed to the pillow and sheets on the seats and then pulled one of the seats demonstrating how it could be reclined to make a bed. Then he went away. This might have been an old coach that had been assigned to us. Or it might have been an upper class seater. There was no way to know what had happened that led to us getting such derelict seats. There was nothing printed on the outside of the coach to tell us whether it was a sleeper or an upper class. I went back to the gate to check if there was a possibility to get our seats changed to one of the other coaches. In response, another gentleman came back to my coach and patiently explained how the seats could be pulled to make a bed. It was not worth the effort. A couple of police officers also boarded our coach and checked our tickets for a suspiciously long time before handing it back and leaving. The entire episode was taking a rather perplexing angle.
 
-> Myanmar Tip #7
+> **Myanmar Tip #7**
 
 > If you are travelling north by sleeper train, make sure you are not allocated the C1 coach. Anything else would be better!
 
@@ -180,7 +180,7 @@ I turned back after this village and started pedaling back. The heat was getting
 
 The people of Lonton were, in Parul's words, *brutally honest*. Due to lack of coordination, Parul and I had ended up paying twice for my bike to two different people at Inn Chit Thu. When we went back to check about the mistake, the girl whom Parul had paid, Su, immediately returned the money without being asked for it and apologised for the mix up. I also found my jacket in the restaurant where I had left it the previous night while we were having beers. Despite the poverty, the people of Lonton, and Burma in general, were extremely honest and hard working. I rarely came across vendors who charged us a premium for being tourists. I heard some stories, but even those were limited to the usual swindling for services. Nothing in Myanmar had a fixed price tag to it and nowhere did I seem to have paid an unreasonable sum of money for anything, no matter how remote the location.
 
-> Myanmar Tip #8
+> **Myanmar Tip #8**
 
 > Myanmar is one of the safer countries. Despite the poverty, the Buddhist philosophy coupled with the immensely strict punishments, even for petty crimes, tend to keep crime at bay. Even common swindling and overcharging is rare to encounter.
 
@@ -231,7 +231,7 @@ We woke up early and packed up. Today was the beginning of another long journey.
 
 The ride back to Hopin was not as comfortable as the bike ride but the price difference was considerable. It took one and a quarter hour to reach Hopin and the pickup dropped us right in front of the ticket counter. We walked up to it and asked for two tickets in the sleeper train that was due later in the day. Griffin, the guy in the other group, said that he would also take a ticket in the same train. He was Canadian and the girls were American. The girls took the 12 o'clock train to Katha. We got our three tickets in the sleeper coaches, making sure that they did not assign us the C1 coach this time! Then we parted ways with the other group telling them that we'd see them around. Then we went looking for the *batura* like bread that Parul seemed to have developed a craving for.
 
-> Myanmar Tip #9
+> **Myanmar Tip #9**
 
 > When taking the train on less popular routes, make sure you get your days right. On the northern route there is just one sleeper that runs on alternate days. It is basically the same train that goes up and down the route.
 
@@ -257,7 +257,7 @@ We were escorted to our coach once again. It was C5 this time around. We were gi
 
 In the morning we stayed lying in the berths long after we had gotten up. We got some breakfast at Shwebo and soon after, the train was pulling up in Mandalay's railway station. We had reached by 12 noon, well before we had thought we would. We got our luggage and left the cabin. I realised much later that I had forgotten my jacket in the cabin buried in a corner with the blankets.
 
-> Pro Tip #4
+> **Pro Tip #4**
 
 > Do not unnecessarily keep things handy. Anything that you do not require immediately, put it inside the bag.
 
@@ -265,7 +265,7 @@ We parted ways with Griffin. He went to arrange for his onwards journey to Yango
 
 We killed time till 5:30 in the evening hopping from one place to another. We had some good barbecue, drank some beer, had some dessert and ice cream. We were also running low on cash and I tried the KBZ ATM nearby. There seemed to be some "connection problem". Around 5:45 PM, a cab picked us up at the booking office and took us to the main bus stand : **Chan Mya Shwe Pyi Bus Station**. This was a huge bus station and we immediately regretted our decision against coming here earlier. We might have gotten a direct bus to Nyaung Shwe after all. 
 
-> Pro Tip #5
+> **Pro Tip #5**
 
 > If you do not have reservation, try booking your tickets from the main station. You get more options and it is not that big a task.
 

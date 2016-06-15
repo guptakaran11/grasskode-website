@@ -5,8 +5,8 @@
 
       <header class="title"><h1>{{ .Title }}</h1></header>
 
-      {{ range $key, $value := .Data.Terms }}
-      <a href="/{{ $.Data.Plural }}/{{ $key | urlize }}/" class="{{ $.Data.Singular }}">{{ $key }}</a>
+      {{ range $key, $value := .Data.Terms.ByCount }}
+      <a href="/{{ $.Data.Plural }}/{{ $value.Name | urlize }}/" class="{{ $.Data.Singular }}">{{ $value.Name }}</a>
       <br/>
       {{ end }}
 

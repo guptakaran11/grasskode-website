@@ -4,6 +4,7 @@ date = "2016-02-22T01:02:10+05:30"
 title = "Day 2 - Delhi to Pune Roadtrip"
 tags = ["travel", "india", "roadtrip", "biking", "madhya pradesh", "panna tiger reserve", "safari"]
 image = "https://farm2.staticflickr.com/1680/24821217219_b36eb9e51b_z.jpg"
+series = "Delhi to Pune Roadtrip"
 +++
 
 This post is about the second day of my road trip from Delhi to Pune via Madhya Pradesh. Read about Day 1 [here](/post/delhi-pune-day-1/).

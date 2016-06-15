@@ -5,6 +5,7 @@ title = "Day 1 - Delhi to Pune Roadtrip"
 tags = ["travel", "india", "roadtrip", "biking", "madhya pradesh", "yamuna expressway", "batesara", "jhansi"]
 image = "https://farm2.staticflickr.com/1478/24558083584_fc44cac6db_z.jpg"
 toc = true
+series = "Delhi to Pune Roadtrip"
 +++
 
 ## The Plan

@@ -1,11 +1,11 @@
 +++
-categories = ["blog", "travel", "backpacking"]
 date = "2016-06-08T23:37:41+07:00"
-image = "https://c4.staticflickr.com/8/7295/26932167963_5f97cd5537_c.jpg"
+categories = ["blog", "travel", "backpacking"]
 tags = ["backpacking", "south east asia", "thailand", "koh tao", "diving"]
+series = "SEA Chronicles"
 title = "Koh Tao - SEA Chronicles"
+image = "https://c4.staticflickr.com/8/7295/26932167963_5f97cd5537_c.jpg"
 toc = true
-
 +++
 
 It seems like I have been planning a solo backpacking trip overseas for ages now. I like travelling alone for various reasons. I guess that's just the loner in me wanting some time for himself. I have travelled in India alone to quite a few places which is pretty great in itself. In a country like India, with so diverse a culture and such different landscapes, one can travel the world within the country. But the urge to make an overseas trip was fuelled mostly by a curiosity which came into being at a time I had never been abroad. However, there were many factors to overcome.
@@ -18,9 +18,9 @@ After years of trying, I finally understood that I was doing it all wrong. I cou
 
 I was taking a train from Pune to Chennai and flying out from there. AirAisa offers super cheap tickets to Bangkok from Chennai. My eventual destination was to Surat Thani after a brief layover and then to Koh Tao, a small island known as a diving heaven.
 
->> SEA Tip #1
+> **SEA Tip #1**
 
->> The cheapest flights from India to South East Asia are from Chennai. Usually Air Asia.
+> The cheapest flights from India to South East Asia are from Chennai. Usually Air Asia.
 
 <p class="postimg">
 	<img src="https://c5.staticflickr.com/8/7192/26931433324_3898d1f636.jpg" alt="pune-railway-station">
@@ -33,9 +33,9 @@ Getting from Chennai Central to the airport is one of the easiest things to do. 
 
 I walked to the airport and got the CISF *jawan* to let me in. He complained, as usual, about it being too early but he took pity on me when I told him it was too hot to walk around. I settled myself on one of the seats and read the book till it was time to check in. The man at the check-in counter wanted to see a return ticket as well. I asked him why he needed that when I already had a visa. He told me it would be needed at emigration. Bullshit! It was not required at emigration. The emigration officer happily stamped my passport and did not give two cents about what tickets I had. It was the same in Thailand. These idiotic rules are enforced more by the flight companies than the immigration offices.
 
->> Pro Tip #4
+> **Pro Tip #4**
 
->> Be prepared to face ridiculous demands from airline counters. They will ask you to produce documents that are not required by the immigration departments. Sadly, there is no easy way around this problem.
+> Be prepared to face ridiculous demands from airline counters. They will ask you to produce documents that are not required by the immigration departments. Sadly, there is no easy way around this problem.
 
 My flight to Bangkok was uneventful. I slept some and read some. Then there was the layover in Bangkok for a few hours before I could board the flight to Surat Thani. It was early in the morning when I boarded and an hour later I had landed in Surat Thani. It was raining out here. I had not expected the rains this soon into my trip. I got my luggage and went out to get some USD exchanged and check the ferry options to Koh Tao. I also needed a local SIM. The exchange gave me a decent rate. I got 200 USD worth and then went to inquire at the **Songserm** counter. The lady told me that the bus was going to leave immediately and I would miss it if I were to waste time buying a SIM. I confirmed whether I would get one in Koh Tao and then bought a "joint ticket" for 850 THB. She quickly gave me the tickets and stuck a sticker on my shirt. Then I was ushered out to where the bus was standing. I chose a seat and the bus started immediately after. I tried catching up on some sleep but the air-conditioner was relentlessly breathing down my back. It was raining outside. The rains usually bring out the brooder in me. I thought about how what I was doing was so exciting and scary at the same time. I had no idea of what was going to happen in the next few days. It was radically different from how I had lived my life thus far. If my life was a book, I had just bleached all the upcoming chapters and picked up the pen. Of course I was scared. Of course I was excited.
 
@@ -57,9 +57,9 @@ I went out looking for a SIM card. Internet is one luxury that I would like to i
 
 I walked on towards **Sairee Beach**. There are a lot of taxis that can take you there but I prefer walking. Apart from the obvious health benefits, you get the flexibility of choosing which way to turn, stopping when you find something interesting and you see and absorb more than what you would in a taxi.
 
->> Pro Tip #5
+> **Pro Tip #5**
 
->> Walk as much as you can. It is healthy, saves you money and lets you absorb things that you would otherwise miss!
+> Walk as much as you can. It is healthy, saves you money and lets you absorb things that you would otherwise miss!
 
 There is a downside to walking though - you are not weatherproof. It was raining intermittently but the rains were light enough to let me walk on. There were diving schools all around. At Mae Haad, on the road to Sairee, at Sairee. It was too overwhelming to think of going some of them and talk around. How do I even choose which ones to talk to? So I left the activity for the following day and ate a Pad Thai from a street side stall. Sairee beach wasn't much in itself, specially since it was raining. But there were a lot of pubs all over the place. The place must really come alive at night!
 
@@ -97,9 +97,9 @@ I spent the rest of the day lounging on the beach. I wanted to get my 100 baht w
 
 I decided to head back to the hostel as the sun was going down. I roamed around for a bit with a bottle of Chang and a pack of sweet banana chips. Koh Tao is rather expensive but I guess half of the reason is because it's an island far from the mainland, the other half being the touristic nature of South Thailand. I walked around till the sun set and returned to the hostel after dark.
 
->> SEA Tip #2
+> **SEA Tip #2**
 
->> Everything is somewhat expensive in Koh Tao; lodging, food, even water. In fact, southern Thailand is more expensive because of it's touristic nature.
+> Everything is somewhat expensive in Koh Tao; lodging, food, even water. In fact, southern Thailand is more expensive because of it's touristic nature.
 
 <p class="postimg">
 	<img src="https://c4.staticflickr.com/8/7300/27468470971_771afb2afc.jpg" alt="ao-leuk-walk-6">
@@ -212,7 +212,7 @@ The first dive site was Junkyard, straight off Sairee Beach. Emile told us that 
 
 The next dive site was Three Rocks. This one was off Jansom Bay, the private beach that I had trespassed a couple of days ago. We went in and I sunk faster than I should have. I hit the bottom of beautiful corals and tried making myself buoyant. This site was much shallower and the sunny day meant excellent visibility. It was like walking through a beautiful garden of corals and colourful fishes. It was a visual treat! There were some really cool fishes as well : a **[blue spotted stingray](https://upload.wikimedia.org/wikipedia/en/6/61/Blue_spotted_stingray_NTB.jpg)**, a **[barracuda](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Barracuda_laban.jpg/640px-Barracuda_laban.jpg)**, **[crocodile needlefish](https://upload.wikimedia.org/wikipedia/commons/8/8c/Tylosurus_crocodilus_crocodilus_R%C3%A9union.jpg)** and many more that I could not identify. It is also possible to spot the island's turtle here. It is a big **Hawksbill Turtle** but unfortunately we did not see it.
 
->> No, I don't have underwater shots because I was learning to dive. That took all my concentration.
+> No, I don't have underwater shots because I was learning to dive. That took all my concentration.
 
 We reached back by two in the afternoon. I cleaned all the equipment and went back to the hostel. I did some laundry and since it was too hot to sit in the common room, decided to go find a cafe to work in. I ended up walking mindlessly like I always do and did another tiring climb to reach the top of **Sai Daeng** beach. There was an excellent view of the beach and **Shark Island** up ahead but I did not go down since my tired mind could not digest the idea of climbing up again. I went back down the way I had come and sat in a small cafe to rest my tired legs. Walking after diving is not really the brightest of ideas.
 
@@ -258,9 +258,9 @@ I was happily tired and feeling accomplished. I ate some roast duck and rice at 
 
 I was planning to leave by the night boat to Bangkok today. I had decided on **Ayutthaya** as my next destination. Apparently Golden has the best rates for boats as well. It sells Songserm tickets at a rate lower than what Songserm sells it at its own office! I checked out the timings of the boats and found out that the afternoon boat would make more sense for me. I would reach Bangkok early next morning and could then proceed to Ayutthaya. However, the tickets for that day were sold out. Wonderful! There were no people on the island but the boat was full. I booked a ticket for the next day and came back to the hostel to extend my stay by a day.
 
->> SEA Tip #3
+> **SEA Tip #3**
 
->> The joint tickets sold by the boat companies in Thailand are good value for money. But do ask around for the best price.
+> The joint tickets sold by the boat companies in Thailand are good value for money. But do ask around for the best price.
 
 I played Jenga with Koko for a bit and then we headed out to get some food from Tukta. Koko had spray painted her bike with matte black that morning and it had come out really cool. Kevin and Koko made friends while we were waiting for the food at Tutka. Then we got some fresh juice and headed back to the hostel to eat the food.
 

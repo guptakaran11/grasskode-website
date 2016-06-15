@@ -5,7 +5,7 @@ title = "Inle Lake - Three Weeks in Burma"
 image = "https://farm8.staticflickr.com/7524/26290489963_a88dbdf4b6_c.jpg"
 tags = ["backpacking", "burma", "myanmar", "asia", "lake", "nature"]
 toc = true
-
+series = "Three Weeks in Burma"
 +++
 
 Parul and I decided to visit Burma / Myanmar for a vacation in late February 2016. We ended up getting three full weeks to travel the beautiful country. In a country like Myanmar that has a rapidly evolving tourism industry, I intend to fill the gaps that I found while trying to plan a trip myself. That and a first hand narrative of the wonderful experiences that we have had.
@@ -20,13 +20,13 @@ We reached Shwenyaung in the dead of the night. The bus dropped us at the turnin
 
 We told our cab driver that we needed to stop at an ATM. Turned out that the closest one was in town. We were running really low on cash but due to lack of options we took the cab anyway and it started in the direction of Nyaung Shwe. We stopped at the entry ticket booth for Inle Lake. The price was 25000 MMK per person. I doubt we had that many kyats on us so I asked for a USD quote. 10 dollars per person. I remembered reading a post online that mentioned a 5 USD entry fee less than a year ago! This spoke of the pace at which Myanmar was seeing tourist action. I tried the bill that was rejected when I tried to use it for the Irrawaddy ferry. Worked! Seemed like the ticketing booths were less finicky about the dollar bills they would accept.
 
-> Myanmar Tip #10
+> **Myanmar Tip #10**
 
 > The ticketing booths are less finicky about the dollar bills that they accept. Don't be shy about trying your luck with previously rejected dollars.
 
 We went straight to the ATM in town. Another KBZ with a similar problem. Then we tried another ATM : **AGD Bank**. This one threw a more cryptic error. We decided (or were forced) to give up our attempts for the day. Maybe the problem would be solved when we woke up in the morning. We did a quick check of the amount we had. We had just about enough to pay the driver so we asked him to take us to the guest house. He took us to **Lady Princess Hotel** and rang the bell. The receptionist woke up and showed us to the room. It looked okay and she was not charging us an extra night for arriving so early. We booked the room for a night despite the horrible USD - Kyat conversion rate she was quoting. Anyway, we settled down in the room. It was a small room with twin beds. The place did not have doubles. Parul was exhausted and went to sleep. I stayed up for a while trying to upload pictures for the blog post. The internet was HORRIBLE!
 
-> Myanmar Tip #11
+> **Myanmar Tip #11**
 
 > It is usually economical to pay in dollars for hotels and guest houses. Unless it is extremely uncomfortable, you might want to carry good looking dollars in profusion.
 
@@ -156,7 +156,7 @@ The boat ride was much better than I had anticipated. I had expected a quick tou
 	<em>Our expert boatman</em>
 </p>
 
-> Myanmar Tip #12
+> **Myanmar Tip #12**
 
 > The Indein market is a pretty good place to get things in one place at competitive prices. Although if you are looking for quality, it is way better in the specialized workshops. If you want the usual souvenirs though, even the Nyaung Shwe market will suffice.
 

@@ -3,7 +3,8 @@ categories = ["blog", "travel", "roadtrip"]
 date = "2016-02-22T01:03:10+05:30"
 title = "Day 3 - Delhi to Pune Roadtrip"
 tags = ["travel", "india", "roadtrip", "biking", "madhya pradesh", "bheemkund", "mythology"]
-image = "https://farm2.staticflickr.com/1627/24821392659_7bb8828daf.jpg"	
+image = "https://farm2.staticflickr.com/1627/24821392659_7bb8828daf.jpg"
+series = "Delhi to Pune Roadtrip"
 +++
 
 This post is about the third day of my road trip from Delhi to Pune via Madhya Pradesh. Read about Day 2 [here](/post/delhi-pune-day-2/).

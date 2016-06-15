@@ -1,8 +1,8 @@
 +++
 categories = []
-title = ""
 tags = []
+type = "draft"
+title = ""
 image = ""
 toc = false
-draft = true
 +++

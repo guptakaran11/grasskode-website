@@ -2,6 +2,7 @@
 date = "2016-01-22T16:14:32+05:30"
 title = "About"
 description = "About the Site"
+type = "info"
 +++
 
 ## The Blog

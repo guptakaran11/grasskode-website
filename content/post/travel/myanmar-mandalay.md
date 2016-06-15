@@ -5,6 +5,7 @@ image = "https://farm2.staticflickr.com/1487/25933364611_451ae275f6_c.jpg"
 tags = ["backpacking", "burma", "myanmar", "asia", "irrawaddy river cruise", "mandalay", "mingun", "innwa", "street food"]
 title = "Mandalay - Three Weeks in Burma"
 toc = true
+series = "Three Weeks in Burma"
 +++
 
 Parul and I decided to visit Burma / Myanmar for a vacation in late February 2016. We ended up getting three full weeks to travel the beautiful country. In a country like Myanmar that has a rapidly evolving tourism industry, I intend to fill the gaps that I found while trying to plan a trip myself. That and a first hand narrative of the wonderful experiences that we have had.
@@ -81,7 +82,7 @@ After the tribal dance, we were treated to a musical skit. It seemed to be about
 
 Another very evidently drunk man offered us watermelon slices as we stood watching the ceremony. I took one in order not to be rude. He would demand money for it later but a rebuke from his wife would make him hasten to return me the money I offered.
 
-> Pro Tip #3
+> **Pro Tip #3**
 
 > Drunk men are simply drunk men, no matter where you are. Stay clear or deal politely, latter being more amusing.
 
@@ -167,7 +168,7 @@ We crossed the southern length of the walls, going further eastward and then tur
 
 The next site, however, changed our opinion a bit. This was the **Bagaya Monastery**. We were asked to purchase tickets here. This 10,000 MMK ticket was for the Mandalay archaeological zone and would take care of Amarapura and Mandalay Palace as well.
 
-> Myanmar Tip #3
+> **Myanmar Tip #3**
 
 > Always carry a good amount of cash on you when you go for sightseeing or are entering a new town. You never know when you might be asked to purchase a ticket, and they are rarely cheap!
 
@@ -337,7 +338,7 @@ At the bottom of the stairs we sat down at a small shop for some food and more s
 	<em>After; Burp!</em>
 </p>
 
-> Myanmar Tip #4 :
+> **Myanmar Tip #4**
 
 > Always wait for your ordered dishes to be laid out before you order more. You never know how many complimentary dishes might be on the way!
 
@@ -357,7 +358,7 @@ We approached Kuthodaw from the east and seeing an entrance, parked our bikes th
 
 While Parul took photos, I went to the Western gate to collect our footwear since we would leave for the next site by foot from the southern entrance.
 
-> Myanmar Tip #5
+> **Myanmar Tip #5**
 
 > Whenever you can, carry your footwear along inside a pagoda. Though letting it be on an entrance is usually safe, you might not want to leave from the same entrance that you came in. Also, carrying a plastic bag to keep the footwear in makes it easier to handle.
 
@@ -418,7 +419,7 @@ Towards the evening we walked till the **Jewelery Market**, only to find it clos
 
 We could see an EPL match starting as we passed some of the joints; Arsenal vs. Tottenham Hotspur. Today promised to be a lively night. Myanmar loves it's football, especially the English Premiere League. We decided to go sit in a beer station near our new hotel. This was **Shwe Lat Yar Beer Station** on the junction of 82nd and 31st streets.
 
-> Myanmar Tip #6
+> **Myanmar Tip #6**
 
 > Mandalay and Yangon are well planned cities. Just the street number is usually enough to get you around in downtown.
 

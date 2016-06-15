@@ -1,12 +1,5 @@
 <aside class="site">
 
-  <!-- {{ if and .IsPage (eq .Params.toc true) }}
-  <div class="section">
-    <header><div class="title">Table Of Contents</div></header>
-    <div class="list-default">{{ .TableOfContents }}</div>
-  </div>
-  {{ end }} -->
-
   {{ if ne (len .Site.Menus) 0 }}
   <div class="section menu">
     <header><div class="title">Menu</div></header>
@@ -33,11 +26,11 @@
   </div>
   {{ end }}
 
-  <div class="section">
-    <header><div class="title">Latest Posts</div></header>
+  <div class="section taxonomies">
+    <header><div class="title">Series</div></header>
     <div class="content">
-      {{ range first 5 .Site.Pages }}
-        <div class="sm">{{ .Render "li" }}</div>
+      {{ range first 10 .Site.Taxonomies.series.ByCount }}
+        <a href="/series/{{ .Name | urlize }}">{{ .Name }} ({{ .Count }})</a>
       {{ end }}
     </div>
   </div>
@@ -50,14 +43,5 @@
       {{ end }}
     </div>
   </div>
-
-  <!-- {{ range $key, $value := .Site.Taxonomies }}
-  <div class="section taxonomies">
-    <header><div class="title">{{ $key | singularize }}</div></header>
-    <div class="content">
-      {{ range first 10 $value.ByCount }}<a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}">{{ .Name }}</a>{{ end }}
-    </div>
-  </div>
-  {{ end }} -->
 
 </aside>

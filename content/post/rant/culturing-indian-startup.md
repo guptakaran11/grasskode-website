@@ -1,12 +1,11 @@
 +++
-categories = ["blog", "rant", "startups"]
 date = "2016-05-29T07:41:26+05:30"
-draft = true
+commented_categories = ["blog", "rant", "startups"]
+commented_tags = ["startup culture", "workation", "mindtickle"]
+type = "draft"
 title = "Culturing the Indian Startup"
 image = ""
-tags = ["startup culture", "workation", "mindtickle"]
 toc = false
-
 +++
 
 On the culture (or lack of it) in Indian startups.
