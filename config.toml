@@ -10,6 +10,7 @@ paginate = 4
 preserveTaxonomyNames = true
 
 [params]
+	maxPostsPerPage = 10
     disqusShortname = "grasskodexyz"
 	GoogleAnalyticsUserID = "UA-73062996-1"
 
