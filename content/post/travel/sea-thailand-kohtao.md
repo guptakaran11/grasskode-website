@@ -14,6 +14,8 @@ For one, Indians rarely "travel". I had never known anyone personally who did. T
 
 After years of trying, I finally understood that I was doing it all wrong. I could not make plans and sit around waiting for things to fall in place. I needed to be more proactive than that. There were a lot of odds to fight against but as always, there is always a way out if you **REALLY** want one. So I quit my job in the August of 2015, travelled India on budget, got married as well (why not?), travelled more within the country, went for a three week backpacking trip in Myanmar with my newly acquired wife, learnt how to swim and then took off for a trip through South East Asia like I had always wanted to. I was dismissive of all deterring arguments. I cared not what was happening to me or around me. This trip was all that mattered right now.
 
+<hr />
+
 ## Getting to Koh Tao
 
 I was taking a train from Pune to Chennai and flying out from there. AirAisa offers super cheap tickets to Bangkok from Chennai. My eventual destination was to Surat Thani after a brief layover and then to Koh Tao, a small island known as a diving heaven.

@@ -12,6 +12,8 @@ It seems like I had been planning a solo backpacking trip overseas for ages. In 
 
 This is about when I got to Ayutthaya, a small town 80 kilometers north of Bangkok.
 
+<hr />
+
 ## Reaching Ayutthaya
 
 The bus reached Bangkok at 5:30 AM just as promised. I was somewhat relieved that it wasn't earlier than expected as we had consistently experienced in Myanmar. It is no fun to catch an overnight bus that drops you off in the middle of the night. Bangkok was humid and the wet roads spoke of recent showers. The sun had crossed the horizon but was struggling to break free of the clouds that cluttered all around it. I wasn't complaining. I walked up to the bus stand that was supposed to get me a bus till Hua Lampong Railway Station.
