@@ -5,7 +5,7 @@ tags_commented = ["south east asia", "thailand", "city", "nightlife"]
 series_commented = "SEA Chronicles"
 type = "draft"
 title = "Bangkok - SEA Chronicles"
-image = "https://c1.staticflickr.com/8/7310/27823570392_ec78d54ded.jpg"
+image = "https://c2.staticflickr.com/8/7392/27311966953_7dfd2a8fed_c.jpg"
 toc = true
 +++
 
