@@ -173,7 +173,7 @@ The common room slowly cleared out and once again I was the last one to leave. A
 
 Happy that I had been bitten just twice in the last night, I decided to extend the stay in this hostel. But part of the reason was that I was lazy to find another place for a couple of days.
 
-> **Pro Tip #6**
+> **Pro Tip #8**
 
 > If bugged, leave as soon as possible. That's the only way to deal with bed bugs. Check your clothes or heat dry them as soon as you can, take hot water showers yourself and get the hell out!
 
@@ -266,7 +266,7 @@ I could not find a *tuk-tuk* so I started walking. After a while, one stopped an
 
 Whether you enjoyed the post or not, do leave a comment!
 
-Previous posts in this series :
+Previous posts in this [series](/series/sea-chronicles) :
 
 * [Koh Tao](/post/travel/sea-thailand-kohtao)
 

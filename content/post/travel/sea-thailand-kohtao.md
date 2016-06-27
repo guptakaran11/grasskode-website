@@ -35,7 +35,7 @@ Getting from Chennai Central to the airport is one of the easiest things to do. 
 
 I walked to the airport and got the CISF *jawan* to let me in. He complained, as usual, about it being too early but he took pity on me when I told him it was too hot to walk around. I settled myself on one of the seats and read the book till it was time to check in. The man at the check-in counter wanted to see a return ticket as well. I asked him why he needed that when I already had a visa. He told me it would be needed at emigration. Bullshit! It was not required at emigration. The emigration officer happily stamped my passport and did not give two cents about what tickets I had. It was the same in Thailand. These idiotic rules are enforced more by the flight companies than the immigration offices.
 
-> **Pro Tip #4**
+> **Pro Tip #6**
 
 > Be prepared to face ridiculous demands from airline counters. They will ask you to produce documents that are not required by the immigration departments. Sadly, there is no easy way around this problem.
 
@@ -59,7 +59,7 @@ I went out looking for a SIM card. Internet is one luxury that I would like to i
 
 I walked on towards **Sairee Beach**. There are a lot of taxis that can take you there but I prefer walking. Apart from the obvious health benefits, you get the flexibility of choosing which way to turn, stopping when you find something interesting and you see and absorb more than what you would in a taxi.
 
-> **Pro Tip #5**
+> **Pro Tip #7**
 
 > Walk as much as you can. It is healthy, saves you money and lets you absorb things that you would otherwise miss!
 
