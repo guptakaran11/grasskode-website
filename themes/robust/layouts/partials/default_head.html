@@ -14,18 +14,18 @@
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ .Site.BaseURL }}/index.xml">
 
     {{ if eq .URL "/" }}
-    <title>{{ .Title }}</title>
-    <meta property='og:title' content="{{ .Title }}">
-    <meta property="og:type" content="website">
+        <title>{{ .Title }}</title>
+        <meta property='og:title' content="{{ .Title }}" />
+        <meta property="og:type" content="website" />
     {{ else }}
-    <title>{{ .Title }} - {{ .Site.Title }}</title>
-    <meta property='og:title' content="{{ .Title }} - {{ .Site.Title }}">
-    <meta property="og:type" content="article">
+        <title>{{ .Title }} - {{ .Site.Title }}</title>
+        <meta property='og:title' content="{{ .Title }} - {{ .Site.Title }}" />
+        <meta property="og:type" content="article" />
+        {{ with .Description }}<meta name="description" content="{{ . }}" />{{ end }}
+        <meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "images/default.jpg" | absURL }}{{ end }}" />
     {{ end }}
 
-    <meta property="og:url" content="{{ .Permalink }}">
-    {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
-    <meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "images/default.jpg" | absURL }}{{ end }}">
+    <meta property="og:url" content="{{ .Permalink }}" />
 
   </head>
 
