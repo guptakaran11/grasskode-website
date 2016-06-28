@@ -1,9 +1,8 @@
 +++
 date = "2016-06-26T21:49:15+07:00"
-categories_commented = ["blog", "travel", "backpacking"]
-tags_commented = ["south east asia", "thailand", "city", "nightlife"]
-series_commented = "SEA Chronicles"
-type = "draft"
+categories = ["blog", "travel", "backpacking"]
+tags = ["south east asia", "thailand", "city", "nightlife"]
+series = "SEA Chronicles"
 title = "Bangkok - SEA Chronicles"
 image = "https://c2.staticflickr.com/8/7392/27311966953_7dfd2a8fed_c.jpg"
 toc = true
@@ -62,7 +61,7 @@ At the end of the three hours she had filled herself up with *lichees* and I got
 
 ## Wandering
 
-I was sleeping much better in the new hostel. But I had to check out and check back in one this day. I had made two separate bookings because I decided to leave Ayutthaya so suddenly. Something about the lower and upper bunks but it wasn't too much of a hassle. I put my luggage in the common room and killed the two hours till the new check-in time by walking around the block. This was where everything was local. The food, the services. I came out on the main street and sat down in a famous roast duck place - **Prachak**. An excellent plate of duck and rice and a plate of Sui Mai to be had at pocket friendly rates. I would definitely return.
+I was sleeping much better in the new hostel. But I had to check out and check back in one this day. I had made two separate bookings because I decided to leave Ayutthaya so suddenly. So today I had to check out of the room and check back in two hours later at the appointed hour. I put my luggage in the common room and killed the two hours till the new check-in time by walking around the block. This was where everything was local. The food, the services. I came out on the main street and sat down in a famous roast duck place - **Prachak**. An excellent plate of duck and rice and a plate of Sui Mai to be had at pocket friendly rates. I would definitely return.
 
 <p class="postimg">
 	<img src="https://c1.staticflickr.com/8/7659/27646663400_ef26fd5c2e.jpg" alt="prachak-kevin">
@@ -73,7 +72,7 @@ I was sleeping much better in the new hostel. But I had to check out and check b
 
 > No matter what part of Bangkok you are in, there will always be good local food to be had. A little research can give you many options in your range of budget.
 
-I had been looking for a tattoo parlour and had messaged one of the [studios](https://www.facebook.com/ThaiBambooTattoo/) on Facebook. The artist replied and I told him I would come around later that evening to discuss the design in person. There I some things that I still feel uncomfortable deciding completely online. I walked to the riverside jetty and crossed to the other side for 3 THB. Bangkok has excellent public transportation. There are the buses, metro and skytrain, river ferries and *tuk-tuks*. For the more finicky, there are the taxis and Ubers as well. I, however, prefer walking.
+I had been looking for a tattoo parlour and had messaged one of the [studios](https://www.facebook.com/ThaiBambooTattoo/) on Facebook. The artist replied and I told him I would come around later that evening to discuss the design in person. There are some things that I still feel uncomfortable deciding completely online. I walked to the riverside jetty and crossed to the other side for 3 THB. Bangkok has excellent public transportation. There are the buses, metro and skytrain, river ferries and *tuk-tuks*. For the more finicky, there are the taxis and Ubers as well. I, however, prefer walking.
 
 <p class="postimg">
 	<img src="https://c1.staticflickr.com/8/7316/27646659840_f88afa2bb8.jpg" alt="river-ferry">
@@ -105,7 +104,7 @@ There were a few dishes I would have loved to try but they were exceeding my bud
 	<em>Noodle soup is always an efficient meal</em>
 </p>
 
-I decided to walk till the legendary **Khaosan Road (KSR)**. The roads suddenly turned uncomfortably deserted after Chinatown. The streetlights were bleak at best, the shops had their shutters down and the rare car's headlight blinded my field of vision. Bangkok has some dangerous stories associated with it and I walked with a fluttering feeling in my stomach despite the watch telling me it was just 8:30 PM. I dropped the idea of walking till KSR and thought that I would take the jetty there instead. It was close by I could see the **Grand Palace** on the way.
+I decided to walk till the legendary **Khaosan Road (KSR)**. The roads suddenly turned uncomfortably deserted after Chinatown. The streetlights were bleak at best, the shops had their shutters down and the rare car's headlight blinded my field of vision. Bangkok has some dangerous stories associated with it and I walked with a fluttering feeling in my stomach despite the watch telling me it was just 8:30 PM. I dropped the idea of walking till KSR and thought that I would take the jetty there instead. It was close by and I could see the **Grand Palace** on the way.
 
 The buildings changed in size and shape as I approached the Grand Palace. They were much more spread out and had the luxury of horizontal space. I fell in love with the low light shooting capacity of my [new camera](http://www.getolympus.com/us/en/tg-870.html) and clicked innumerable pictures of the lit up Grand Palace. The **Ministry of Defense**, quite unsurprisingly, had it's building right opposite to the palace.
 
