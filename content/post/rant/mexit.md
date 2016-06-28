@@ -21,7 +21,7 @@ I feel like Messi is a man who is trying desperately to swim against the current
 I feel sorry for Messi. No person should have to fight against all this. Nothing is worth all this shit. Right now he might seem like a sore loser but I think he would have retired even if they had won. He just wanted to prove a point and it is becoming more and more difficult for him to do so. Football is not a one man game. Even with the greatest team in the world, you cannot win if you don't have a functional support system. This includes fans and supporters as well. And it is not just Messi. Higuain was the top scorer in Serie A this season but is [still mocked](http://www.dailymail.co.uk/wires/ap/article-3661616/For-Argentinas-Higuain-missed-chances-Copa-final.html) in his country. That's harsh to say the least.
 
 <p class="postimg">
-	<img src="http://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/8680/production/_90123443_messi_back_afp.jpg" alt="messi-back"/>
+	<img src="/images/messi_back_afp.jpg" alt="messi-back"/>
 	<em>Hurts to see the big man fall [2]</em>
 </p>
 
