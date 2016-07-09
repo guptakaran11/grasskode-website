@@ -101,7 +101,7 @@ I walked back to the hostel and had my first **Pho Bo** on the way. It was super
 </p>
 
 
-## Sightseeing
+## Discovering Hanoi
 
 I slept till 10 in the morning. The dorm room was nice that way; quiet and dark enough to sleep in; no rush or noisy dorm-mates. But the place is seriously lacking in atmosphere. It is ridiculously named a "party hostel". I put on my clothes and went to the **Bun Cha** place I had seen the last night. I sat in one of the two adjacent stops and was served with loads of food!
 
