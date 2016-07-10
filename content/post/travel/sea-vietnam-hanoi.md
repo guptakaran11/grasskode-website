@@ -184,7 +184,7 @@ I walked out to get something to eat. There was a place that served good *Pho* n
 	<em>The pho</em>
 </p>
 
-I walked up to another part of the town which was known for it's night market. I had no idea what I was going to witness. I ran into the night life of the city. Literally every crossing was stuffed with *bia hois* that overspilled into the street. There was usually a street performance going on as well in the middle of the crossing. Rock music, jazz, traditional Vietnamese music, electronic beats, etc. There was a lane was dedicated to nightclubs. It was all completed unexpected for me!
+I walked up to another part of the town which was known for it's night market. I had no idea what I was going to witness. I ran into the night life of the city. Literally every crossing was stuffed with *bia hois* that overspilled into the street. There was usually a street performance going on as well in the middle of the crossing. Rock music, jazz, traditional Vietnamese music, electronic beats, etc. There was a lane dedicated to nightclubs. It was all completely unexpected for me!
 
 <p class="postimg">
 	<img src="https://c4.staticflickr.com/8/7436/28097865651_798f238937.jpg" alt="hanoi-nights-3">
@@ -197,7 +197,7 @@ Hanoi had seemed a very different city. An older man tapped on my shoulder and a
 
 <p class="postimg">
 	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/28107311351/in/album-72157670146706981/" title="hanoi-nightlife"><img src="https://c8.staticflickr.com/8/7713/28107311351_8290807496.jpg" width="500" height="281" alt="hanoi-nightlife"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-	<em>Living the night!</em>
+	<em>VIDEO : Living the night!</em>
 </p>
 
 <p class="postimg">
@@ -205,7 +205,7 @@ Hanoi had seemed a very different city. An older man tapped on my shoulder and a
 	<em>That's a traffic jam!</em>
 </p>
 
-I walked around the entire area twice, clicking pictures and absorbing it all in. Then I returned to the hostel which had died as I had expected. I worked in the room for a bit and then went down to the reception to see the Euro match. There were two others who came to see the game, the West Ham guy and an Irishman who worked in the hostel. Around the 70th or 80th minute another guy joined us after his late night out. He was a Swede who lived in Yangon. We exchanged some Myanmar stories. He also told be about his surprise at this married Indian man he had met in the club who was trying to score with some Vietnamese girls. I could just smile apologetically in reply. We talked about random things for the remainder of the match and then went up to our respective rooms.
+I walked around the entire area twice, clicking pictures and absorbing it all in. Then I returned to the hostel which had died as I had expected. I worked in the room for a bit and then went down to the reception to see the Euro match. There were two others who came to see the game, the West Ham guy and an Irishman who worked in the hostel. Around the 70th or 80th minute another guy joined us after his late night out. He was a Swede who lived in Yangon. We exchanged some Myanmar stories. He also expressed his surprise about a married Indian man he had met in a club who was trying to score with some Vietnamese girls. I could just smile apologetically in reply. We talked about random things for the remainder of the match and then went up to our respective rooms.
 
 
 ## Couchsurfing
@@ -254,7 +254,7 @@ After breakfast I decided to complete the pending sightseeing and went back to t
 	<em>West lake</em>
 </p>
 
-The first temple was **Den Quan Thanh**. There was a small fee of 10 kVND to go in. The temple looked empty but for two women who were sitting on a bench. As I clicked photos, they came to me asking whether I wanted my photograph clicked with the temple. I did not. Then she asked me if I wanted to buy postcards from her. She pushed a few in my hands and I went through them for a few seconds saying that I would consider after seeing the temple. She got pushy now, saying that she needed to go for lunch so I should buy immediately. But I said I would skip in that case. She claimed that I must buy because I looked at the postcards. I laughed and handed it back. Then the other woman asked me to buy something for some baby which I cannot see. I was not amused. They went away with the look that said I had ruined their day. Of course I had. The temple was a nice and quiet one apart from this one pushy saleswomen. There were hardly any tourists around. The temple had a few spooky looking golden statues in red light.
+The first temple was **Den Quan Thanh**. There was a small fee of 10 kVND to go in. The temple looked empty but for two women who were sitting on a bench. As I clicked photos, they came to me asking whether I wanted my photograph clicked with the temple. I did not. Then she asked me if I wanted to buy postcards from her. She pushed a few in my hands and I went through them for a few seconds saying that I would consider after seeing the temple. She got pushy now, saying that she needed to go for lunch so I should buy immediately. But I said I would skip in that case. She claimed that I must buy because I looked at the postcards. I laughed and handed it back. Then the other woman asked me to buy something for some baby which I cannot see. I was not amused. They went away with the look that said I had ruined their day. Of course I had. The temple was a nice and quiet one apart from this one pushy saleswoman. There were hardly any tourists around. The temple had a few spooky looking golden statues in red light.
 
 <p class="postimg">
 	<img src="https://c1.staticflickr.com/8/7325/27560534224_bb9b22e36e.jpg" alt="den-quan-tanh-1">
@@ -302,7 +302,7 @@ There was the legend of how Uncle Ho voyaged across the world and came to realis
 
 <p class="postimg">
 	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/28185213675/in/album-72157670146706981/" title="hcm-museum-typewriter"><img src="https://c4.staticflickr.com/8/7454/28185213675_ededc732d7.jpg" width="500" height="281" alt="hcm-museum-typewriter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-	<em>Spooky!</em>
+	<em>VIDEO : Spooky!</em>
 </p>
 
 I walked back to the Hoan Kiem Lake to find a lot of tourists around the bus stand. Just when I was wondering why the tourists were taking the bus, I saw that they were all headed to **Lotus Opera**. It was time for the **Water Puppet Show**. I debated whether to go for it but I was not in a condition to enjoy more touristy activities. A young man started talking to me at the bus stand. He was confused as to why I was standing at the bus stand. When I told him that I was waiting for the bus, he asked me whether I lived in Hanoi. The part where I was staying with Long was not one that tourists frequented. I tried explaining Couchsurfing to him but eventually gave up saying that it was like Facebook.
