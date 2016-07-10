@@ -3,7 +3,6 @@ date = "2016-07-08T11:36:20+07:00"
 categories = ["blog", "travel", "backpacking"]
 tags = ["south east asia", "vietnam", "city"]
 series = "SEA Chronicles"
-type = "draft"
 title = "Hanoi - SEA Chronicles"
 image = "https://c4.staticflickr.com/8/7716/28097849171_a803d0debc_c.jpg"
 toc = true
