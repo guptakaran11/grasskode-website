@@ -196,7 +196,7 @@ Just when I was thinking "Is this it?", I saw a board pointing to a staircase. I
 	<em>Temple : Level 2</em>
 </p>
 
-There was a passage going behind it that I supposed went around the temple and I decided to take a round. The path was somewhat dark and I heard muffled steps coming from the other end before seeing a girl emerge out of the darkness. Upon getting closer, I saw that the path actually led to a staircase that went up into the dark. Alright. I climbed up to the sounds of bats. It was **dark**! A real bat cave! 😄
+There was a passage going behind it that I supposed went around the temple and I decided to take a round. The path was somewhat dark and I heard muffled steps coming from the other end before seeing a girl emerge out of the darkness. Upon getting closer, I saw that the path actually led to a staircase that went up into the dark. Alright. I climbed up to the sounds of bats. It was **dark**! A real bat cave! 😜
 
 <p class="postimg">
 	<img src="https://c5.staticflickr.com/9/8036/28349776892_e2011791de.jpg" alt="bich-dong-5">
