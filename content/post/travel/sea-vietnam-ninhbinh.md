@@ -17,7 +17,7 @@ I left Hanoi for Ninh Binh, a small town two hours south of the capital, best kn
 
 ## Ninh Binh
 
-The bus dropped me 2 kilometers before the bus stop. They probably thought I wanted to go to Tam Coc, where most of the backpackers head. I was flustered but I had not yet mastered the art of conveying what I wanted to say in the lack of a common language. I would learn that later but for now, I was pushed out by the conductor with a reassuring smile that this was where I wanted to get off while I kept pointing straight ahead. Google Maps was not quick enough to load and I found myself looking the back of the bus as I figured out I would have to walk for the next twenty minutes to get to the hostel.
+The bus dropped me 2 kilometers before the bus stop. They probably thought I wanted to go to Tam Coc, where most of the backpackers head. I was flustered but I had not yet mastered the art of conveying what I wanted to say in the lack of a common language. I would learn that later but for now, I was pushed out by the conductor with a reassuring smile that this was where I wanted to get off while I kept pointing straight ahead. Google Maps was not quick enough to load and I found myself looking at the back of the bus as I figured out I would have to walk for the next twenty minutes to get to the hostel.
 
 It wasn't so bad despite the sultry heat and the hostel turned out to be a really nice one. I knew that it was the renovated old station building and that explained why it was so generously spacious and airy. The dorm room was alright with all the required facilities. Good choice! I saw a rare member of the pedigree Indian traveller while I was checking in. As is customary, we refused to acknowledge each other's existence and he was checking out of the hostel anyway so there was no need to fear a further interaction. Amusingly, we were introduced by a common friend on Facebook that very night! Sometimes you have to hand it over to the universe; it has an amazing sense of humour.
 
@@ -49,7 +49,7 @@ Not able to find interesting people in the hostel, I went walking once again in 
 
 <p class="postimg">
 	<img src="https://c7.staticflickr.com/9/8802/28422275886_70efdbd16b.jpg" alt="banh-xeo-nem-lui">
-	<em>Wrap and roll!</em>
+	<em>Banh xeo with nem lui - Wrap and roll!</em>
 </p>
 
 I then walked to the north-east of the town where a green patch on Google Maps seemed like an interesting destination to look up. And it was! It was a big park full of locals who were starting to pour in for their evening walks and jogs. The ill maintained park had a mini-zoo and swings as well. Seemed like the recreational hub of the town. There were some elderly women standing in a line and giving a back massage to the one in front. I found it extremely amusing but despite their candidness, could not muster the confidence to stand and point a camera at them. I had still not gotten used to taking photographs of strangers. I just shot a video while passing them.
@@ -211,7 +211,7 @@ There was a passage going behind it that I supposed went around the temple and I
 	<em>From the Bat Cave!</em>
 </p>
 
-I used the camera for some light since my phone was dead. The other side of the cave was another small temple and a path going further up. I climbed to yet smaller temple up there.
+I used the camera for some light since my phone was dead. The other side of the cave was another small temple and a path going further up. I climbed to a yet smaller temple up there.
 
 <p class="postimg">
 	<img src="https://c3.staticflickr.com/9/8775/28422309226_c0c249751b.jpg" alt="bich-dong-6">
