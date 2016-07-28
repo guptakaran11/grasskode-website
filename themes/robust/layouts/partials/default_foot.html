@@ -1,14 +1,6 @@
     </div>
 
     <footer class="site">
-        <p>
-        Connect with me :
-        <ul class="icons">
-            <li><a href="https://www.facebook.com/grasskode/"><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i></a></li>
-            <li><a href="https://www.instagram.com/grasskode/"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></li>
-        </ul>
-        </p>
-        
       <p>{{ with .Site.Copyright | safeHTML }}{{ . }}{{ else }}&copy; {{ $.Site.LastChange.Year }} {{ if isset $.Site.Params "Author" }}{{ $.Site.Params.Author }}{{ else }}{{ .Site.Title }}{{ end }}{{ end }} <a href="/license">License</a>.</p>
       <p>Powered by <a href="http://gohugo.io" target="_blank">Hugo</a> and <a href="https://github.com/dim0627/hugo_theme_robust" target="_blank">Robust</a>.</p>
     </footer>
