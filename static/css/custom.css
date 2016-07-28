@@ -1,5 +1,6 @@
 header.site {
-  padding: 0;;
+  margin-left: 30px;
+  padding: 0 20px;
 }
 
 header.site .title {
@@ -11,8 +12,8 @@ header.site .title a:hover {
 }
 
 .navbar-default {
-  margin: 30px 50px;
-  padding: 5px 50px;
+  margin: 30px;
+  padding: 5px 0;
   background-color: #fff;
   border-width: 0;
   border-color: #333;
