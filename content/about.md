@@ -3,6 +3,7 @@ date = "2016-01-22T16:14:32+05:30"
 title = "About"
 description = "About the Site"
 type = "info"
+comment = false
 +++
 
 ## The Blog
@@ -29,4 +30,4 @@ I am what I do and this entire blog is perhaps an attempt to answer that very qu
 - **Music**      : **BIG** fan of rock n' roll! Though I listen to anything and everything.
 - **Travel**     : But then that is the fad of the age...
 
-For more, browse through the posts. :)
+For more, browse through the posts. 🍻

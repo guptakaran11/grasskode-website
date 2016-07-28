@@ -12,7 +12,6 @@
         <meta itemprop="description" content="{{ .Summary }}">
         <meta itemprop="url" content="{{ .Permalink }}">
         <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-          <!-- <meta itemprop="url" content="{{ $.Site.BaseURL }}images/{{ with .Params.image }}{{ . }}{{ else }}default.jpg{{ end }}" /> -->
           <meta itemprop="url" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "images/default.jpg" | absURL }}{{ end }}" />
           <meta itemprop="width" content="800">
           <meta itemprop="height" content="800">
@@ -29,13 +28,24 @@
           <meta itemprop="name" content="{{ .Site.Params.Author }}">
         </div>
 
-        <div class="image" style="background-image: url({{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "images/default.jpg" | absURL }}{{ end }});"></div>
+        {{ if ne .Type "info" }}
+          <div class="image" style="background-image: url({{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "images/default.jpg" | absURL }}{{ end }});"></div>
+        {{ end }}
 
         <header class="article-header">
-          <time class="article-date" itemprop="datePublished" pubdate="pubdate" datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</time>
+          {{ if ne .Type "info" }}
+            <time class="article-date" itemprop="datePublished" pubdate="pubdate" datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</time>
+          {{ end }}
           <h1 class="article-title">{{ .Title }}</h1>
           {{ with .Params.series }}
               <h3 class="article-series">Part of the series : <a href="/series/{{ . | urlize }}">{{ . }}</a></h3>
+          {{ end }}
+          {{ if ne .Type "info" }}
+            <div class="section share">
+              <a href="http://www.facebook.com/sharer.php?src=bm&u={{ .Permalink }}&t={{ .Title }}" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-facebook-official"></i></a>
+              <a href="http://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}&tw_p=tweetbutton" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-twitter"></i></a>
+              <a href="https://plus.google.com/share?url={{ .Permalink }}" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-google-plus"></i></a>
+            </div>
           {{ end }}
         </header>
 
@@ -53,26 +63,27 @@
         <aside>
           {{ with .Params.tags }}<div class="section">{{ range . }}<a href="{{ $.Site.BaseURL}}tags/{{ . }}" class="tag">#{{ . }}</a> {{ end }}</div>{{ end }}
 
-          <div class="section share">
-            <a href="http://www.facebook.com/sharer.php?src=bm&u={{ .Permalink }}&t={{ .Title }}" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-facebook"></i></a>
-            <a href="http://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}&tw_p=tweetbutton" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-twitter"></i></a>
-            <a href="https://plus.google.com/share?url={{ .Permalink }}" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-google-plus"></i></a>
-            <a href="http://getpocket.com/edit?url={{ .Permalink }}&title={{ .Title }}" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-get-pocket"></i></a>
-          </div>
+          {{ if ne .Type "info" }}
+            <div class="section share">
+              <a href="http://www.facebook.com/sharer.php?src=bm&u={{ .Permalink }}&t={{ .Title }}" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-facebook-official"></i></a>
+              <a href="http://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}&tw_p=tweetbutton" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-twitter"></i></a>
+              <a href="https://plus.google.com/share?url={{ .Permalink }}" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-google-plus"></i></a>
+            </div>
+          {{ end }}
 
           {{ if and (ne .Site.Params.comment false) (ne .Params.comment false) }}
           {{ with .Site.Params.disqusShortname }}
           <div id="disqus_thread"></div>
           <script type="text/javascript">
-(function() {
-  if (window.location.hostname == "localhost")
-        return;
-      
-  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-  var disqus_shortname = '{{ . }}';
-  dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
+            (function() {
+              if (window.location.hostname == "localhost")
+                    return;
+                  
+              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              var disqus_shortname = '{{ . }}';
+              dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
           </script>
           <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
           <a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
