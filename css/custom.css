@@ -1,3 +1,65 @@
+header.site {
+  padding: 0;;
+}
+
+header.site .title {
+  text-align: left;
+}
+
+header.site .title a:hover {
+  color: #FF5733;
+}
+
+.navbar-default {
+  margin: 30px 50px;
+  padding: 5px 50px;
+  background-color: #fff;
+  border-width: 0;
+  border-color: #333;
+  border-bottom-width: 1px;
+  border-radius: 0px;
+}
+
+.navbar-header {
+	align: center;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  list-style: none;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar .navbar-nav li {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1rem;
+  padding: 0px 10px;
+}
+
+.navbar .navbar-nav li a {
+  text-decoration: none;
+  display: block;
+  color: #333;
+}
+
+.navbar .navbar-nav li a:hover {
+  color: #FF5733;
+}
+
+.navbar .navbar-nav li a.active {
+  background-color: #273746;
+  color: #FF5733;
+  cursor: default;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+  border-width: 0;
+}
+
 article.single .article-body blockquote {
   padding: 1.5rem;
 }
@@ -10,6 +72,14 @@ article.single .article-body blockquote p {
 
 article.single .article-body h2 {
   word-break: normal;
+}
+
+article.li a {
+	border: 1.5px solid transparent;
+}
+
+article.li a:hover {
+	border: 1.5px solid #FF5733;
 }
 
 article.li {
@@ -66,4 +136,38 @@ article.li .summary {
 	text-align: center;
 	color: #808080;
 	line-height: 1rem;
+}
+
+nav.paging a:hover {
+  color: #FF5733;
+}
+
+.icons {
+  padding-bottom: 0px;
+}
+
+ul.icons {
+  cursor: default;
+  list-style: none;
+  padding-left: 0;
+}
+
+ul.icons li {
+  display: inline-block;
+  padding: 0rem 0.5rem;
+}
+
+ul.icons li a {
+  text-decoration: none;
+  position: relative;
+  display: block;
+  color: #4f4f4f;
+}
+
+ul.icons li a:hover {
+  color: #FF5733;
+}
+
+.section.taxonomies a:hover {
+  color: #FF5733;
 }

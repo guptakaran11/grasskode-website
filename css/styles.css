@@ -7,7 +7,7 @@ body {
   -webkit-font-smoothing: antialiased;
   font-size: inherit;
   color: #000;
-  background-color: #fafafa;
+  background-color: #fff;
 }
 
 @media (max-width: 768px) {
@@ -70,9 +70,9 @@ img {
 }
 
 h1, h2, h3, h4, h5 ,h6 { margin: 0; }
-h1 { font-size: 1.6rem; line-height: 2rem; }
-h2 { font-size: 1.4rem; line-height: 2rem; }
-h3 { font-size: 1.1rem; line-height: 2rem; }
+h1 { font-size: 1.8rem; line-height: 2rem; }
+h2 { font-size: 1.6rem; line-height: 2rem; }
+h3 { font-size: 1.2rem; line-height: 2rem; }
 h4 { font-size: 1rem; line-height: 1rem; }
 h5 { font-size: 1rem; line-height: 1rem; }
 
@@ -80,7 +80,6 @@ header.site {
   padding: 2rem 0;
   text-align: center;
   background-color: #fff;
-  margin-bottom: 2rem;
 }
 
 header.site .title {
@@ -157,7 +156,7 @@ article.li a {
 }
 
 article.li .image {
-  height: 12rem;
+  height: 13rem;
   background-color: #eee;
   background-position: center;
   background-size: cover;
@@ -296,7 +295,7 @@ article.single .image {
 }
 
 article.single .article-body {
-  max-width: 650px;
+  max-width: 700px;
   margin: 0 auto;
   padding: 0 1rem;
 }
@@ -461,7 +460,7 @@ article.single aside .section {
 
 nav.paging {
   position: relative;
-  min-height: 5rem;
+  min-height: 2rem;
 }
 
 nav.paging a {
@@ -478,8 +477,12 @@ nav.paging .right {
   position: absolute;
 }
 
+nav.paging .left {
+  left: 10px;
+}
+
 nav.paging .right {
-  right: 0;
+  right: 10px;
 }
 
 .share {
