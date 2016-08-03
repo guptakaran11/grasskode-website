@@ -34,7 +34,16 @@
 
         <header class="article-header">
           {{ if ne .Type "info" }}
-            <time class="article-date" itemprop="datePublished" pubdate="pubdate" datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</time>
+            <div class="timebar">
+              <time class="article-date" itemprop="datePublished" pubdate="pubdate" datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</time>
+              {{ with .Params.categories }}
+                <div class="categories">
+                {{ range . }}
+                  <a href="{{ $.Site.BaseURL}}categories/{{ . }}">{{ upper . }}</a>
+                {{ end }}
+                </div>
+              {{ end }}
+            </div>
           {{ end }}
           <h1 class="article-title">{{ .Title }}</h1>
           {{ with .Params.series }}
@@ -61,7 +70,13 @@
         </div>
 
         <aside>
-          {{ with .Params.tags }}<div class="section">{{ range . }}<a href="{{ $.Site.BaseURL}}tags/{{ . }}" class="tag">#{{ . }}</a> {{ end }}</div>{{ end }}
+          {{ with .Params.tags }}
+            <div class="section tags">
+              {{ range . }}
+              <a href="{{ $.Site.BaseURL}}tags/{{ . }}" class="tag">#{{ . }}</a>
+              {{ end }}
+            </div>
+          {{ end }}
 
           {{ if ne .Type "info" }}
             <div class="section share">

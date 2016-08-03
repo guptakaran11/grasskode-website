@@ -71,6 +71,14 @@ hr {
   border-width: 0;
 }
 
+article.single .article-date {
+  float: left;
+}
+
+.categories a:hover {
+  color: #FF5733;
+}
+
 article.single .article-body blockquote {
   padding: 1.5rem;
 }

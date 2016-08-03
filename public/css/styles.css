@@ -172,9 +172,22 @@ article.li time {
   padding: 3px 7px;
   color: #fff;
   background-color: #333;
-  border-bottom: 2px solid #000;
-  font-size: .7rem;
-  line-height: 1rem;
+  font-size: .8rem;
+  line-height: 1.5rem;
+}
+
+article.li .category {
+  position: absolute;
+  top: -5px;
+  right: 15px;
+  display: block;
+  z-index: 1;
+  white-space: nowrap;
+  padding: 3px 7px;
+  color: #fff;
+  background-color: #333;
+  font-size: .8rem;
+  line-height: 1.5rem;
 }
 
 article.li .title {
@@ -259,6 +272,11 @@ article.single .article-header {
   padding: 2rem;
   padding-bottom: 0rem;
   line-height: 2rem;
+}
+
+article.single .timebar {
+  display: inline-block; 
+  width: 100%;
 }
 
 @media (max-width: 768px) {
@@ -495,3 +513,20 @@ nav.paging .right {
   padding: 0 .5rem;
 }
 
+.categories {
+  text-align: right;
+  margin: 0 10px;
+}
+
+.categories a {
+  float: right;
+  color: #fff;
+  background-color: #333;
+  display: block;
+  padding: 0 0.5rem;
+  margin: 0 0 0 0.25rem;
+  text-decoration: none;
+  font-size: 0.8rem;
+  line-height: 1.5rem;
+  cursor: pointer;
+}
