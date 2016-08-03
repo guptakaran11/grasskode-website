@@ -22,17 +22,16 @@ Growing up, the skepticism developed into a strong **atheism** (by wiki definiti
 
 <p class="postimg">
 	<img src="/images/bajrang-dal-hindu-nationalist-hindutva-extremism.jpg" alt="hindutva-extremism"/>
-	<em>Hindu extremist [1]</em>
+	<em>A Hindu extremist [1]</em>
 </p>
 
-To me religion seemed a completely unnecessary thing. Would we not be better off without it?
+To me religion seemed like a completely unnecessary thing. Would we not be better off without it?
 
 It was that question which led to my growing interest on the subjects of religion, god and the supernatural. Mythology had always interested me (mostly ancient Egyptian, Greek and Hindu mythologies) much in the same sense as superheroes fascinate a child. It was not difficult for me to make the transition into understanding religions. But it was something of an uphill task. I am still deeply interested in the subject and of course my understanding is ongoing. But from the atheist I was, I have come to appreciate the role of religion in this world. From the atheist I once was, I have now become an [**agnostic**](https://en.wikipedia.org/wiki/Agnosticism) in aspects more than just religious. Along the way, I developed my thoughts about the intriguing concepts of the supernatural. Surprisingly my ideas have seemed to stabilise which is why I decided to rant about them.
 
 
-## Nature vs. the Supernatural
-
-I have a very scientific temperament according to me. You might want to look up the [definition](https://en.wikipedia.org/wiki/Scientific_temper) rather than assuming what it means. It does not mean that I look at the world with Newtonian or Einsteinian glasses. It just means that I do not really believe in something without sufficient reason. Subjective as that sounds, it is a serious question mark on my faith.
+## The Supernatural Realm
+I have a very scientific temperament according to myself. You might want to look up the [definition](https://en.wikipedia.org/wiki/Scientific_temper) rather than assuming what it means. It does not mean that I look at the world with Newtonian or Einsteinian glasses. It just means that I do not really believe in something without sufficient reason. Subjective as that sounds, it is a serious question mark on my faith.
 
 My argument starts with the premise that human knowledge is, and forever shall remain, limited. Consequently, our understanding of nature and what constitutes the natural realm remains limited. By saying this I do not in any way mean to undermine the human being's capacity for knowledge. We are an extremely intelligent species who have been able to rise as the most dominant one on land purely on the basis of our brains. We have been extending our capabilities aerial and marine worlds as well. Extension into space shows our unlimited ambition.
 
