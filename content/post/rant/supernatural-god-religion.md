@@ -96,6 +96,8 @@ How my views have changed personally is as follows. I have started seeing supern
 
 <hr />
 
+Image credits :
+
 *[1] [youthkiawaaz](http://www.youthkiawaaz.com/2015/12/politics-of-spaces-and-sangh-strategy/)*
 
 *[2] [publicdomainpictures](http://www.publicdomainpictures.net/view-image.php?image=168033&picture=abstract-meditation-concept)*

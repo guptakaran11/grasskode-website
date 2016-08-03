@@ -17,6 +17,10 @@ header.site .title a:hover {
   text-align: center;
 }
 
+hr {
+  border-color: #7a7a7a;
+}
+
 .navbar-default {
   margin: 30px;
   padding: 5px 0;

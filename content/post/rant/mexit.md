@@ -29,6 +29,6 @@ I think Messi is right in leaving the national team, as would be others who are 
 
 <hr />
 
-[1] [2] from [BBC](http://www.bbc.com/sport/football/36637591)
+*[1] [2] from [BBC](http://www.bbc.com/sport/football/36637591)*
 
 Cover image from [indianexpress](http://images.indianexpress.com/2016/06/messi-75911.jpg).
