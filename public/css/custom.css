@@ -95,6 +95,11 @@ article.li .summary {
 	word-break: break-word;
 }
 
+article.single .article-body a {
+  color: #407FC0;
+  text-decoration: none;
+}
+
 .sidebar {
 	padding: 2rem;
 }
