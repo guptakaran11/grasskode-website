@@ -2,12 +2,14 @@
   <a href="{{ .Permalink }}" class="clearfix">
     <div class="image" style="background-image: url({{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "images/default.jpg" | absURL }}{{ end }});"></div>
     <div class="detail">
-      <time>{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</time>
-      {{ with .Params.categories }}
-      	{{ range first 1 . }}
-        <div class="category">{{ upper . }}</div>
+      <div class="tag">
+        <time>{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</time>
+        {{ with .Params.categories }}
+        	{{ range first 1 . }}
+          <div class="category">{{ upper . }}</div>
+          {{ end }}
         {{ end }}
-      {{ end }}
+      </div>
       <h2 class="title">{{ .Title }}</h2>
       <div class="summary">{{ .Summary }}</div>
     </div>
