@@ -1,12 +1,16 @@
 <div class="index">
 	<head>
-		<meta http-equiv="refresh" content="5;url=http://grasskode.xyz/" />
+		<meta http-equiv="refresh" content="5;url={{ .Site.BaseURL }}" />
 	</head>
   {{ partial "default_head.html" . }}
-	<div>
-	   <p>
-	   	Oops! The page you are looking for was either moved or never existed! You will be redirected to the homepage shortly.
-	   </p>
+	<div class="message">
+		<p>
+			Oops!
+			<br />
+			The page you are looking for was either moved or never existed!
+			<br/>
+			You will be redirected to the homepage shortly.
+		</p>
 	</div>
 	{{ partial "default_foot.html" . }}
 </div>

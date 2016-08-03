@@ -11,6 +11,12 @@ header.site .title a:hover {
   color: #FF5733;
 }
 
+.message p {
+  margin: 30px;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
 .navbar-default {
   margin: 30px;
   padding: 5px 0;
