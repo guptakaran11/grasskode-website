@@ -1,8 +1,8 @@
 +++
 date = "2016-08-03T11:57:50+07:00"
 categories = ["rant"]
-tags = ["supernatural", "science", "religion", "god"]
-image = "https://upload.wikimedia.org/wikipedia/commons/c/c4/Extermination_of_Evil_Sendan_Kendatsuba_crop.jpg"
+tags = ["science", "supernatural", "religion", "god"]
+image = "/images/supernatural-god-religion.jpg"
 title = "Supernatural, God & Religion"
 toc = true
 
@@ -88,7 +88,7 @@ Today the religions are highly institutionalized and has it's groups of follower
 Sadly, we see these acts of hostility as a part of the religion rather than an individual or extremist group. A [post](https://www.facebook.com/alikadribrisbane/posts/1138691482862400) I recently came across speaks of how religion is so much more than a simply way to mobilize hate. Religions are also used to justify phobias of communities. We tend to attribute all these negatives into the religions themselves which complicates matters unnecessarily. Hate and extremism are not a manifestation of religion. They are a result of human insecurity. Slavery, imperialism, colonialism, gender discrimination, racism and more are all examples of human insecurity, phobia or megalomania.
 
 <p class="postimg">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Anti_gay_San_Francisco.jpg" alt="anti-gay"/>
+	<img src="/images/sf-anti-gay.jpg" alt="anti-gay"/>
 	<em>Religions are used to express personal phobias [5]</em>
 </p>
 
@@ -100,6 +100,8 @@ How my views have changed personally is as follows. I have started seeing supern
 
 *[2] [publicdomainpictures](http://www.publicdomainpictures.net/view-image.php?image=168033&picture=abstract-meditation-concept)*
 
-*[3] [5] wikimedia*
+*[3] [wikimedia](https://upload.wikimedia.org/wikipedia/commons/c/c4/Extermination_of_Evil_Sendan_Kendatsuba_crop.jpg)*
 
 *[4] [pixabay](https://pixabay.com/static/uploads/photo/2014/11/10/21/05/buddha-525883_960_720.jpg)*
+
+*[5] [wikimedia](https://upload.wikimedia.org/wikipedia/commons/b/b4/Anti_gay_San_Francisco.jpg)*
