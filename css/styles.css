@@ -164,7 +164,7 @@ article.li .image {
 
 article.li .tag {
   position: absolute;
-  top: -5px;
+  top: -10px;
   left: 15px;
   display: block;
   z-index: 1;
@@ -172,37 +172,18 @@ article.li .tag {
   padding: 3px 7px;
   color: #fff;
   background-color: #333;
-  font-size: .8rem;
-  line-height: 1.5rem;
+  text-align: center;
 }
 
-/*article.li time {
-  position: absolute;
-  top: -5px;
-  left: 15px;
-  display: block;
-  z-index: 1;
-  white-space: nowrap;
-  padding: 3px 7px;
-  color: #fff;
-  background-color: #333;
+article.li time {
   font-size: .8rem;
   line-height: 1.5rem;
 }
 
 article.li .category {
-  position: absolute;
-  top: -5px;
-  right: 15px;
-  display: block;
-  z-index: 1;
-  white-space: nowrap;
-  padding: 3px 7px;
-  color: #fff;
-  background-color: #333;
-  font-size: .8rem;
+  font-size: .7rem;
   line-height: 1.5rem;
-}*/
+}
 
 article.li .title {
   white-space: nowrap;
