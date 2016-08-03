@@ -1,5 +1,5 @@
 +++
-categories = ["blog", "travel"]
+categories = ["travel"]
 date = "2016-01-29T23:57:11+05:30"
 title = "Hampi Revisisted"
 tags = ["india", "karnataka", "marathon", "hippie place", "temples", "history"]

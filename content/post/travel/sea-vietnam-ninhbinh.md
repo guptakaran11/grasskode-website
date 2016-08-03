@@ -1,7 +1,7 @@
 +++
 date = "2016-07-23T22:30:30+07:00"
-categories = ["blog", "travel", "backpacking"]
-tags = ["south east asia", "vietnam", "nature", "unesco site"]
+categories = ["travel"]
+tags = ["south east asia", "vietnam", "nature", "unesco site", "backpacking"]
 series = "SEA Chronicles"
 image = "https://c6.staticflickr.com/9/8549/28376079781_9b76ce0989_c.jpg"
 title = "Ninh Binh - SEA Chronicles"

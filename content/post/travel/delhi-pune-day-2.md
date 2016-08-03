@@ -1,8 +1,8 @@
 +++
-categories = ["blog", "travel", "roadtrip"]
+categories = ["travel"]
 date = "2016-02-22T01:02:10+05:30"
 title = "Day 2 - Delhi to Pune Roadtrip"
-tags = ["india", "biking", "madhya pradesh", "national park"]
+tags = ["india", "biking", "roadtrip", "madhya pradesh", "national park"]
 image = "https://farm2.staticflickr.com/1680/24821217219_b36eb9e51b_z.jpg"
 series = "Delhi to Pune Roadtrip"
 +++

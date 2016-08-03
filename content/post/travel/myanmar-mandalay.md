@@ -1,8 +1,8 @@
 +++
-categories = ["blog", "travel", "backpacking"]
+categories = ["travel"]
 date = "2016-03-25T11:03:25+05:30"
 image = "https://farm2.staticflickr.com/1487/25933364611_451ae275f6_c.jpg"
-tags = ["burma", "myanmar", "irrawaddy", "history", "city"]
+tags = ["burma", "myanmar", "irrawaddy", "history", "city", "backpacking"]
 title = "Mandalay - Three Weeks in Burma"
 toc = true
 series = "Three Weeks in Burma"

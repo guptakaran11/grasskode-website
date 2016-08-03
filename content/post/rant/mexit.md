@@ -1,6 +1,6 @@
 +++
 date = "2016-06-28T01:02:46+07:00"
-categories = ["blog", "rant"]
+categories = ["rant"]
 tags = ["football", "messi", "defeatism"]
 image = "images/mexit.jpg"
 title = "Why I Stand By Mexit"

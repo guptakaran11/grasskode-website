@@ -1,7 +1,7 @@
 +++
 date = "2016-08-02T15:38:25+07:00"
-commented_categories = ["blog", "travel", "backpacking"]
-commented_tags = ["south east asia", "vietnam", "nature", "unesco site", "caves"]
+commented_categories = ["travel"]
+commented_tags = ["south east asia", "vietnam", "nature", "unesco site", "caves", "backpacking"]
 commented_series = "SEA Chronicles"
 type = "draft"
 image = "https://c6.staticflickr.com/9/8549/28376079781_9b76ce0989_c.jpg"

@@ -1,11 +1,10 @@
 +++
 date = "2016-08-03T11:57:50+07:00"
-commented_categories = ["rant"]
-commented_tags = ["supernatural", "science", "religion"]
+categories = ["rant"]
+tags = ["supernatural", "science", "religion", "god"]
 image = "https://upload.wikimedia.org/wikipedia/commons/c/c4/Extermination_of_Evil_Sendan_Kendatsuba_crop.jpg"
 title = "Supernatural, God & Religion"
 toc = true
-type = "draft"
 
 +++
 
