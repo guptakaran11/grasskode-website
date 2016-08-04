@@ -3,7 +3,6 @@ date = "2016-08-02T15:38:25+07:00"
 categories = ["travel"]
 tags = ["south east asia", "vietnam", "nature", "unesco site", "cave", "backpacking"]
 series = "SEA Chronicles"
-type = "draft"
 image = "https://c2.staticflickr.com/9/8784/28131630833_5202d5e4b7_c.jpg"
 title = "Dong Hoi & Phong Nha - SEA Chronicles"
 toc = true
