@@ -10,6 +10,12 @@ toc = true
 
 +++
 
+It seems like I had been planning a solo backpacking trip overseas for ages. In late May 2016, I finally took off for a trip through South East Asia like I had always wanted to. I was dismissive of all deterring arguments. I cared not what was happening to me or around me. This trip was all that mattered right now.
+
+I took a train from Dong Hoi to Huế, the last imperial capital of Vietnam as well as one of the border towns in the north south civil war. Huế has a lot of history to it and some peculiar cuisines as it's specialty.
+
+<hr />
+
 ## Hues of Huế
 
 I walked out of the station after saying goodbye to Bibi and Miss Han. Google Maps showed that the hotel I had booked was just 1.5 kms away so I did not even consider the many *xe om* drivers offering me a drop. Huế seemed like a lively town. It was lit up and people sat in restaurants and cafes enjoying food and drinks. I liked the vibes of this place.
@@ -248,4 +254,28 @@ I woke up early for the Chile vs Colombia match that was delayed because of a st
 	<em>Nina's Cafe</em>
 </p>
 
-When it was time, I went downstairs and a minivan came to pick me up. I was dropped at the main office of the bus service and the bus stood waiting. This was a "sleeper" bus; two levels of reclining seats arranged in three rows. That is how most of the tourist buses in Vietnam are. I felt a bit uncomfortable and stuck in those seats which were not my size. I was sleepy though and managed to drift off to sleep despite the cold AC and the loud Vietnamese comedy show that was playing in the bus. I woke up a couple of times to see beautiful sceneries. I really liked Da Nang from what I saw while we crossed it. I had also gotten great reviews of the place from a few people on my travels. I was seriously considering coming to the city for a few days after Hội An but my month in Vietnam was seeming too short now.
+When it was time, I went downstairs and a minivan came to pick me up. I was dropped at the main office of the bus service and the bus stood waiting. This was a "sleeper" bus; two levels of reclining seats arranged in three rows.
+
+<p class="postimg">
+	<img src="https://c8.staticflickr.com/9/8645/28840461031_98f8494957.jpg" alt="sleeper-bus">
+	<em>Sleeper tourist bus</em>
+</p>
+
+That is how most of the tourist buses in Vietnam are. I felt a bit uncomfortable and stuck in those seats which were not my size. I was sleepy though and managed to drift off to sleep despite the cold AC and the loud Vietnamese comedy show that was playing in the bus. I woke up a couple of times to see beautiful sceneries.
+
+<p class="postimg">
+	<img src="https://c2.staticflickr.com/9/8802/28840461281_7f6ddc42d4.jpg" alt="bus-journey-1">
+	<em>Through the window</em>
+</p>
+
+I really liked Da Nang from what I saw while we crossed it. I had also gotten great reviews of the place from a few people on my travels. I was seriously considering coming to the city for a few days after Hội An but my month in Vietnam was seeming too short now.
+
+<hr />
+
+Whether you enjoyed the post or not, do leave a comment!
+
+Find the previous posts in this series [here](/series/sea-chronicles).
+
+And here is the complete album of the Huế leg of the trip.
+
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157671174977510" title="Hue, June 2016"><img src="https://c4.staticflickr.com/9/8892/28908974395_45f6510c64.jpg" width="500" height="375" alt="Hue, June 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
