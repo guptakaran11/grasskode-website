@@ -94,11 +94,12 @@ article.single .article-body h2 {
 }
 
 article.li a {
-	border: 1.5px solid transparent;
+	border: 1.5px solid #ccc;
 }
 
 article.li a:hover {
 	border: 1.5px solid #FF5733;
+
 }
 
 article.li {
@@ -107,6 +108,31 @@ article.li {
 
 article.li time {
 	font-size: 0.8rem;
+}
+
+article.li .detail {
+  padding: 0.7rem;
+  background-color: #f8f8f8;
+  border-top: 1.5px solid #ccc;
+}
+
+article.li .title { 
+  white-space: nowrap;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  margin-bottom: 0.3rem;
+}
+
+article.li .series {
+  text-align: right;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  color: #333;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+  padding: 0 0.5rem;
+  margin: 0 0 0 0.25rem;
 }
 
 article.li .summary {
