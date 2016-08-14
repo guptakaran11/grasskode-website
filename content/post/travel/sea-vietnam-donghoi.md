@@ -4,7 +4,7 @@ categories = ["travel"]
 tags = ["south east asia", "vietnam", "nature", "unesco site", "cave", "backpacking", "national park"]
 series = "SEA Chronicles"
 image = "https://c2.staticflickr.com/9/8784/28131630833_5202d5e4b7_c.jpg"
-title = "Dong Hoi & Phong Nha - SEA Chronicles"
+title = "Dong Hoi & Phong Nha, Vietnam"
 toc = true
 
 +++

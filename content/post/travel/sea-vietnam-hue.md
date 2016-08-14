@@ -4,7 +4,7 @@ categories = ["travel"]
 tags = ["south east asia", "vietnam", "history", "unesco site", "backpacking"]
 series = "SEA Chronicles"
 image = "https://c4.staticflickr.com/9/8150/28293542683_a7f769b7d8_c.jpg"
-title = "Huế - SEA Chronicles"
+title = "Huế, Vietnam"
 toc = true
 
 +++

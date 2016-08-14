@@ -200,6 +200,15 @@ article.li .summary {
   line-height: 1rem;
 }
 
+article.li .series {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  color: #6b6b6b;
+  font-size: 1rem;
+  line-height: 1.2rem;
+}
+
 @media (min-width: 767px) {
   .articles .col-sm-4 article.li .image {
     height: 10rem;

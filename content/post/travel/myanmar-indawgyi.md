@@ -3,7 +3,7 @@ date = "2016-04-11T15:45:44+05:30"
 categories = ["travel"]
 tags = ["burma", "myanmar", "lake", "nature", "backpacking"]
 image = "https://farm2.staticflickr.com/1507/26098528790_472e562d68_c.jpg"
-title = "Indawgyi Lake - Three Weeks in Burma"
+title = "Indawgyi Lake, Myanmar"
 toc = true
 series = "Three Weeks in Burma"
 +++

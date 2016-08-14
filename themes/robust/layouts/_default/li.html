@@ -11,7 +11,7 @@
         {{ end }}
       </div>
       <h2 class="title">{{ .Title }}</h2>
-      <div class="summary">{{ .Summary }}</div>
+      <div class="series">{{ with .Params.series }}{{ . }}{{ else }}<br>{{ end }}</div>
     </div>
   </a>
 </article>

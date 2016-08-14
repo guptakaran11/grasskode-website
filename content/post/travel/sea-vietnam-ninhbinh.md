@@ -4,7 +4,7 @@ categories = ["travel"]
 tags = ["south east asia", "vietnam", "nature", "unesco site", "backpacking"]
 series = "SEA Chronicles"
 image = "https://c6.staticflickr.com/9/8549/28376079781_9b76ce0989_c.jpg"
-title = "Ninh Binh - SEA Chronicles"
+title = "Ninh Binh, Vietnam"
 toc = true
 +++
 

@@ -1,7 +1,7 @@
 +++
 categories = ["travel"]
 date = "2016-05-08T12:05:51+05:30"
-title = "Inle Lake - Three Weeks in Burma"
+title = "Inle Lake, Myanmar"
 image = "https://farm8.staticflickr.com/7524/26290489963_a88dbdf4b6_c.jpg"
 tags = ["burma", "myanmar", "lake", "nature", "backpacking"]
 toc = true

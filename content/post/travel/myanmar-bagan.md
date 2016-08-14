@@ -1,7 +1,7 @@
 +++
 date = "2016-03-10T15:59:21+05:30"
 categories = ["travel"]
-title = "Bagan - Three Weeks in Burma"
+title = "Bagan, Myanmar"
 image = "https://farm2.staticflickr.com/1608/25089325403_32730b0814_c.jpg"
 tags = ["burma", "myanmar", "pagodas", "temples", "backpacking"]
 toc = true

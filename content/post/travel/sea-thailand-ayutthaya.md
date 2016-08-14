@@ -3,7 +3,7 @@ date = "2016-06-14T22:06:35+07:00"
 categories = ["travel"]
 tags = ["south east asia", "thailand", "history", "temples", "backpacking"]
 series = "SEA Chronicles"
-title = "Ayutthaya - SEA Chronicles"
+title = "Ayutthaya, Thailand"
 image = "https://c2.staticflickr.com/8/7434/27651204225_18531f25e6_c.jpg"
 toc = true
 +++

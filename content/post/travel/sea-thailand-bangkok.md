@@ -3,7 +3,7 @@ date = "2016-06-26T21:49:15+07:00"
 categories = ["travel"]
 tags = ["south east asia", "thailand", "city", "nightlife", "backpacking"]
 series = "SEA Chronicles"
-title = "Bangkok - SEA Chronicles"
+title = "Bangkok, Thailand"
 image = "https://c2.staticflickr.com/8/7392/27311966953_7dfd2a8fed_c.jpg"
 toc = true
 +++
