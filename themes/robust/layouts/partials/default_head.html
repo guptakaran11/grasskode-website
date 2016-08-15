@@ -17,11 +17,16 @@
         <title>{{ .Title }}</title>
         <meta property='og:title' content="{{ .Title }}" />
         <meta property="og:type" content="website" />
+        <meta property="og:image" content="{{ "images/default.jpg" | absURL }}" />
     {{ else }}
         <title>{{ .Title }} - {{ .Site.Title }}</title>
         <meta property='og:title' content="{{ .Title }} - {{ .Site.Title }}" />
         <meta property="og:type" content="article" />
-        {{ with .Summary }}<meta name="description" content="{{ . }}" />{{ end }}
+        {{if .IsPage}}
+            <meta name="description" content="{{ .Summary }}" />
+        {{else}}
+            <meta name="description" content="{{ .Description }}" />
+        {{end}}
         <meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "images/default.jpg" | absURL }}{{ end }}" />
     {{ end }}
 
