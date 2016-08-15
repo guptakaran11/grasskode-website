@@ -21,7 +21,7 @@
         <title>{{ .Title }} - {{ .Site.Title }}</title>
         <meta property='og:title' content="{{ .Title }} - {{ .Site.Title }}" />
         <meta property="og:type" content="article" />
-        {{ with .Description }}<meta name="description" content="{{ . }}" />{{ end }}
+        {{ with .Summary }}<meta name="description" content="{{ . }}" />{{ end }}
         <meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "images/default.jpg" | absURL }}{{ end }}" />
     {{ end }}
 
