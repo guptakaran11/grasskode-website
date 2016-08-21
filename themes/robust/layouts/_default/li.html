@@ -1,21 +1,3 @@
-<!-- <article class="li">
-  <a href="{{ .Permalink }}" class="clearfix">
-    <div class="image" style="background-image: url({{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "images/default.jpg" | absURL }}{{ end }});"></div>
-    <div class="detail">
-      <div class="tag">
-        <time>{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</time>
-        {{ with .Params.categories }}
-        	{{ range first 1 . }}
-          <div class="category">{{ upper . }}</div>
-          {{ end }}
-        {{ end }}
-      </div>
-      <h2 class="title">{{ .Title }}</h2>
-      <div class="series">{{ with .Params.series }}{{ . }}{{ else }}<br>{{ end }}</div>
-    </div>
-  </a>
-</article> -->
-
 <article class="li">
   <a href="{{ .Permalink }}" class="clearfix">
     <div class="image" style="background-image: url({{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "images/default.jpg" | absURL }}{{ end }});">
@@ -37,25 +19,3 @@
     </div>
   </a>
 </article>
-
-<!-- <div class="view photo-list-album-view requiredToShowOnServer awake" style="transform: translate(312px, 8px);-webkit-transform: translate(312px, 8px);-ms-transform: translate(312px, 8px);width: 280px;height: 280px;background-image: url(//c4.staticflickr.com/9/8892/28908974395_45f6510c64.jpg);" id="yui_3_16_0_1_1471234900055_751">
-  <a class="interaction-view avatar photo-list-album album ginormous" href="/photos/140507143@N02/albums/72157671174977510" title="Hue, June 2016" data-rapid_p="59" id="yui_3_16_0_1_1471234900055_752">
-    <div class="photo-list-album-interaction dark has-actions" data-albumid="72157671174977510">
-      <a class="overlay" href="/photos/140507143@N02/albums/72157671174977510" data-rapid_p="96"></a>
-      <div class="interaction-bar">
-        <div class="metadata">
-          <h4 class="album-title">Hue, June 2016</h4>
-          <span class="album-photo-count secondary">119 photos and 2 videos</span>
-
-        </div>
-
-        <div class="actions ">
-          <a class="share cta" title="Share this album" data-rapid_p="97"><span></span></a>
-            <a class="book cta" title="Make a book from this Album" data-rapid_p="98"><span></span></a>
-            <a class="download cta" title="Download" data-rapid_p="99"><span></span></a>
-            <a class="trash cta" title="Delete this album" data-rapid_p="100"><span></span></a>
-        </div>
-      </div>
-    </div>
-  </a>
-</div> -->
