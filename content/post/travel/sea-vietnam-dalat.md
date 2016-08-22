@@ -1,9 +1,8 @@
 +++
 date = "2016-08-19T00:54:52+07:00"
-commented_categories = ["travel"]
-commented_tags = ["south east asia", "vietnam", "hill station", "backpacking"]
-commented_series = "SEA Chronicles"
-type = "draft"
+categories = ["travel"]
+tags = ["south east asia", "vietnam", "hill station", "backpacking"]
+series = "SEA Chronicles"
 image = "https://c1.staticflickr.com/9/8454/28449200744_679b79ded4_c.jpg"
 title = "Đà Lạt, Vietnam"
 toc = true
@@ -23,7 +22,7 @@ The bus reached Nha Trang early in the morning, around 5 AM. The connecting bus 
 
 I could not see the sun because of the clouds and gave up the task because I was getting hungry. I went around the block and ate a bowl of Pho. All the sign boards and shop names here were in Vietnamese, Russian and at times English. 😋 The Russian presence always makes itself felt.
 
-I went back to the Sinh Tourist office and waited a while for the bus to turn up. This one was a sleeper as well and I actually got some much needed sleep on this one though I missed out on quite a lot of scenery. I kept waking intermittently to find the world around me changing. The plains gave way to hilly contours; the road was wavy and flanked by greenery; the rains imparted a cosy touch to it all. We reached Đà Lạt in a couple of hours since having started from Nha Trang. The city looked very pretty and we made our way to the bus company's office. There was one small trouble though; it was raining continuously. I stood under a shelter at the office trying to figure out where I would stay. I had not booked a hostel thinking that I could walk around to find a place, but the rains were playing a spoilsport and I needed some more rest.
+I went back to the Sinh Tourist office and waited a while for the bus to turn up. This one was a sleeper as well and I actually got some much needed sleep on this one, though I missed out on quite a lot of scenery. I kept waking intermittently to find the world around me changing. The plains gave way to hilly contours; the road was wavy and flanked by greenery; the rains imparted a cosy touch to it all. We reached Đà Lạt in a couple of hours since having started from Nha Trang. The city looked very pretty and we made our way to the bus company's office. There was one small trouble though; it was raining continuously. I stood under a shelter at the office trying to figure out where I would stay. I had not booked a hostel thinking that I could walk around to find a place, but the rains were playing a spoilsport and I needed some more rest.
 
 Once the rain let up a bit, I walked in a certain direction that seemed to have a few good hostels. The rains resumed shortly and I took out my poncho. I came upon the **YOLO hostel** first and went in. They had a dorm bed available in a huge hall with mattresses laid out on the wooden floor. I liked the setup somewhat but they gave me the room for a price of the smaller dorm and some haggling around the agoda price. I decided to stay here just for the night. I kept my bags and worked a bit while I waited for the rains to ease. Then I went out to get something to eat.
 
@@ -103,7 +102,7 @@ I saw more beautiful buildings and pretty flowers all the way till the Summer Pa
 	<em>Streets of Đà Lạt</em>
 </p>
 
-I bought a 15 kVND ticket to the **Summer Palace of Bao Dai**. This was the kind of ticket fee that makes me happy a happy tourist. The palace was really nice. It was more of an open house with everything preserved the way it used to be when the royal family lived here; the bedrooms with their beds made up; the halls and sitting rooms with beautiful decor; the well maintained gardens. There was not much history to it but the house is pretty enough to contemplate the lives of it's erstwhile residents. I walked around for a good long hour without getting bored.
+I bought a 15 kVND ticket to the **Summer Palace of Bao Dai**. This was the kind of ticket fee that makes me a happy tourist. The palace was really nice. It was more of an open house with everything preserved the way it used to be when the royal family lived here; the bedrooms with their beds made up; the halls and sitting rooms with beautiful decor; the well maintained gardens. There was not much history to it but the house is pretty enough to contemplate the lives of it's erstwhile residents. I walked around for a good long hour without getting bored.
 
 <p class="postimg">
 	<img src="https://c2.staticflickr.com/9/8876/28993798761_29103ec10a.jpg" alt="summer-palace-2">
