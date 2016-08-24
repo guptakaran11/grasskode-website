@@ -10,7 +10,7 @@ comment = false
 
 This is the second attempt to maintain a blog of my own. Once upon a time I had taken a domain and hosted a wordpress powered website. Then I gave up because I did not really think I had stories to tell. This time around, I think I do have stories to tell. Maybe this one will survive.
 
-The blog will mostly contain a more regular log of my travels and activities. Otherwise I am active on [medium](http://medium.com/@grasskode), [facebook](https://www.facebook.com/gupta.karan.11) and [instagram](https://www.instagram.com/grasskode/). I used to blog on [blogger](http://fleetingnonsense.blogspot.in/) and I still write my book reviews [here](http://bookedvorm.blogspot.in/). Yup, I have created a big mess all over the internet!
+The blog will mostly contain a more regular log of my travels and activities. Otherwise I am active on [medium](http://medium.com/@grasskode), [facebook](https://www.facebook.com/grasskode) and [instagram](https://www.instagram.com/grasskode/). I used to blog on [blogger](http://fleetingnonsense.blogspot.in/) and I still write my book reviews [here](http://bookedvorm.blogspot.in/). Yup, I have created a big mess all over the internet!
 
 In case you wish to [reach out](mailto:gupta.karan.11@gmail.com), feel free to do so! 
 
