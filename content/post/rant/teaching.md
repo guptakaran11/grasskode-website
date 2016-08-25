@@ -1,8 +1,7 @@
 +++
-date = "2016-08-23T20:57:28+07:00"
-commented_categories = ["rant"]
-commented_tags = ["teaching", "vietnam"]
-type = "draft"
+date = "2016-08-24T20:57:28+07:00"
+categories = ["rant"]
+tags = ["teaching", "vietnam"]
 image = "https://c1.staticflickr.com/9/8226/28581732384_50fb0561dd_c.jpg"
 title = "Learning by Teaching"
 toc = false
