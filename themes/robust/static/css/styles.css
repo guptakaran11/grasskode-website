@@ -309,9 +309,10 @@ article.single .article-title {
   font-size: 2.2rem;
 }
 
-article.single .article-series {
-  margin-top: 0.4rem;
+article.single .article-details {
+  margin-top: 1rem;
   font-size: 0.9rem;
+  line-height: 0.5rem;
 }
 
 article.single .image {
