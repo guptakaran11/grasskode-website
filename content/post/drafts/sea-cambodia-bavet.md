@@ -1,16 +1,15 @@
 +++
 date = "2016-09-01T16:23:52+07:00"
-commented_categories = ["travel"]
-commented_tags = ["south east asia", "cambodia", "vietnam", "border crossing", "backpacking"]
-commented_series = "SEA Chronicles"
-type = "draft"
+categories = ["travel"]
+tags = ["south east asia", "cambodia", "vietnam", "border crossing", "backpacking"]
+series = "SEA Chronicles"
 image = "https://c2.staticflickr.com/9/8286/28762554353_f681195bca_c.jpg"
 title = "Bavet Border Crossing, Cambodia"
 toc = true
 
 +++
 
-I had decided to take up the teaching job near Saigon but an expiring visa meant that I needed to exit Vietnam and come back with a new visa. Cambodia was the closest exit and I had a Cambodian visa ready. There are regular buses from Saigon to Phnom Penh and I took one of the many. Here's a bit about my experiences spending a night in Saigon before crossing over to the largest town on the other side of the border.
+I had decided to take up the teaching job near Saigon but an expiring visa meant that I needed to exit Vietnam and come back with a new visa. Cambodia was the closest exit and I had a Cambodian visa ready. There are regular buses from Saigon to Phnom Penh and I took one of the many. This was to be my first over-land border crossing and I had little idea what to expect.
 
 <hr />
 
