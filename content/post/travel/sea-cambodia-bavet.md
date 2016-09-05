@@ -1,8 +1,8 @@
 +++
 date = "2016-09-01T16:23:52+07:00"
-commented_categories = ["travel"]
-commented_tags = ["south east asia", "cambodia", "vietnam", "border crossing", "backpacking"]
-commented_series = "SEA Chronicles"
+categories = ["travel"]
+tags = ["south east asia", "cambodia", "vietnam", "border crossing", "backpacking"]
+series = "SEA Chronicles"
 type = "draft"
 image = "https://c2.staticflickr.com/9/8286/28762554353_f681195bca_c.jpg"
 title = "Bavet Border Crossing, Cambodia"
