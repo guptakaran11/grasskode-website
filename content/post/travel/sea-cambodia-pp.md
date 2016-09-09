@@ -1,22 +1,21 @@
 +++
-date = "2016-09-03T22:36:24+07:00"
-commented_categories = ["travel"]
-commented_tags = ["south east asia", "cambodia", "city", "history", "backpacking"]
-commented_series = "SEA Chronicles"
-type = "draft"
+date = "2016-09-05T22:36:24+07:00"
+categories = ["travel"]
+tags = ["south east asia", "cambodia", "city", "history", "backpacking"]
+series = "SEA Chronicles"
 image = "https://c4.staticflickr.com/9/8403/28759735603_50239a49f7_c.jpg"
 title = "Phnom Penh, Cambodia"
 toc = true
 
 +++
 
-I had initially planned a month long trip in Cambodia but the upcoming teaching stint meant that I had to make do with an extended visa run instead. Phnom Penh was my first exposure to Cambodia. I noticed a very striking contrast when comparing Cambodia to Vietnam but the few days spent in Phnom Penh helped me understand the whys of it. I went through a series of moving experiences that helped me appreciate the country better.
+I had initially planned a month long trip in Cambodia but had to shorten it because I needed to rush back to Vietnam. It had gotten converted into something of an extended visa run. Phnom Penh was my first exposure to Cambodia and I noticed a very striking contrast when comparing this country to Vietnam. The few days spent in Phnom Penh helped me understand the whys of it. I went through a series of moving experiences that have helped me appreciate the country better.
 
 <hr />
 
 ## Nationality Issues on a Rainy Day
 
-I had a handful of chores on my first morning in Phnom Penh. The most important was the reason I had rushed here; I needed to check about my Vietnam visa. But before that, I wanted to get a Cambodian SIM card to satisfy my need for connectivity. The rates varied slightly but I finally got a SIM and mobile internet package from **SMART** for 5 USD. The internet here is horrible though, both WiFi and 3G. It is only slightly better than Myanmar.
+I had a handful of chores on my first morning in **Phnom Penh**. The most important was the reason I had rushed here; I needed to check about my Vietnam visa. But before that, I wanted to get a Cambodian SIM card to satisfy my need for connectivity. The rates varied slightly but I finally got a SIM and mobile internet package from **SMART** for 5 USD. The internet here is horrible though, both WiFi and 3G. It is only slightly better than Myanmar.
 
 I walked up to **Cina Travel**, one of the recommended travel agencies to get a visa processed by. Half way between explaining the rates to me, the guy asked me my nationality. To the answer that I was an Indian, he exclaimed a quiet "Oh" and removed the rate card. Then he told me that the visa processing rate would be a bit higher for me and it would be on a *request basis*. This meant that I had to pay more to get the visa and there was no guarantee that the visa would be granted. However, in the case that the visa was declined, I would be refunded the money I paid. I went into my WTF mode. I had just started considering that the entire Indian stigma was within the country and in my head. I sat down to evaluate my options. Applying at the embassy directly was one possible option. But people use travel agents to make the process simpler. If these guys were saying it would be on a request basis, it might actually be a significant task. Also, I doubted that application fees would be refunded in case I applied to the embassy and was declined. Then there was the option of flying into Vietnam and getting another visa on arrival. But this was significantly more expensive. I concluded that I would give it a shot here, and would continue with my original travel plans if the visa was declined. I was not losing out on much since the amount would be refunded to me if the visa was declined. I paid the required 68 USD to put in a visa request for a 3 month single entry visa and hoped for the best. Just for the sake of comparison, it cost 56 USD for Europeans and other "Westerners".
 
