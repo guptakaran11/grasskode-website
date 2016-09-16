@@ -1,18 +1,18 @@
 +++
 date = "2016-09-16T18:54:40+07:00"
-commented_categories = ["travel"]
-commented_tags = ["south east asia", "cambodia", "abandoned", "national park", "backpacking"]
-commented_series = "SEA Chronicles"
-type = "draft"
+categories = ["travel"]
+tags = ["south east asia", "cambodia", "abandoned", "national park", "backpacking"]
+series = "SEA Chronicles"
 image = "https://c1.staticflickr.com/9/8315/29679385696_5613cbc840_c.jpg"
 title = "Kampot & Around, Cambodia"
 toc = true
 
 +++
 
-I took a fairly new passenger train service from Phnom Penh to Kampot. I had been recommended Kampot strongly earlier in my travels and I had decided to put it on my list definitely. I had planned to stay in the small riverside town only a couple of days before heading further towards the islands but I ended up taking my time to enjoy what the sleepy town and it's surroundings had to offer.
+I took a fairly new passenger train service from Phnom Penh to Kampot. I had been recommended Kampot strongly earlier in my travels and I had decided to put it on my list. I had planned to stay in this small riverside town only a couple of days before heading further towards the islands but I ended up taking my time to enjoy what the sleepy town and it's surroundings had to offer.
 
 <hr />
+
 
 ## Lazing in a Sleepy Town
 
@@ -23,7 +23,7 @@ The train halted at Takeo within 2 hours of departing from Phnom Penh. It was a 
 	<em>Halt at Takeo</em>
 </p>
 
-The sunset was barely visible since the train was heading due west. The beautifully lit up sky over the paddy fields was a sight to behold. I did not know that the windows could be opened up so I contented myself by clicking it through the dirty windows.
+The sunset was barely visible since the train was heading due west. The beautifully lit up sky over the paddy fields was a sight to behold. I did not know that the windows could be opened up so I contented myself by clicking the sunset through the dirty windows.
 
 <p class="postimg">
 	<img src="https://c5.staticflickr.com/9/8549/29423660100_9e2806d93b.jpg" alt="train-sunset">
@@ -32,30 +32,32 @@ The sunset was barely visible since the train was heading due west. The beautifu
 
 The train reached Kampot before the expected time. I got off and caught sight of the only other foreigner there. We approached each other with the intention of sharing a *tuk-tuk*. But there was no *tuk-tuk* around so we decided to walk till the main road. This guy lived in Bangkok now but had lived in Kampot for a while sometime back. He suggested I go to Kep which I pocketed in the back of my mind. We found two *motodops* while walking and decided to take those. I got a drop next to **Magic Sponge** and the other guy went to the riverside.
 
-Koko had recommended this guest house to me. It was a tad bit over my budget but I decided to give it a shot for a night at least. The owner told me that they were full when I walked in. I told him that I had made a reservation to which he quickly handed me a key and told me where the bed was. He was in a hurry because of some quiz event that was to take place in the restaurant that night. I went up the stairs as he had directed and came upon the "dorm room". It was a shaded terrace with beds laid out in rows. Proper beds and not bunk ones. I really liked it.
+Koko had recommended this guest house to me. It was a tad bit over my budget but I decided to give it a shot for a night at least. The owner told me that they were full when I walked in. I told him that I had made a reservation to which he quickly handed me a key and told me where the bed was. He was in a hurry because of some quiz event that was to take place in the restaurant that night. I went up the stairs as he had directed and came upon the "dorm room". It was a shaded terrace with beds laid out in rows. Proper beds and not bunk ones. I really liked the setup.
 
 <p class="postimg">
 	<img src="https://c7.staticflickr.com/9/8035/29088340854_ebdb2c9674.jpg" alt="magic-sponge-dorm">
 	<em>The nicest dorm</em>
 </p>
 
-There were a few French people around but we did not talk much. There was a loud periodic sound though which we could not figure out. Another girl came in later, Bed 6, and I asked her if she knew what was making that sound. She off-handedly told me that it was Jeremy, the residential [tokay gecko](https://en.wikipedia.org/wiki/Tokay_gecko) making mating calls. We tried looking for it but he was hiding somewhere in the dark. It would be cool to spot it though. These geckos can be almost a foot long!
+There were a few French people around but we did not talk much. There was a loud periodic sound though which we could not figure out. Another girl came in later, Bed 6, and I asked her if she knew what was making that sound. She off-handedly told me that it was Jeremy, the residential [tokay gecko](https://en.wikipedia.org/wiki/Tokay_gecko) making mating calls. We tried looking for it but he was hiding somewhere in the dark. It would have been cool to spot it though. These geckos can be almost a foot long!
 
-I headed out to withdraw money from an ATM and then grabbing some dinner. The ATMs here dispensed up to 500 USD in a transaction which is a huge amount but I took it to avoid paying ATM transaction fees repeatedly. The food options were limited since it was after 9 PM. This town slept earlier than Phnom Penh. I sat in a street side stall to eat some noodle soup. They were also selling something that they called "sweet" which was a mixture of sprouts, jellies, *son-papdi* and condensed milk. I would have tried it had I had a sweet tooth. 🍬
+I headed out to withdraw money from an ATM. The ATMs here dispensed up to 500 USD in a transaction which is a huge amount but I took all of it to avoid paying ATM transaction fees repeatedly. One can always use the USDs. I then proceeded to find some dinner but the food options were limited since it was after 9 PM. This town slept earlier than Phnom Penh. I sat in a street side stall to eat some noodle soup. They were also selling something that they called "sweet" which was a mixture of sprouts, jellies, *son-papdi* and condensed milk. I would have tried it had I had a sweet tooth. 🍬
 
-After dinner I sat next to the river a bit. This town was nice to spend a couple of lazy days in. But I had not decided what I was going to do after this. I went back to the hostel in a while and slumped into the bed. Eitan and Daniel were in Kampot as well. This being their last night here, they messaged me if I wanted to hang out but I was too tired to go out and was generally feeling lazy. I gave it a pass.
+After dinner I sat next to the river a bit. This town was nice to spend a couple of lazy days in. But I had not decided what I was going to do after this. I wanted to go to Koh Rong Samloem but I might not have enough days to do that and Otres. My head was all messed up. I went back to the hostel in a while and slumped into the bed. Eitan and Daniel were in Kampot as well. This being their last night here, they messaged me to ask if I wanted to hang out but I was too tired to go out and was generally feeling lazy. I gave it a pass.
 
 
 ## Dorm Room
 
-I woke up late the next day and worked a bit on a blog post. I had some well made Eggs Benedict for breakfast in the guest house's restaurant. This place was really nice and well within reasonable budget. Unfortunately I was travelling on a shoestring. I went to the riverside and sat on a bench there. This was to be *my* bench by the riverside for the rest of my stay in Kampot. I always found it free whenever I went for a stroll by the river.
+I woke up late the next day and worked a bit on a blog post. I had some well made Eggs Benedict for breakfast in the guest house's restaurant. This place was really nice and well within reasonable budget. Unfortunately I was travelling on a shoestring. I went to the riverside and sat on a bench there. This was to be *my* bench by the riverside for the rest of my stay in Kampot. By some stroke of luck, I always found it free whenever I went for a stroll by the river.
 
 <p class="postimg">
 	<img src="https://c7.staticflickr.com/9/8139/29423618390_9efc95092e.jpg" alt="riverside-1">
 	<em>View from "my" bench</em>
 </p>
 
-A spell of rains sent me seeking for refuge in a cafe nearby. I sat sipping on a mango smoothie and read some brochures about the area to kill time. I had thought of a vague itinerary for going to **Koh Rong Samloem** and returning to do **Bokor mountain** before heading back to Phnom Penh. But the brochure changed most of it. Kep seemed to be a really nice place. There was a national park there which caught my fancy. I went back to the hostel to think at leisure as to what my plan further would be. Two of my dorm mates, the English girl in Bed 6 and the French girl in Bed 3, came in later that afternoon and helped me finalize the itinerary. Bed 3 had recently been to the islands and told me that the weather was a tricky factor at the moment. I helped Bed 6 plan her upcoming Vietnam trip as well. Dorm room symbiosis at work. 🙏 The English girl that I had met in Phnom Penh checked into the same dorm and we exchanged hellos. Neither of us remembered the other's name but we did not bring it up. She was in Bed 2 and that is as good a name as any. 😝 She had done Bokor that day and told me it was quite an adventure with all the rain and fog. I suddenly realised that once again I was in a dorm where I was the only guy! I could get used to this. 😎 It was much better this time since none of the girls were a messy teenager.
+A spell of rains sent me seeking for refuge in a cafe nearby. I sat sipping on a mango smoothie and read some brochures about the area to kill time. I had thought of a vague itinerary for going to **Koh Rong Samloem** and returning to do **Bokor mountain** before heading back to Phnom Penh. But the brochure changed most of it. Kep seemed to be a really nice place. There was a national park there which caught my fancy. I went back to the hostel to think at leisure as to what my plan further would be. Two of my dorm mates, the English girl in Bed 6 and the French girl in Bed 3, came in later that afternoon and helped me finalize the itinerary. Bed 3 had recently been to the islands and told me that the weather was a tricky factor at the moment. I helped Bed 6 plan her upcoming Vietnam trip as well. Dorm room symbiosis at work. 🙏
+
+Later that afternoon, the English girl that I had met in Phnom Penh checked into the same dorm and we exchanged hellos. Neither of us remembered the other's name but we did not bring it up. She was in Bed 2 and that is as good a name as any. 😝 She had done Bokor that day and told me it was quite an adventure with all the rain and fog. I suddenly realised that once again I was in a dorm where I was the only guy! I could get used to this. 😎 It was much better this time since none of the girls were a messy teenager.
 
 I wanted a break from all the confusion and effort of itinerary planning so I decided to walk around. I headed to a spot marked on the map as Lily Pond. The pond was not the greatest one; the water was a bit stale and the lilies were not the most beautiful.
 
@@ -89,7 +91,7 @@ I was in a state of disbelief that they would lock the door like this without an
 
 I was left with few options. I was hoping someone would come by after a late night out and would know how to get in. But that could take forever and of course there was a chance that there was no one having a late night out. I could also find another guest house to sleep in for the night if nothing gave but finding a guest house this late would not be easy. I was contemplating climbing the wall on the neighbouring complex and then crossing the boundary wall which was not all that high. I was about to give it a shot when I saw a few motorbikes approaching. I hoped that they would know how to get in. They seemed to be at an equal loss. One of the guys had left his bag in there and had come to fetch it. Since they did not have any bright ideas, I told them to look out while I attempted crossing from the neighbouring complex.
 
-It is a good thing that I have been scaling walls and doing stupid things since I was a kid. I needed all that training to get in. The rains and moss had made the surface a little slippery. The last jump was a little precarious as I had to jump a little ahead of some pots immediately under me. I managed to pull it off without twisting my ankle. Phew! I checked the reception door and it was lacked so I told the guy and he said he would pick up his bag in the morning. There was a sign that said that I was to use another gate for late nights and so I went up, panting, itching and a bit flustered at the entire event. This had not been my idea of celebration. Everyone was already asleep and I washed up and went to bed. I slept to the sound of rain pattering against the window. Fortunately I had not been locked out for the night.
+It is a good thing that I have been scaling walls and doing stupid things since I was a kid. I needed all that training to get in. The rains and moss had made the surface a little slippery. The last jump was a little precarious as I had to jump a little ahead of some pots immediately under me. I managed to pull it off without twisting my ankle. Phew! I checked the reception door and it was locked so I told the guy and he said he would pick up his bag in the morning. There was a sign that said that I was to use another gate for late nights and so I went up, panting, itching and a bit flustered at the entire event. This had not been my idea of celebration. Everyone was already asleep and I washed up and went to bed. I slept to the sound of rain pattering against the window. Fortunately I had not been locked out for the night.
 
 I brought up the closing time with the owner the next day. He told me it varied and I asked him what one was to do if he came late. He simply told me that one of the keys given to me were for the main gate. Awesome! So the only time I decide to leave my bag behind, I happen to need it all the more. Anyway, I checked out and then went to the **Captain Chim's Guesthouse** where Eitan had told me of the 3 USD dorms. It was a little run down but it served the purpose. The first thing I did after checking in was to ask for the closing time of the main gate.
 
@@ -105,7 +107,7 @@ I had initially planned to rent out a motorbike and go to Kep or Bokor but the b
 	<em>Strolling by the riverside</em>
 </p>
 
-I happened to remember a place that Bed 6 had told me about and decided to go check it out. It was around 8 kilometers out of town so I thought I would use this as an excuse to get some exercise as well. I rented out a bicycle from the hostel and set out for **Greenhouse** upstream on the other side of the river. The bike was in a rather dismal state. It was supposed to be an MTB but the gears did not work and the tyres lacked the required pressure. And this was the bet one I could find from the lot they had. I was expecting to ride through the countryside but it turned out to be a highway. There were quite a few trucks and more 4 wheeled vehicles. People looked at me curiously as I passed them by sweating and panting on my bicycle. Some smiled at me when I caught their gaze. I smiled at everyone I saw.
+I happened to remember a place that Bed 6 had told me about and decided to go check it out. It was around 8 kilometers out of town so I thought I would use this as an excuse to get some exercise as well. I rented out a bicycle from the hostel and set out for **Greenhouse** upstream on the other side of the river. The bike was in a rather dismal state. It was supposed to be an MTB but the gears did not work and the tyres lacked the required pressure. And this was the best one I could find from the lot they had. I was expecting to ride through the countryside but it turned out to be a highway. There were quite a few trucks and more 4 wheeled vehicles. People looked at me curiously as I passed them by sweating and panting on my bicycle. Some smiled at me when I caught their gaze. I smiled at everyone I saw.
 
 <p class="postimg">
 	<img src="https://c5.staticflickr.com/9/8374/29423575500_bdf5f6f5a7.jpg" alt="bikeride-1">
@@ -119,9 +121,7 @@ I had underestimated how long 8.5 kms would be. The undulating roads and humid, 
 	<em>Mud trail to Greenhouse</em>
 </p>
 
-I found Greenhouse and parked my bicycle inside. Their friendly big black dog greeted me at the gate and wanted to smell me up, thus getting into my way of putting the bicycle on stand. The cafe was pretty amazing as well. It was right on the river and there was a bunch of people sitting around. I was not up to socializing so I stuck to sitting my myself, drinking a couple of beers, writing and eating some delicious Fish Amok.
-
-There was a platform right under where one could go take a dive in the river. I had my swimming trunks on but I lost all determination once I was actually there. 😞 There were a few people swimming in the river but I stuck to the cafe. I need more confidence in fresh water; I need to practice swimming some more.
+I found Greenhouse and parked my bicycle inside. Their friendly big black dog greeted me at the gate and wanted to smell me up, thus getting into my way of putting the bicycle on stand. The cafe was pretty amazing as well. It was right on the river and there was a bunch of people sitting around. I was not up to socializing so I stuck to sitting by myself, drinking a couple of beers, writing and eating some delicious Fish Amok. There was a platform right under where one could go take a dive in the river. I had my swimming trunks on but I lost all determination once I was actually there. 😞 There were a few people swimming in the river but I stuck to the cafe. I need more confidence in fresh water; I need to practice swimming some more.
 
 <blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BHtYZXLhQeS/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by Karan (@grasskode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-07-11T05:15:00+00:00">Jul 10, 2016 at 10:15pm PDT</time></p></div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
