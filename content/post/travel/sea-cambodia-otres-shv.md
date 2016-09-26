@@ -1,16 +1,15 @@
 +++
 date = "2016-09-25T04:15:23+07:00"
-commented_categories = ["travel"]
-commented_tags = ["south east asia", "cambodia", "beach", "hippie place", "backpacking"]
-commented_series = "SEA Chronicles"
-type = "draft"
+categories = ["travel"]
+tags = ["south east asia", "cambodia", "beach", "hippie place", "backpacking"]
+series = "SEA Chronicles"
 image = "https://c4.staticflickr.com/9/8033/29241675243_4ba67bb3bd_c.jpg"
 title = "Otres & Sihanoukville, Cambodia"
 toc = true
 
 +++
 
-I suddenly decided to get out of Kampot and headed towards the seaside to check out the much talked-about Otres Beach. It was off season and I found overcast skies, rough seas, empty beaches that housed perennial hippies and a fabricated tourist hub. I took some time to myself to work on pending projects and then headed back to Vietnam where a prior engagement awaited me.
+I suddenly decided to get out of Kampot and headed towards the seaside to check out the much talked-about Otres Beach. It was off season and I found overcast skies, rough seas, empty beaches that housed perennial hippies in a fabricated tourist hub. I took some time to myself to work on pending projects and then headed back to Vietnam where a prior engagement awaited me.
 
 <hr />
 
@@ -111,9 +110,9 @@ There was a **big** family getting on board the train. They formed the majority 
 
 Kampot came soon after the train resumed it's movement and I got down to get a guava for breakfast. Back in the train, a man struck up a conversation with me. He was offering me one of the eggs he had bought on the station to show his kindness. I thanked him and told him that I was good with my guava. This was Bao from Sihanoukville and the big family wreaking havoc in the coach was his. He was studying English Literature and aspired to become a tour guide. They were travelling to their village near the Vietnam border and when I told him my plans to go to Vietnam, he very kindly offered to take me with him to his village, saying I could cross over to Vietnam from there. I had to decline though, not sure whether I could do a legal crossing from there and in general apprehensive of taking on a random offer. Bao was super excited about everything he saw from the train. This was probably his first train journey. He showed me rice fields and told me about the planting and harvesting seasons. 70% of Cambodians were farmers, as per him. He also showed me some paintings on his Samsung phone and told me the ongoing rates of second hand phones in the market. He kept calling me "Bollywood" and said that his mother had thought I was an actor! It was nice to have a proper conversation with a Cambodian, despite it being a trivial and pointless one.
 
-The family got off at Takeo. I did not know else I would have said a more proper goodbye to Bao. The expats had gotten off at Kampot itself and the train carriage was now sparsely populated. The remaining passengers journeyed towards Phnom Penh. There was a marked increase in the amount of garbage as we entered the city. A brief spell of rains came down and children could be seen making the best of the messy and wet garbage strewn rail yards. Cambodia really has a long distance to cover. The train slowed down as it entered the city. There were many unmanned crossings and cars recklessly kept crossing till the very last moment! The train even hit a moto that was parked too close to the track. Fortunately there was no one on the moto but we waited till the owner showed up from the farms around and the staff rebuked him before continuing to the Phnom Penh station at last. Train journeys in Cambodia are rather eventful!
+Bao and his family got off at Takeo. I would have said a proper goodbye had I known this. The expats had gotten off at Kampot itself and the train carriage was now sparsely populated. The remaining passengers journeyed towards Phnom Penh. There was a marked increase in the amount of garbage as we entered the city. A brief spell of rains came down and children could be seen making the best of the messy and wet garbage strewn rail yards. Cambodia really has a long distance to cover. The train slowed down as it entered the city. There were many unmanned crossings and cars recklessly kept crossing till the very last moment! The train even hit a moto that was parked too close to the track. Fortunately there was no one on the moto but we waited till the owner showed up from the farms around and the staff rebuked him before continuing to the Phnom Penh station at last. Train journeys in Cambodia are rather eventful!
 
-> **Cambodia Tip #?**
+> **Cambodia Tip #5**
 
 > Take the train whenever you can in Cambodia. The journeys are full of novel experiences that are amusing and entertaining.
 
@@ -136,7 +135,7 @@ I woke up around 2 AM with an itchy feeling. My mind kept pushing the obvious th
 
 I got up and freshened up; then I ran through my liner, killing a big fat bug that had been sitting inside all night. I found another one in my shorts that had been on the bed all night. I could not find anything in the bag. I packed everything up and checked out. I did not say a word to the staff. I chose to write a bad review instead. It is impossible that these guys do not know about such a bad case of infestation. I booked a room in **Thinh Vuong**, the hostel I had stayed in during my last visit to HCMC and walked up to the hostel and checked in. I was shown to the same dorm room and the same bed. Wonderful! I knew for sure that there were no bugs here.
 
-> **Pro Tip #?**
+> **Pro Tip #14**
 
 > It is of utmost importance that you do not show impatience in case of bed bugs. Go through your clothes and luggage systematically and with care. The only way bed bugs are harmful is when they can sneak into your luggage and you carry you with them throughout the journey. You definitely do not want that.
 
