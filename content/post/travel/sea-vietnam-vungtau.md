@@ -3,7 +3,6 @@ date = "2016-09-30T13:31:52+05:30"
 categories = ["travel"]
 tags = ["south east asia", "vietnam", "beach", "backpacking"]
 series = "SEA Chronicles"
-type = "draft"
 image = "https://c6.staticflickr.com/9/8260/29956971421_cd44af23d4_c.jpg"
 title = "Vũng Tàu, Vietnam"
 toc = true
