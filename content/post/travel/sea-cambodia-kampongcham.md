@@ -1,9 +1,8 @@
 +++
 date = "2016-10-22T10:39:51+05:30"
-commented_categories = ["travel"]
-commented_tags = ["south east asia", "cambodia", "mekong", "off beat", "backpacking"]
-commented_series = "SEA Chronicles"
-type = "draft"
+categories = ["travel"]
+tags = ["south east asia", "cambodia", "mekong", "off beat", "backpacking"]
+series = "SEA Chronicles"
 image = "https://c7.staticflickr.com/6/5683/30186284710_45080cf28f_c.jpg"
 title = "Kampong Cham, Cambodia"
 toc = true
@@ -93,7 +92,7 @@ I walked to the city by an alternate route. There was a beautiful provincial hal
 	<em>Colonial architecture</em>
 </p>
 
-I slowly walked in the direction of the guest house. Earlier in the afternoon, with all the fuss around the room, I had started thinking that it might have been a bad idea to stop in this town but now I was convinced otherwise. I rested a while in the guest house and then decided to head out to grab a bite. I walked around and ended up on the riverside. I ate a *kachay cake* from a stall and then returned to the main market to have dinner at one of the [places](https://goo.gl/maps/6LR5Ju6D9NT2) I had seen that afternoon. There were quite a few locals there so I decided to go in. The menu said that every dish was for 2 USD, which is rather cheap by Cambodian standards. I ordered a beef soup and it came with a casserole full of rice! I finished it all. [:P]
+I slowly walked in the direction of the guest house. Earlier in the afternoon, with all the fuss around the room, I had started thinking that it might have been a bad idea to stop in this town but now I was convinced otherwise. I rested a while in the guest house and then decided to head out to grab a bite. I walked around and ended up on the riverside. I ate a *kachay cake* from a stall and then returned to the main market to have dinner at one of the [places](https://goo.gl/maps/6LR5Ju6D9NT2) I had seen that afternoon. There were quite a few locals there so I decided to go in. The menu said that every dish was for 2 USD, which is rather cheap by Cambodian standards. I ordered a beef soup and it came with a casserole full of rice! I finished it all. 🍲 🍚 😄
 
 <p class="postimg">
 	<img src="https://c1.staticflickr.com/9/8608/30186287000_449daed107.jpg" alt="rice-place-1">
@@ -105,7 +104,7 @@ I slowly walked in the direction of the guest house. Earlier in the afternoon, w
 	<em>Rice plate : After!</em>
 </p>
 
-I had overeaten and decided to take a walk down the riverside road to aid digestion. The promenade was beautifully lit up and there were a lot of locals hanging around. It seemed like the night time activity of choice for everyone in town. There was a market there as well which was really big. It seemed like the entire town was there. I decided to join the crowd and walked inside. They were selling everything, from mattresses to laundry baskets to shoes to delicious looking food. There was a stage with some ongoing drama, EDM blasting from somewhere and maybe a ferris wheel somewhere. [:P] I went around once and then walked out. I was too tired to continue and called it an early night back in the guest house.
+I had overeaten and decided to take a walk down the riverside road to aid digestion. The promenade was beautifully lit up and there were a lot of locals hanging around. It seemed like the night time activity of choice for everyone in town. There was a market there as well which was really big. It seemed like the entire town was there. I decided to join the crowd and walked inside. They were selling everything, from mattresses to laundry baskets to shoes to delicious looking food. There was a stage with some ongoing drama, EDM blasting from somewhere and maybe a ferris wheel somewhere. 🎡 I went around once and then walked out. I was too tired to continue and called it an early night back in the guest house.
 
 <p class="postimg">
 	<img src="https://c6.staticflickr.com/6/5705/29852352573_6c579ec75a.jpg" alt="night-market-2">
