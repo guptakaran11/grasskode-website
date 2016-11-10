@@ -2,7 +2,7 @@
 categories = ["book review"]
 date = "2016-11-10T21:24:16+05:30"
 image = "images/books.jpg"
-tags = ["great war", "fiction", "philosophy", "psychology"]
+tags = ["great war", "fiction", "philosophy", "psychology", "short read"]
 title = "Hermann Hesse - Demian"
 toc = false
 
