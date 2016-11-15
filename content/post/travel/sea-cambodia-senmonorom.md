@@ -1,22 +1,21 @@
 +++
 date = "2016-11-03T17:15:48+05:30"
-commented_categories = ["travel"]
-commented_tags = ["south east asia", "cambodia", "hills", "elephants", "nature", "backpacking"]
-commented_series = "SEA Chronicles"
-type = "draft"
+categories = ["travel"]
+tags = ["south east asia", "cambodia", "hills", "elephants", "nature", "backpacking"]
+series = "SEA Chronicles"
 image = "https://c6.staticflickr.com/6/5447/25299355589_f251e88c6a_c.jpg"
 title = "Sen Monorom, Cambodia"
 toc = true
 
 +++
 
-I spent a few lazy days in Kampong Cham and then headed out to Sen Monorom in the Mondulkiri province. The north-eastern provinces of Cambodia do not see a lot of tourists and offer a lot of pleasant experiences to the ones who wander in this direction. Mondulkiri was strongly recommended by a friend and since I had nothing particularly planned, I decided to go to Sen Monorom and figure it out thence. The province turned out to be much more beautiful than I had expected it to be!
+I spent a few lazy days in Kampong Cham and then headed out to Sen Monorom in the Mondulkiri province. The north-eastern provinces of Cambodia do not see a lot of tourists and offer a lot of pleasant experiences to the ones who wander in this direction. Mondulkiri was strongly recommended by a friend and since I had nothing particularly planned, I decided to go to Sen Monorom and figure it out thence. The province turned out to be much more beautiful than I had expected it to be! I also met people and heard stories that might stick with me for a long time.
 
 <hr />
 
 ## A Hilly Affair
 
-I woke up early and checked out of the hotel by 7:30 AM. I went to the *Sorya* stand first to inquire about available buses to **Sen Monorom**. They did not have one till later that afternoon, so I went to Lang US Express office which was a short walk away. They had a bus at 8:30 AM which I had already confirmed earlier. So I bought a ticket and sat waiting while the minutes ticked away to the departure time. Eventually a *motodop* came and picked me up and took me to a minivan which was being loaded with people and goods. I had been expecting a proper bus but I was yet to learn of Cambodia's ways in transport. I hopped in expecting a new experience, if nothing else. The population of the minivan was almost all locals with just one other tourist sitting right behind me.
+I woke up early and checked out of the hotel by 7:30 AM. I went to the *Sorya* stand first to inquire about available buses to **Sen Monorom**. They did not have one till later that afternoon, so I went to Lang US Express office which was a short walk away. They had a bus at 8:30 AM which I had already confirmed earlier. So I bought a ticket and sat waiting while the minutes ticked away to the departure time. Eventually a *motodop* came and picked me up and took me to a minivan which was being loaded with people and goods. I had been expecting a proper bus but I was yet to learn of Cambodia's ways in transport. I hopped in hoping for a new experience, if nothing else. The population of the minivan was all local with just one other tourist sitting right behind me.
 
 I drifted in and out of sleep during the entire journey. There were many stoppages to drop people or couriers but we managed to do the distance in good time. The locals in the minivan were quite pleasant. The hardworking conductor of the van even offered me some snacks when we stopped at one of the pit-stops for refreshments. I thanked her and took the grilled banana, which was a novelty for me. The Cambodian snack of preference is the boiled egg. You can see them eating that everywhere and the shells and smell linger on as a phantasmal reminder. But it is all part of the experience, is it not? So is the fact that the minivans are filled to their utmost capability. They stop just short of piling people and goods on top of one another, which is what you can still experience in India at times.
 
@@ -212,7 +211,7 @@ Then I sat in the circle that had formed around Heng while she was telling her s
 
 > **An Orphan's Life**
 
-> Heng had been orphaned at the age of 5. Her father had expired a while back and her mother, a midwife, had been accused of witchcraft by a man whose wife had died of complications a few days after Heng's mother had helped her give birth. The man tied Heng's mother and brothers together and cut then with a machete right in front of Heng's eyes! The village stood quiet while the murderer slaughtered the family. The little girl ran away from the freak and tried to find someone who who shelter her. Her uncles turned her away, lest the maniac follow her and terrorise their families. Shunned by the village, she took to the forest.
+> Heng had been orphaned at the age of 5. She had been brought up without a father and her family consisted of her mother and her five brothers. One morning, a man came raging up to their house and accused Heng's mother, a midwife, of witchcraft. She had helped the man's wife give birth and certain complications had led to the woman's death. The ravaged man thought it to be Heng's mother's doing and tied her and Heng's brothers together and cut then with a machete right in front of Heng's eyes! The village stood quiet while the murderer slaughtered the family. The little girl ran away from the freak and tried to find someone who would shelter her. Her uncles turned her away, lest the maniac follow her and terrorise their families. Shunned by the village, she took to the forest.
 
 > For the next three years the girl lived in the forest, drinking from the river, foraging for food and smoking tobacco that she picked from the wilderness. In her own words, humans scared Heng more than the forest ever did. Around the age of 8, Heng went near the village and was spotted by a Khmer woman who took her in. This was the first time in 3 years (that's almost half a lifetime for an 8 year old) Heng was shown warmth and love. She had to relearn how to love and trust another human being.
 
