@@ -17,3 +17,7 @@ In a recent cleaning exercise, out of the recesses of old bookshelves, came out 
 <a href="https://www.goodreads.com/review/list/20996466-karan-gupta">View all my reviews</a>
 
 <hr />
+
+<p class="unscaledimg">
+	<a target="_blank"  href="https://www.amazon.in/gp/product/1537217542/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1537217542&linkCode=as2&tag=readings0c-21&linkId=1f2fa7b9f1f8433bfd67a1b42d7ad9d2"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=1537217542&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=readings0c-21" ><br/>Buy From Amazon</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=readings0c-21&l=am2&o=31&a=1537217542" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</p>
