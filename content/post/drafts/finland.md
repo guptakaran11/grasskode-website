@@ -2,14 +2,13 @@
 date = "2017-02-10T00:20:47+05:30"
 commented_categories = ["travel"]
 commented_tags = ["europe", "nordic", "finland", "winter", "unesco-site"]
-type = "draft"
 image = "https://c1.staticflickr.com/3/2593/32709658602_c5f6f786e9_c.jpg"
 title = "Far up North"
 toc = true
 
 +++
 
-Finland happened quite suddenly. Parul had a client meeting in Helsinki I decided to join her there. We planned a week long trip, with the first 2 weekdays reserved for Parul's meetings when I could work out of the hotel. Then, we were planning to take the rest of the week off and see a bit of Finland. The planning of this trip was an adventure of it's own. From booking flights on a short notice to making a special trip to Pune just to get my passport for applying for the visa; Filnad, from the very onset promised of adventure! Then the visa processing got delayed and arrived just a couple of days before our flight out!
+Finland happened quite suddenly. Parul had a client meeting in Helsinki I decided to join her there. We planned a week long trip, with the first 2 weekdays reserved for Parul's meetings when I could work out of the hotel. Then, we were planning to take the rest of the week off and see a bit of Finland. The planning of this trip was an adventure of it's own. From booking flights on a short notice to making a special trip to Pune just to get my passport for applying for the visa; Finland, from the very onset promised of adventure! Then the visa processing got delayed and arrived just a couple of days before our flight out!
 
 All said and done, we boarded our flight from Pune one Friday night and reached Delhi airport where we spent the night before catching the flight out to Helsinki the next morning. Arjun and Vaishali were also joining us in Finland. We were catching the same flight to Helsinki but that was one of the few common agendas on our itinerary. The Finnair flight was comfortable enough and I spent it reading a book that I had recently started ([About Time](https://www.goodreads.com/book/show/17248885-about-time)), sleeping intermittently and watching a movie ([Captain Fantastic](http://www.imdb.com/title/tt3553976/)). This was my first time flying Finnair and I was quite impressed. It did not have the typical national airlines dullness and the food was *really* good! After a shortish flight of seven and a half hours, we were descending to the airstrip in Helsinki airport.
 
@@ -233,7 +232,7 @@ Saariselka has a lot to offer even if one is unable to see the northern lights. 
 	<em>Hiking around Saariselka</em>
 </p>
 
-As we approached the town from another direction, we came across a small slope where children were pulling up slopes and sliding back down on them. It looked so much fun! We came back with Arjun and Vaishali later that evening to give it a shot and I slid down the slope twice. 🏂 Simple joys of life!
+As we approached the town from another direction, we came across a small slope where children were pulling up sledges and sliding back down on them. It looked so much fun! We came back with Arjun and Vaishali later that evening to give it a shot and I slid down the slope twice. 🏂 Simple joys of life!
 
 <p class="postimg">
 	<img src="https://c1.staticflickr.com/1/623/32482027270_38354d2c92.jpg" alt="saariselka-sledges-1">
@@ -341,7 +340,7 @@ We settled into the cabin and experimented with the fancy light switches. The pr
 	<em>Glass ceilinged cabin</em>
 </p>
 
-We left for the town once towards the evening. It was half an hour walk away and we crossed the frozen river to get to the other side. Both of us were walking warily on the frozen ice expect it to give way under us suddenly while snow mobiles raced on it this icy highway. Parul wanted to get some souvenir shopping done but it turned out that Ivalo closed down earlier than Saariselka! So we ended up getting a bottle of wine, some local vodka, chocolates and some random things from the local supermarket. Then we went to a [restaurant](http://www.hotellikultahippu.fi/ravintola-y-a-kerho/ravintola.htm) that had been recommended to us by a local and had some amazing dinner. I ate a salmon coated with rye and Parul had some beetroot cutlets. Both the dishes were lip smacking marvellous!
+We left for the town once towards the evening. It was half an hour walk away and we crossed the frozen river to get to the other side. Both of us were walking warily on the frozen ice expecting it to give way under us suddenly, while snow mobiles raced on it this icy highway. Parul wanted to get some souvenir shopping done but it turned out that Ivalo closed down earlier than Saariselka! So we ended up getting a bottle of wine, some local vodka, chocolates and some random things from the local supermarket. Then we went to a [restaurant](http://www.hotellikultahippu.fi/ravintola-y-a-kerho/ravintola.htm) that had been recommended to us by a local and had some amazing dinner. I ate a salmon coated with rye and Parul had some beetroot cutlets. Both the dishes were lip smacking marvellous!
 
 <p class="postimg">
 	<img src="https://c1.staticflickr.com/4/3854/32482012580_0eb4802f88.jpg" alt="ivalo-restaurant-1">
