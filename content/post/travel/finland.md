@@ -1,8 +1,7 @@
 +++
 date = "2017-02-10T00:20:47+05:30"
 commented_categories = ["travel"]
-commented_tags = ["europe", "nordic", "finland", "winter", "snow"]
-type = "draft"
+commented_tags = ["europe", "nordic", "finland", "winter", "unesco-site"]
 image = "https://c1.staticflickr.com/3/2593/32709658602_c5f6f786e9_c.jpg"
 title = "Far up North"
 toc = true
