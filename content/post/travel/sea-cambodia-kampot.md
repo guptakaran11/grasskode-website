@@ -190,7 +190,7 @@ I rode around a bit to a small pond indicated on the map. It was only after gett
 </p>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/29713862375/in/album-72157672787550542/" title="bokor"><img src="https://c8.staticflickr.com/9/8448/29713862375_21a49ff841.jpg" width="500" height="281" alt="bokor"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/29713862375/in/album-72157672787550542/" title="bokor"><img src="https://c8.staticflickr.com/9/8448/29713862375_21a49ff841.jpg" alt="bokor"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>VIDEO : Bokor Ride</em>
 </p>
 
@@ -302,7 +302,7 @@ I then rode to the other end of the town just to see what it was like. Kep seeme
 > Ride along the seaside road during sunset. It is a very pretty sight.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/29713793695/in/album-72157672787550542/" title="kep-seaside"><img src="https://c8.staticflickr.com/9/8514/29713793695_82c5c7058a.jpg" width="500" height="281" alt="kep-seaside"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/29713793695/in/album-72157672787550542/" title="kep-seaside"><img src="https://c8.staticflickr.com/9/8514/29713793695_82c5c7058a.jpg" alt="kep-seaside"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>VIDEO : Riding along the sea</em>
 </p>
 
@@ -330,4 +330,4 @@ Find the previous posts in this series [here](/series/sea-chronicles).
 
 And here is the complete album of the Kampot leg of the trip.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157672787550542" title="Kampot, July 2016"><img src="https://c1.staticflickr.com/9/8451/29423603160_af690c93e9.jpg" width="500" height="375" alt="Kampot, July 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157672787550542" title="Kampot, July 2016"><img src="https://c1.staticflickr.com/9/8451/29423603160_af690c93e9.jpg" alt="Kampot, July 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

@@ -195,7 +195,7 @@ I walked up to another part of the town which was known for it's night market. I
 Hanoi had seemed a very different city. An older man tapped on my shoulder and asked me where I was from. He was an American who lived in Vasant Vihar in Delhi. He worked for WHO. We talked for several minutes about India, racism, cricket and Tendulkar, etc. Then we shook hands and the conversation ended as abruptly as it had begun. A young boy offered me marijuana. I was unable to understand what he was saying initially because he did not look your typical drug peddler, but once I did, I laughed and waved him off.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/28107311351/in/album-72157670146706981/" title="hanoi-nightlife"><img src="https://c8.staticflickr.com/8/7713/28107311351_8290807496.jpg" width="500" height="281" alt="hanoi-nightlife"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/28107311351/in/album-72157670146706981/" title="hanoi-nightlife"><img src="https://c8.staticflickr.com/8/7713/28107311351_8290807496.jpg" alt="hanoi-nightlife"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>VIDEO : Living the night!</em>
 </p>
 
@@ -300,7 +300,7 @@ There was the legend of how Uncle Ho voyaged across the world and came to realis
 </p>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/28185213675/in/album-72157670146706981/" title="hcm-museum-typewriter"><img src="https://c4.staticflickr.com/8/7454/28185213675_ededc732d7.jpg" width="500" height="281" alt="hcm-museum-typewriter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/28185213675/in/album-72157670146706981/" title="hcm-museum-typewriter"><img src="https://c4.staticflickr.com/8/7454/28185213675_ededc732d7.jpg" alt="hcm-museum-typewriter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>VIDEO : Spooky!</em>
 </p>
 
@@ -334,4 +334,4 @@ Find the previous posts in this series [here](/series/sea-chronicles).
 
 And here is the complete album of the Hanoi leg of the trip.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157670146706981" title="Hanoi, June 2016"><img src="https://c1.staticflickr.com/8/7371/28072000992_24573b70dd.jpg" width="500" height="375" alt="Hanoi, June 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157670146706981" title="Hanoi, June 2016"><img src="https://c1.staticflickr.com/8/7371/28072000992_24573b70dd.jpg" alt="Hanoi, June 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

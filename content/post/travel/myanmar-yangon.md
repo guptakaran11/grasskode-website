@@ -218,4 +218,4 @@ Previous posts in this series :
 
 And here is the complete album of the Yangon of our trip.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157668290291901" title="Yangon, Mar 2016"><img src="https://farm8.staticflickr.com/7116/26502907483_ff6d1333fd.jpg" width="500" height="333" alt="Yangon, Mar 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157668290291901" title="Yangon, Mar 2016"><img src="https://farm8.staticflickr.com/7116/26502907483_ff6d1333fd.jpg" alt="Yangon, Mar 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

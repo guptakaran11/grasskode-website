@@ -15,7 +15,7 @@ This post is about the third day of my road trip from Delhi to Pune via Madhya P
 We woke up early and got ready to leave. We stopped at the first tea stall that we came across. It is a necessity one cannot easily do without. As we sat down to wait for the tea, one of the locals sitting there struck up a conversation with BBC. It started with a "*Where are you coming from?*" and went on with the usual questions about the number of kilometers travelled, what all we had covered on the way, how many days did it take us this far, what was the route forward, and, of course, what is the mileage of our bikes. We sat sipping our teas and enjoying the conversation. We started comparing lives in metros versus the smaller cities like Panna. He told us that got ready for office 30 minutes before the time he was due in office. Unlike the metros, the traffic did not consume a major chunk of the day's hours. Then we discussed about the lack of water in the waterfalls around. He told us that the last season had seen very little rain. I asked him about the primary occupation of people in these parts. There was very little agriculture. It was mostly government jobs or mining for precious stones. Agriculture was not a very prominent or lucrative profession in these parts.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/24893430480/in/photostream/" title="morning-tea"><img src="https://farm2.staticflickr.com/1453/24893430480_3aa42c02cc.jpg" width="500" height="281" alt="morning-tea"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1453/24893430480_3aa42c02cc.jpg" alt="morning-tea">
 	<em>Morning tea in Panna</em>
 </p>
 
@@ -37,28 +37,28 @@ We drank a cup of tea, took a change of clothes and bought some *pooja-samagri* 
 A bunch of boys were swimming and diving in it's clear blue waters. The *kund* was not huge and was lit by a skylight right above it. It extended to the far end of the cave. On this side there were two more *Shiva* temples. There were pipes descending into the pool, probably to draw water out of it. The water looked inviting and the boys seemed to be having fun, so we decided to join them and quickly got rid of our clothes. The only problem : neither of us was a good swimmer. I let BBC go in first. He idled on on side of the pool for quite some time, asking the boys about the depth of the *kund*. They told him that it was **deep**. So deep that the bottom was unknown. The shopkeeper outside had even told us that any kind of earthquake or volcanic activity in any part of the world was observed here as well. One of the boys told me that people from National Geographic had come to measure the depth of the pool and went away without an answer. How much of all this was fact or fiction was uncertain but it sure was interesting. However, the fact remained that the pool was deep enough to drown us. BBC took the leap of faith. He tried swimming to the other side, failed to grab the rock and was helped by the boys up. He came out with a smile on his face. My turn! I took a dip on my side and then swam to the other side. The length was not much and I could easily complete it in a couple of strokes. Had I been required to stop mid way for any reason, well, it would have not been pretty!
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/25162724896/in/photostream/" title="bheemkund-2"><img src="https://farm2.staticflickr.com/1556/25162724896_3344b5c04e.jpg" width="500" height="281" alt="bheemkund-2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1556/25162724896_3344b5c04e.jpg" alt="bheemkund-2">
 	<em>The skylight over Bheemkund</em>
 </p>
 
 We spent close to an hour at **Bheemkund**. It was a delightful find. We swam in the water some more. I noticed some shampoo sachets floating around but the water wasn't dirty. It had a slightly sweet taste to it as well. The shopkeeper outside later told us that this was another miraculous aspect of the pool. Even in *melas*, when thousands thronged to bathe in the pool, the water never got dirty! I talked to the boys, asked them where they were from. Most were from a cement plant nearby and one had come from Bhopal. I asked them how much time would it take to Sanchi; 5 hours, they said. And another hour to Bhopal thence. Finally, we got out of the water, dried and changed, put the *pooja-samagri* to use and came out of the cave. A sign proclaimed that swimming in **Bheemkund** was dangerous. Well, too late now.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/24893456620/in/photostream/" title="bheemkund-4"><img src="https://farm2.staticflickr.com/1461/24893456620_9307584ff8.jpg" width="500" height="281" alt="bheemkund-4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1461/24893456620_9307584ff8.jpg" alt="bheemkund-4">
 	<em>Warning!</em>
 </p>
 
 We went back outside and had another couple of cups of tea. For the lack of a good option for food, we decided to hit the highway and stop at a *dhaba*. We went back and sat at the shop where our luggage was dumped. The shopkeeper told his story this time; of how he had lost his ability to stand. He was stricken with partial paralysis since birth and the ailment aggravated with each passing year till it consumed his legs. Even his left hand was not completely functional. But this man had the spirit of a fighter. "Better to die than to beg!" he said. I told him the country needed more like him. People had gotten used to freeloading here. We said our goodbyes and he told us to come back sometime. I answered in the affirmative and we offroaded our way back to the highway. Immediately after, we saw a *dhaba* and sat down to have some delicious lunch of *dal* and *sev tamatar* with *rotis*.
 
 <p class="postimg">
-	<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/25162745546/in/album-72157664382442610/" title="mp-roads-2"><img src="https://farm2.staticflickr.com/1458/25162745546_949fc75c77.jpg" width="500" height="281" alt="mp-roads-2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1458/25162745546_949fc75c77.jpg" alt="mp-roads-2">
 	<em>Beautiful highways of Madhya Pradesh</em>
 </p>
 
 It was half past three in the afternoon by the time we resumed our journey on the road. 5 hours to Sanchi would mean 8:30 PM. We realised the reality and discussed our options over another cup of tea further down the road. The sun was about to set and it would take us at least a couple of hours to get to Bhopal. And it would be utterly pointless since the next day we would have to drive 40 kilometers back to see the Stupa. We decided to put up in Vidisha instead.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/24558437974/in/photostream/" title="mp-roads-6"><img src="https://farm2.staticflickr.com/1637/24558437974_3f0e2f12f3.jpg" width="500" height="281" alt="mp-roads-6"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1637/24558437974_3f0e2f12f3.jpg" alt="mp-roads-6">
 	<em>Sun sets over the highway</em>
 </p>
 
@@ -77,4 +77,4 @@ Here is the route taken on Day 3 on Google Maps.
 
 And here is a complete album of the road trip.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157664382442610" title="Delhi Pune Roadtrip, Feb 2016"><img src="https://farm2.staticflickr.com/1478/24558083584_fc44cac6db.jpg" width="500" height="398" alt="Delhi Pune Roadtrip, Feb 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157664382442610" title="Delhi Pune Roadtrip, Feb 2016"><img src="https://farm2.staticflickr.com/1478/24558083584_fc44cac6db.jpg" alt="Delhi Pune Roadtrip, Feb 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

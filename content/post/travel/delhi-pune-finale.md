@@ -16,7 +16,7 @@ This post is about the final leg of my road trip from Delhi to Pune via Madhya P
 We started relatively less early the next morning. The **Stupa** at Sanchi would not be open before sunrise so we had decided to leave by 8 AM. I had to fix the idling RPM of my bike which had somehow reduced, so I got the bike out of the parking lot and opened it up. For some unknown reason the guys at RE had decided to make it thoroughly inconvenient to fix a thing as simple as this. BBC came back with his bike and we had a silly fight with the parking attendant over 10 rupees. It ended with us paying him an extra 10 bucks, him calling us liars and me shouting at him while he walked away. Finally I fixed the Typhon's RPM, shut it up, withdrew some money out of an ATM, had breakfast at a street-side stall, and reached Sanchi by 9 AM. We bought a couple of tickets and a couple of delicious guavas. After eating the guavas we rode a winding road up a hill and parked our bikes in an empty parking lot. The cloak room was not open yet so we asked the guard if we could leave our bags with him. He agreed and so we dumped our bags, got our tickets stamped and went inside the **Stupa** complex.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/24893488220/in/photostream/" title="sanchi-stupa-1"><img src="https://farm2.staticflickr.com/1473/24893488220_eea50357a5.jpg" width="500" height="281" alt="sanchi-stupa-1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1473/24893488220_eea50357a5.jpg" alt="sanchi-stupa-1">
 	<em>Entering the Great Stupa complex</em>
 </p>
 
@@ -25,34 +25,34 @@ For some reason the history text books had always given me the impression that t
 > The Stupa was commissioned by **Asoka the Great** of the Mauryan Empire in the 3rd century BC and the construction was overlooked by his wife, Devi, who belonged to Sanchi. During the next two centuries, under the **Shunga** and **Satavahana** periods, the Stupa was adorned with the *toranas* (gateways), balustrades and the canopies, as well as the Stupa 2 and 3. Many more temples and monasteries were added over the centuries as the site continued to be an active site for Buddhist activities.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/24821424529/in/photostream/" title="sanchi-stupa-3"><img src="https://farm2.staticflickr.com/1713/24821424529_b6084d6182.jpg" width="500" height="281" alt="sanchi-stupa-3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1713/24821424529_b6084d6182.jpg" alt="sanchi-stupa-3">
 	<em>Stupa 3 from the walkway</em>
 </p>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/24558461654/in/photostream/" title="sanchi-stupa-4"><img src="https://farm2.staticflickr.com/1450/24558461654_21dbd93f01.jpg" width="500" height="281" alt="sanchi-stupa-4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1450/24558461654_21dbd93f01.jpg" alt="sanchi-stupa-4">
 	<em>Approaching the Great Stupa</em>
 </p>
 
 I personally found the **Stupa** very exquisite. The artwork on the gateways was extremely detailed and impressive. Plus there was a detailed explanation of the artwork and the stories they represented, mostly Jataka stories. I spent quite some time looking at the artwork on all the *toranas*. There were not many tourists around. Perhaps it was too early in the morning, or maybe it was the middle of the week. Whichever the reason, I enjoyed the peace till a loud group of Tamil aunties came, got all worked up and started conversing in loud voices. Then we moved away from the Stupa to and went on to explore the ruins of the monasteries and temples. The sun was up and the heat was slowly cranking up. We sought the shade of a large tree and sat under it hoping the attain enlightenment alike **Buddha**. The conversation drifted towards *yogis* and *sanyasis* who master their bodies to an extent of being able to defy nature. We had heard stories of people who lived in the mountains, surviving in the extreme cold without food and water. But was it a myth? Did such people really exist? If so, where could one find them? We contemplated the questions for a while and then gave up the futile exercise to go explore more temples.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/24893523700/in/photostream/" title="sanchi-stupa-7"><img src="https://farm2.staticflickr.com/1556/24893523700_2f6665fbd3.jpg" width="500" height="281" alt="sanchi-stupa-7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1556/24893523700_2f6665fbd3.jpg" alt="sanchi-stupa-7">
 	<em>Front View of the Northern Gateway</em>
 </p>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/25162814296/in/photostream/" title="sanchi-stupa-8"><img src="https://farm2.staticflickr.com/1573/25162814296_18b2625d2d.jpg" width="500" height="281" alt="sanchi-stupa-8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1573/25162814296_18b2625d2d.jpg" alt="sanchi-stupa-8">
 	<em>Rear View of the Northern Gateway</em>
 </p>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/25070915372/in/photostream/" title="sanchi-stupa-12"><img src="https://farm2.staticflickr.com/1648/25070915372_36957738a1.jpg" width="500" height="281" alt="sanchi-stupa-12"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1648/25070915372_36957738a1.jpg" alt="sanchi-stupa-12">
 	<em>The Beautiful Grand Stupa</em>
 </p>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/25162848626/in/photostream/" title="sanchi-stupa-14"><img src="https://farm2.staticflickr.com/1468/25162848626_37cb25d1c7.jpg" width="500" height="281" alt="sanchi-stupa-14"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1468/25162848626_37cb25d1c7.jpg" alt="sanchi-stupa-14">
 	<em>Ancient Buddhist Temple</em>
 </p>
 
@@ -64,7 +64,7 @@ After having seen most of the *vihara*, we decided to get a cup of coffee and th
 But this definitely was not the end of my adventure. The few kilometers till Bhopal went by easily enough. The day was still young and not many vehicles had taken to the road. From Bhopal onwards, the highway got much better. It became a one way, 4 or 6 lane highway and allowed me a decent amount of speed. I was planning to reach Dhule by the end of the day. This would make my next day easier, leaving just a few hours of travel to Pune.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/24562380953/in/photostream/" title="mp-roads-6"><img src="https://farm2.staticflickr.com/1525/24562380953_963dc801a7.jpg" width="500" height="281" alt="mp-roads-6"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1525/24562380953_963dc801a7.jpg" alt="mp-roads-6">
 	<em>One-way highway to Indore</em>
 </p>
 
@@ -75,7 +75,7 @@ We decided to simply accept that something had worked and not shake things up an
 It was three in the afternoon and the sun was glaring down on the earth. The heat was getting to my head and I was feeling a little uncomfortable. I broke up the remaining kilometers in chunks and milestones. I took a break at every milestone and refreshed myself with a tea in case a stall was available, or with some water and shade. One of the tea stalls had a rather curious owner. He told me that I reminded him of a biker friend of his who was in the army and was currently posted in Goa. Elsewhere I rested my tired back in solitude. The sun went down slowly and the heat lessened. I crossed the border to Maharashtra while the sun was low in the western sky. Dhule was not much farther away.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/24893593700/in/photostream/" title="maharashtra-1"><img src="https://farm2.staticflickr.com/1630/24893593700_7ce02abc96.jpg" width="500" height="281" alt="maharashtra-1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1630/24893593700_7ce02abc96.jpg" alt="maharashtra-1">
 	<em>Entering Maharastra to good highways</em>
 </p>
 
@@ -84,7 +84,7 @@ I was close to Dhule when it got dark enough for the headlights to be switched o
 I had some disappointing bhel and then went to a dining hall that the owner of the guest house had recommended. This place had a long waiting line, and I had to wait for almost twenty minutes! Usually I do not wait this long for food but I was quite curious as to why people were thronging this particular dining hall in a big city like Dhule. While I waited, I noticed that Dhule had a lot of Hindi speaking population. I guessed it was because of it's proximity to the state border. When my turn did come, I went and sat and was served with an unlimited meal. It totally justified the price, though not the wait. No food is worth such a long wait, in my opinion. Never the less, the simple meal was quite delicious and I ended up overeating! But I still bought a bowl of *srikhand* at the end and lapped that up as well. I suffered from the pleasurable discomfort of an overstuffed stomach as I walked back to my guest house.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/24821534489/in/photostream/" title="dhule-chetna-2"><img src="https://farm2.staticflickr.com/1604/24821534489_3f13a2fa81.jpg" width="500" height="281" alt="dhule-chetna-2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1604/24821534489_3f13a2fa81.jpg" alt="dhule-chetna-2">
 	<em>A primer to the tasty vegetarian thali</em>
 </p>
 
@@ -94,7 +94,7 @@ Once back, I tried sleeping and managed to in a short while. The day had been lo
 I woke up the next morning and was glad not to have contracted any skin ailments. I quickly changed and checked out. I left the main highway (NH3) and took the detour to Shirdi. The main highway was going to continue to Nashik and thence to Mumbai. I stopped here for some breakfast. Good old poha and masala dosa! Then I resumed the journey on the two way highway.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/25070974822/in/photostream/" title="maharashtra-3"><img src="https://farm2.staticflickr.com/1459/25070974822_1ac5e17631.jpg" width="500" height="281" alt="maharashtra-3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1459/25070974822_1ac5e17631.jpg" alt="maharashtra-3">
 	<em>NH3 out of Dhule</em>
 </p>
 
@@ -118,4 +118,4 @@ Here is the route taken during the final leg on Google Maps.
 
 And here is a complete album of the road trip.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157664382442610" title="Delhi Pune Roadtrip, Feb 2016"><img src="https://farm2.staticflickr.com/1478/24558083584_fc44cac6db.jpg" width="500" height="398" alt="Delhi Pune Roadtrip, Feb 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157664382442610" title="Delhi Pune Roadtrip, Feb 2016"><img src="https://farm2.staticflickr.com/1478/24558083584_fc44cac6db.jpg" alt="Delhi Pune Roadtrip, Feb 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

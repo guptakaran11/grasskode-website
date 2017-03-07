@@ -280,4 +280,4 @@ Find the previous posts in this series [here](/series/sea-chronicles).
 
 And here is the complete album of the Huế leg of the trip.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157671174977510" title="Hue, June 2016"><img src="https://c4.staticflickr.com/9/8892/28908974395_45f6510c64.jpg" width="500" height="375" alt="Hue, June 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157671174977510" title="Hue, June 2016"><img src="https://c4.staticflickr.com/9/8892/28908974395_45f6510c64.jpg" alt="Hue, June 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

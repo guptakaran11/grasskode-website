@@ -150,14 +150,14 @@ I had some excellent noodle soup for lunch and then walked around like the day b
 While I was walking back to the hostel, I saw something that made me double back. I expressed my desire to taste the edible and the elderly lady who was sitting at the stall offered me a piece. Yes! This was what I had thought it was : *ber ka achaar* or wild berry pickle.
 
 <p class="postimg">
-	<img src="https://c8.staticflickr.com/8/7502/27072238463_c2fd7c2c4b.jpg" width="500" height="281" alt="ber-ka-achaar-2">
+	<img src="https://c8.staticflickr.com/8/7502/27072238463_c2fd7c2c4b.jpg" alt="ber-ka-achaar-2">
 	<em>Ber ka Achaar!</em>
 </p>
 
 I used to have it as a kid when I went to my grandmother's place in Tatanagar. I bought a small pack from her, must have been 250 grams or so. Then I went to the **Phra Ram Park** and found a nice spot in front of the lake to sit down and enjoy the packet of pickle. Three school girls sat at a distance, probably bunking school. I ate every piece with relish, recalling random memories of my childhood. I used to sneak into the store room to steal the *achaar*. I couldn't remember who my accomplice used to be? Kunal Bhaiya? Kanika Didi? Why did Ma and Nani stop making these? I think it was too much effort. My mouth was scraped by the seeds and I had a small pile of them in front of me. I sucked the last drop of the sweet and sour syrup from the plastic packet. I laughed when I thought of how Ma was so disapproving of eating so much of this *achaar*. Stomach ache; heat; I did not care. I was happy!
 
 <p class="postimg">
-	<img src="https://c2.staticflickr.com/8/7693/27072237793_01d35f08f2.jpg" width="500" height="281" alt="ber-ka-achaar-3">
+	<img src="https://c2.staticflickr.com/8/7693/27072237793_01d35f08f2.jpg" alt="ber-ka-achaar-3">
 	<em>I ate all that!</em>
 </p>
 
@@ -272,4 +272,4 @@ Previous posts in this [series](/series/sea-chronicles) :
 
 And here is the complete album of the Ayutthaya leg of the trip.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157669628418006" title="Ayutthaya, June 2016"><img src="https://c7.staticflickr.com/8/7625/27039795094_00e701d26c.jpg" width="500" height="375" alt="Ayutthaya, June 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157669628418006" title="Ayutthaya, June 2016"><img src="https://c7.staticflickr.com/8/7625/27039795094_00e701d26c.jpg" alt="Ayutthaya, June 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

@@ -200,7 +200,7 @@ The second half of the journey had better roads. I was passing by Đà Lạt whi
 </p>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/29037198706/in/album-72157672536618636/" title="Đà Lạt-highways"><img src="https://c3.staticflickr.com/9/8277/29037198706_6704b3cc38.jpg" width="500" height="281" alt="Đà Lạt-highways"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/29037198706/in/album-72157672536618636/" title="dalat-highways"><img src="https://c3.staticflickr.com/9/8277/29037198706_6704b3cc38.jpg" alt="dalat-highways"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>VIDEO : In the Pines (don't mind the music, it's just something I was humming at the time)</em>
 </p>
 
@@ -268,7 +268,7 @@ A few of us decided to go to [**Maze Bar**](https://www.tripadvisor.in/Restauran
 We went to another pub after this one. Linh, the Vietnamese staff from Note Hostel who was accompanying us, took a cab again while this was actually just a 5 minute walk! None other than Rose minded a lot though. There was live music here and it sounded a bit too loud to me initially. The drummer was high but extremely good. I eventually got myself a beer and we all enjoyed the band till it was time to close at midnight.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/28993680911/in/album-72157672536618636/" title="Đà Lạt-nights"><img src="https://c8.staticflickr.com/9/8672/28993680911_45b3f9571e.jpg" width="500" height="281" alt="Đà Lạt-nights"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/28993680911/in/album-72157672536618636/" title="Đà Lạt-nights"><img src="https://c8.staticflickr.com/9/8672/28993680911_45b3f9571e.jpg" alt="Đà Lạt-nights"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>VIDEO : Đà Lạt Nights</em>
 </p>
 
@@ -312,4 +312,4 @@ Find the previous posts in this series [here](/series/sea-chronicles).
 
 And here is the complete album of the Đà Lạt leg of the trip.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157672536618636" title="Dalat, June 2016"><img src="https://c3.staticflickr.com/9/8192/28449206794_38d6afaeed.jpg" width="500" height="375" alt="Dalat, June 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157672536618636" title="Dalat, June 2016"><img src="https://c3.staticflickr.com/9/8192/28449206794_38d6afaeed.jpg" alt="Dalat, June 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

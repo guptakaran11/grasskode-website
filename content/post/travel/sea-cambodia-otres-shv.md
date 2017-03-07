@@ -90,7 +90,7 @@ I put my gadgets on charge and took a nap. I woke up with an aching neck because
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/29240432344/in/album-72157674256346825/" title="shv-sunset-hawai-timelapse"><img src="https://c1.staticflickr.com/8/7547/29240432344_d604814c34.jpg" width="500" height="281" alt="shv-sunset-hawai-timelapse"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/29240432344/in/album-72157674256346825/" title="shv-sunset-hawai-timelapse"><img src="https://c1.staticflickr.com/8/7547/29240432344_d604814c34.jpg" alt="shv-sunset-hawai-timelapse"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>VIDEO : Sunset time-lapse</em>
 </p>
 
@@ -191,4 +191,4 @@ Find the previous posts in this series [here](/series/sea-chronicles).
 
 And here is the complete album of the Otres & Sihanoukville leg of the trip.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157674256346825" title="Otres &amp; Sihanoukville, July 2016"><img src="https://c5.staticflickr.com/9/8129/29754553092_bd1ede367e.jpg" width="500" height="375" alt="Otres &amp; Sihanoukville, July 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157674256346825" title="Otres &amp; Sihanoukville, July 2016"><img src="https://c5.staticflickr.com/9/8129/29754553092_bd1ede367e.jpg" alt="Otres &amp; Sihanoukville, July 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

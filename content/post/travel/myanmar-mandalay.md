@@ -76,7 +76,7 @@ Apart from the striking mismatch between the sound and the getup, they seemed to
 After the tribal dance, we were treated to a musical skit. It seemed to be about the tussle between a man and a woman, seemingly lovers. In the typical fashion of rural sense of amusement, it got a little lewd but entertaining nonetheless.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/25727269520/in/album-72157664017913913/" title="mingun-shinbyu-low"><img src="https://farm2.staticflickr.com/1443/25727269520_e4bb00c242.jpg" width="500" height="281" alt="mingun-shinbyu-low"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/25727269520/in/album-72157664017913913/" title="mingun-shinbyu-low"><img src="https://farm2.staticflickr.com/1443/25727269520_e4bb00c242.jpg" alt="mingun-shinbyu-low"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>Shinbyu celebrations</em>
 </p>
 
@@ -209,7 +209,7 @@ We rode on to the **Maha Aungmye Bonzan Monastery** nearby. It was also called t
 We took a quick tour of this monastery and then returned with the horse cart to the stream crossing.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/25933243091/in/album-72157664017913913/" title="innwa-horsecart"><img src="https://farm2.staticflickr.com/1593/25933243091_3db9d25735.jpg" width="500" height="281" alt="innwa-horsecart"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/25933243091/in/album-72157664017913913/" title="innwa-horsecart"><img src="https://farm2.staticflickr.com/1593/25933243091_3db9d25735.jpg" alt="innwa-horsecart"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>Horsecart Ride</em>
 </p>
 
@@ -448,4 +448,4 @@ Previous post in this series :
 
 And here is the complete album of the Mandalay leg of our trip.
 
-<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/140507143@N02/albums/72157664017913913" title="Mandalay, Mar 2016"><img src="https://farm2.staticflickr.com/1564/25395475764_399acb8a39.jpg" width="500" height="333" alt="Mandalay, Mar 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/140507143@N02/albums/72157664017913913" title="Mandalay, Mar 2016"><img src="https://farm2.staticflickr.com/1564/25395475764_399acb8a39.jpg" alt="Mandalay, Mar 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

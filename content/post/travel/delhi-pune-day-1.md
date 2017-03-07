@@ -17,10 +17,7 @@ A stomach infection aggravated by negligence during a few days of train commute 
 The alarm woke us up at 6 AM and we were quick to pop out of the bed. We were on the road by 6:30 AM, while the world around was still dark. We refueled our bikes before hitting the outer ring road of Delhi that would take us to Noida. Driving on the vast and broad roads of Delhi gives you a sense of the numbers that the city caters to. These roads, for all their width, become helplessly impuissant under the brunt of the day's traffic. But this time of the morning, it was just us and the loaded trucks plying on the illuminated roads. Morning colours started filling the canvas ere we crossed the Yamuna to the other side. The weather was on the colder side but we had left aptly prepared. We crossed Noida before the day's traffic had begun and were cruising down the link road to Greater Noida when an orange sun came up in the eastern sky. It played hide and seek awhile behind the trees and the tall SEZ buildings. It was a mellow orange, pleasant to look at and admire. In time, however, it broke free of the earthly trite and ascended into the heavens. It's orange changed hues quickly, from a deep orange to a brighter one and then to a smouldering yellow that forbade a look. It had changed from an object of admiration to an object of majesty.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/25070434812/in/photostream/" title="Entering the Yamuna Expressway">
-		<img src="https://farm2.staticflickr.com/1617/25070434812_3851ff2afb_z.jpg" width="640" height="359" alt="Entering the Yamuna Expressway">
-	</a>
-	<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1617/25070434812_3851ff2afb_z.jpg" alt="Entering the Yamuna Expressway">
 	<em>Entering the Yamuna Expressway</em>
 </p>
 
@@ -34,15 +31,14 @@ We stopped once for some overpriced tea on a highway *dhaba*. The tea was good a
 Eventually the cover lifted a little outside Agra. We left the expressway and took the road that would take us to the erstwhile capital of the Mughal Empire. After the uncongested expressway, driving on the UP roads amongst rowdy *auto-walahs* and bikers took a bit of adjustment of senses. I dodged motorcycles darting diagonally across the road, blaring their horns for no good reason. We got caught in a temporary traffic jam right outside Agra. A traffic policeman ran around beating *auto-walahs* with a stick while they shamelessly gathered commuters inconsiderate of their clogging the narrow streets. Good old North India! We skirted the Agra city, passing Itmad-ud-Daula and Agra Fort before hitting the Agra-Gwalior road. We did not stop to see any of the beautiful monuments that adorned the city of Agra. They would have to wait for another time. However, we did take a detour of a couple of kilometers to go to a shop on MG Road which is famous for it's *kachodi-sabji*. BBC, a native of Agra, told me that a crowd was to be seen gathering around the shop since 7 in the morning! We sampled the famous breakfast items and it was well worth the hype. Kevin needed his share as usual so he came out to join us for the breakfast. After ending the first meal of the day with 50 grams of delicious and crispy *jalebis*, we hit the Gwalior road again and road out of the city of the Taj.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/24821027759/in/photostream/" title="Breakfast at Deviram in Agra"><img src="https://farm2.staticflickr.com/1567/24821027759_15e367baa7_z.jpg" width="640" height="359" alt="Breakfast at Deviram in Agra"></a>
-	<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1567/24821027759_15e367baa7_z.jpg" alt="Breakfast at Deviram in Agra">
 	<em>Kevin loved the breakfast at Deviram's in Agra</em>
 </p>
 
 The road was a well made four lane highway. Later I realised that this was AH43, a part of the ambitious Asian Highways project. The road led us across the UP border into Madhya Pradesh, which was to be the highlight of this road trip. Once in MP, we were faced with a rather dangerous and amusing problem. Wrong side driving is a common problem in India; but, while in most of the country the wrong side drivers sneak around in far end of the road, the motorists of MP have taken it up a notch. They drive in the wrong side's fast lane with zero fucks given! I was a little shocked to see a car appear out of nowhere followed by a tractor and a few motorcycles, all coming right at me when I was doing a 80 kmph on the highway. Initially I thought that maybe the other side of the highway was under repair or something, but it was a similar scene on the other side. Apparently the state does not believe in one ways. Every road is a two way. Period.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/24893155960/in/photostream/" title="chambal-2"><img src="https://farm2.staticflickr.com/1687/24893155960_4ca4c08a07_z.jpg" width="640" height="359" alt="chambal-2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1687/24893155960_4ca4c08a07_z.jpg" alt="chambal-2">
 	<em>The mighty Chambal river</em>
 </p>
 
@@ -51,24 +47,24 @@ Approximately 50 km out of Agra we crossed the small town of Dholpur and then ca
 The road was now a rustic one. It existed in places and in others was replaced by a dirt track. We even crossed a railway track without a proper crossing. Following the example of the villagers ahead of us, we used stones as ramps to jump our bikes over the steel tracks. The roads led us inland among fields and mining quarries. We drove at an easy pace, enjoying the scenery and on a lookout for the reason that we had chose to leave the highway. At length it presented itself in the form of a single temple standing on an elevated platform. We turned our bikes in the direction and entered the complex of the Batesara Temples. My father had told me about this place when I has told him about the route. He had heard about the restoration work in some news, and since it sounded interesting, I had put it on the itinerary. We checked out the temple that was visible from the road, climbing the flight of steps only to realise that the main cluster of temples lay a little further ahead. But this one was a beauty in itself. Although the restoration work was not complete, the pillars were quite beautifully adorned and we took a short break from the sun, enjoying the flimsy breeze that blew in from the north.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/25162441356/in/photostream/" title="batesara-1"><img src="https://farm2.staticflickr.com/1469/25162441356_0763abcd10_z.jpg" width="640" height="373" alt="batesara-1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1469/25162441356_0763abcd10_z.jpg" alt="batesara-1">
 	<em>The Temple outside Batesara Cluster</em>
 </p>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/24893174750/in/photostream/" title="batesara-3"><img src="https://farm2.staticflickr.com/1695/24893174750_a85a7ce29a_z.jpg" width="640" height="359" alt="batesara-3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1695/24893174750_a85a7ce29a_z.jpg" alt="batesara-3">
 	<em>Exquisite Stone Work Adorning the Gateway of the Inner Chamber</em>
 </p>
 
 Then we went a little ahead to the main cluster of temples. We left our luggage strapped on to the bikes. Despite this being the land of dacoits, I felt pretty confident that no one would go through the trouble of unstrapping them and running away with the heavy bags. We walked into the complex that had no other tourists other than us. A few villagers sat in a grassy park in the shade of trees discussing something seemingly important. I read the description of the complex at the entrance. Then we went ahead to admire the beauty of the restored temples. It is a commendable effort that ASI (Archaeological Survey of India) has put into the restoration work. You can get a faint idea of the complexity by looking at the heaps of rubble lying around. The restored structures were once a part of that chaos. There was a small *shivlinga* in most of these small temples. The *shikharas* and gates were adorned with beautiful masonry. A little further lay a pool of water of toxic green complexion. A man with white hair and moustache, clad in a white *lungi* pointed us in the direction of the **Bhootnath** temple, the main **Shiva** temple of the complex. Then the priest proceeded to draw green water from the *kund* and wash his hair with a nonchalance befitting his trade. I would have missed the temple had I not asked which one it was. It was so utterly uncared for from the outside, camouflaged among the heaps of broken pillars and walls. On the inside, big *shivlingas* stared at us from all directions. The main chamber was decorated with flowers and bells hung in a bunch. There was nothing else to the complex. Fifteen to twenty minutes were all that was required to see this place. Post that you could either lounge around in the shade and discuss village politics if you had something to contribute, else you could leave to your next destination. We chose the latter.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/25095574201/in/photostream/" title="batesara-7"><img src="https://farm2.staticflickr.com/1490/25095574201_30468dbd6e_z.jpg" width="640" height="359" alt="batesara-7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1490/25095574201_30468dbd6e_z.jpg" alt="batesara-7">
 	<em>Recontructed Stone Temples</em>
 </p>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/25162533306/in/photostream/" title="batesara-17"><img src="https://farm2.staticflickr.com/1693/25162533306_3aa5704a7c_z.jpg" width="640" height="359" alt="batesara-17"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1693/25162533306_3aa5704a7c_z.jpg" alt="batesara-17">
 	<em>The Kund at Batesara</em>
 </p>
 
@@ -82,7 +78,7 @@ The road after Gwalior was a mess. The highway was under construction and the no
 We freshened up quickly and decided to celebrate the 492 kms of the day with some beer and a dinner. However, even that is not simple in Jhansi! Alcohol and food are not served under the same roof. You need to get your own booze and sit in a *dhaba*. And if your taste calls for lager beer, well, you are in for a tougher time! But we managed somehow; Kingfisher Gold (erstwhile Premium) and some good tandoori chicken. After a relaxed hour over drinks, we walked back to the room and eventually went to sleep among buzzing mosquitoes.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/24821209559/in/photostream/" title="kf-gold"><img src="https://farm2.staticflickr.com/1705/24821209559_f7abf63e56_z.jpg" width="640" height="359" alt="kf-gold"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<img src="https://farm2.staticflickr.com/1705/24821209559_f7abf63e56_z.jpg" alt="kf-gold">
 	<em>A few Kingfisher Golds to end the day!</em>
 </p>
 
@@ -97,4 +93,4 @@ Here is the route taken on Day 1 on Google Maps.
 
 And here is a complete album of the road trip.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157664382442610" title="Delhi Pune Roadtrip, Feb 2016"><img src="https://farm2.staticflickr.com/1478/24558083584_fc44cac6db.jpg" width="500" height="398" alt="Delhi Pune Roadtrip, Feb 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157664382442610" title="Delhi Pune Roadtrip, Feb 2016"><img src="https://farm2.staticflickr.com/1478/24558083584_fc44cac6db.jpg" alt="Delhi Pune Roadtrip, Feb 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

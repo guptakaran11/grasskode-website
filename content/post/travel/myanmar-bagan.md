@@ -270,4 +270,4 @@ Whether you enjoyed the post or not, do leave a comment!
 
 And here is the complete album of the Bagan leg of our trip.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157665611946751" title="Bagan, Mar 2016"><img src="https://farm2.staticflickr.com/1572/25694172445_33a6dcf63a.jpg" width="500" height="333" alt="Bagan, Mar 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157665611946751" title="Bagan, Mar 2016"><img src="https://farm2.staticflickr.com/1572/25694172445_33a6dcf63a.jpg" alt="Bagan, Mar 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

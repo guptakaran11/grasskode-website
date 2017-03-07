@@ -198,7 +198,7 @@ Then we put on the scuba equipment and went to the shallower waters near the bea
 </p>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/27548992185/in/album-72157666872606333/" title="diveboat-vid"><img src="https://c2.staticflickr.com/8/7791/27548992185_4f8cf3e541.jpg" width="500" height="281" alt="diveboat-vid"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/27548992185/in/album-72157666872606333/" title="diveboat-vid"><img src="https://c2.staticflickr.com/8/7791/27548992185_4f8cf3e541.jpg" alt="diveboat-vid"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>Roughing it out</em>
 </p>
 
@@ -321,4 +321,4 @@ Whether you enjoyed the post or not, do leave a comment!
 
 And here is the complete album of the Koh Tao leg of the trip.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157666872606333" title="Koh Tao, May 2016"><img src="https://c6.staticflickr.com/8/7464/27540779885_3c0008b518.jpg" width="500" height="376" alt="Koh Tao, May 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157666872606333" title="Koh Tao, May 2016"><img src="https://c6.staticflickr.com/8/7464/27540779885_3c0008b518.jpg" alt="Koh Tao, May 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

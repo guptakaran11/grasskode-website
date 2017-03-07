@@ -1,7 +1,7 @@
 +++
 date = "2017-02-10T00:20:47+05:30"
 categories = ["travel"]
-tags = ["europe", "nordic", "finland", "winter", "unesco-site"]
+tags = ["europe", "nordic", "finland", "winter", "unesco site"]
 image = "https://c1.staticflickr.com/3/2593/32709658602_c5f6f786e9_c.jpg"
 title = "Far up North"
 toc = true
@@ -141,7 +141,7 @@ Back in November, Parul and I had gone on a short trip to Mirissa Beach in Sri L
 </p>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/32482000120/in/album-72157680167774166/" title="vid-helsinki-lux"><img src="https://c1.staticflickr.com/3/2709/32482000120_051808cbb1.jpg" width="500" height="281" alt="vid-helsinki-lux"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/32482000120/in/album-72157680167774166/" title="vid-helsinki-lux"><img src="https://c1.staticflickr.com/3/2709/32482000120_051808cbb1.jpg" alt="vid-helsinki-lux"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>VIDEO : Helsinki Lux 2017</em>
 </p>
 
@@ -240,7 +240,7 @@ As we approached the town from another direction, we came across a small slope w
 </p>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/32739533121/in/album-72157680167774166/" title="vid-saariselka-sledging"><img src="https://c1.staticflickr.com/1/547/32739533121_64bd0d8160.jpg" width="500" height="281" alt="vid-saariselka-sledging"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/32739533121/in/album-72157680167774166/" title="vid-saariselka-sledging"><img src="https://c1.staticflickr.com/1/547/32739533121_64bd0d8160.jpg" alt="vid-saariselka-sledging"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>VIDEO : Downhill</em>
 </p>
 
@@ -304,7 +304,7 @@ The sky had cleared while we had sat eating some delicious fish soup and bread i
 </p>
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/32058401373/in/album-72157680167774166/" title="vid-ivalo-husky"><img src="https://c1.staticflickr.com/4/3766/32058401373_b7e9d6eab8.jpg" width="500" height="281" alt="vid-ivalo-husky"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/32058401373/in/album-72157680167774166/" title="vid-ivalo-husky"><img src="https://c1.staticflickr.com/4/3766/32058401373_b7e9d6eab8.jpg" alt="vid-ivalo-husky"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>VIDEO : Husky Safari</em>
 </p>
 
@@ -355,7 +355,7 @@ We left for the town once towards the evening. It was half an hour walk away and
 We returned to the hotel and Parul decided that she wanted to make a snowman. Like with all other projects of hers, I started from the sidelines, providing vodka shots for warmth and then ended up joining in because of the dismal progress that she was making. 😒 We ended up making a rather impressive snow-woman which was decorated to give it an Indian touch. 😅
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/32709627672/in/album-72157680167774166/" title="vid-ivalo-snowwoman"><img src="https://c1.staticflickr.com/3/2584/32709627672_308d139624.jpg" width="500" height="281" alt="vid-ivalo-snowwoman"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/32709627672/in/album-72157680167774166/" title="vid-ivalo-snowwoman"><img src="https://c1.staticflickr.com/3/2584/32709627672_308d139624.jpg" alt="vid-ivalo-snowwoman"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>VIDEO : Creating the snow-woman</em>
 </p>
 
@@ -421,4 +421,4 @@ Whether you enjoyed the post or not, do leave a comment!
 
 And here is the complete album of the Finland trip.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157680167774166" title="Finland, Jan 2017"><img src="https://c1.staticflickr.com/1/378/32709666752_c416725731.jpg" width="500" height="333" alt="Finland, Jan 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157680167774166" title="Finland, Jan 2017"><img src="https://c1.staticflickr.com/1/378/32709666752_c416725731.jpg" alt="Finland, Jan 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

@@ -85,7 +85,7 @@ I decided to take a dip in the pool which was deeper than I had anticipated. Cel
 I saw a few people go up a path to the base of the first step. Celine followed and my bag and camera were now left unattended. So I headed back but it took enough time for Celine to have returned. She had not gone all the way in because that would have involved getting wet and the rocks were somewhat slippery. But of course, I was going to go check it out! 😅 But first I inspected the time-lapse video that I had set the camera to take while I had gone swimming in the pool. It turned out pretty good in my opinion!
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/30633376960/in/album-72157676468047485/" title="bou-sraa-timelapse"><img src="https://c1.staticflickr.com/6/5542/30633376960_d72cf3385b.jpg" width="500" height="281" alt="bou-sraa-timelapse"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/30633376960/in/album-72157676468047485/" title="bou-sraa-timelapse"><img src="https://c1.staticflickr.com/6/5542/30633376960_d72cf3385b.jpg" alt="bou-sraa-timelapse"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>VIDEO : Bou Sraa time lapse</em>
 </p>
 
@@ -143,7 +143,7 @@ A short ride saw us at a vantage point that looked over an unending expanse of g
 It was the perfect place for sunset so we chose a nice spot and sat down to see the sun set. We talked some more, mostly about travels and the best places that either of us had been to. Celine had more to share than me, of course. The sun hid behind a small clump of clouds and we got up to find that we were the last ones out.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/30633362120/in/album-72157676468047485/" title="sea-forest-timelapse"><img src="https://c1.staticflickr.com/6/5347/30633362120_e44c0e33ff.jpg" width="500" height="281" alt="sea-forest-timelapse"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/30633362120/in/album-72157676468047485/" title="sea-forest-timelapse"><img src="https://c1.staticflickr.com/6/5347/30633362120_e44c0e33ff.jpg" alt="sea-forest-timelapse"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>VIDEO : Sunset</em>
 </p>
 
@@ -187,7 +187,7 @@ Heng had already told us about the three while we were waiting. *Chi Wa* (almost
 I was at a loss at how to read the animal's emotion which became the reason for my constant wariness against them. I could not find any physical signs which would tell me whether the elephant was happy, frustrated, angry or not. And I was not going to fool around mindlessly with a 3 tonne beast! It took me a while to realise that I was facing a much more intelligent and expressive creature than I had ever seen before.
 
 <p class="postimg">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/30898688986/in/album-72157676468047485/" title="elephants-video"><img src="https://c3.staticflickr.com/6/5772/30898688986_57b0e602e9.jpg" width="500" height="281" alt="elephants-video"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/30898688986/in/album-72157676468047485/" title="elephants-video"><img src="https://c3.staticflickr.com/6/5772/30898688986_57b0e602e9.jpg" alt="elephants-video"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	<em>VIDEO : The Ladies</em>
 </p>
 
@@ -315,4 +315,4 @@ Find the previous posts in this series [here](/series/sea-chronicles).
 
 And here is the complete album of the Sen Monorom leg of the trip.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157676468047485" title="Sen Monorom, Sep 2016"><img src="https://c3.staticflickr.com/6/5624/30633366450_cde24975e5.jpg" width="500" height="375" alt="Sen Monorom, Sep 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157676468047485" title="Sen Monorom, Sep 2016"><img src="https://c3.staticflickr.com/6/5624/30633366450_cde24975e5.jpg" alt="Sen Monorom, Sep 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
