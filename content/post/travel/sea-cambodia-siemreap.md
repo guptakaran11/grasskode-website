@@ -1,12 +1,11 @@
 +++
 date = "2017-03-06T00:21:54+05:30"
-commented_categories = ["travel"]
-commented_tags = ["south east asia", "cambodia", "nightlife", "temple", "history", "unesco site", "backpacking"]
-commented_series = "SEA Chronicles"
+categories = ["travel"]
+tags = ["south east asia", "cambodia", "nightlife", "temple", "history", "unesco site", "backpacking"]
+series = "SEA Chronicles"
 image = "https://c1.staticflickr.com/1/590/32419955114_331d2cce93_c.jpg"
 title = "Siem Reap, Cambodia"
 toc = true
-type = "draft"
 
 +++
 
