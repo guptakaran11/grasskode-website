@@ -9,7 +9,7 @@ toc = true
 
 +++
 
-The Preah Vihear trip had been, what is probably, the defining experience of my Cambodian travel. The temple was breathtaking and it would end up stealing the glamour from the famed Angkor temples of Siem Reap. However, that was the town I was headed to next, to see the temples and begin the ending of my South East Asian adventures. I was also going to meet up with some old friends which I was **really** looking forward to!
+The [Preah Vihear trip](/post/travel/sea-cambodia-preahvihear/) had been, what is probably, the defining experience of my Cambodian travel. The temple was breathtaking and it would end up stealing the glamour from the famed Angkor temples of Siem Reap. However, that was the town I was headed to next, to see the temples and begin the ending of my South East Asian adventures. I was also going to meet up with some old friends which I was **really** looking forward to!
 
 <hr />
 
