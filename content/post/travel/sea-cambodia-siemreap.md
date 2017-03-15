@@ -307,7 +307,7 @@ We saw more temples that day and it would be pointless to get into the details o
 
 **Preah Khan**
 
-[Preah Khan](https://en.wikipedia.org/wiki/Preah_Khan) was the temple that made the damage to the Angkor temples the most obvious. There was rubble lying all around waiting to be put back into their appointed place. We made our way through the temple and ended on the other side with an impressive view of the* Jayatataka baray*.
+[Preah Khan](https://en.wikipedia.org/wiki/Preah_Khan) was the temple that made the damage to the Angkor temples the most obvious. There was rubble lying all around waiting to be put back into their appointed place. We made our way through the temple and ended on the other side with an impressive view of the *Jayatataka baray*.
 
 <p class="postimg vertimg">
 	<img src="https://c1.staticflickr.com/3/2937/32880505600_25517b2595.jpg" alt="preah-khan-1">
@@ -429,7 +429,7 @@ Our first temple of the day, after a rather long ride beyond the Angkor Thom, wa
 
 **Kbal Spean**
 
-Next, we were taken to [Kbal Spean](https://en.wikipedia.org/wiki/Kbal_Spean), which is famous as a "waterfall". It is much more than that, with a decorated riverbed. However, we did not know this and ended up doing an aimless 3 km hike. Deva and I were loudly discussing software architecture to the apparent displeasure of anyone who happened to cross our way. 😾
+Next, we were taken to [Kbal Spean](https://en.wikipedia.org/wiki/Kbal_Spean), which is famous as a *waterfall*. It is much more than just a waterfall though. The entire riverbed is decorated with motifs and carvings in the stones. However, we did not know this and ended up doing an aimless 3 km hike. Deva and I were loudly discussing software architecture to the apparent displeasure of anyone who happened to cross our way. 😾
 
 <p class="postimg">
 	<img src="https://c1.staticflickr.com/3/2934/32880511040_5ed3c2ffe4.jpg" alt="kbal-spean-1">
