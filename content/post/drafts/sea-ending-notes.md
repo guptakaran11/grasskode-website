@@ -1,5 +1,5 @@
 +++
-date = "2017-08-19T20:19:44+05:30"
+date = "2017-08-18T20:19:44+05:30"
 categories = ["travel"]
 tags = ["south east asia", "thailand", "history", "temples", "backpacking"]
 series = "SEA Chronicles"
