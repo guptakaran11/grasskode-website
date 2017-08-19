@@ -22,9 +22,9 @@ It was still dark ere the train dropped us at Ayutthaya station. The train staff
   <em>Ayutthaya Station</em>
 </p>
 
-We dumped our bags and sat on the benches that were thoughtfully set up on the platform. In time we got into lengthy discussions about world politics and economics. Mitesh explained how the entire setup worked and how the strife between countries had changed form outright wars to economic hustle. There was so much that bewildered me, as to how we could have consiciously agreed to and continue to live in such a strange setup!
+We dumped our bags and sat on the benches that were thoughtfully set up on the platform. In time we got into lengthy discussions about world politics and economics. Mitesh explained how the entire setup worked and how the strife between countries had changed form outright wars to economic hustle. There was so much that bewildered me, as to how we could have consciously agreed to and continue to live in such a strange setup!
 
-We waited till around 7 AM to go try our luck at the guest house. It was a short walk from the station and they were nice enough to check us in this early and give us a room. It was a really pretty guest house, all wooden and decorated. I like such places. They seem to have more charater to them than the bland concrete buildings. Tired and sleep starved, we settled in for a nap.
+We waited till around 7 AM to go try our luck at the guest house. It was a short walk from the station and they were nice enough to check us in this early and give us a room. It was a really pretty guest house, all wooden and decorated. I like such places. They seem to have more character to them than the bland concrete buildings. Tired and sleep starved, we settled in for a nap.
 
 <p class="postimg">
   <img src="https://farm5.staticflickr.com/4337/36482244182_0954977745.jpg" alt="guesthouse-4">
@@ -36,7 +36,7 @@ We waited till around 7 AM to go try our luck at the guest house. It was a short
   <em>Space crunch!</em>
 </p>
 
-The heat of the day woke us up a few hours later and we took a cheap ferry across the river to the other side. This was the part of the town that I was familiar with from my last visit three months ago. We walked down the Naresuan road and I noticed a few new cafes and guesthouses in the vicinity of where I had stayed the last time. I took the guys to the chicken and rice place that I had been recommended during my last visit. We broke fast with good Thai food!
+The heat of the day woke us up a few hours later and we took a cheap ferry across the river to the other side. This was the part of the town that I was familiar with from my last visit three months ago. We walked down the *Naresuan road* and I noticed a few new cafes and guesthouses in the vicinity of where I had stayed the last time. I took the guys to the chicken and rice place that I had been recommended during my last visit. We broke fast with good Thai food!
 
 <p class="postimg">
   <img src="https://farm5.staticflickr.com/4350/36255100550_cf2033072a.jpg" alt="chicken-rice">
@@ -107,7 +107,7 @@ We found ways to to keep ourselves busy till the airline counters opened. Then w
 
 While Deva and I had our flight to Chennai, Mitesh was to fly to Bangalore. When it was time, we said goodbye to him and boarded the flight. As Bangkok depleted into a blurring display of light, I found myself in the chaos that was distinctly Indian. The two people sitting behind me chatted incessantly for the entire duration of the flight in rapid Tamil. The joys of travelling through Chennai!
 
-At the airport Deva and I had similar lay-over times. So we made the most of it with filter coffees, dosas, parotas and general bufoonery.
+At the airport Deva and I had similar lay-over times. So we made the most of it with filter coffees, dosas, parotas and general buffoonery.
 
 <p class="postimg">
   <img src="https://farm5.staticflickr.com/4440/36482231052_a2233bea19.jpg" alt="filter-kapi">
@@ -132,7 +132,7 @@ What I took away from it all is a question that I can probably answer better. I 
 
 I had decided to take off for a number of reasons. Reasons that were some kind of uncertainity or insecurity in one way or another. Perhaps everyone goes through such dilemma at some time in their life. This was just my way of reacting to my quandaries. My first few days in Thailand had been disastrous beyond my imagination. I was full of doubt. My mind wrestled with a number of ***What if?***'s. I had a tough time calming myself despite all the mental preparation I had done over the years. I used to check the calendar frequently to count the number of days that had passed and the number that was left. The initial unease slowly faded but there was always the lingering thought of ***What am I doing?***. Travel is a medium; a means to a higher end. What end was this that I sought? If you would ask me that today, I would smile and shrug my shoulders. Because truthfully, that is how I feel about it all.
 
-But it was all magical. Every single bit of it. The places, the people, the road, the sceneries, all of it. I would not describe it in any other way. I did what I had dreamt of doing for the longest part of my life. There is a dubious pleasure to be had in realising one's dream. There is a feeling of gaining the experience and losing the dream itself. But perhaps these dreams never really leave a vaccum in their wake. They give birth to other dreams to fill their space.
+But it was all magical. Every single bit of it. The places, the people, the road, the sceneries, all of it. I would not describe it in any other way. I did what I had dreamt of doing for the longest part of my life. There is a dubious pleasure to be had in realising one's dream. There is a feeling of gaining the experience and losing the dream itself. But perhaps these dreams never really leave a vacuum in their wake. They give birth to other dreams to fill their space.
 
 I still feel like my journey has not ended. Despite having stayed put in Pune for almost a year now, I still have the feeling of being adrift. I know my current state is temporary. And perhaps temporary is all that I seek anymore. And why not?
 
