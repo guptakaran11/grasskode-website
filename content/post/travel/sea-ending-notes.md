@@ -6,7 +6,6 @@ series = "SEA Chronicles"
 title = "Ending Notes"
 image = "https://farm5.staticflickr.com/4440/36255083000_6ded835c6b_c.jpg"
 toc = true
-type = "draft"
 
 +++
 
