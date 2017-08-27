@@ -9,18 +9,17 @@ type = "draft"
 
 +++
 
-Parul and I travelled to USA in the May of 2017. We had two primary agendas from the trip; one was to spend time with my niece, Ilakshi and the other was to attend Parul's brother's convocation. The former was to be in New Jersey and the latter in Chicago. I decided to add another stop to the trip by visiting Deva, a dear friend who was living in Seattle.
-
-It was only when I travelled coast to coast across the country, that I fathomed that the USA is a continent in itself. There were three distinct weathers, sceneries, people and food that I witnessed in these three stops. Here is an attempt to document it all in a photo-blog.
+Parul and I travelled to USA in the May of 2017. It was not a vacation, rather some family time coupled with remote working. I managed to see three very distinct parts of the huge country with very different weather, sceneries, people and food. Here is an attempt to document it all in a photo-blog.
 
 <hr />
 
 ## The Banks of Hudson
 
-This was the second time I was coming to Jersey City. This view of the Hudson and Manhattan beyond is one of the most charming things about Di's place.
+This was the second time I was coming to Jersey City.
 
 <p class="postimg vertimg">
   <img src="https://farm5.staticflickr.com/4424/36672856971_66e5f42591.jpg" alt="hudson">
+  <em>The view of the Hudson and Manhattan beyond</em>
 </p>
 
 Time with family was one of the major agendas of this trip. We did not have a big to-do list and the idea was to work during the daytime and spend the evenings and weekends with Di, Priyank and Ila.
@@ -300,21 +299,39 @@ When I left Seattle a couple of days later, I realised that I had not seen any o
 
 ## East Coast Again
 
-I flew back to New Jersey for another week with Salsa. Parul flew in from Chicago on the same day.
+I flew back to New Jersey for another week with Salsa. Parul flew in from Chicago on the same day. It was back to the old routine of spending the days working and fetching Salsa from the school in the evening.
+
+<p class="postimg">
+  <img src="https://farm5.staticflickr.com/4441/36437264080_a8b90bd9f2.jpg" alt="park-2">
+  <em>Back to the parks</em>
+</p>
 
 <p class="postimg vertimg">
   <img src="https://farm5.staticflickr.com/4390/36415636280_a697d43d32.jpg" alt="shopping-2">
-  <em>Shopping with Salsa</em>
+  <em>And Shoprite</em>
 </p>
 
-This also gave us the opportunity to have some more amazing Italian food!
+<p class="postimg vertimg">
+  <img src="https://farm5.staticflickr.com/4434/36833733125_4a8dc09377.jpg" alt="park-3">
+  <em>It took a while to make friends with her again, but it did happen</em>
+</p>
+
+<p class="postimg vertimg">
+  <img src="https://farm5.staticflickr.com/4405/36437263510_5613a10b6f.jpg" alt="pizza">
+  <em>Bribery had a big part to play</em>
+</p>
+
+<p class="postimg">
+  <img src="https://farm5.staticflickr.com/4366/36024499193_01efdddaf0.jpg" alt="central-park-zoo">
+  <em>We ventured to take her to the Central Park Zoo one day. The project was not a complete failure</em>
+</p>
 
 <p class="postimg vertimg">
   <img src="https://farm5.staticflickr.com/4396/36415635530_8ed3e22e5b.jpg" alt="nj-italian">
-  <em>Thin-crust Pizzas!</em>
+  <em>We got to have some more amazing Italian food during the week! 🍕 💕</em>
 </p>
 
-A week later, we took a flight back to India and took another week to recover from the jetlag.
+At the end of the week, we took a flight back to India and took another week to recover from the jet-lag.
 
 <hr />
 
