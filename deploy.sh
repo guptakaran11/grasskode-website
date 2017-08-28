@@ -20,4 +20,4 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
-git subtree push --prefix=public git@github.com:grasskode/grasskode-website.git gh-pages
+git subtree push --prefix=public git@github.com-gk:grasskode/grasskode-website.git gh-pages
