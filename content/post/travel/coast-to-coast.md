@@ -330,7 +330,7 @@ I flew back to New Jersey for another week with Salsa. Parul flew in from Chicag
   <em>We got to have some more amazing Italian food during the week!</em>
 </p>
 
-At the end of the week, we took a flight back to India and took another week to recover from the jet-lag. We had come back with enough memories of the country, an ability to identify skyscrapers of Manhattan and Chicago in movies, and (hopefully) a lasting friendship with Salsa. It was three weeks well spent. ✌
+At the end of the week, we took a flight back to India and took another week to recover from the jet-lag. We had come back with fresh memories of the country, an ability to identify skyscrapers of Manhattan and Chicago in movies, and (hopefully) a lasting friendship with Salsa. It was three weeks well spent. ✌
 
 <hr />
 
