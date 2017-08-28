@@ -327,7 +327,7 @@ I flew back to New Jersey for another week with Salsa. Parul flew in from Chicag
 
 <p class="postimg vertimg">
   <img src="https://farm5.staticflickr.com/4396/36415635530_8ed3e22e5b.jpg" alt="nj-italian">
-  <em>We got to have some more amazing Italian food during the week! 🍕 💕</em>
+  <em>We got to have some more amazing Italian food during the week!</em>
 </p>
 
 At the end of the week, we took a flight back to India and took another week to recover from the jet-lag. We had come back with enough memories of the country, an ability to identify skyscrapers of Manhattan and Chicago in movies, and (hopefully) a lasting friendship with Salsa. It was three weeks well spent. ✌
