@@ -94,7 +94,19 @@ We went out to do some sightseeing on the weekends and the evenings as and when 
 
 ## A Veritable Gotham
 
-After a week well spent in Jersey City, Parul and I took a flight to Chicago, where Parul's brother, Praval, was graduating from UIC. Parul's parents were there as well and we made the most of the weekend by walking around Chicago.
+After a week well spent in Jersey City, Parul and I took a flight to Chicago, where Parul's brother, Praval, was graduating from UIC.
+
+<p class="postimg">
+  <img src="https://farm5.staticflickr.com/4375/36138060964_8c19c9c143.jpg" alt="graduation-day">
+  <em>Graduation Day was a grand affair.</em>
+</p>
+
+<p class="postimg">
+  <img src="https://farm5.staticflickr.com/4381/36138061614_dc96c29efa.jpg" alt="the-graduate-2">
+  <em>The Graduate!</em>
+</p>
+
+Parul's parents were there as well and we made the most of the weekend by walking around Chicago.
 
 <p class="postimg">
   <img src="https://farm5.staticflickr.com/4405/36292575120_bb201bc2f0.jpg" alt="cloud-gate">
