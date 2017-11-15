@@ -2,7 +2,6 @@
 categories = ["travel"]
 tags = ["indonesia", "lombok", "volcano", "beach", "trek", "backpacking", "islands"]
 date = "2017-11-12T21:22:40+05:30"
-type = "draft"
 title = "Lombok Fuckin' Hardcore"
 image = "https://farm5.staticflickr.com/4575/38332846811_84826d3dbd_c.jpg"
 toc = true
