@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://grasskode.xyz/post/travel/indonesia-lombok/</loc>
-    <lastmod>2017-11-12T21:22:40+05:30</lastmod>
+    <loc>http://grasskode.xyz/post/drafts/indonesia-bali/</loc>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/post/drafts/indonesia-bali/</loc>
-    <lastmod>2017-10-22T21:22:48+05:30</lastmod>
+    <loc>http://grasskode.xyz/post/travel/indonesia-lombok/</loc>
+    <lastmod>2017-11-12T21:22:40+05:30</lastmod>
   </url>
   
   <url>
@@ -261,13 +261,19 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/backpacking/</loc>
-    <lastmod>2017-11-12T21:22:40+05:30</lastmod>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/bali/</loc>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/tags/beach/</loc>
-    <lastmod>2017-11-12T21:22:40+05:30</lastmod>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -363,7 +369,7 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/diving/</loc>
-    <lastmod>2016-06-08T23:37:41+07:00</lastmod>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -453,7 +459,7 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/indonesia/</loc>
-    <lastmod>2017-11-12T21:22:40+05:30</lastmod>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -465,13 +471,7 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/island/</loc>
-    <lastmod>2016-06-08T23:37:41+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/islands/</loc>
-    <lastmod>2017-11-12T21:22:40+05:30</lastmod>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -615,7 +615,7 @@
   
   <url>
     <loc>http://grasskode.xyz/post/</loc>
-    <lastmod>2017-11-12T21:22:40+05:30</lastmod>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -723,7 +723,7 @@
   
   <url>
     <loc>http://grasskode.xyz/categories/travel/</loc>
-    <lastmod>2017-11-12T21:22:40+05:30</lastmod>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -765,7 +765,7 @@
   
   <url>
     <loc>http://grasskode.xyz/</loc>
-    <lastmod>2017-11-12T21:22:40+05:30</lastmod>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
