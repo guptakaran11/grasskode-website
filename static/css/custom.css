@@ -110,7 +110,7 @@ article.li time {
 	font-size: 0.8rem;
 }
 
-article.li .title { 
+article.li .title {
   white-space: nowrap;
   font-size: 1.5rem;
   line-height: 2rem;
@@ -130,7 +130,7 @@ article.single .article-body a {
 	padding: 2rem;
 }
 
-.unscaledimg { 
+.unscaledimg {
 	margin: 10px 0 10px 0;
 }
 
@@ -141,8 +141,12 @@ article.single .article-body a {
 	height: auto;
 }
 
-.vertimg img { 
+.vertimg img {
 	width: 60%;
+}
+
+.vertimg img.emoji {
+  width: auto;
 }
 
 .borderedimg img {
@@ -150,19 +154,19 @@ article.single .article-body a {
 	border: 1.5px solid #021a40;
 }
 
-.postimg { 
+.postimg {
 	text-align: center;
 	margin: 10px 0 10px 0;
 }
 
-.postimg img { 
+.postimg img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 0.5rem;
 }
 
-.postimg em { 
+.postimg em {
 	font-size: 0.8rem;
 	font-weight: 500;
 	text-align: center;

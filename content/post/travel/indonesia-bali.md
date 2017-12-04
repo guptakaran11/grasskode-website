@@ -2,7 +2,6 @@
 categories = ["travel"]
 tags = ["indonesia", "bali", "diving", "beach", "backpacking", "island"]
 date = "2017-12-03T21:22:48+05:30"
-type = "draft"
 title = "Magical Bali"
 image = "https://farm5.staticflickr.com/4568/38517021086_8e27387448_c.jpg"
 toc = true
@@ -175,7 +174,7 @@ We came out and thanked Brata and Blenk for the dives. They had made it super ea
 
 ## Lembongan
 
-While we had initially planned on staying and chilling in Amed, making it our last destination, Parul's craving for a white sand beach drove us to find an alternate ending for the trip. We finalized on Nusa Lembongan, an island to the south east of Bali. Thus ensued another day of travel. We started early from Amed and reached Sanur towards mid-day. The traffic in Bali was rather hectic but surprisingly no one was honking horns or driving irresponsibly! I had thought Indonesia to be much more like India in this regard. But I guess the lack of traffic sense is peculiar only to our part of the world.
+While we had initially planned on staying and chilling in Amed, making it our last destination, Parul's craving for a white sand beach drove us to find an alternate ending for the trip. We finalized on Nusa Lembongan, an island to the south east of Bali. Thus ensued another day of travel. We started early from Amed and reached Sanur towards mid-day. The traffic in Bali was rather hectic but surprisingly no one was honking incessantly or driving irresponsibly! I had thought Indonesia to be much more like India in this regard. But I guess the lack of traffic sense is peculiar only to our part of the world.
 
 We reached Sanur too late to catch a public ferry to Lembongan. The alternatives being too costly, we decided to spend a day in Sanur, checking out the beachside, drinking cheap beer, bargaining for wind chimes, etc.
 
@@ -198,7 +197,7 @@ On the evenings, when the sun grew mild, we headed out to explore the island. Th
 </p>
 
 <p class="postimg">
-  <img src="https://farm5.staticflickr.com/4557/37685534175_1dfe90c625.jpg" alt="devils-tear-video">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/37685534175/in/album-72157687614264482/" title="devils-tear-video"><img src="https://farm5.staticflickr.com/4557/37685534175_1dfe90c625.jpg" alt="devils-tear-video"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   <em>VIDEO : Waves Crashing at the Tear :ocean:</em>
 </p>
 
@@ -267,7 +266,7 @@ Then we moved on to a beach called the **Secret Beach**. While it was on a well 
 
 There was a hotel right at this beach that we had considered while booking our Lembongan trip but the dates that we were looking for were not available. We immediately regretted not having another couple of days to spend in this beautiful island and must have thought of all possibilities of what could work, right from spending the last night here, cancelling existing booking and rescheduling flights! :stuck_out_tongue_closed_eyes:
 
-We left late in the afternoon when we got hungry and found some food in a local shop. There was *Nasi Campur* :heart: so we hogged on. The television was playing a dubbed version of some Indian tele-series which Parul could identify. :joy:
+We left late in the afternoon when we got hungry and found some food in a local shop. There was *Nasi Campur* so we hogged on. The television was playing a dubbed version of some Indian tele-series which Parul could identify. :joy:
 
 <p class="postimg vertimg">
   <img src="https://farm5.staticflickr.com/4581/38573577461_3e907d208b.jpg" alt="indian-tele-series">
