@@ -8,6 +8,7 @@ copyright = "Copyright (c) 2016, Karan Gupta; some rights reserved."
 canonifyurls = true
 paginate = 8
 preserveTaxonomyNames = true
+enableEmoji = true
 
 [params]
 	maxPostsPerPage = 8
