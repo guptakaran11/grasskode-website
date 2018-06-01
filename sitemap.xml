@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://grasskode.xyz/post/drafts/borrowed-shoes/</loc>
+    <lastmod>2018-06-01T15:39:21+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/post/travel/indonesia-bali/</loc>
     <lastmod>2017-12-03T21:22:48+05:30</lastmod>
   </url>
@@ -615,7 +620,7 @@
   
   <url>
     <loc>http://grasskode.xyz/post/</loc>
-    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
+    <lastmod>2018-06-01T15:39:21+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -627,7 +632,7 @@
   
   <url>
     <loc>http://grasskode.xyz/categories/rant/</loc>
-    <lastmod>2016-08-24T20:57:28+07:00</lastmod>
+    <lastmod>2018-06-01T15:39:21+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -764,8 +769,14 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/writing/</loc>
+    <lastmod>2018-06-01T15:39:21+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/</loc>
-    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
+    <lastmod>2018-06-01T15:39:21+05:30</lastmod>
     <priority>0</priority>
   </url>
   
