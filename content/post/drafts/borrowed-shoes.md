@@ -10,9 +10,7 @@ toc = false
 
 A few weeks back, Aniket asked me if I wanted to write an introduction for his [new book](https://www.goodreads.com/book/show/40136028-the-borrowed-shoes). I did not have to think twice to know that I definitely wanted to write something. It had been a long time since I had something definite to write about and it was probably the first time I was writing for someone else. I was thrilled, to say the least.
 
-The piece did not come easy though. I wrote drafts and scrapped them all. Nothing was making sense as an introduction to a book I had a vague idea about. The short burts of time that I was able to give to the project did not help as well. Slowly, after many discussions with Parul and various iterations, the write-up did start taking some shape.
-
-Here is the final draft.
+The piece did not come easy though. I wrote drafts and scrapped them all. I had just a vague idea about the book and nothing was making sense as an introduction to it. The short burts of time that I was able to give to the project did not help as well. Slowly, after many discussions with Parul and various iterations, the write-up did start taking some shape. Here is the final draft.
 
 <hr />
 
