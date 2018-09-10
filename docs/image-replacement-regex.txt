@@ -1,0 +1,10 @@
+find:
+
+<a data-flickr-embed="true"  href=\"[\S]*\" title="[\S]*"><img src="([\S]*)" width="[\S]*" height="[\S]*" alt="([\S]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+
+replace:
+
+<p class="postimg">
+  <img src="$1" alt="$2">
+  <em>$2</em>
+</p>

@@ -1,8 +1,9 @@
 +++
 categories = []
 tags = []
+date = "{{ .Date }}"
 type = "draft"
-title = ""
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
 image = ""
 toc = false
 +++

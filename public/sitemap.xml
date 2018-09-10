@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://grasskode.xyz/</loc>
-    <lastmod>2017-08-20T13:43:52+05:30</lastmod>
+    <loc>http://grasskode.xyz/post/rant/borrowed-shoes/</loc>
+    <lastmod>2018-06-01T15:39:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/travel/indonesia-bali/</loc>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/travel/indonesia-lombok/</loc>
+    <lastmod>2017-11-12T21:22:40+05:30</lastmod>
   </url>
   
   <url>
@@ -239,6 +250,534 @@
   <url>
     <loc>http://grasskode.xyz/license/</loc>
     <lastmod>2016-01-19T18:08:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/abandoned/</loc>
+    <lastmod>2016-09-16T18:54:40+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/adventure/</loc>
+    <lastmod>2016-12-20T12:47:23+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/backpacking/</loc>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/bali/</loc>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/beach/</loc>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/biking/</loc>
+    <lastmod>2016-02-22T01:04:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/categories/book-review/</loc>
+    <lastmod>2017-02-09T09:54:11+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/border-crossing/</loc>
+    <lastmod>2016-09-01T16:23:52+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/buddhism/</loc>
+    <lastmod>2016-02-22T01:04:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/buildings/</loc>
+    <lastmod>2017-08-20T13:43:52+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/burma/</loc>
+    <lastmod>2016-05-19T10:37:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/cambodia/</loc>
+    <lastmod>2017-03-06T00:21:54+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/categories/</loc>
+    <lastmod>2017-02-09T09:54:11+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/cave/</loc>
+    <lastmod>2016-08-04T15:38:25+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/chicago/</loc>
+    <lastmod>2017-08-20T13:43:52+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/city/</loc>
+    <lastmod>2016-10-15T12:08:54+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/cosmology/</loc>
+    <lastmod>2017-02-09T09:54:11+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/culture/</loc>
+    <lastmod>2016-02-22T01:03:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/defeatism/</loc>
+    <lastmod>2016-06-28T01:02:46+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/series/delhi-to-pune-roadtrip/</loc>
+    <lastmod>2016-02-22T01:04:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/diving/</loc>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/dystopia/</loc>
+    <lastmod>2017-01-01T12:59:07+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/elephants/</loc>
+    <lastmod>2016-11-13T17:15:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/europe/</loc>
+    <lastmod>2017-02-10T00:20:47+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/fiction/</loc>
+    <lastmod>2017-01-01T12:59:07+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/finland/</loc>
+    <lastmod>2017-02-10T00:20:47+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/football/</loc>
+    <lastmod>2016-06-28T01:02:46+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/god/</loc>
+    <lastmod>2016-08-03T11:57:50+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/great-war/</loc>
+    <lastmod>2016-11-27T15:33:15+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/hike/</loc>
+    <lastmod>2017-08-20T13:43:52+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/hill-station/</loc>
+    <lastmod>2016-08-19T00:54:52+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/hills/</loc>
+    <lastmod>2016-11-13T17:15:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/hippie-place/</loc>
+    <lastmod>2016-09-25T04:15:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/history/</loc>
+    <lastmod>2017-08-18T20:19:44+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/india/</loc>
+    <lastmod>2016-02-22T01:04:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/indonesia/</loc>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/irrawaddy/</loc>
+    <lastmod>2016-03-25T11:03:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/island/</loc>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/karnataka/</loc>
+    <lastmod>2016-01-29T23:57:11+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/lake/</loc>
+    <lastmod>2016-05-08T12:05:51+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/lgbt/</loc>
+    <lastmod>2016-03-29T23:25:30+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/lombok/</loc>
+    <lastmod>2017-11-12T21:22:40+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/long-read/</loc>
+    <lastmod>2016-11-27T15:33:15+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/madhya-pradesh/</loc>
+    <lastmod>2016-02-22T01:04:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/marathon/</loc>
+    <lastmod>2016-01-29T23:57:11+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/mekong/</loc>
+    <lastmod>2016-10-22T10:39:51+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/messi/</loc>
+    <lastmod>2016-06-28T01:02:46+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/myanmar/</loc>
+    <lastmod>2016-05-19T10:37:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/mythology/</loc>
+    <lastmod>2016-03-29T23:25:30+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/national-park/</loc>
+    <lastmod>2016-09-16T18:54:40+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/nature/</loc>
+    <lastmod>2016-11-13T17:15:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/nightlife/</loc>
+    <lastmod>2017-05-28T21:35:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/non-fiction/</loc>
+    <lastmod>2017-02-09T09:54:11+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/nordic/</loc>
+    <lastmod>2017-02-10T00:20:47+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/nyc/</loc>
+    <lastmod>2017-08-20T13:43:52+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/off-beat/</loc>
+    <lastmod>2016-12-20T12:47:23+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/old-town/</loc>
+    <lastmod>2016-08-14T23:28:57+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/pagodas/</loc>
+    <lastmod>2017-05-28T21:35:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/philosophy/</loc>
+    <lastmod>2016-11-27T15:33:15+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/photoblog/</loc>
+    <lastmod>2017-08-20T13:43:52+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/physics/</loc>
+    <lastmod>2017-02-09T09:54:11+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/</loc>
+    <lastmod>2018-06-01T15:39:21+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/psychology/</loc>
+    <lastmod>2017-01-01T12:59:07+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/categories/rant/</loc>
+    <lastmod>2018-06-01T15:39:21+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/religion/</loc>
+    <lastmod>2016-08-03T11:57:50+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/roadtrip/</loc>
+    <lastmod>2016-02-22T01:04:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/series/sea-chronicles/</loc>
+    <lastmod>2017-08-18T20:19:44+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/science/</loc>
+    <lastmod>2016-08-03T11:57:50+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/seattle/</loc>
+    <lastmod>2017-08-20T13:43:52+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/series/</loc>
+    <lastmod>2016-02-22T01:04:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/short-read/</loc>
+    <lastmod>2017-01-01T12:59:07+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/south-east-asia/</loc>
+    <lastmod>2017-08-18T20:19:44+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/supernatural/</loc>
+    <lastmod>2016-08-03T11:57:50+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/</loc>
+    <lastmod>2016-09-16T18:54:40+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/teaching/</loc>
+    <lastmod>2016-08-24T20:57:28+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/temple/</loc>
+    <lastmod>2017-03-06T00:21:54+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/temples/</loc>
+    <lastmod>2017-08-18T20:19:44+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/thailand/</loc>
+    <lastmod>2017-08-18T20:19:44+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/series/three-weeks-in-burma/</loc>
+    <lastmod>2016-05-19T10:37:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/categories/travel/</loc>
+    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/trek/</loc>
+    <lastmod>2017-11-12T21:22:40+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/unesco-site/</loc>
+    <lastmod>2017-03-06T00:21:54+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/usa/</loc>
+    <lastmod>2017-08-20T13:43:52+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/vietnam/</loc>
+    <lastmod>2016-10-15T12:08:54+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/volcano/</loc>
+    <lastmod>2017-11-12T21:22:40+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/winter/</loc>
+    <lastmod>2017-02-10T00:20:47+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/writing/</loc>
+    <lastmod>2018-06-01T15:39:21+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/</loc>
+    <lastmod>2018-06-01T15:39:21+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
