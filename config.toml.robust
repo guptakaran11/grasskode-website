@@ -1,9 +1,0 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-MetaDataFormat = "toml"
-theme = "robust"
-title = "grasskode"
-author = "Karan Gupta"
-copyright = "Copyright (c) 2016, Karan Gupta; all rights reserved."
-canonifyurls = true
-paginate = 4

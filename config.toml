@@ -4,38 +4,39 @@ MetaDataFormat = "toml"
 theme = "robust"
 title = "grasskode"
 author = "Karan Gupta"
-copyright = "Copyright (c) 2016, Karan Gupta; some rights reserved."
+copyright = "Copyright (c) 2018, Karan Gupta; some rights reserved."
 canonifyurls = true
 paginate = 8
 preserveTaxonomyNames = true
 
 [params]
-	maxPostsPerPage = 8
+    maxPostsPerPage = 8
     disqusShortname = "grasskodexyz"
-	GoogleAnalyticsUserID = "UA-73062996-1"
+    GoogleAnalyticsUserID = "UA-73062996-1"
 
 [taxonomies]
-	category = "categories"
+    category = "categories"
     tag = "tags"
     series = "series"
+    author = "author"
 
 [[menu.main]]
-	name = "Posts"
-	weight = -109
-	url = "/post/"
+    name = "Posts"
+    weight = -109
+    url = "/post/"
 [[menu.main]]
-	name = "Categories"
-	weight = -108
-	url = "/categories/"
+    name = "Categories"
+    weight = -108
+    url = "/categories/"
 [[menu.main]]
-	name = "Series"
-	weight = -107
-	url = "/series/"
+    name = "Series"
+    weight = -107
+    url = "/series/"
 [[menu.main]]
-	name = "Tags"
-	weight = -106
-	url = "/tags/"
+    name = "Tags"
+    weight = -106
+    url = "/tags/"
 [[menu.main]]
-	name = "About"
-	weight = -105
-	url = "/about/"
+    name = "About"
+    weight = -105
+    url = "/about/"
