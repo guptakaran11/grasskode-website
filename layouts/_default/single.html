@@ -47,9 +47,18 @@
           {{ end }}
           <h1 class="article-title">{{ .Title }}</h1>
           <div class="article-details">
-            {{ with .Params.series }}
-                <p>Part of the series : <a href="/series/{{ . | urlize }}">{{ . }}</a></p>
+            {{ $author := "Anonymous"}}
+            {{ with .Params.author }}
+              {{ $author = . }}
             {{ end }}
+            {{ if in .Site.Params.authors $author }}
+              <p>by <a href="/author/{{ $author | urlize }}">{{ $author }}</a></p>
+            {{ end }}
+          </div>
+          <div class="article-details">
+            {{ with .Params.series }}
+                  <p>Part of the series : <a href="/series/{{ . | urlize }}">{{ . }}</a></p>
+              {{ end }}
           </div>
           {{ if ne .Type "info" }}
             <div class="section share">

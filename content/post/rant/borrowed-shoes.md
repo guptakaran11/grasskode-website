@@ -2,10 +2,10 @@
 categories = ["rant"]
 tags = ["writing"]
 date = "2018-06-01T15:39:21+05:30"
-type = "draft"
 title = "The Borrowed Shoes"
 image = "https://farm5.staticflickr.com/4537/37618298144_eaedae7cd1_c.jpg"
 toc = false
+author = "Karan"
 +++
 
 A few weeks back, Aniket asked me if I wanted to write an introduction for his [new book](https://www.goodreads.com/book/show/40136028-the-borrowed-shoes). I did not have to think twice to know that I definitely wanted to write something. It had been a long time since I had something definite to write about and it was probably the first time I was writing for someone else. I was thrilled, to say the least.

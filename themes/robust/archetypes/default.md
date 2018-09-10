@@ -1,8 +1,0 @@
-+++
-categories = []
-title = ""
-tags = []
-image = ""
-toc = false
-draft = true
-+++

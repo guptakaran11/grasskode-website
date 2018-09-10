@@ -5,7 +5,7 @@ tags = ["science", "supernatural", "religion", "god"]
 image = "/images/supernatural-god-religion.jpg"
 title = "Supernatural, God & Religion"
 toc = true
-
+author = "Karan"
 +++
 
 ## My Phases of Belief
