@@ -5,7 +5,7 @@ image = "images/books.jpg"
 tags = ["great war", "fiction", "philosophy", "psychology", "long read"]
 title = "Robert Musil - The Man Without Qualities"
 toc = false
-
+author = "Karan"
 +++
 
 <a href="https://www.goodreads.com/book/show/527756.The_Man_Without_Qualities" style="float: left; padding-right: 20px"><img border="0" alt="The Man Without Qualities" src="https://images.gr-assets.com/books/1327330533m/527756.jpg" /></a><a href="https://www.goodreads.com/book/show/527756.The_Man_Without_Qualities">The Man Without Qualities</a> by <a href="https://www.goodreads.com/author/show/16747.Robert_Musil">Robert Musil</a><br/>

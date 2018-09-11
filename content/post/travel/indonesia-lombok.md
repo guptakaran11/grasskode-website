@@ -5,6 +5,7 @@ date = "2017-11-12T21:22:40+05:30"
 title = "Lombok Fuckin' Hardcore"
 image = "https://farm5.staticflickr.com/4575/38332846811_84826d3dbd_c.jpg"
 toc = true
+author = "Karan"
 +++
 
 After much deliberation and changes in plan, Parul and I headed to Indonesia for our yearly break. Both of us tend to travel a lot but this is the only the only break when we do not work, or at least try not to! Last year's vacation in [Burma](/series/three-weeks-in-burma) had been exceptionally amazing and this year we were headed to Indonesia.

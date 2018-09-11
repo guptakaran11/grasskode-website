@@ -5,6 +5,7 @@ title = "Hampi Revisisted"
 tags = ["india", "karnataka", "marathon", "hippie place", "temples", "history"]
 image = "images/hampi/hampi.jpg"
 toc = true
+author = "Karan"
 +++
 
 I had visited Hampi last in the October of 2014. It is a quiet village in the heart of Karnataka, close to Hosapete and Ballari. I had really liked the place back then; something about the laid back idleness of the place giving me a much needed break from my hectic schedule and the lack of mobile network only adding to the peace. Three days had gone by in a jiffy and there was a feeling of incompletion when I boarded the bus back to Pune. So when the opportunity presented itself for a return to this charming town, I had no reason to turn it down. The excuse : a half marathon being organised by a group that called itself [Go Heritage Run](http://www.goheritagerun.com/). I signed up for the run and made the necessary travel arrangements. Parul was coming with a group of her friends from Pune. We were going to make a vacation of this long weekend.
@@ -120,7 +121,7 @@ We were running short of time to explore the final area that lay to our south. T
 ## Au Revoir, Hampi
 The next morning was mostly spent packing up and seeing the folks off. Bhargava was riding back on his KTM Duke. Adityo was driving Trupti, Kapil and Priyanka back to Pune. We were delayed somewhat by the utterly unprofessional behaviour of the guest house manager. Parul had made reservations beforehand and a mail chain had recorded the confirmation of five rooms at a fixed rate. The manager blatantly refused the arrangement, saying that he had never agreed to the rate and that his rate was more than what was mentioned in the mail, which, as per him, he had specified in a phone call. We tried to make him understand that it was utterly unprofessional to simply raise the rate for a prior reservation at whim, but when he said something to the effect of "You pay me what I want", I knew it was a lost cause. We paid him, put up a [review on Tripadvisor](https://www.tripadvisor.in/ShowUserReviews-g319725-d2458962-r342724341-Gouthami_Guest_House_Vista_Rooms-Hampi_Karnataka.html) and left with a sour taste in our mouth. Unfortunately his business will continue to flourish despite what we had experienced. We go where the rates are cheap. Who cares about unprofessional conduct by a manager?
 
-We killed some hours in Rasta again. Yes, we were definitely in love with it. We lazed around and watched a movie. I worked on my writing. We even played a game of pictionary! 
+We killed some hours in Rasta again. Yes, we were definitely in love with it. We lazed around and watched a movie. I worked on my writing. We even played a game of pictionary!
 <p class="postimg">
 	<img src="/images/hampi/rasta.jpg" alt="Rasta Cafe">
 	<em>Rasta Cafe</em>

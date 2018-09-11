@@ -5,7 +5,7 @@ tags = ["europe", "nordic", "finland", "winter", "unesco site"]
 image = "https://c1.staticflickr.com/3/2593/32709658602_c5f6f786e9_c.jpg"
 title = "Far up North"
 toc = true
-
+author = "Karan"
 +++
 
 Finland happened quite suddenly. Parul had a client meeting in Helsinki I decided to join her there. We planned a week long trip, with the first 2 weekdays reserved for Parul's meetings when I could work out of the hotel. Then, we were planning to take the rest of the week off and see a bit of Finland. The planning of this trip was an adventure of it's own. From booking flights on a short notice to making a special trip to Pune just to get my passport for applying for the visa; Finland, from the very onset promised of adventure! Then the visa processing got delayed and arrived just a couple of days before our flight out!

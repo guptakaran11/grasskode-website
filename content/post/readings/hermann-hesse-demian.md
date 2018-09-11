@@ -5,7 +5,7 @@ image = "images/books.jpg"
 tags = ["great war", "fiction", "philosophy", "psychology", "short read"]
 title = "Hermann Hesse - Demian"
 toc = false
-
+author = "Karan"
 +++
 
 <a href="https://www.goodreads.com/book/show/32500666-demian" style="float: left; padding-right: 20px"><img border="0" alt="Demian" src="https://images.gr-assets.com/books/1475944507m/32500666.jpg" /></a><a href="https://www.goodreads.com/book/show/32500666-demian">Demian</a> by <a href="https://www.goodreads.com/author/show/15817187.Hemann_Hesse">Hemann Hesse</a>

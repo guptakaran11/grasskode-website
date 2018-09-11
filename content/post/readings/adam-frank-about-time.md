@@ -5,7 +5,7 @@ image = "images/books.jpg"
 tags = ["cosmology", "physics", "non-fiction"]
 title = "Adam Frank - About Time"
 toc = false
-
+author = "Karan"
 +++
 
 <a href="https://www.goodreads.com/book/show/17248885-about-time" style="float: left; padding-right: 20px"><img border="0" alt="About Time: From Sun Dials to Quantum Clocks, How the Cosmos Shapes Our Lives - And How We Shape the Cosmos. Adam Frank" src="https://images.gr-assets.com/books/1394308968m/17248885.jpg" /></a><a href="https://www.goodreads.com/book/show/17248885-about-time">About Time: From Sun Dials to Quantum Clocks, How the Cosmos Shapes Our Lives - And How We Shape the Cosmos. Adam Frank</a> by <a href="https://www.goodreads.com/author/show/176825.Adam_Frank">Adam Frank</a>

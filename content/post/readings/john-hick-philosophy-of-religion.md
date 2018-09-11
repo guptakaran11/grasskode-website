@@ -5,7 +5,7 @@ image = "images/books.jpg"
 tags = ["philosophy", "religion", "non-fiction"]
 title = "John H. Hick - Philosophy of Religion"
 toc = false
-
+author = "Karan"
 +++
 
 <a href="https://www.goodreads.com/book/show/31904.Philosophy_of_Religion" style="float: left; padding-right: 20px"><img border="0" alt="Philosophy of Religion " src="https://d.gr-assets.com/books/1388512094m/31904.jpg" /></a><a href="https://www.goodreads.com/book/show/31904.Philosophy_of_Religion">Philosophy of Religion</a> by <a href="https://www.goodreads.com/author/show/3112013.John_Harwood_Hick">John Harwood Hick</a><br/>

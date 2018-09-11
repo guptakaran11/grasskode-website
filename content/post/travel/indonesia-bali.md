@@ -5,6 +5,7 @@ date = "2017-12-03T21:22:48+05:30"
 title = "Magical Bali"
 image = "https://farm5.staticflickr.com/4568/38517021086_8e27387448_c.jpg"
 toc = true
+author = "Karan"
 +++
 
 Parul and I had gone to Indonesia for this year's vacation. Indonesia is an island country with a mindblowing 17,504 islands! We had spent the first half of the vacation in [Lombok](/post/travel/indonesia-lombok/). We took a fast boat from Gili Trawangan, our last stop in Lombok, and headed back to Bali for the rest of the the vacation.

@@ -5,7 +5,7 @@ image = "images/books.jpg"
 tags = ["dystopia", "fiction", "psychology", "short read"]
 title = "William Golding - Lord of the Flies"
 toc = false
-
+author = "Karan"
 +++
 
 <a href="https://www.goodreads.com/book/show/7624.Lord_of_the_Flies" style="float: left; padding-right: 20px"><img border="0" alt="Lord of the Flies" src="https://images.gr-assets.com/books/1327869409m/7624.jpg" /></a><a href="https://www.goodreads.com/book/show/7624.Lord_of_the_Flies">Lord of the Flies</a> by <a href="https://www.goodreads.com/author/show/306.William_Golding">William Golding</a><br/>

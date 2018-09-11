@@ -11,7 +11,7 @@ preserveTaxonomyNames = true
 enableEmoji = true
 
 [params]
-    authors = ["Karan", "Parul"]
+    authors = ["karan", "parul"]
     maxPostsPerPage = 8
     disqusShortname = "grasskodexyz"
     GoogleAnalyticsUserID = "UA-73062996-1"

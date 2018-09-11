@@ -5,7 +5,7 @@ tags = ["photoblog", "usa", "buildings", "hike", "nyc", "chicago", "seattle"]
 image = "https://farm5.staticflickr.com/4399/36692112485_cc10987033_c.jpg"
 title = "Coast to Coast"
 toc = false
-
+author = "Karan"
 +++
 
 Parul and I travelled to USA in the May of 2017. It was not a vacation, rather some family time coupled with remote working. I managed to see three very distinct parts of the huge country with very different weather, sceneries, people and food. Here is an attempt to document it all in a photo-blog.

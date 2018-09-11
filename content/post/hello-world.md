@@ -3,6 +3,7 @@ categories = []
 date = "2016-01-22T19:40:54+05:30"
 title = "Hello World"
 image = "images/helloworld.jpg"
+author = "Karan"
 +++
 
 As is customary, we start with saying a polite hello to this wonderful world!

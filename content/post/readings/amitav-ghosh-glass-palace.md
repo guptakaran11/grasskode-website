@@ -5,7 +5,7 @@ image = "images/books.jpg"
 tags = ["burma", "history", "fiction"]
 title = "Amitav Ghosh - The Glass Palace"
 toc = false
-
+author = "Karan"
 +++
 
 <a href="https://www.goodreads.com/book/show/77103.The_Glass_Palace" style="float: left; padding-right: 20px"><img border="0" alt="The Glass Palace" src="https://d.gr-assets.com/books/1388345246m/77103.jpg" /></a><a href="https://www.goodreads.com/book/show/77103.The_Glass_Palace">The Glass Palace</a> by <a href="https://www.goodreads.com/author/show/3369.Amitav_Ghosh">Amitav Ghosh</a>

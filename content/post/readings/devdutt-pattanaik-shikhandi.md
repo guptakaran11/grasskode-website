@@ -5,7 +5,7 @@ image = "images/books.jpg"
 tags = ["mythology", "lgbt", "non-fiction"]
 title = "Dr. Devdutt Pattanaik - Shikhandi and Other Stories They Don't Tell You"
 toc = false
-
+author = "Karan"
 +++
 
 <a href="https://www.goodreads.com/book/show/22697803-shikhandi-and-other-stories-they-don-t-tell-you" style="float: left; padding-right: 20px"><img border="0" alt="Shikhandi and Other Stories They Don't Tell You" src="https://d.gr-assets.com/books/1404891942m/22697803.jpg" /></a><a href="https://www.goodreads.com/book/show/22697803-shikhandi-and-other-stories-they-don-t-tell-you">Shikhandi and Other Stories They Don't Tell You</a> by <a href="https://www.goodreads.com/author/show/200940.Devdutt_Pattanaik">Devdutt Pattanaik</a>
@@ -19,5 +19,5 @@ A friend recently told me that he had read Dr. Pattanaik's "<a href="https://www
 <hr />
 
 <p class="unscaledimg">
-	<a rel="nofollow" href="http://www.amazon.in/gp/product/9383074841/ref=as_li_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9383074841&linkCode=as2&tag=readings0c-21"><img border="0" src="http://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=9383074841&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=readings0c-21" ><br />Buy From Amazon</a><img src="http://ir-in.amazon-adsystem.com/e/ir?t=readings0c-21&l=as2&o=31&a=9383074841" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />	
+	<a rel="nofollow" href="http://www.amazon.in/gp/product/9383074841/ref=as_li_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9383074841&linkCode=as2&tag=readings0c-21"><img border="0" src="http://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=9383074841&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=readings0c-21" ><br />Buy From Amazon</a><img src="http://ir-in.amazon-adsystem.com/e/ir?t=readings0c-21&l=as2&o=31&a=9383074841" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </p>

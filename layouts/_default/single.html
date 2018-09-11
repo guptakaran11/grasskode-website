@@ -51,8 +51,8 @@
             {{ with .Params.author }}
               {{ $author = . }}
             {{ end }}
-            {{ if in .Site.Params.authors $author }}
-              <p>by <a href="/author/{{ $author | urlize }}">{{ $author }}</a></p>
+            {{ if in .Site.Params.authors ( lower $author ) }}
+              <p>by <a href="/author/{{ $author | urlize }}">{{ humanize $author }}</a></p>
             {{ end }}
           </div>
           <div class="article-details">
