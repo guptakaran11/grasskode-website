@@ -186,6 +186,24 @@ article.li .tag {
   text-align: center;
 }
 
+article.li .tag-right {
+  position: absolute;
+  top: -5px;
+  right: 5px;
+  display: block;
+  z-index: 1;
+  white-space: nowrap;
+  padding: 3px 7px;
+  color: #fff;
+  background-color: #333;
+  text-align: center;
+}
+
+article.li .reading-time {
+  font-size: .7rem;
+  line-height: 1.5rem;
+}
+
 article.li time {
   font-size: .8rem;
   line-height: 1.5rem;
@@ -290,7 +308,7 @@ article.single .article-header {
 }
 
 article.single .timebar {
-  display: inline-block; 
+  display: inline-block;
   width: 100%;
 }
 
