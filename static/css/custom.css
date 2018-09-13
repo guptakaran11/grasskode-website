@@ -84,9 +84,9 @@ article.single .article-body blockquote {
 }
 
 article.single .article-body blockquote p {
-  font-size: 1rem;
-  line-height: 1.5rem;
-  text-align: center;
+  font-size: 0.9rem;
+  line-height: 1.8rem;
+  white-space: pre-line;
 }
 
 article.single .article-body h2 {

@@ -6,4 +6,5 @@ type = "draft"
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
 image = ""
 toc = false
+author = ""
 +++

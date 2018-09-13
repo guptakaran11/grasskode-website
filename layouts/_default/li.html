@@ -5,9 +5,13 @@
           <time>{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</time>
           {{ with .Params.categories }}
             {{ range first 1 . }}
-            <div class="category">{{ upper . }}</div>
+              <div class="category">{{ upper . }}</div>
             {{ end }}
           {{ end }}
+        </div>
+
+        <div class="tag-right">
+          <div class="reading-time">{{ .ReadingTime }} MIN READ</div>
         </div>
 
         <div class="dark">
@@ -17,5 +21,9 @@
           </div>
         </div>
     </div>
+
+    {{/* <div class="reading-time">
+      <p>{{ .ReadingTime }} mins</p>
+    </div> */}}
   </a>
 </article>

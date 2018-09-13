@@ -57,9 +57,14 @@
           </div>
           <div class="article-details">
             {{ with .Params.series }}
-                  <p>Part of the series : <a href="/series/{{ . | urlize }}">{{ . }}</a></p>
-              {{ end }}
+              <p>Part of the series : <a href="/series/{{ . | urlize }}">{{ . }}</a></p>
+            {{ end }}
           </div>
+          {{ if ne .Type "info" }}
+            <div class="article-details">
+              <p>{{ .ReadingTime }} mins</p>
+            </div>
+          {{ end }}
           {{ if ne .Type "info" }}
             <div class="section share">
               <a href="http://www.facebook.com/sharer.php?src=bm&u={{ .Permalink }}&t={{ .Title }}" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-facebook-official"></i></a>
