@@ -4,7 +4,7 @@ find:
 
 replace:
 
-<p class="postimg">
+<div class="postimg">
   <img src="$1" alt="$2">
   <em>$2</em>
-</p>
+</div>

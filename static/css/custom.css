@@ -32,7 +32,7 @@ hr {
 }
 
 .navbar-header {
-	align: center;
+  align: center;
 }
 
 .navbar .navbar-nav {
@@ -91,23 +91,26 @@ article.single .article-body blockquote p {
 
 article.single .article-body h2 {
   word-break: normal;
+  padding-top: 2em;
+  margin-top: 0;
+  clear: both;
 }
 
 article.li a {
-	border: 1.5px solid #ccc;
+  border: 1.5px solid #ccc;
 }
 
 article.li a:hover {
-	border: 1.5px solid #FF5733;
+  border: 1.5px solid #FF5733;
 
 }
 
 article.li {
-	margin-top: 1rem;
+  margin-top: 1rem;
 }
 
 article.li time {
-	font-size: 0.8rem;
+  font-size: 0.8rem;
 }
 
 article.li .title {
@@ -118,7 +121,7 @@ article.li .title {
 }
 
 article.li .summary {
-	word-break: break-word;
+  word-break: break-word;
 }
 
 article.single .article-body a {
@@ -127,22 +130,22 @@ article.single .article-body a {
 }
 
 .sidebar {
-	padding: 2rem;
+  padding: 2rem;
 }
 
 .unscaledimg {
-	margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
 }
 
 .unscaledimg img {
-	text-align: center;
-	width: auto;
-	max-width: 100%;
-	height: auto;
+  text-align: center;
+  width: auto;
+  max-width: 100%;
+  height: auto;
 }
 
 .vertimg img {
-	width: 60%;
+  width: 60%;
 }
 
 .vertimg img.emoji {
@@ -150,28 +153,56 @@ article.single .article-body a {
 }
 
 .borderedimg img {
-	padding: 0.2rem;
-	border: 1.5px solid #021a40;
+  padding: 0.2rem;
+  border: 1.5px solid #021a40;
+}
+
+div.inline40 {
+  float: left;
+  margin: 0 0.5em 0 0;
+  width: 40%;
+  overflow: auto;
+}
+
+div.inline50 {
+  float: left;
+  margin: 0 0.5em 0 0;
+  width: 40%;
+  overflow: auto;
+}
+
+div.inline40right {
+  float: right;
+  margin: 0 0 0 0.5em;
+  width: 40%;
+  overflow: auto;
+}
+
+div.inline50right {
+  float: right;
+  margin: 0 0 0 0.5em;
+  width: 40%;
+  overflow: auto;
 }
 
 .postimg {
-	text-align: center;
-	margin: 10px 0 10px 0;
+  text-align: center;
+  margin: 10px 0 10px 0;
 }
 
 .postimg img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 0.5rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0.5rem;
 }
 
 .postimg em {
-	font-size: 0.8rem;
-	font-weight: 500;
-	text-align: center;
-	color: #808080;
-	line-height: 1rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-align: center;
+  color: #808080;
+  line-height: 1rem;
 }
 
 nav.paging a:hover {
