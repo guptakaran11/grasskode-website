@@ -7,9 +7,10 @@ title = "Ride on, Right on"
 image ="https://farm2.staticflickr.com/1861/29712803907_8009c0a502_b.jpg"
 series = "Last time I did something for the first time"
 author = "Parul"
-toc = false
+toc = true
 +++
 
+## How it started
 As Ifrit and Typhon(our Royal Enfields) take a stand in the parking, I take a loving look at my flaming red monster. What a journey has this been, 2778 kms and counting. As we settle our luggage and get out of our gear I can see a similar smile on Karan's face. I did it, against all odds. I make tea and we sit to recall the events of last 10 days. How this trip was originally planned for December 2017, but our love for our work has our lives optimized around it. As a result we moved our plan to ride to Jaisalmer to January 2018. Jaisalmer is a beautiful heritage city in Rajasthan and has been on our mind for a while. It was really the food that had Karan sold on Jaisalmer TBH :satisfied: Jyoti and his bike (Baptised as Ziya over the trip) were to join us on our trip.
 <p class="postimg">
   <img src="https://farm2.staticflickr.com/1875/44107766824_349bdfac46_z.jpg" alt="IMG_20180126_125050">
