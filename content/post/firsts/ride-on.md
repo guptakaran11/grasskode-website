@@ -2,7 +2,6 @@
 categories = ["travel"]
 tags = ["biking","india", "roadtrip", "rajasthan"]
 date = "2018-07-10T12:19:35+03:00"
-type = "draft"
 title = "Ride on, Right on"
 image ="https://farm2.staticflickr.com/1861/29712803907_8009c0a502_b.jpg"
 series = "Last time I did something for the first time"
