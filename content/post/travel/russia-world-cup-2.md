@@ -2,7 +2,6 @@
 categories = ["travel"]
 tags = ["russia", "fifa", "football", "backpacking", "summers"]
 date = "2018-09-12T12:31:19+05:30"
-type = "draft"
 title = "FIFA World Cup 2018 - Russia (Part 2)"
 image = "https://farm2.staticflickr.com/1873/43043844140_82965505ef_c.jpg"
 toc = true
