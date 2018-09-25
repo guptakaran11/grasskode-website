@@ -28,7 +28,7 @@ Then I walked slowly all the way to the Kursky Station to catch my train, stoppi
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1901/44855571401_a6afb65f87.jpg" alt="moscow-4">
-  <em>Trying the zoom on my camera</em>
+  <em>Trying the zoom on my new camera</em>
 </div>
 
 A few things had made themselves very apparent during these first few hours in Moscow. One, it would be difficult to communicate here. Russians do not usually understand English and Russian is not a very easy language to get a hang of. I was beginning to get a sense of the Cyrillic alphabet though and that motivated me to try and learn a bit of Russian; enough to get by without looking like a complete idiot :worried: Perhaps the only honest attempt to conversation that I had that day was with a homeless girl who came to ask me for some money for vodka. My Russian was so bad that I could not make head or tail of what she was trying to explain with much effort. Nor was I able to explain to her that I did not understand any Russian, although I guess she might have figured that out. We exchanged names somehow and she expressed an acknowledgement when she heard that I was from India. Of course she knew Shah Rukh Khan; who doesn't!
@@ -44,8 +44,12 @@ My hostel was a modest one with friendly staff. However, this was a smaller town
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1884/43945028645_aba961a6e8.jpg" alt="vladimir-3">
+  <em>Walking around Vladimir</em>
+</div>
+
+<div class="postimg">
   <img src="https://farm2.staticflickr.com/1902/30983297518_5589f32b35.jpg" alt="vladimir-2">
-  <em>Walking around Suzdal</em>
+  <em>Yellow</em>
 </div>
 
 <div class="postimg">
@@ -86,12 +90,12 @@ I went out of the hostel for a walk around town. Vladimir had recommended a coup
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1898/44134064004_086032aec3.jpg" alt="suzdal-2">
-  <em>Beautiful Wodden Houses</em>
+  <em>Beautiful wodden houses</em>
 </div>
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1844/30982745338_4e70695270.jpg" alt="suzdal-3">
-  <em>Cathedrals Galore</em>
+  <em>Cathedrals galore</em>
 </div>
 
 While I was trying to study a city map and chalk out a rough route for the day, two ladies who had been standing nearby politely asked if I needed help. This is a rare thing in Russia because for one, people usually mind their own business, and also not a lot speak English.
@@ -120,14 +124,14 @@ That evening, after a failed attempt at ordering food in a local cafe (my Russia
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1863/44134706444_6a4391b8cd.jpg" alt="suzdal-17">
-  <em>The Concert</em>
+  <em>The concert</em>
 </div>
 
 The pianist finally took the stage and his music was quite enchanting as well. I roamed about the grounds, saw the sun setting and the fairytale-like setting of the concert light up in the darkening sky. The music progressed from classical Western to blues and I eventually left the grounds while the artists were jamming on Brubeck's "Take 5".
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1887/43043798610_41c57d0fce.jpg" alt="suzdal-21">
-  <em>Kremlin Grounds</em>
+  <em>Kremlin grounds</em>
 </div>
 
 <div class="postimg">
@@ -151,39 +155,62 @@ I spent the entire day walking around Suzdal, visiting more cathedrals and falli
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1884/44134704404_3ac16ba1b5.jpg" alt="suzdal-33">
-  <em>Dark Romance</em>
+  <em>Dark romance</em>
 </div>
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1963/43043794350_408071ebec.jpg" alt="suzdal-35">
-  <em>Powered Paragliding (I had no idea such a thing existed!)</em>
+  <em>Powered paragliding (I had no idea such a thing existed!)</em>
 </div>
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1890/29918790187_cb80d75f05.jpg" alt="suzdal-34">
-  <em>A Beautiful Sunset</em>
+  <em>A beautiful sunset</em>
 </div>
 
 
 ## Matchday
 
-The next morning I thanked Vladimir (the host) for his hospitality and caught a bus back to Vladimir (the town) in time for the train onwards to Nizhny Novgorod. I was slightly disappointed at having to leave Suzdal so soon after falling in love with it, but Nizhny cheered me up to an extent. I walked all the way from the station to the hostel in Nizhny (old habit). The older part of Nizhny had a nice vibe to it. I checked into my hostel behind an Argentine group who were all wearing their country's jersey. It seemed like I was not the only one who had made the wrong prediction of Argentina topping their group.
-
-The Argentines were in a rush to get to the **Fan Fest** to watch their team take on France. They were a bit too pushy with the receptionist who was trying to handle them as patiently as possible. Finally it was my turn to check-in and Marsha, the soft spoken girl at the reception, gave me a tour of the hostel. I followed the Argentines to the Fan Fest, this being the first time in my week long in Russia I was going to one. The Fan Fest was a crazy affair. It was a public screening of the football matches with a lot of fanfare. There were food and beer stalls all over the place and the general atmosphere was very energetic. I found myself a spot and sat down to enjoy the match while fans of either countries and a big bunch of neutrals cheered the teams on. Argentina, despite playing their best in the tournament, lost to a younger and more determined French team. Their fans left dejected as the French fans ridiculed the team's performance. This was football!
+The next morning I thanked Vladimir (the host) for his hospitality and caught a bus back to Vladimir (the town) in time for the train onwards to Nizhny Novgorod. I was slightly disappointed at having to leave Suzdal so soon after falling in love with it, but Nizhny cheered me up to an extent. I walked all the way from the station to the hostel in Nizhny (old habit). The older part of Nizhny had a nice vibe to it and as I neared the center of the city, there was an obvious football mania all around.
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1912/44134694934_2197787bd7.jpg" alt="nizny-2">
   <em>Football in the air</em>
 </div>
 
+I checked into my hostel behind an Argentine group who were all wearing their country's jersey. It seemed like I was not the only one who had made the wrong prediction of Argentina topping their group.
+
+The Argentines were in a rush to get to the **Fan Fest** to watch their team take on France. They were a bit too pushy with the receptionist who was trying to handle them as patiently as possible. Finally it was my turn to check-in and Marsha, the soft spoken girl at the reception, gave me a tour of the hostel. I followed the Argentines to the Fan Fest, this being the first time in my week long in Russia I was going to one. The Fan Fest was a crazy affair. It was a public screening of the football matches with a lot of fanfare. There were food and beer stalls all over the place and the general atmosphere was very energetic. I found myself a spot and sat down to enjoy the match while fans of either countries and a big bunch of neutrals cheered the teams on. Argentina, despite playing their best in the tournament, lost to a younger and more determined French team. Their fans left dejected as the French fans ridiculed the team's performance. This was football!
+
 I returned to the hostel for a quick bath and found my dorm-mates in the room. There was a Mexican, Daniel, who was here to cheer his team on. He had been in Russia since the group matches and was picking up tickets on the go as his team's match venues were getting decided. I came to learn from him how that was a better way to watch a World Cup rather than pre-decide your matches. The other two guys in the room were Israelis who had 10 tickets of the next day's match for sale! I was now quite amused at the amount of time and money we had spent getting a ticket for Parul. :expressionless:
 
-I returned to the Fan Fest later that night with Daniel to watch Uruguay win against Portugal. This Cup was no longer about the greatest footballer anymore. It was about football now. Then we went to get Nizhny's best _shawarma_. I had not expected _shawarma_ in this part of the world for some reason. But it was by far the most popular street food that I had encountered in Russia. It had been difficult for me to come across "Russian cuisine" so far in the trip. There was Georgian and Uzbek cuisine at best which I had encountered. Nizhny's _shawarma_, *Shaurma na Srednom* went so far as to claim that one's visit to Nizhny is incomplete without having their _shawarma_!
+I returned to the Fan Fest later that night with Daniel to watch Uruguay win against Portugal. This Cup was no longer about the greatest footballer anymore. It was about football now.
+
+<div class="postimg vertimg">
+  <img src="https://farm2.staticflickr.com/1933/44836249742_6dd1039def.jpg" alt="nizhny-fan-fest">
+  <em>Nizhny's Fan Fest</em>
+</div>
+
+After the match we went to get Nizhny's best _shawarma_. I had not expected _shawarma_ in this part of the world for some reason. But it was by far the most popular street food that I had encountered in Russia. It had been difficult for me to come across "Russian cuisine" so far in the trip. There was Georgian and Uzbek cuisine at best which I had encountered. Nizhny's _shawarma_, *Shaurma na Srednom* went so far as to claim that one's visit to Nizhny is incomplete without having their _shawarma_!
+
+<div class="postimg vertimg">
+  <img src="https://farm2.staticflickr.com/1951/43074627370_f31a31d87d.jpg" alt="nizhny-shawarma">
+  <em>Shaurma na Srednom</em>
+</div>
 
 The next day was spent wandering the local Armenian market and the Nizhny Kremlin with Daniel.
 
+<div class="postimg vertimg">
+  <img src="https://farm2.staticflickr.com/1967/43074610370_4e5d1cb701.jpg" alt="nizhny-lunch-fruits">
+  <em>Fruits from the Armenian market</em>
+</div>
+
+<div class="postimg vertimg">
+  <img src="https://farm2.staticflickr.com/1961/44887144431_e50bf3e5bc.jpg" alt="nizhny-kremlin-10">
+</div>
+
 <div class="postimg">
-  <img src="https://farm2.staticflickr.com/1879/43044481810_1b8ee246bb.jpg" alt="nizny-3">
+  <img src="https://farm2.staticflickr.com/1862/30983382808_1cb318eef8.jpg" alt="nizny-3">
   <img src="https://farm2.staticflickr.com/1870/30983381398_74ed930709.jpg" alt="nizny-6">
   <em>Walking around the Nizhny Kremlin</em>
 </div>
@@ -212,6 +239,11 @@ Exhausted by the day spent on foot, I spent another twenty minutes standing in t
 
 The next morning I caught a train back to Moscow. While I could have spent more days in Nizhny, I chose the comfort and economy (mostly economy) of the free ride to get back to Moscow. I got to Moscow by mid-day and found my way to the hostel. After the week in smaller towns and the countryside, the curt demeanour of Moscow came as a bit of shock. This was my second time in Moscow since I had come to Russia but I steered clear of all touristy activity. I was waiting to see the city with Parul who was going to join me a few days later. In the mean time, I spent my days hunting for cheap food, learning the language and trying to understand the country and it's ways. The metro stations presented a beautiful sight every time so I randomly broke my journeys to enjoy them.
 
+<div class="postimg vertimg">
+  <img src="https://farm2.staticflickr.com/1924/44836992992_72fcece1db.jpg" alt="moscow-metro-1">
+  <img src="https://farm2.staticflickr.com/1923/44837049242_4bc490281a.jpg" alt="moscow-metro-5">
+</div>
+
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1970/43043793600_424251d74a.jpg" alt="moscow-metro">
   <em>Dazzling Metro stations</em>
@@ -222,7 +254,14 @@ An interesting incident in Moscow remains etched in my memory. While looking for
 I also checked out an anti-cafe in Moscow. It was an interesting concept that I had come across for the first time. Anti-cafes or 'time cafes' charge a user for the time they spend in the cafe and provide basic beverages and snacks as a complimentary offering. Parul and I had discussed this concept when we used to hunt for places to sit and talk back in the day when our finances were scarce. Anti-cafes have their own unique offerings to create a uniqueness in the market. Some have video games, other movies, others offer nicely done hookahs and more. I spent a lot of time in one of these cafes getting my writing done and sorting out some work I was unable to get time for in the usual travel days.
 
 <div class="postimg vertimg">
+  <img src="https://farm2.staticflickr.com/1939/43074596070_1f0e69cb94.jpg" alt="moscow-anti-cafe">
+</div>
+
+This work included updating my travel logs and trying my hand at photo editing, a new hobby I had picked up as a side effect of living with Parul. :grimacing:
+
+<div class="postimg vertimg">
   <img src="https://farm2.staticflickr.com/1865/44805401842_d470609042.jpg" alt="moscow-7">
+  <img src="https://farm2.staticflickr.com/1880/43043791530_d71ffd64f5.jpg" alt="moscow-marx">
 </div>
 
 <div class="postimg">
@@ -231,14 +270,21 @@ I also checked out an anti-cafe in Moscow. It was an interesting concept that I 
   <em>Walking aroung Moscow</em>
 </div>
 
-<div class="postimg vertimg">
-  <img src="https://farm2.staticflickr.com/1880/43043791530_d71ffd64f5.jpg" alt="moscow-marx">
-  <em>Statue of Karl Marx</em>
-</div>
-
 After three days in Moscow, I checked out of the hostel and headed to the railway station to catch my free ride to Adler. I met up with Jyoti at the station and we exchanged our World Cup experiences thus far. We discussed football mostly and I came to understand the Bengali love for football. He was very well versed in the Indian team's performance and I made a mental note to support local football more.
 
-I caught the train and it turned out that I had a first class cabin all to myself! The loner in me kicked in and I pulled out my writing book and sketch book, imagining the ways I could spend the next 24 hours in solitude. I met a Malaysian over dinner in the restaurant car and the train was abuzz with football fans drinking and hooting. An Indian with the national flag had joined them and while I did consider joining them for a few beers, I decided against it and went back to my cabin, finished the book I was reading and watched a movie before dozing off. Oh sweet solitude!
+<div class="postimg vertimg">
+  <img src="https://farm2.staticflickr.com/1942/44166093834_9ec9323272.jpg" alt="with-jyoti">
+  <em> :v: </em>
+</div>
+
+I caught the train and it turned out that I had a first class cabin all to myself!
+
+<div class="postimg vertimg">
+  <img src="https://farm2.staticflickr.com/1914/44166090504_f92a6c67cb.jpg" alt="adler-train-cabin">
+  <em> :smiling_imp: </em>
+</div>
+
+The loner in me kicked in and I pulled out my writing book and sketch book, imagining the ways I could spend the next 24 hours in solitude. I met a Malaysian over dinner in the restaurant car and the train was abuzz with football fans drinking and hooting. An Indian with the national flag had joined them and while I did consider joining them for a few beers, I decided against it and went back to my cabin, finished the book I was reading and watched a movie before dozing off. Oh sweet solitude!
 
 <hr />
 
