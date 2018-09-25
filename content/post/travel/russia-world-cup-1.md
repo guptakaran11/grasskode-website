@@ -3,7 +3,7 @@ categories = ["travel"]
 tags = ["russia", "fifa", "football", "backpacking", "summers"]
 date = "2018-09-12T12:31:19+05:30"
 title = "FIFA World Cup 2018 - Russia  (Part 1)"
-image = "https://farm2.staticflickr.com/1894/43044492250_d793d358f0.jpg"
+image = "https://farm2.staticflickr.com/1894/43044492250_d793d358f0_z.jpg"
 toc = true
 author = "Karan"
 +++
