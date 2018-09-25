@@ -21,7 +21,7 @@ Within 6 hours of taking off from Delhi, I found myself at the Sheremetyevo Airp
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1869/44134622564_8b4f3d626e.jpg" alt="moscow-3">
-  <em>Streets of Moscow</em>
+  <em>Streets of Moscow (the not so crowded ones)</em>
 </div>
 
 Then I walked slowly all the way to the Kursky Station to catch my train, stopping a couple of times on the way. Once to get some delicious Georgian lunch and once more to kill time in a park.
