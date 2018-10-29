@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://grasskode.xyz/post/travel/zfm2018/</loc>
+    <lastmod>2018-10-10T16:39:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/travel/kashmir-great-lakes/</loc>
+    <lastmod>2018-10-04T14:39:49+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/post/travel/russia-world-cup-1/</loc>
     <lastmod>2018-09-12T12:31:19+05:30</lastmod>
   </url>
@@ -268,6 +278,12 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/author/</loc>
+    <lastmod>2018-10-10T16:39:23+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/abandoned/</loc>
     <lastmod>2016-09-16T18:54:40+07:00</lastmod>
     <priority>0</priority>
@@ -281,6 +297,7 @@
   
   <url>
     <loc>http://grasskode.xyz/author/</loc>
+    <lastmod>2018-10-10T16:39:23+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -662,7 +679,7 @@
   
   <url>
     <loc>http://grasskode.xyz/post/</loc>
-    <lastmod>2018-09-12T12:31:19+05:30</lastmod>
+    <lastmod>2018-10-10T16:39:23+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -832,7 +849,7 @@
   
   <url>
     <loc>http://grasskode.xyz/</loc>
-    <lastmod>2018-09-12T12:31:19+05:30</lastmod>
+    <lastmod>2018-10-10T16:39:23+05:30</lastmod>
     <priority>0</priority>
   </url>
   
