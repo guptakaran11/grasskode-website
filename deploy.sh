@@ -22,6 +22,8 @@ if [ -d public ]; then
 fi
 git subtree add --prefix=public git@github.com:grasskode/grasskode-website.git gh-pages
 
+set -x
+
 # swap .gitignore
 mv .gitignore .gitignore-master
 mv .gitignore-gh-pages .gitignore
@@ -49,6 +51,8 @@ msg="rebuilding site `date`"
 git commit -m "$msg"
 #git push origin master
 git subtree push --prefix=public git@github.com:grasskode/grasskode-website.git gh-pages
+
 mv .gitignore .gitignore-gh-pages
 mv .gitignore-master .gitignore
 
+set +x
