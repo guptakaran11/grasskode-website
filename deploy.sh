@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 echo -e "\033[0;32mUpdating master...\033[0m"
 
 # commit pending changes
@@ -42,7 +41,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 #git push origin master
 
 # Push source and build repos.
-git add -A
+git add public
 msg="rebuilding site `date`"
 git commit -m "$msg"
 git subtree push --prefix=public git@github.com:grasskode/grasskode-website.git gh-pages
