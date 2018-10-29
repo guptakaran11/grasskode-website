@@ -25,8 +25,7 @@ git subtree add --prefix=public git@github.com:grasskode/grasskode-website.git g
 set -x
 
 # swap .gitignore
-mv .gitignore .gitignore-master
-mv .gitignore-gh-pages .gitignore
+cp .gitignore-gh-pages .gitignore
 
 # Build the project.
 hugo
@@ -45,14 +44,10 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 # Push source and build repos.
 git add -A
 msg="rebuilding site `date`"
-#if [ $# -eq 1 ]
-#  then msg="$1"
-#fi
 git commit -m "$msg"
-#git push origin master
 git subtree push --prefix=public git@github.com:grasskode/grasskode-website.git gh-pages
 
-mv .gitignore .gitignore-gh-pages
-mv .gitignore-master .gitignore
+# revert to master's .gitignore
+cp .gitignore-master .gitignore
 
 set +x
