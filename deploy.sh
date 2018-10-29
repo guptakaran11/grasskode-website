@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+set -ex
 
 echo -e "\033[0;32mUpdating master...\033[0m"
 
