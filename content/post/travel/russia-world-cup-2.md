@@ -2,7 +2,6 @@
 categories = ["travel"]
 tags = ["russia", "fifa", "football", "backpacking", "summers"]
 date = "2018-09-12T12:31:19+05:30"
-type = "draft"
 title = "FIFA World Cup 2018 - Russia (Part 2)"
 image = "https://farm2.staticflickr.com/1873/43043844140_82965505ef_c.jpg"
 toc = true
@@ -25,6 +24,11 @@ The stadium was buzzing with activity. Parul had to collect her Fan ID so we got
 
 <div class="postimg vertimg">
   <img src="https://farm2.staticflickr.com/1915/44166086494_19727539d3.jpg" alt="adler-stadium-10">
+</div>
+
+<div class="postimg">
+  <img src="https://farm2.staticflickr.com/1969/29969380407_efcc493504.jpg" alt="adler-stadium-25">
+  <em>Delayed for a reason :grimacing:</em>
 </div>
 
 The match did not disappoint, nor did the stadium. It was by far the most exciting match I have seen. The Russian fans were jumping and shouting and creating a ruckus. The Croatian fans in their corner were being their usual self, infectious and loud. Everyone was so engrossed in the game that not even a single wave managed to cross the stadium! :grinning: We watched the whole match on our feet amidst a crowd of Russians. I found myself sympathising with the home side as the match progressed. The match was a thriller in itself. 1-1 at the end of full time and 2-2 at the end of extra time. Eventually Croatia won but Russia had certainly outdid itself.
@@ -141,6 +145,11 @@ We started with the cathedral right behind our hotel and walked around in whiche
 
 We ended up in an extremely authentic place for lunch. So authentic that just the concierge spoke a bit of English and the staff had difficulty finding an English menu. We ended up ordering something with the help of the Translate App and the pictures and then waited in apprehention. Turned out that we had not done too bad. The food was quite delicious. However, I could not appreciate the caviar in the salad. My pallate is still rustic I guess :stuck_out_tongue: There was also a local drink that we had ordered which turned out to be heavily wasabi flavoured and extremely potent. We had a nice buzz by the time we left the restaurant and the day got even more lovelier.
 
+<div class="postimg vertimg">
+  <img src="https://farm2.staticflickr.com/1910/29969379617_3037568136.jpg" alt="yaroslavl-lunch">
+  <em>Magic potion!</em>
+</div>
+
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1939/43043750440_41a27effa0.jpg" alt="yaroslavl-11">
   <em>Beautiful vistas</em>
@@ -256,6 +265,11 @@ The first evening, after checking into the hostel and relaxing a bit, we hit the
 We walked about the kremlin and the adjoining flea market for a while and then went towards the city center to meet Yan. We had met Yan on one of the trips to Sri Lanka many years back. We had (mostly Parul had) getten back in touch with him when we were headed to Moscow and he told us that he was in town. So that evening, Yan, his friend Timur, Parul and I got together at Kitay Gorod and sat in a cafe to have some beers. Timur spoke little English, probably comparable to my Russian. While it had initially seemed that the evening would wrap up early, since none of us had much to talk about, it turned out to be quite eventful.
 
 After one beer at the cafe, we raided a supermarket and sat in a park (the same one where I had spent my first morning) to drink. The park was lively with people all around and musicians putting up a show. Yan told us that drinking in public was prohibited in Russia and the rule had been relaxed specially for the World Cup. I learnt a lot of things that evening, about the unrest of Russian people and how happy or unhappy they were with the government and it's ways. Yan thought they controlled too much and said that he liked the flexibility of Indian laws! I guess the grass is always greener on the other side.
+
+<div class="postimg">
+  <img src="https://farm2.staticflickr.com/1930/29969378887_783fd5557f.jpg" alt="moscow-with-yan-2">
+  <em>Chilling in the park with Yan and Timur</em>
+</div>
 
 We got more beers from a nearby pub, drank some more and laughed a lot more. Timur enhanced our Russian vocabulary with some swear words. It turned out to be an extremely good night that ended late but would have gone on still had we not had plans for the next morning. Timur's disbelief is still vivid in my memory when I told him that we would take a bus back to our hostel instead of a cab :joy: It really was quite late.
 
@@ -413,7 +427,7 @@ Timur had arranged for some local alcohol for us after the conversation we had t
   <em>Revamped</em>
 </div>
 
-This evening progressed in much the same way as the last one that we had met. We sat to eat something in a cafe and had a few beers. The night ended in a delirium of drinking beer, discussing politics, walking, taking trams, clicking random photographs, hopping cafes and flirting with waitresses. I woke up the next morning with a heavy head and no idea of how I had crawled into my capsule bunk! :cheers:
+This evening progressed in much the same way as the last one that we had met. We sat to eat something in a cafe and had a few beers. The night ended in a delirium of drinking beer, discussing politics, walking, taking trams, clicking random photographs, hopping cafes and flirting with waitresses. I woke up the next morning with a heavy head and no idea of how I had crawled into my capsule bunk! :beers:
 
 <div class="postimg vertimg">
   <img src="https://farm2.staticflickr.com/1904/29950550047_a0aeeb5712.jpg" alt="last-night-3">

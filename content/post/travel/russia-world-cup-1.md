@@ -2,13 +2,11 @@
 categories = ["travel"]
 tags = ["russia", "fifa", "football", "backpacking", "summers"]
 date = "2018-09-12T12:31:19+05:30"
-type = "draft"
 title = "FIFA World Cup 2018 - Russia  (Part 1)"
-image = "https://farm2.staticflickr.com/1894/43044492250_d793d358f0_c.jpg"
+image = "https://farm2.staticflickr.com/1894/43044492250_d793d358f0_z.jpg"
 toc = true
 author = "Karan"
 +++
-
 
 While I had initially thought about attending the 2018 FIFA World Cup when Russia was announced as the host nation, a few mindless assumptions and even more stupid lack of planning had me sitting wondering why I had not signed up for the ticket sales. Fortune though, it seems, decided to take pity on me and a friend had to cancel his plans for the cup. So I happily took his tickets and with a couple of weeks to go, started arranging for the best way possible to get to Russia and the match cities.
 
@@ -21,7 +19,7 @@ Within 6 hours of taking off from Delhi, I found myself at the Sheremetyevo Airp
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1869/44134622564_8b4f3d626e.jpg" alt="moscow-3">
-  <em>Streets of Moscow</em>
+  <em>Streets of Moscow (the not so crowded ones)</em>
 </div>
 
 Then I walked slowly all the way to the Kursky Station to catch my train, stopping a couple of times on the way. Once to get some delicious Georgian lunch and once more to kill time in a park.
