@@ -1,6 +1,5 @@
 #!/bin/bash
 
-set -ex
 
 echo -e "\033[0;32mUpdating master...\033[0m"
 
@@ -24,7 +23,6 @@ git subtree add --prefix=public git@github.com:grasskode/grasskode-website.git g
 # Build the project.
 hugo
 
-set +e
 set -x
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
