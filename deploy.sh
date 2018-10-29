@@ -2,12 +2,12 @@
 
 set -e
 
-echo -e "\033[0;32mCleaning up...\033[0m"
+#echo -e "\033[0;32mCleaning up...\033[0m"
 
 # Clean the public folder.
-if [ -d public ]; then
-  rm -r public
-fi
+#if [ -d public ]; then
+#  rm -r public
+#fi
 
 echo -e "\033[0;32mPulling changes from GitHub...\033[0m"
 
