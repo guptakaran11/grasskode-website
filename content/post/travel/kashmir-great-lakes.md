@@ -4,15 +4,20 @@ tags = []
 date = "2018-10-04T14:39:49+05:30"
 type = "draft"
 title = "Kashmir Great Lakes"
-image = ""
+image = "https://farm2.staticflickr.com/1953/45254873412_421dc17596_b.jpg"
 toc = false
-author = ""
+author = "Parul"
 +++
 
 The first thing that was planned post our break from the work lives was a trek to Kashmir's Great Lakes. A trek to 11 high altitude Alpine lakes via 3 treacherous passes covering a distance of 64 kms over 7 days. While I was skeptical about how I would fare at the trek, Karan was ever hopeful that I can do it. In a way both of us were looking forward to this trek as it marked the official beginning of our travel post the joblessness. Karan had wanted to do this trek since last year and thanks to our Kashmiri friend Hazic we got in touch with a trekking group Alpine Adventurers to plan the trek for us. We were a group of eight, all aquainted to Karan in some way, which also made him the most responsible coordinator amongst our group :sunglasses:
 
 # Introductions
 Let me talk about the troop first. We were a total of 10 trekkers along with 2 coordinators, 1 guide, 5 porters and countless khacchars :stuck_out_tongue_closed_eyes: There were Monica(Mon), Akshit and Umrao from Mindtickle, Karan's last company. Eshan, who played football with Karan was Akshit's friend; such a close one that the two have often been called by each other's name on this trek. Amit(BBC) and Kasnishk(Tyagi) were Karan's friends from Roorkee. If you don't know me yet, I am Karan's lawfully irritable wife. We were joined by Pearl and Shahdab, locals from Srinagar for the trek. Shuja and Amir were our group coordinators and Nasir was our trek guide.
+
+<div class="postimg">
+  <img src="https://farm2.staticflickr.com/1922/44896463694_9078a0f6a8_c.jpg">
+  <em>Picture Credit: Karan</em>
+</div>
 
 # The Arrivals
 The trek was to begin on 11th August. Karan and I arrived in Srinagar on the 10th along with Mon. Akshit, Umrao and Eshan had reached earlier that morning. BBC had been in Srinagar since the 8th. I was the boss lady for things in Srinagar as it was my third visit and also one of my dearest friend Hazic is a local. Hazic helped us arrange for a lovely homestay in Srinagar which was to be our assembly point on 10th. Slowly we started filling up the homestay and laughter and nonsense echoed. Tyagi was to join us by evening.
@@ -151,3 +156,8 @@ Oh btw, by now we have lost two of our members to high speed. Two of the pro tre
 From table top it was kinda steep decline. Karan and Tyagi dashed off like two exicted boys. It is a joy to see the comfort level Karan has with such terrains. One by one, everyone descended at our own pace. It was a bitter sweet feeling to be back to civilisation. From table top one could see the Sonamarg valley, the building, the electricity poles, the highway, the traffic and the horns. While one part wanted to head back to the mountains asap the other was yearning to get back to the comfort of a warm bed and hot shower. Keeping these feelings in mind, everyone reached the assembly point. We tipped our porters and took a group photo to mark and end to the eventuful and mesmerising trek. Later Karan and I will realise how this trek will shape our opinions on any of the alpine lakes we will see over the rest of our travels. </br>
 **Pictures:**</br>
 **Special comments:**</br>
+
+<div class="postimg">
+  <img src="https://farm2.staticflickr.com/1910/44895951734_0139d91293_c.jpg">
+  <em>The cast and crew of Kashmir great lakes trek</em>
+</div>
