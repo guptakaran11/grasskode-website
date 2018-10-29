@@ -1,13 +1,12 @@
 #!/bin/bash
 
-set -e
+set -ex
 
-#echo -e "\033[0;32mCleaning up...\033[0m"
+echo -e "\033[0;32mUpdating master...\033[0m"
 
-# Clean the public folder.
-#if [ -d public ]; then
-#  rm -r public
-#fi
+# commit pending changes
+msg="uncommitted changes `date`"
+git commit -am "$msg"
 
 echo -e "\033[0;32mPulling changes from GitHub...\033[0m"
 
@@ -15,6 +14,12 @@ echo -e "\033[0;32mPulling changes from GitHub...\033[0m"
 git pull
 
 echo -e "\033[0;32mRebuilding site...\033[0m"
+
+# Clean the public folder.
+if [ -d public ]; then
+  rm -r public
+fi
+git subtree add --prefix=public git@github.com:grasskode/grasskode-website.git gh-pages
 
 # Build the project.
 hugo
