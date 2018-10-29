@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -ex
+set -e
 
 echo -e "\033[0;32mUpdating master...\033[0m"
 
@@ -24,10 +24,9 @@ git subtree add --prefix=public git@github.com:grasskode/grasskode-website.git g
 # Build the project.
 hugo
 
-# Add changes to git.
+# Add and commit site changes to git if any.
+set +e
 git add -A
-
-# Commit changes.
 msg="rebuilding site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
@@ -40,4 +39,3 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 git push origin master
 git subtree push --prefix=public git@github.com:grasskode/grasskode-website.git gh-pages
 
-set +e
