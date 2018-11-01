@@ -1,8 +1,7 @@
 +++
-categories = []
-tags = ["travel", "india", "Kashmir", "trekking", "high_altitude_lakes"]
+categories = ["travel"]
+tags = ["travel", "india", "Kashmir", "trek", "high_altitude_lakes"]
 date = "2018-10-04T14:39:49+05:30"
-type = "draft"
 title = "Kashmir Great Lakes"
 image = "https://farm2.staticflickr.com/1953/45254873412_421dc17596_b.jpg"
 toc = false
