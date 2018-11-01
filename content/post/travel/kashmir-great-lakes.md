@@ -186,14 +186,12 @@ It was established that **I DO NOT LIKE JUMPING ROCKS**. At this point expressin
 
 'Sat' means seven and 'sar' means lakes so Satsar valley was a valley of seven lakes. Satsar Valley was supposed to be the coldest camp sites so people were either in their tents or in the dinner tent playing Mafia. It had become a big thing with the Kabila to play mafia on reaching the campsite of the day.
 
-Oh I forgot to mention Irfan. He was the only member of the support staff who was interacting with the group, taking their requests and fulfilling them.
-
 <div class="postimg inline50">
 <img src="https://farm2.staticflickr.com/1965/31429730958_2b56df4c9c_c.jpg" alt="No alternate">
 <em>Loveable Irfan</em>
 </div>
 
-He never said no, ever. One of the requests the group had was to have sheep for dinner. Seeing so many sheep on the way meant only one thing, eat them 🐑 + :eyes: = :meat_on_bone: Irfan went and negotiated with a shepherd, we paid for the sheep and then the gang had a hearty meal.
+Oh I forgot to mention Irfan. He was the only member of the support staff who was interacting with the group, taking their requests and fulfilling them.He never said no, ever. One of the requests the group had was to have sheep for dinner. Seeing so many sheep on the way meant only one thing, eat them 🐑 + :eyes: = :meat_on_bone: Irfan went and negotiated with a shepherd, we paid for the sheep and then the gang had a hearty meal.
 
 That night Irfan and Shuja told us that if we need to use the toilets we should go in pairs as there is a bear scare. Errr. Okay. We all thought they were kidding. Then in the middle of the night, we heard a weird noise and then dogs started barking and we could hear a horse running. No one moved. No one did anything. Next morning we woke up and discussed if everyone heard the noise last night and agreed it was a bear :bear:</br>
 
@@ -397,6 +395,6 @@ Because Hazic played a big role in this trip he deserves a special mention :smil
 
 Whether you enjoyed the post or not, do leave a comment!
 
-And here is the complete album of the Kashmir Great lakes trek.
+And here is the complete album of the Kashmir Great lakes trek compiled by [Karan](https://www.instagram.com/grasskode/?hl=en) and [me](https://www.instagram.com/capturedbypaulina/?hl=en).
 
 <a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/gp/156559982@N06/7SKjmC" title="Kashmir Great Lakes"><img src="https://farm2.staticflickr.com/1943/31429778018_b223df943f_c.jpg" alt="Kashmir Great Lakes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
