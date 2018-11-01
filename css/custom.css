@@ -205,6 +205,40 @@ div.inline50right {
   line-height: 1rem;
 }
 
+.grid {
+  padding: 0 1rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.grid-column-50 {
+  flex: 50%;
+  max-width: 49%;
+  margin-right: 0.1rem;
+}
+
+.grid img {
+  vertical-align: middle;
+  margin-bottom: 0.1rem;
+}
+
+.grid-simple {
+  padding: 0 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid-simple img {
+  flex: 50%;
+  max-width: 49%;
+  margin-right: 0.1rem;
+  vertical-align: middle;
+  margin-bottom: 0.1rem;
+}
+
 nav.paging a:hover {
   color: #FF5733;
 }
