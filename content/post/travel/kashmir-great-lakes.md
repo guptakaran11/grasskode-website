@@ -1,6 +1,6 @@
 +++
 categories = []
-tags = []
+tags = ["travel", "india", "Kashmir", "trekking", "high_altitude_lakes"]
 date = "2018-10-04T14:39:49+05:30"
 type = "draft"
 title = "Kashmir Great Lakes"
@@ -9,7 +9,7 @@ toc = false
 author = "Parul"
 +++
 
-The first thing that was planned post our break from work lives was a trek to Kashmir's Great Lakes. A trek to 11 high altitude Alpine lakes via 3 treacherous passes covering a distance of 64 kms over 7 days. While I was skeptical about how I would fare at the trek, Karan was ever hopeful that I could do it. In a way both of us were looking forward to this trek as it marked the official beginning of our travel post the joblessness. Karan had wanted to do this trek since last year and thanks to our Kashmiri friend Hazic we got in touch with a trekking group [Alpine Adventurers](https://www.facebook.com/AlpineAdventurers/) to plan the trek for us. We were a group of eight, all acquainted to Karan in some way, which also made him the most responsible coordinator amongst our group :sunglasses:
+The first thing that was planned post our break from work lives was a trek to Kashmir's Great Lakes. A trek to 11 high altitude Alpine lakes via 3 treacherous passes covering a distance of 64 kms over 7 days. While I was skeptical about how I would fare at the trek, Karan was ever hopeful that I could do it. In a way both of us were looking forward to this trek as it marked the official beginning of our travel post the joblessness. Karan had wanted to do this trek since last year and thanks to our Kashmiri friend Hazic we got in touch with a trekking group [Alpine Adventurers](https://www.facebook.com/AlpineAdventurers/). They helped us plan and organized the trek for us. We were a group of eight, all acquainted to Karan in some way, which also made him the most responsible person amongst our group :sunglasses:
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1952/43845973920_fbe204c6a0_c.jpg">
@@ -25,9 +25,9 @@ Let me talk about the troop first. We were a total of 10 trekkers along with 2 c
 </div>
 
 # The Arrivals
-The trek was to begin on 11th August. Karan and I arrived in Srinagar on the 10th along with Mon. Akshit, Umrao and Eshan had reached earlier that morning. BBC had been in Srinagar since the 8th. I was the boss lady for things in Srinagar as it was my third visit and also one of my dearest friend Hazic is a local. Hazic helped us arrange for a lovely homestay [Ikraam Inn](https://www.tripadvisor.in/Hotel_Review-g297623-d6419636-Reviews-Ikraam_Inn-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html) in Srinagar which was to be our assembly point on 10th. Slowly we started filling up the homestay and laughter and nonsense echoed. Tyagi was to join us by evening.
+The trek was to begin on 11th August. Karan and I arrived in Srinagar on the 10th along with Mon. Akshit, Umrao and Eshan had reached earlier that morning. BBC had been in Srinagar since the 8th. I was the boss lady for things in Srinagar as it was my third visit and also one of my dearest friend Hazic is a local. Hazic helped us arrange for a lovely homestay [Ikraam Inn](https://www.tripadvisor.in/Hotel_Review-g297623-d6419636-Reviews-Ikraam_Inn-Srinagar_Srinagar_District_Kashmir_Jammu_and_Kashmir.html) in Srinagar which was to be our assembly point on 10th. Slowly we started filling up the homestay and laughter and nonsense echoed. Tyagi joined us by the evening.
 
-We all headed out for lunch with a hungry bunch of kids who had been waiting for us to arrive for some reason. The venue for lunch was another suggestion from Hazic, a place called [Ahdoos](https://www.zomato.com/srinagar/ahdoos-lal-chowk). The non vegetarians enjoyed a lovely plate of [Wazwaan](https://en.wikipedia.org/wiki/Wazwan)(a local cuisine) and I, the only vegetarian on the trip, enjoyed the other local dishes. While we were lunching, Adil and Amir from Alpine Adventurers came to brief us up on what we were to expect. Prepped with all the details and a little last minute shopping we all headed to the homestay. Once the sun set and Tyagi settled in we decided to make a move for Dal lake and had a lazy Shikara ride after sundown :relaxed: . Dunno why we did that :grin: . We called in an early night as we were to wake up at 5 AM the next day.
+We all headed out for lunch with a hungry bunch of kids who had been waiting for us to arrive. The venue for lunch was another suggestion from Hazic, a place called [Ahdoos](https://www.zomato.com/srinagar/ahdoos-lal-chowk). The non vegetarians enjoyed a lovely plate of [Wazwaan](https://en.wikipedia.org/wiki/Wazwan)(a local cuisine) and I, the only vegetarian on the trip, enjoyed the other local dishes. While we were lunching, Adil and Amir from Alpine Adventurers came to brief us up on what we were to expect. Prepped with all the details and a little last minute shopping we all headed to the homestay. Once the sun set and Tyagi settled in we decided to make a move for Dal lake and had a lazy Shikara ride after sundown :relaxed: . Dunno why we did that :grin: . We called in an early night as we were to wake up at 5 AM the next day.
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1933/43841920270_9f757d69e0_c.jpg">
@@ -39,14 +39,15 @@ We all headed out for lunch with a hungry bunch of kids who had been waiting for
 **Source:** Naranag (2275m) </br>
 **Destination:** Nundkul (3510m) </br>
 **Distance:** 11 km</br>
-**Highlights** Karan made sure everyone was up and running by 5:30 AM. Our pick ups came at 6 AM and soon we were on the way. There were a bunch of delays, first one of the two sumos disappeared and the driver did not answer the phone. It was quite amusing to see our driver lose his cool :stuck_out_tongue: Once we reached Naranag the starting point of the trek, we waited for the Khacchars to arrive. After all this was done our trek finally started, in scorching sun. We could sense an adventure. This is the beginning of the bonding of the _Kabila_ or as it is called in English the **TRIBE**.
-
-Our trek started from village Naranag which had the ruins of an 8th century Shiva temple. From Naranag to Nundkul one has to pass via the Butshree Pass. The journey till Butshree is a steep incline for about 3-4 kms, through burnt forest, herds of sheep and breathtaking views. This was apparently the toughest part of the day. After the top at Butshree it was a short Meadow walk to an Army camp where our identities were verified. From there it was an incline to the edge of the camp site and a small walk to the campsite thereafter. All in all just 11 kms on the first day :grin:
+**Highlights:**</br>
+Karan made sure everyone was up and running by 5:30 AM. Our pick ups came at 6 AM and soon we were on the way. There were a bunch of delays, first one of the two sumos disappeared and the driver did not answer the phone. We later found out it had gone for the other pick ups. It was quite amusing to see our driver lose his cool :stuck_out_tongue: Once we reached Naranag the starting point of the trek, we waited for the Khacchars to arrive and in the meanwhile checked out the Naranag temple, which are the ruins of an 8th century Shiva temple. After all this was done our trek finally started, in scorching sun. We could sense an adventure. This is the beginning of the bonding of the _Kabila_ or as it is called in English the **TRIBE**.
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1907/43841919200_342fa5caa5_c.jpg" alt="No alternate">
 <em>Naranag Temple</em>
 </div>
+
+From Naranag to Nundkul one has to cross the Butshree Pass. The journey till Butshree is a steep incline for about 3-4 kms, through pine forests, herds of sheep and breathtaking views. This was apparently the toughest part of the day. It is an urban legend that a part of the pine forest was accidently burnt by a guy who was feeling cold.
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1918/45620264141_076b455936_c.jpg" alt="No alternate">
@@ -68,20 +69,19 @@ It was day 1. First obvious thing that happened was the segregation of the regul
 <em>Why am I doing this?</em>
 </div>
 
-A few kms after the Butshree top we started celebrating assuming we are close to the camp site.
 <div class="postimg inline40">
 <img src="https://farm2.staticflickr.com/1980/30678829307_7639d157f3_c.jpg" alt="No alternate">
 <em>Thought it was over but it's not</em>
 </div>
-We have no idea why we did it. It was a beautiful meadow and we spent quite some time giggling and shooting pictures. Once we made a move we saw a few scattered dots at a distance. After covering some distance we could see the  dots converge to our group sitting there unamused. We were a little confused as to why there was no camp there. The group mercilessly burst our bubble and told us the camp was farther off and they had been waiting for us while we were frolicking around in the meadows clicking pictures. :sob: Slowly and steadily we made it to the camp site and it was beautiful.
+A few kms after the Butshree top we started celebrating assuming we are close to the camp site. We have no idea why we did it. It was a beautiful meadow and we spent quite some time giggling and shooting pictures. Once we made a move we saw a few scattered dots at a distance. After covering some distance we could see the dots converge to our group sitting there unamused. We were a little confused as to why there was no camp there. The group mercilessly burst our bubble and told us the camp was farther off and they had been waiting for us while we were frolicking around in the meadows clicking pictures. :sob:
 
-We were supposed to camp at this site for 2 days, the day we reached and the next day. The camp was set up in the following manner(something that will stick till the end of the trek binding everyone into a kabila):
+Further ahead there was an army camp where our identities were verified. From there it was an incline to the edge of the camp site and a small walk to the campsite thereafter. All in all just 11 kms on the first day :grin: Slowly and steadily we made it to the camp site and it was beautiful. We were supposed to camp here for 2 days, this one and the next. The camp was set up in the following manner(something that would stick till the end of the trek binding everyone into a kabila):
 
-* _Tyagi n BBC_ - The philosophical tent, the loudest and the funniest. It is this trek that helped me realise why BBC is called so.
-* _Eshan, Akshit and Umrao_ - The three musketeers, the ones always fighting with BBC across the tent.
-* _Monica and Pearl_ - The "right" tent
-* _Shahdab_ - The lone ranger
-* _Karan and I_ - The gigglers, constantly laughing on hearing the tents fight
+* _Tyagi and BBC_ - The philosophical tent, the loudest and the funniest. It is this trek that helped me realise why BBC is called so.
+* _Eshan, Akshit and Umrao_ - The three musketeers, the ones always fighting with BBC across the tents.
+* _Monica and Pearl_ - The "right" tent.
+* _Shahdab_ - The lone ranger.
+* _Karan and I_ - The gigglers, constantly laughing on hearing the tents fight.
 
 Once the initial tiredness died down we all came out to the common area, which was basically everything except the tent :stuck_out_tongue_closed_eyes:
 
@@ -90,19 +90,20 @@ Once the initial tiredness died down we all came out to the common area, which w
 <em>Camp feels</em>
 </div>
 
-A few of us went towards the Nundkul lake because we were not tired enough and basked in the mightiness of Harmukh glacier. The glacier mountain which feeds both Nundkul lake as well as Gangabal(the lake we will see the next day) was so high that it was almost always covered with clouds. We talked of things like the higher you go in the Himalayas you see taller and grander mountains around you. Whoever said "Ain't no mountain high enough" has clearly not been to the Himalayas :mount_fuji:
+A few of us went towards the Nundkul lake because we were not tired enough and basked in the mightiness of Harmukh glacier. The glacier mountain which feeds both Nundkul lake as well as Gangabal(the lake we would see the next day) was so high that it was almost always covered with clouds. We talked of things like the higher you go in the Himalayas you see taller and grander mountains around you. Whoever said "Ain't no mountain high enough" has clearly not been to the Himalayas :mount_fuji:
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1903/44745637765_ccb150649c_c.jpg" alt="No alternate">
-<em>Mount Harmukh feeding and overseeing Nundkul lake(3510m)</em>
+<em>Mount Harmukh feeding Nundkul lake(3510m)</em>
 </div>
 
 # Day 2: The lakes far off
 
 **Source** : Nundkul(3510m)</br>
-**Destination:** It was rest day so we were to scout to nearby lakes Gangbal and above.</br>
+**Destination:** Scouting nearby lakes, Gangbal and above.</br>
 **Distance:**  8-10 kms</br>
-**Highlights** Day 2 was supposed to be a "rest day". We were to go to some nearby lakes and the camp was to stay put at Nundkul. Gangabal(3572m) was 15 mins from the camp site. It was the biggest lake of the great lakes and it was a sight to behold. The lake was so vast that we had to go way up to capture its grandness in my wide angle camera. It was here that we could actually see Mount Harmukh's streams going towards both Nundkul and Gangabal. This was also considered a holy lake by the Hindus.
+**Highlights** </br>
+Day 2 was supposed to be a "rest day". We were to go to some nearby lakes and the camp was to stay put at Nundkul. Gangabal(3572m) was 30 mins from the camp site. It was the biggest lake of the trek and it was a sight to behold. The lake was so vast that we had to go way up to capture its grandness in my wide angle camera. It was here that we could actually see Mount Harmukh's streams going towards both Nundkul and Gangabal. This was also considered a holy lake by the Hindus.
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1970/45612263441_2e4502efdf_c.jpg" alt="No alternate">
@@ -116,17 +117,17 @@ A few of us went towards the Nundkul lake because we were not tired enough and b
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1970/43841915020_04f2bed8ec_c.jpg" alt="No alternate">
-<em>Glacier Harmukh: On the left it is feeding into Nundkul and in view is the vastness of Gangabal lake</em>
+<em>Glacier Harmukh overseeing Gangabal Lake</em>
 </div>
 
-Post the Gangabal lake escapades we had to hop boulders for the rest of the trek to the lake up above. After climbing a while, maybe for 40 mins Akshit and I decided to stay at Gangbal while the others ascended to another freezing high altitude lake, Kalesar Lake(4000m) for a dip :snowflake: + :swimmer: = :snowman: And this won't be the last time this will be done on the trek. Dipping in an icy cold lake has its own thrill and it was done everywhere possible. Day 1 had been taxing for most of us. Akshit and I descended back to the shore of Gangabal and a spent a few hours there balancing rocks, sleeping and writing. Balancing rocks was way more fun than we had thought and we killed more time doing it then we had imagined :smirk:
+Post the Gangabal lake escapades we had to hop boulders for the rest of the trek to the lake up above. After climbing a while, maybe for 40 mins Akshit and I decided to stay at Gangbal while the others ascended to another freezing high altitude lake, Kalesar(4000m) for a dip :snowflake: + :swimmer: = :snowman: Dipping in an icy cold lake has its own thrill and it was done everywhere possible. Day 1 had been taxing for most of us. Akshit and I descended back to the shore of Gangabal and a spent a few hours there balancing rocks, sleeping and writing. Balancing rocks was way more fun than we had thought and we killed more time doing it then we had imagined :smirk:
 
 <div class="postimg">
 <div class="grid-simple">
     <img src="https://farm2.staticflickr.com/1961/45569140262_e7f18df218_c.jpg" alt="No alternate">
     <img src="https://farm2.staticflickr.com/1958/44895218044_30b5066bb6_c.jpg" alt="No alternate">
 </div>
-<em>The group at Kulesar lake(4000m)</em>
+<em>The group at Kalesar(4000m)</em>
 </div>
 
 <div class="postimg">
@@ -143,17 +144,17 @@ Once we all got back to the campsite, Karan, Mon and I went for a walk to a wate
 <em>The clouded Harmukh</em>
 </div>
 
-That night back at the camp was about bonding. Karan and Tyagi had introduced the gang to the game of [Mafia](https://en.wikipedia.org/wiki/Mafia_), little did we know it will become an addiction. The gang played Mafia till dinner was announced. Dinner was followed by some "little little" sessions in one or two of the tents and philosophy and a game(or many games)of cards :beers: :black_joker: This too was to become a tradition. Karan introduced us to [Yaniv](https://en.wikipedia.org/wiki/Yaniv_(card_game)). BBC and I were one team and Karan and Tyagi were another. I was the newest person to the game so I needed a few ques at times and my!! my!! BBC was a very intimidating partner to play with :anguished: The game was fun but BBC was more fun :joy:
+That night back at the camp was about bonding. Karan and Tyagi had introduced the gang to the game of [Mafia](https://en.wikipedia.org/wiki/Mafia_), little did we know it will become an addiction. The gang played Mafia till dinner was announced. Dinner was followed by some "little little" sessions in one or two of the tents and philosophy and a game(or many games)of cards :beers: :black_joker: This too was to become a tradition. Karan introduced us to [Yaniv](https://en.wikipedia.org/wiki/Yaniv_(card_game)) and [29](https://www.pagat.com/jass/29.html). For 29, BBC and I were one team and Karan and Tyagi were another. I was the newest person to the game so I needed a few cues at times and my!! my!! BBC was a very intimidating partner to play with :anguished: The game was fun but BBC was more fun :joy:
 
 # Day 3: Rain Rain go away!
 
 **Source:** Nundkul(3510m)</br>
 **Destination:** Satsar Valley(3600m)</br>
 **Distance:** 7-8 kms</br>
-**Pass of the day:** Zajbal Pass(3900m)
-**Highlights**: It had started raining heavily somewhere in the middle of the night. We woke up to heavier rains which forced everyone to sit in their tents. Eventually the rain stopped but a thick cover of clouds filled the valley. This meant we had to wait longer to start. We could not risk the khacchars slipping because of lack of visibility. We had been told that if the clouds lift by 10 AM we would make a move else we would be staying for another day.
+**Pass of the day:** Zajbal Pass(3900m) </br>
+**Highlights:** </br> It had started raining heavily somewhere in the middle of the night. We woke up to heavier rains which forced everyone to sit in their tents. Eventually the rain stopped but a thick cover of clouds filled the valley. This meant we had to wait longer to start. Even though we could have started moving there was a risk that the khacchars might slip because of lack of visibility. We had been told that if the clouds lift by 10 AM we would make a move else we would be staying for another day.
 
-Everyone was worried because we wanted to move to the next spot. It had been 2 days here already. We killed time playing Civilisation a.k.a Kabila for real, where we crowned the **King** Tyagi, the **Chief of Arms** BBC, the **Jealous brother** Eshan, the **Witch** Pearl, Mon - the **Sidekick of the jealous brother**, Akshit - The **Bard**, Umrao - The **Joker**, Karan - the **Elder** and me - the **Watcher**
+Everyone was worried because we wanted to move to the next spot. It had been 2 days here already. We killed time playing Civilisation a.k.a Kabila for real, where we crowned the **King** Tyagi, the **Chief of Arms** BBC, the **Mutinous prince a.k.a. The Chicken Lord** Eshan, the **Witch** Pearl, Mon - the **Evil Wazir**, Akshit - **Bard**, Umrao - **Joker**, Karan - **Elder** and me - **Watcher**
 
 Once the clouds lifted and the visibility improved we started. The route to Satsar valley comprised of ascending a stone and gravel path upto the Zajbal pass(3900m). It was a winding way up. We did a victory shoot at this pass. At the top the pass we could see many lakes - Nundkul(3510m), Gangbal(3572m) and Koullsar(3730m). I was feeling better and more confident today, the pass seemed doable. I think it was because of the apple we got for breakfast :stuck_out_tongue_closed_eyes:
 
@@ -177,7 +178,7 @@ Once the celebration was over we moved on. The descent was pleasant. BUT then we
 <img src="https://farm2.staticflickr.com/1903/44706033165_fc6296298b_c.jpg" alt="No alternate">
 <em>Hopping boulders</em>
 </div>
-It was established that **I DO NOT LIKE JUMPING ROCKS**. At this point expressing displeasure was just broadcasting information no one cares about, not moving was not an option. A few meters from the camp site it started drizzling and everyone increased their pace as no one wanted to jump the rocks when it was raining only to slip and fall and break various parts of their bodies. My imagination is really vivid. It had started raining by the time we reached the camp site. It was all hands on deck to set up the tents that day since it was raining :open_hands: :tent: As soon as the tents were set the rain stopped :unamused: We also learnt that a few of India hikes groups(yes there were many) who were trying to reach Gadsar Valley from the other side, had to return back from the pass as it was raining.
+It was established that **I DO NOT LIKE JUMPING BOULDERS**. At this point expressing displeasure was just broadcasting information no one cares about, not moving was not an option. A few meters from the camp site it started drizzling and everyone increased their pace as no one or maybe only me did not wanted to jump the rocks when it was raining only to slip and fall and break various parts of their bodies. My imagination is really vivid. We had been hearing mormot for quite a while and finally saw one, but it was too far to get a clear shot and I was to lazy to take my zoom out. It was all hands on deck to set up the tents that day since it was raining :open_hands: :tent: However as soon as the tents were set the rain stopped :unamused:
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1974/45254502462_fb2e1d5e9c_c.jpg" alt="No alternate">
@@ -191,16 +192,17 @@ It was established that **I DO NOT LIKE JUMPING ROCKS**. At this point expressin
 <em>Loveable Irfan</em>
 </div>
 
-Oh I forgot to mention Irfan. He was the only member of the support staff who was interacting with the group, taking their requests and fulfilling them.He never said no, ever. One of the requests the group had was to have sheep for dinner. Seeing so many sheep on the way meant only one thing, eat them 🐑 + :eyes: = :meat_on_bone: Irfan went and negotiated with a shepherd, we paid for the sheep and then the gang had a hearty meal.
+Oh I forgot to mention Irfan. He was the only member of the support staff who was interacting with the group, taking their requests and fulfilling them. He never said no, ever. One of the requests the group was to have sheep for dinner. Seeing so many sheep on the way meant only one thing, eat them 🐑 + :eyes: = :meat_on_bone: Irfan went and negotiated with a shepherd, we paid for the sheep and then the gang had a hearty meal.
 
-That night Irfan and Shuja told us that if we need to use the toilets we should go in pairs as there is a bear scare. Errr. Okay. We all thought they were kidding. Then in the middle of the night, we heard a weird noise and then dogs started barking and we could hear a horse running. No one moved. No one did anything. Next morning we woke up and discussed if everyone heard the noise last night and agreed it was a bear :bear:</br>
+That night Irfan and Shuja told us that if we need to use the toilets we should go in pairs as this place was frequented by a bears. Errr. Okay. We all thought they were kidding. Then in the middle of the night, we heard a weird noise and then dogs started barking and we could hear a horse running. No one moved. No one did anything. Next morning we woke up and discussed if everyone heard the noise last night and agreed it was a bear :bear:</br>
 
 # Day 4: The debate and the secret lake
 
 **Source:** Satsar Valley(3600m)</br>
 **Destination:** Gadsar Valley(3300m)</br>
 **Distance:** 7-8 kms</br>
-**Highlights** Today was supposed to be the easiest day of the trek. It was a meadow walk. So everyone was very chill and playful today. Lots of pictures were taken and lot of nonsense was created.
+**Highlights:** </br>
+Today was supposed to be the easiest day of the trek. It was a meadow walk so everyone was very chill and playful today. Lots of pictures were taken and lot of nonsense was created.
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1958/45561698302_2ecb564905_c.jpg" alt="No alternate">
@@ -209,7 +211,7 @@ That night Irfan and Shuja told us that if we need to use the toilets we should 
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1953/44887777594_20457deb3a_c.jpg" alt="No alternate">
-<em>Up, up and away</em>
+<em>Up, up and away. Awesome photo credit : ME</em>
 </div>
 
 Once we left the camp we saw a few of the seven lakes on our way. Very soon we were welcomed by the lush green meadows.
@@ -217,22 +219,22 @@ Once we left the camp we saw a few of the seven lakes on our way. Very soon we w
 <img src="https://farm2.staticflickr.com/1942/44887772494_8a82a4c628_c.jpg" alt="No alternate">
 <em>A walk in the park</em>
 </div>
-It was a cakewalk today related to what we have been through till now. We got our IDs checked one more time at the army camp. After a considerably long walk on the high altitude meadow, we started our descent to the Gadsar valley. It was a gradual decline on loose mud and gravel for quite a distance. At the end of it we crossed a small and muddy and slippery glacier which connected the meadow to the Gadsar valley.
+It was a cakewalk today compared to what we had been through till now. We got our IDs checked one more time at the army camp. After a considerably long walk on the high altitude meadow, we started our descent to the Gadsar valley. It was a gradual decline with loose mud and gravel towards the end. At the end of it we crossed a small and muddy and slippery glacier over to the Gadsar valley.
 
-Once we reached the camp a debate started between the group on whether we should proceed to the Krishansar Vishansar lake. There were two parties like in any debate. We had reached at around 1 PM and it was another "four" hours to the next lake. What we had been seeing was that after noon the weather in the passes became unpredictable, so after a lot of debate we decided to camp at the Gadsar valley and go to a nearby lake. With the help of Shuja and Aamir we reached a secluded lake or a ditch of water compared to the lakes we had seen. The plan was to swim here. The lake was baptised by the group as _B square_ a.k.a Brown and Blue. It was a very welcome change and everyone was glad we camped here.
+Once we reached the camp a debate started between the group on whether we should proceed to the Krishansar Vishansar lake. There were two parties like in any debate. We had reached at around 1 PM and it was another "four" hours to the next campsite. What we had been seeing was that after noon the weather in the passes became unpredictable, so after a lot of debate we decided to camp at the Gadsar valley and go to a nearby lake. With the help of Shuja and Aamir we reached a secluded lake or a ditch of water compared to the lakes we had seen. The plan was to swim here. The lake was baptised by the group as _B square_ a.k.a Brown and Blue. It was a very welcome change and everyone was glad we camped here.
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1910/43801721430_63e3f40ebe_c.jpg" alt="No alternate">
 <em>B Square, our private lake</em>
 </div>
 
-I forgot to mention one thing. On our way back from _B Square_ lake we saw multiple groups making their way to the Gadsar valley(most probably the ones who got stuck due to rains yesterday). It was too late for them to make the journey till Satsar, so it was a full house of campers at Gadsar valley that night.
+On our way back from _B Square_ lake we saw multiple groups making their way to the Gadsar valley(most probably the ones who got stuck the previous day due to rains). It was too late for them to make the journey till Satsar, so it was a full house of campers at Gadsar valley that night.
 
 As always, Tyagi and BBC were on one side of our tent and the girls to the other. The three musketeers were positioned across our tent. People were getting tangled in each other's tent ropes this day; we had bonded that well by now :stuck_out_tongue_closed_eyes:
 
 Oh! so many things happened on this day, our dinner tent flew off in the wind. The support staff was able to recover it but apparently we lost one part and could not put it back up given the amount of wind we were in :unamused:
 
-The photogaphy enthusiasts took shots of the milky way this night as we were blessed with clear skies after a very cloudy evening. I also learnt about shooting stars and the orbitting satellites that are visible in the night from Shuja.
+The photography enthusiasts took shots of the milky way this night as we were blessed with clear skies after a very cloudy evening. I also learnt about shooting stars and the orbitting satellites that are visible in the night from Shuja.
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1935/43488288840_ef1581083d_c.jpg" alt="No alternate">
@@ -245,7 +247,7 @@ The photogaphy enthusiasts took shots of the milky way this night as we were ble
 **Destination:** Krishansar Vishansar camp site(3610m)</br>
 **Distance:** 10-12Km</br>
 **Pass of the day:** Gadsar Pass(4175m)</br>
-**Highlights** Today we were to cross the highest pass of the trek. It was a very sunny day with a harsh ascent, a draining combination. We saw the Gadsar lake(3586m) on our way and took a short break there. The water of the lake was not as blue as there had been a avalanche recently. Once we crossed Gadsar lake the ascent started with the sun shining bright. The last kilometer to the top of the pass was a steep incline over gravel.
+**Highlights:** </br>Today we were to cross the highest pass of the trek. It was a very sunny day with a harsh ascent, a draining combination. We saw the Gadsar lake(3586m) on our way and took a short break there. The water of the lake was not as blue as there had been a avalanche recently. Once we crossed Gadsar lake the ascent started. The last kilometer to the top of the pass was a steep incline over gravel.
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1907/44390913735_7279946ae4_c.jpg"alt="No alternate">
@@ -256,7 +258,7 @@ The photogaphy enthusiasts took shots of the milky way this night as we were ble
 <em>This is the end?</em>
 </div>
 
-I was the last one to reach the pass this day and it had been the most difficult day for me. It was the only day when Karan was literally shouting to get me moving. The only reason I did not cry was because it would have required energy as well. We were gaining altitude and crying would not have been easy :stuck_out_tongue_closed_eyes: Everyone dragged themselves to the top somehow to get a magnificent view of Krishansar(3844m) and Vishansar(3683m) lake. These two were the last lakes of the trek and were the most beautiful ones. This answered why we were putting ourselves through so much hard work everyday. It was for views like these.
+I was the last one to reach the pass this day and it had been the most difficult day for me. It was the only day when Karan was literally shouting to get me moving. The only reason I did not cry was because it would have required energy as well :stuck_out_tongue_closed_eyes: Everyone dragged themselves to the top somehow to get a magnificent view of Krishansar(3844m) and Vishansar(3683m) lake. These two were the last lakes of the trek and were the most beautiful ones. This answered why we were putting ourselves through so much hard work everyday. It was for views like these.
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1974/44887547044_cc687a70d0_c.jpg" alt="No alternate">
@@ -268,21 +270,21 @@ I was the last one to reach the pass this day and it had been the most difficult
 <em>The descent</em>
 </div>
 
-From the pass it was a descent to the camp site. As it was afternoon the cloud cover was back and it started drizzling. We kept walking looking for a probable camp site. We crossed Vishansar lake and kept walking. We crossed Krishansar lake and we kept walking. We walked a lot more to realise we were a good 40 mins away from the lakes at least. Oh well! Fuck. It was a very tiring day for everyone, the most tiring maybe. The lakes were a happy surprise and the camp site was beautiful but the distance from the lakes was a bummer.
+From the pass it was a descent to the camp site. As it was afternoon the cloud cover was back and it started drizzling. Our support crew had crossed us while we were crawling to the top. We kept walking looking for where they had camped. We crossed Vishansar lake and kept walking. We crossed Krishansar lake and we kept walking. We walked a lot more to realise we had left the lakes a good 40 mins behind. Oh well! Fuck. It was a very tiring day for everyone, the most tiring maybe. The lakes were a happy surprise and the camp site was beautiful but the distance from the lakes was a bummer.
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1914/30364461867_0bc4583537_c.jpg" alt="No alternate">
 <em>The last campsite of the trek</em>
 </div>
 
-After we reached the camp we called for another meeting. The agenda was whether we stay here another day to enjoy the most beautiful lakes of the trek so far. We would probably never be coming back for this. But if we stayed it meant we would be walking around 16 kms on the last day, which would have been a push but Nasir said it was doable. After a lot of discussion the majority voted for staying another day and pushing it hard on the last day. Nasir after all said we could make it. Since it was decided that we will be staying we all relaxed in our tents. We were to go to the lakes the next day after breakfast.
+After we reached the camp we called for another meeting. The agenda was whether we stay here another day to enjoy the most beautiful lakes of the trek so far. We would probably never be coming back for this. But if we stayed it meant we would be walking around 16 kms on the last day, which would have been a push but Nasir said it was doable. After a lot of discussion the majority voted for staying another day and pushing it hard on the last day. Since it was decided that we will be staying we all relaxed in our tents. We were to go to the lakes the next day after breakfast.
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1912/44698395325_0df13ea201_c.jpg" alt="No alternate">
 <em>The dysfunctional Kabila</em>
 </div>
 
-It was another night of shooting the night sky and another major bear scare. The shepherd dogs of the herd across the stream and next to us started barking like crazy. We got the same advice again. Go to the toilet tents in pairs. The bear scare had become thrilling by now :grin: </br>
+It was another night of shooting the night sky and another major bear scare. The shepherd dogs of the herd across the stream and next to us started barking like crazy. We got the same advice again. Go to the toilet tents in pairs. The bear scare had become thrilling by now :bear: :grin: </br>
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1975/31429656278_4c81092c7e_c.jpg" alt="No alternate">
@@ -294,30 +296,29 @@ It was another night of shooting the night sky and another major bear scare. The
 **Source:** Krishansar Vishansar camp site(3610m)</br>
 **Destination:** Krishansar(3844m) and Vishansar(3683m) lake</br>
 **Distance:** 3km</br>
-**Pass of the day:** None
-**Highlights:** Today was the day we enjoyed the lakes we had fought for so hard last evening.
-
+**Pass of the day:** None </br>
+**Highlights:** </br>
 <div class="postimg inline50">
 <img src="https://farm2.staticflickr.com/1950/45561616722_acc4ac0813_c.jpg" alt="No alternate">
 <em>Camp mornings</em>
 </div>
-After a lazy breakfast, well it was rest day after all, we prepared for a swim and started moving to the lake. The first stop was to be the lake which was farther, Krishansar followed by Vishansar on our way back to the camp. It was sunny when we left which was favourable for a swim in the icy cold water :snowflake:
+Today was the day we enjoyed the lakes we had fought for so hard last evening. After a lazy breakfast, well it was rest day after all, we prepared for a swim and started moving to the lake. The first stop was to be the lake which was farther, Krishansar followed by Vishansar on our way back to the camp. It was sunny when we left which was favourable for a swim in the icy cold water :snowflake:
 
-We reached Krishansar lake in the hot sun leisurely, it was an uphill climb and no one was in any sort of hurry. Once at the lake we all changed and then it was a call as to who goes in first. The first person to go in was the thermometer and the intensity of his scream was the reading :stuck_out_tongue_closed_eyes: Eventually we all went in and the first touch of water used to make everyone scream and laugh at the same time. It was FREEZING.
+We reached Krishansar lake in the hot sun leisurely, it was an uphill climb and no one was in any sort of hurry. Once at the lake we all changed and then it was a call as to who goes in first. The first person to go in was the thermometer and the intensity of his scream was the reading :stuck_out_tongue_closed_eyes: Eventually we all went in and the first touch of water made everyone scream and laugh at the same time. It was FREEZING :snowman:
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1909/30678247257_de410eb26f_c.jpg" alt="No alternate">
 <em>Love at Krishansar lake(3844m)</em>
 </div>
 
-Oh btw, Karan and I also had a float with us, this was to let the non swimmer in me feel a little at ease in these lakes. There was a rock 30m off the shore we were at. The best swimmers of the lot, Akshit, Eshan and Tyagi swam to it. While Eshan returned, Akshit and I-will-climb-every-rock-that-comes-in-my-way Tyagi climbed the rock. After fooling around for a bit we all got out and swiftly changed out of our clothes as the wind was freezing us. We had changed when a few horse riders came along. The gang went and took pictures on the horses and with the horsemen, much to the horsemen's delight. Tyagi even taught them the "Tyagi pose".
+Oh btw, I also had a float to let the non swimmer in me feel a little at ease in these lakes. There was a rock 30m off the shore we were at. The best swimmers of the lot, Akshit, Eshan and Tyagi swam to it. While Eshan returned, Akshit and _I-will-climb-every-rock-that-comes-in-my-way_ Tyagi climbed the rock. After fooling around for a bit we all got out and swiftly changed out of our clothes as the wind was freezing us. We had just about changed when a few horse riders came along. The gang went and took pictures on the horses and with the horsemen, much to the horsemen's delight. Tyagi even taught them the "Tyagi pose".
 
 <div class="postimg">
 <div class="grid-simple">
     <img src="https://farm2.staticflickr.com/1924/30364424757_4ae8eb8f48_c.jpg" alt="No alternate">
     <img src="https://farm2.staticflickr.com/1906/44705807345_151436fb67_c.jpg" alt="No alternate">
-    <img src="https://farm2.staticflickr.com/1931/43843054470_ee10170467_c.jpg" alt="No alternate">
     <img src="https://farm2.staticflickr.com/1955/31739764028_b9c1091fc9_c.jpg" alt="No alternate">
+    <img src="https://farm2.staticflickr.com/1910/30670996027_917d32b5b4_c.jpg" alt="No alternate">
 </div>
 <em>Krishansar lake Shenanigans(3844m)</em>
 </div>
@@ -331,7 +332,7 @@ Sometime during the day we decided to move to Vishansar lake. We did not get int
     <img src="https://farm2.staticflickr.com/1969/44705769925_d24688aa3d_c.jpg" alt="No alternate">
     <img src="https://farm2.staticflickr.com/1962/43794592770_edafe9ed59_c.jpg" alt="No alternate">
 </div>
-<em>Vishansar lake(3683m</em>
+<em>Vishansar lake(3683m)</em>
 </div>
 
 We were back at the camp by lunchtime. After a bowl of Maggi some people retired in their tents and some played cards. Once night fell there was a bonfire as the group insisted on it. While a few enjoyed the bonfire the others were gazing at the clear sky dreamily. Shuja mentioned how excessive burning wood leads to soot which settles on glaciers and melts them. It is us, this entire global warming fuckup is just us.</br>
@@ -345,8 +346,8 @@ We were back at the camp by lunchtime. After a bowl of Maggi some people retired
 **Source:** Krishansar Vishansar camp site(3610m)</br>
 **Destination:** Sonmarg(2692m)</br>
 **Distance:** 16km</br>
-**Pass of the day:** Nichnai Pass(4110m)
-**Highlights:** Today was to be a long day and everyone wanted to start early. We had been told to be up by 6 AM so that we can eat and leave by 7 AM. Everyone did get up early but we did not leave before 8AM :satisfied: No one was surprised :satisfied: After breakfast while waiting to leave everyone was busy pulling each other's leg and taunting one another on their trekking style. We reached Nichnai Pass faster than expected. The incline was very gradual and we did not even feel the pain. Maybe we had all gotten used to it by now(the last day). We all celebrated at the top of the pass, we had completed the last ascent, here on it was all downhill. Some of us started snacking while some tried to search for phone networks to call home and the others were just happy.
+**Pass of the day:** Nichnai Pass(4110m) </br>
+**Highlights:** </br>Today was to be a long day and everyone wanted to start early. We had been told to be up by 6 AM so that we can eat and leave by 7 AM. Everyone did get up early but we did not leave before 8AM. No one was surprised though :satisfied: After breakfast while waiting to leave everyone was busy pulling each other's leg and taunting one another on their trekking style. We reached Nichnai Pass faster than expected. The incline was very gradual and we did not even feel the pain. Maybe we had all gotten used to it by now(the last day). We all celebrated at the top of the pass, we had completed the last ascent, here on it was all downhill. Some of us started snacking while some tried to search for phone networks to call home and the others were just happy.
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1956/30678190227_4e2226cb74_c.jpg" alt="No alternate">
@@ -358,34 +359,36 @@ We were back at the camp by lunchtime. After a bowl of Maggi some people retired
 <em>The victory smile(4110m)</em>
 </div>
 
-We were in the middle of our celebrations when someone from the dhaba recommended that we should make a move. The next few kms was through a rocky path which became unpredictable if it rains and clouds were setting in. He asked us where our guides were, surprisingly we couldn't locate any of them. maybe they were celebrating too :stuck_out_tongue: After everyone was done snacking we made a move, without our guides. I mean look at the confidence on Day 7. The downhill was a piece of cake, we walked merrily, taking photos, trying to get some reaction from the sheep(we got none). We had to cross the hill as well, via a swiftly flowing stream. We got distributed in two groups looking for the best way to cross. By then Shuja and Aamir had joined us and we were no longer guide less :stuck_out_tongue_closed_eyes:
+We were in the middle of our celebrations when someone from the dhaba recommended that we should make a move. The next few kms was through a rocky slope which might become unpredictable if it rained and clouds were already setting in. He asked us where our guides were, surprisingly we couldn't locate any of them. Maybe they were celebrating too :stuck_out_tongue: After everyone was done snacking we made a move, without our guides. I mean look at the confidence on Day 7!! The downhill was a piece of cake, we walked merrily, taking photos, trying to get some reaction from the sheep(we got none). We had to cross the hill as well, via a swiftly flowing stream. We got distributed in two groups looking for the best way to cross. By then Shuja and Aamir had joined us and we were no longer guide less :stuck_out_tongue_closed_eyes:
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1906/45612286821_085c60d0cb_c.jpg" alt="No alternate">
 <em>Descent from Nichnai Pass</em>
 </div>
 
-Oh btw, by now we had lost two of our members to high speed. Two of the pro trekkers Shahdab and BBC were no where to be seen. They had deserted us in the favour of their pace :satisfied: Slowly and steadily we moved to the table top, which was supposed to be our last camp site had we left a day earlier.
+Oh by the way, by now we had lost two of our members to high speed. Two of the pro trekkers Shahdab and BBC were no where to be seen. They had deserted us in the favour of their pace :satisfied: Slowly and steadily we moved to the Table-top, which was supposed to be our last camp site had we left a day earlier.
 
 <div class="postimg inline50">
 <img src="https://farm2.staticflickr.com/1956/31429617108_15f47111be_c.jpg" alt="No alternate">
 <em>Just everyday scenes</em>
 </div>
 
-Once the short ascent for table top started, Mon and I started complaining that the last ascent was till Nichnai Pass and this was unfair :sob: Soon the trees of table top diverted our minds and we got playful again. The table top was a beautiful vast green meadow. Shuja pointed to the Khajwas Glacier that was visible at a distance. He also mentioned that a lot of peaks of Sonamarg were unconquered because of the technicalities needed to do the same.
-From table top it was kind of a steep decline. Karan and Tyagi dashed off like two excited boys. It is a joy to see the comfort level Karan has with such terrains.
+Once the short ascent for Table-top started, Mon and I started complaining that the last ascent was till Nichnai Pass and this was unfair :sob: Soon the trees of Table-top diverted our minds and we got playful again. The Table-top was a beautiful and vast green meadow. Shuja pointed to the Khajwas Glacier that was visible at a distance. He also mentioned that a lot of peaks of Sonamarg were unconquered because of the technicalities needed to do the same.
+From Table-top it was kind of a steep decline. Karan and Tyagi dashed off like two excited boys. It is a joy to see the comfort level Karan has with such terrains.
 
 <div class="postimg">
 <img src="https://farm2.staticflickr.com/1954/31740040768_e28bdafc37_c.jpg" alt="No alternate">
-<em>Table Top</em>
+<em>Table-top</em>
 </div>
 
-One by one, everyone descended at their own pace. It was a bitter sweet feeling to be back to civilisation. From table top one could see the Sonamarg valley, the building, the electricity poles, the highway and the traffic. While one part wanted to head back to the mountains, away from all this the other was yearning to get back to the comfort of a warm bed and hot shower. Keeping these feelings in mind, everyone reached the assembly point. We thanked and tipped our porters and took a group photo to mark an end to the eventful and mesmerising trek. Later Karan and I will realise how this trek will shape our opinions on any of the alpine lakes we will see over the rest of our travels. </br>
+One by one, everyone descended at their own pace. It was a bitter sweet feeling to be back to civilisation. From Table-top one could see the Sonamarg valley, the buildings, the electricity poles, the highway and the traffic. While one part wanted to head back to the mountains, away from all this, the other was yearning to get back to the comfort of a warm bed and a hot shower. Keeping these feelings in mind, everyone reached the assembly point. We thanked and tipped our porters and took a group photo to mark an end to the eventful and mesmerising trek. Later Karan and I would realise how this trek shaped our opinions for any alpine lakes we would encounter over the rest of our travels. </br>
 
 <div class="postimg">
   <img src="https://farm2.staticflickr.com/1910/44895951734_0139d91293_c.jpg">
   <em>The cast and crew of Kashmir great lakes trek</em>
 </div>
+
+<hr/>
 
 Because Hazic played a big role in this trip he deserves a special mention :smile:
 
@@ -397,4 +400,4 @@ Whether you enjoyed the post or not, do leave a comment!
 
 And here is the complete album of the Kashmir Great lakes trek compiled by [Karan](https://www.instagram.com/grasskode/?hl=en) and [me](https://www.instagram.com/capturedbypaulina/?hl=en).
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/gp/156559982@N06/7SKjmC" title="Kashmir Great Lakes"><img src="https://farm2.staticflickr.com/1943/31429778018_b223df943f_c.jpg" alt="Kashmir Great Lakes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/156559982@N06/albums/72157674463777148" title="Kashmir Great Lakes"><img src="https://farm2.staticflickr.com/1943/31429778018_b223df943f_c.jpg" width="800" height="534" alt="Kashmir Great Lakes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
