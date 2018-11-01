@@ -73,6 +73,7 @@ It was day 1. First obvious thing that happened was the segregation of the regul
 <img src="https://farm2.staticflickr.com/1980/30678829307_7639d157f3_c.jpg" alt="No alternate">
 <em>Thought it was over but it's not</em>
 </div>
+
 A few kms after the Butshree top we started celebrating assuming we are close to the camp site. We have no idea why we did it. It was a beautiful meadow and we spent quite some time giggling and shooting pictures. Once we made a move we saw a few scattered dots at a distance. After covering some distance we could see the dots converge to our group sitting there unamused. We were a little confused as to why there was no camp there. The group mercilessly burst our bubble and told us the camp was farther off and they had been waiting for us while we were frolicking around in the meadows clicking pictures. :sob:
 
 Further ahead there was an army camp where our identities were verified. From there it was an incline to the edge of the camp site and a small walk to the campsite thereafter. All in all just 11 kms on the first day :grin: Slowly and steadily we made it to the camp site and it was beautiful. We were supposed to camp here for 2 days, this one and the next. The camp was set up in the following manner(something that would stick till the end of the trek binding everyone into a kabila):

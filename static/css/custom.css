@@ -159,28 +159,28 @@ article.single .article-body a {
 
 div.inline40 {
   float: left;
-  margin: 0 0.5em 0 0;
+  margin: 1rem 0.5rem 0 0;
   width: 40%;
   overflow: auto;
 }
 
 div.inline50 {
   float: left;
-  margin: 0 0.5em 0 0;
+  margin: 1rem 0.5rem 0 0;
   width: 50%;
   overflow: auto;
 }
 
 div.inline40right {
   float: right;
-  margin: 0 0 0 0.5em;
+  margin: 1rem 0 0 0.5em;
   width: 40%;
   overflow: auto;
 }
 
 div.inline50right {
   float: right;
-  margin: 0 0 0 0.5em;
+  margin: 1rem 0 0 0.5em;
   width: 50%;
   overflow: auto;
 }
@@ -206,7 +206,6 @@ div.inline50right {
 }
 
 .grid {
-  padding: 0 1rem;
   display: flex;
   flex-wrap: wrap;
 }
@@ -214,6 +213,7 @@ div.inline50right {
 .grid-column-50 {
   flex: 50%;
   max-width: 49%;
+  margin-left: 0rem;
   margin-right: 0.1rem;
 }
 
@@ -223,7 +223,6 @@ div.inline50right {
 }
 
 .grid-simple {
-  padding: 0 1rem;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
@@ -234,6 +233,7 @@ div.inline50right {
 .grid-simple img {
   flex: 50%;
   max-width: 49%;
+  margin-left: 0rem;
   margin-right: 0.1rem;
   vertical-align: middle;
   margin-bottom: 0.1rem;
