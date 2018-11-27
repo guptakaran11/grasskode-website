@@ -518,7 +518,7 @@ On the way back to Shillong we stopped at Smit to see the **King's Seat**. It wa
   <em>Let's go! In an (automatic) Alto!</em>
 </div>
 
-While there was more of Meghalaya that we were tempted to do, we were running out of time and decided not to rush ourselves. The state had given me an overall bittersweet impression and while it was extremely beautiful, much of it was marred by being overtly touristy. One could still find a way to enjoy the place far from the maddening rush but that would take a lot of information and effort. I tried doing my bit with this post and another one on [medium]().
+While there was more of Meghalaya that we were tempted to do, we were running out of time and decided not to rush ourselves. The state had given me an overall bittersweet impression and while it was extremely beautiful, much of it was marred by being overtly touristy. One could still find a way to enjoy the place far from the maddening rush but that would take a lot of information and effort. I tried doing my bit with this post and another one on [medium](https://medium.com/@grasskode/offbeat-meghalaya-269972120252).
 
 We are still exploring North East on our bikes and Parul keeps pushing daily updates on [instagram](https://www.instagram.com/capturedbypaulina/). Follow her to know more.
 
