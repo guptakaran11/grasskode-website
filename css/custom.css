@@ -197,6 +197,10 @@ div.inline50right {
   margin-bottom: 0.5rem;
 }
 
+a img {
+  cursor: zoom-in;
+}
+
 .postimg em {
   font-size: 0.8rem;
   font-weight: 500;
