@@ -2,7 +2,7 @@
 categories = ["travel"]
 tags = ["india", "biking", "roadtrip", "north_east", "meghalaya", "waterfall", "hikes", "offbeat"]
 date = "2018-11-26T23:37:48+05:30"
-title = "Meghalaya"
+title = "Pristine Meghalaya"
 image = "https://farm5.staticflickr.com/4900/45938459612_904fff85f4_c.jpg"
 series = "Where is North East?"
 toc = true
