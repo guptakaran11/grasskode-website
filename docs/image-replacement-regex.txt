@@ -5,6 +5,8 @@ find:
 replace:
 
 <div class="postimg">
-  <img src="$1" alt="$2">
+  <a href="$1" data-toggle="lightbox">
+    <img src="$1" alt="$2">
+  </a>
   <em>$2</em>
 </div>
