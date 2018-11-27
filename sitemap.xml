@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://grasskode.xyz/post/travel/where-is-north-east/meghalaya/</loc>
+    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/post/drafts/meghalaya-medium/</loc>
     <lastmod>2018-11-11T20:30:01+05:30</lastmod>
   </url>
@@ -326,7 +331,7 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/biking/</loc>
-    <lastmod>2018-07-10T12:19:35+03:00</lastmod>
+    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -485,6 +490,12 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/hikes/</loc>
+    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/hill-station/</loc>
     <lastmod>2016-08-19T00:54:52+07:00</lastmod>
     <priority>0</priority>
@@ -510,7 +521,7 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/india/</loc>
-    <lastmod>2018-10-04T14:39:49+05:30</lastmod>
+    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -534,7 +545,7 @@
   
   <url>
     <loc>http://grasskode.xyz/author/karan/</loc>
-    <lastmod>2018-09-12T12:31:19+05:30</lastmod>
+    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -593,6 +604,12 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/meghalaya/</loc>
+    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/mekong/</loc>
     <lastmod>2016-10-22T10:39:51+05:30</lastmod>
     <priority>0</priority>
@@ -647,6 +664,12 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/north_east/</loc>
+    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/nyc/</loc>
     <lastmod>2017-08-20T13:43:52+05:30</lastmod>
     <priority>0</priority>
@@ -655,6 +678,12 @@
   <url>
     <loc>http://grasskode.xyz/tags/off-beat/</loc>
     <lastmod>2016-12-20T12:47:23+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/offbeat/</loc>
+    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -696,7 +725,7 @@
   
   <url>
     <loc>http://grasskode.xyz/post/</loc>
-    <lastmod>2018-11-11T20:30:01+05:30</lastmod>
+    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -725,7 +754,7 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/roadtrip/</loc>
-    <lastmod>2018-07-10T12:19:35+03:00</lastmod>
+    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -819,7 +848,7 @@
   
   <url>
     <loc>http://grasskode.xyz/categories/travel/</loc>
-    <lastmod>2018-10-04T14:39:49+05:30</lastmod>
+    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
   </url>
   
   <url>
@@ -853,6 +882,17 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/waterfall/</loc>
+    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/series/where-is-north-east/</loc>
+    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/winter/</loc>
     <lastmod>2017-02-10T00:20:47+05:30</lastmod>
     <priority>0</priority>
@@ -866,7 +906,7 @@
   
   <url>
     <loc>http://grasskode.xyz/</loc>
-    <lastmod>2018-11-11T20:30:01+05:30</lastmod>
+    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
