@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="http://grasskode.xyz/css/styles.css">
     <link rel="stylesheet" href="http://grasskode.xyz/css/custom.css">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="http://grasskode.xyz//index.xml">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
 
     
         <title>About - grasskode</title>
@@ -28,7 +29,7 @@ The blog will mostly contain a more regular log of my travels and activities." /
   </head>
 
   <body>
-    
+
     <nav class="navbar navbar-default">
   <div class="container-fluid">
     
@@ -87,6 +88,7 @@ The blog will mostly contain a more regular log of my travels and activities." /
 </nav>
 
     <div class="container site">
+
 
 <div class="single">
 
@@ -200,6 +202,8 @@ The blog will mostly contain a more regular log of my travels and activities.">
       
         <a href="http://grasskode.xyz/series/last-time-i-did-something-for-the-first-time">Last time I did something for the first time (1)</a>
       
+        <a href="http://grasskode.xyz/series/where-is-north-east">Where is North East? (1)</a>
+      
     </div>
   </div>
 
@@ -217,15 +221,15 @@ The blog will mostly contain a more regular log of my travels and activities.">
       
         <a href="http://grasskode.xyz/tags/cambodia">cambodia (8)</a>
       
-        <a href="http://grasskode.xyz/tags/india">india (7)</a>
+        <a href="http://grasskode.xyz/tags/india">india (8)</a>
       
         <a href="http://grasskode.xyz/tags/beach">beach (6)</a>
+      
+        <a href="http://grasskode.xyz/tags/biking">biking (6)</a>
       
         <a href="http://grasskode.xyz/tags/burma">burma (6)</a>
       
         <a href="http://grasskode.xyz/tags/city">city (6)</a>
-      
-        <a href="http://grasskode.xyz/tags/unesco-site">unesco site (6)</a>
       
     </div>
   </div>
@@ -258,7 +262,15 @@ The blog will mostly contain a more regular log of my travels and activities.">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="//twemoji.maxcdn.com/twemoji.min.js"></script>  
+    <script src="//twemoji.maxcdn.com/twemoji.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js"></script>
+
+    <script type="text/javascript">
+      $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+          event.preventDefault();
+          $(this).ekkoLightbox();
+      });
+    </script>
 
     
     <script>

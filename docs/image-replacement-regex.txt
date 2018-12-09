@@ -1,10 +1,14 @@
+## postimg with lightbox
+
 find:
 
-<a data-flickr-embed="true"  href=\"[\S]*\" title="[\S]*"><img src="([\S]*)" width="[\S]*" height="[\S]*" alt="([\S]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+<a data-flickr-embed="true"  href=\"[\S]*\" title="[\S]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([\S]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
 
 replace:
 
 <div class="postimg">
-  <img src="$1" alt="$2">
+  <a href="$1_c.jpg" data-toggle="lightbox">
+    <img src="$1" alt="$2">
+  </a>
   <em>$2</em>
 </div>
