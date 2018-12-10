@@ -1,0 +1,14 @@
+## Grid
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="image" data-toggle="lightbox">
+        <img src="image" alt="title">
+      </a>
+    </div>
+  </div>
+  <em>title</em>
+</div>
+
+For two images use two grid columns with one image each. For four images use two grid columns with two images each and so on.
