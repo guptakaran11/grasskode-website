@@ -11,4 +11,44 @@
   <em>title</em>
 </div>
 
-For two images use two grid columns with one image each. For four images use two grid columns with two images each and so on.
+For two images use two grid columns with one image each.
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="image" data-toggle="lightbox">
+        <img src="image" alt="title">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="image" data-toggle="lightbox">
+        <img src="image2" alt="title2">
+      </a>
+    </div>
+  </div>
+  <em>title</em>
+</div>
+
+For four images use two grid columns with two images each and so on.
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="image" data-toggle="lightbox">
+        <img src="image" alt="title">
+      </a>
+      <a href="image" data-toggle="lightbox">
+        <img src="image3" alt="title3">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="image" data-toggle="lightbox">
+        <img src="image2" alt="title2">
+      </a>
+      <a href="image" data-toggle="lightbox">
+        <img src="image4" alt="title4">
+      </a>
+    </div>
+  </div>
+  <em>title</em>
+</div>

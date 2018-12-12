@@ -12,10 +12,11 @@ This is the second attempt to maintain a blog of my own. Once upon a time I had 
 
 The blog will mostly contain a more regular log of my travels and activities. Otherwise I am active on [medium](http://medium.com/@grasskode) and [instagram](https://www.instagram.com/grasskode/). I used to blog on [blogger](http://fleetingnonsense.blogspot.in/) and write my book reviews [here](http://bookedvorm.blogspot.in/). Yup, I have created a big mess all over the internet!
 
-Updated 2018.
+**Updated 2018**
+
 One fine day my wife Parul had the brilliant idea to add on to the clutter I have on the internet. Lazy as ever she did not even make the effort to start a blog of her own. All she did was latch on to mine. As of June 2018, grasskode.xyz will have content from both Parul and me.
 
-In case you wish to [reach out](mailto:gupta.karan.11@gmail.com), feel free to do so!
+In case you wish to [reach out](mailto:gupta.karan.11@gmail.com) to us, feel free to do so!
 
 ## Me
 
@@ -45,4 +46,9 @@ I am Parul. I am generally a very happy and cheerful person in life. I am very n
 - **Sleeping** : When I am confused on what it is that I want to do at any point in time I sleep. It's more like a talent than hobby, sleeping anywhere, anytime, anyhow. I don't regret a single minute I have spent sleeping.
 - **Irritating Grasskode** : It took me a while to realise this actually but this is only other thing besides sleeping that I do when I am confused.
 
-I am very new to the writing world. Every feedback that you give will help me get better than grasskode at writing :D
+I am very new to the writing world. Every feedback that you give will help me get better than grasskode at writing :grin:
+
+<p class="postimg vertimg">
+  <img src="/images/karanme55.jpg" alt="The US">
+  <em>The man and the wife</em>
+</p>
