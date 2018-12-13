@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/post/travel/where-is-north-east/zfm2018/</loc>
+    <lastmod>2018-10-10T16:39:23+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/post/travel/kashmir-great-lakes/</loc>
     <lastmod>2018-10-04T14:39:49+05:30</lastmod>
   </url>
@@ -290,6 +295,12 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/arunachal/</loc>
+    <lastmod>2018-10-10T16:39:23+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/author/</loc>
     <priority>0</priority>
   </url>
@@ -422,6 +433,11 @@
     <loc>http://grasskode.xyz/tags/europe/</loc>
     <lastmod>2017-02-10T00:20:47+05:30</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/categories/experiences/</loc>
+    <lastmod>2018-10-10T16:39:23+05:30</lastmod>
   </url>
   
   <url>
@@ -605,6 +621,12 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/music_festival/</loc>
+    <lastmod>2018-10-10T16:39:23+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/myanmar/</loc>
     <lastmod>2016-05-19T10:37:57+05:30</lastmod>
     <priority>0</priority>
@@ -684,7 +706,7 @@
   
   <url>
     <loc>http://grasskode.xyz/author/parul/</loc>
-    <lastmod>2018-10-04T14:39:49+05:30</lastmod>
+    <lastmod>2018-10-10T16:39:23+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -884,6 +906,24 @@
   <url>
     <loc>http://grasskode.xyz/tags/writing/</loc>
     <lastmod>2018-06-01T15:39:21+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/zfm2018/</loc>
+    <lastmod>2018-10-10T16:39:23+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/ziro/</loc>
+    <lastmod>2018-10-10T16:39:23+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/ziro_festival/</loc>
+    <lastmod>2018-10-10T16:39:23+05:30</lastmod>
     <priority>0</priority>
   </url>
   
