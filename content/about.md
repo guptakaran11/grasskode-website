@@ -47,8 +47,3 @@ I am Parul. I am generally a very happy and cheerful person in life. I am very n
 - **Irritating Grasskode** : It took me a while to realise this actually but this is only other thing besides sleeping that I do when I am confused.
 
 I am very new to the writing world. Every feedback that you give will help me get better than grasskode at writing :grin:
-
-<p class="postimg vertimg">
-  <img src="/images/karanme55.jpg" alt="The US">
-  <em>The man and the wife</em>
-</p>
