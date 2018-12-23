@@ -33,7 +33,8 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 git add public
 msg="rebuilding site `date`"
 git commit -m "$msg"
-git subtree push --prefix=public git@github.com:grasskode/grasskode-website.git gh-pages
+git push origin `git subtree split --prefix public master`:gh-pages --force
+#git subtree push --prefix=public git@github.com:grasskode/grasskode-website.git gh-pages
 
 # revert to master's .gitignore
 cp .gitignore-master .gitignore
