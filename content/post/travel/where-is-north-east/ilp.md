@@ -20,9 +20,7 @@ Started by the Britishers (like most other nuisances), the ILP is a document tha
 
 While the primary reason for the ILP is to deter the people employed in these areas from settling down in the tribal lands, it is required for domestic tourists as well. Though it is easily granted, getting one can be a nuisance.
 
-## ILP by States
-
-### Arunachal Pradesh
+## Arunachal Pradesh
 
 **Getting the ILP**
 
@@ -39,7 +37,7 @@ The ILP checkpoints exist at various places in Arunachal Pradesh. It is usually 
 In our experience, the ILP checks are somewhat random. The route to Tawang was probably the most strict about ILP and we were asked to sumbit a copy at the Bhalukpong gate. We were also asked for ILP by our hotels in Tawang. On some other gates, we stopped to get them check on our own accord and were waved off by the police :no_mouth: But do carry it at all times, even when going on day trips around your base location.
 
 
-### Nagaland
+## Nagaland
 
 **Getting the ILP**
 
@@ -59,13 +57,13 @@ Another easy way to apply, in case you have your travel prearranged, is through 
 It is reported that the Naga authorities demand ILP at any random location. This is however very erratic. In our experience, we were not asked for the ILP once in our travel. But once again, this being a sensitive area, do carry your ILP with you at all times.
 
 
-### Manipur
+## Manipur
 
 Manipur currently does **not** require an ILP. However, there is an increasing demand from the locals to bring the state under ILP restrictions. Read [here](https://www.indiatoday.in/who-is-what-is/story/what-is-inner-line-permit-people-manipur-are-demanding-260803-2015-09-02) and [here](https://www.newsclick.in/manipur-introduce-ilp-bill) in case you are interested to know more.
 
 However, if you are reaching Manipur via Nagaland, you will require a valid Nagaland ILP (see above).
 
-### Mizoram
+## Mizoram
 
 **Getting the ILP**
 
