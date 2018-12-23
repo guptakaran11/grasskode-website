@@ -33,8 +33,12 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 git add public
 msg="rebuilding site `date`"
 git commit -m "$msg"
-git push origin `git subtree split --prefix public master`:gh-pages --force
-#git subtree push --prefix=public git@github.com:grasskode/grasskode-website.git gh-pages
+if [[ $1 == "-f" ]]; then
+  echo "forcing overwrite of gh-pages"
+  git push origin `git subtree split --prefix public master`:gh-pages --force
+else
+  git subtree push --prefix=public git@github.com:grasskode/grasskode-website.git gh-pages
+fi
 
 # revert to master's .gitignore
 cp .gitignore-master .gitignore
