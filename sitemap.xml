@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://grasskode.xyz/post/travel/where-is-north-east/ilp/</loc>
+    <lastmod>2018-12-21T23:20:28+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/travel/where-is-north-east/arunachal-ziro/</loc>
+    <lastmod>2018-12-18T22:10:41+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/travel/where-is-north-east/arunachal-kibithoo/</loc>
+    <lastmod>2018-12-18T19:02:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/travel/where-is-north-east/arunachal-mechuka/</loc>
+    <lastmod>2018-12-18T19:01:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/travel/where-is-north-east/arunachal-tawang/</loc>
+    <lastmod>2018-12-18T19:01:52+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/post/travel/where-is-north-east/zfm2018/</loc>
     <lastmod>2018-12-12T16:39:23+05:30</lastmod>
   </url>
@@ -283,6 +308,12 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/author/</loc>
+    <lastmod>2018-12-18T22:10:41+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/abandoned/</loc>
     <lastmod>2016-09-16T18:54:40+07:00</lastmod>
     <priority>0</priority>
@@ -296,12 +327,13 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/arunachal/</loc>
-    <lastmod>2018-12-12T16:39:23+05:30</lastmod>
+    <lastmod>2018-12-21T23:20:28+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/author/</loc>
+    <lastmod>2018-12-18T22:10:41+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -520,7 +552,7 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/india/</loc>
-    <lastmod>2018-12-12T16:39:23+05:30</lastmod>
+    <lastmod>2018-12-21T23:20:28+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -544,7 +576,7 @@
   
   <url>
     <loc>http://grasskode.xyz/author/karan/</loc>
-    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
+    <lastmod>2018-12-21T23:20:28+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -621,6 +653,12 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/mizoram/</loc>
+    <lastmod>2018-12-21T23:20:28+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/music_festival/</loc>
     <lastmod>2018-12-12T16:39:23+05:30</lastmod>
     <priority>0</priority>
@@ -635,6 +673,12 @@
   <url>
     <loc>http://grasskode.xyz/tags/mythology/</loc>
     <lastmod>2016-03-29T23:25:30+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/nagaland/</loc>
+    <lastmod>2018-12-21T23:20:28+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -670,7 +714,7 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/north_east/</loc>
-    <lastmod>2018-12-12T16:39:23+05:30</lastmod>
+    <lastmod>2018-12-21T23:20:28+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -729,8 +773,14 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/playbook/</loc>
+    <lastmod>2018-12-21T23:20:28+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/post/</loc>
-    <lastmod>2018-12-12T16:39:23+05:30</lastmod>
+    <lastmod>2018-12-21T23:20:28+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -853,7 +903,7 @@
   
   <url>
     <loc>http://grasskode.xyz/categories/travel/</loc>
-    <lastmod>2018-11-26T23:37:48+05:30</lastmod>
+    <lastmod>2018-12-21T23:20:28+05:30</lastmod>
   </url>
   
   <url>
@@ -910,26 +960,14 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/zfm2018/</loc>
-    <lastmod>2018-12-12T16:39:23+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/tags/ziro/</loc>
     <lastmod>2018-12-12T16:39:23+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/ziro_festival/</loc>
-    <lastmod>2018-12-12T16:39:23+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/</loc>
-    <lastmod>2018-12-12T16:39:23+05:30</lastmod>
+    <lastmod>2018-12-21T23:20:28+05:30</lastmod>
     <priority>0</priority>
   </url>
   
