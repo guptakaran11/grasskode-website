@@ -12,13 +12,19 @@ This is the second attempt to maintain a blog of my own. Once upon a time I had 
 
 The blog will mostly contain a more regular log of my travels and activities. Otherwise I am active on [medium](http://medium.com/@grasskode) and [instagram](https://www.instagram.com/grasskode/). I used to blog on [blogger](http://fleetingnonsense.blogspot.in/) and write my book reviews [here](http://bookedvorm.blogspot.in/). Yup, I have created a big mess all over the internet!
 
-**Updated 2018**
-
-One fine day my wife Parul had the brilliant idea to add on to the clutter I have on the internet. Lazy as ever she did not even make the effort to start a blog of her own. All she did was latch on to mine. As of June 2018, grasskode.xyz will have content from both Parul and me.
+Since 2018, the blog has a co-owner in Parul, my lawfully wedded wife. We have been seeing the world together for a while now so it makes sense to tell our stories together as well.
 
 In case you wish to [reach out](mailto:gupta.karan.11@gmail.com) to us, feel free to do so!
 
-## Me
+## The Us
+
+<div class="postimg">
+  <a href="https://storage.googleapis.com/grasskode.xyz/images/about/dnd-russia.jpg" data-toggle="lightbox">
+    <img src="https://storage.googleapis.com/grasskode.xyz/images/about/dnd-russia.jpg" alt="the-us">
+  </a>
+</div>
+
+### Karan
 
 I have always struggled with this section. From the days when social media was gaining popularity in India and people were creating their profiles in various sites, this was the only question I never had a straight answer for :
 
@@ -36,14 +42,14 @@ I am what I do and this entire blog is perhaps an attempt to answer that very qu
 
 For more, browse through the posts. 🍻
 
-## Me the wife
+### Parul
 
-I am Parul. I am generally a very happy and cheerful person in life. I am very new to the writing world. Here are a few things that interest me:
+I am generally a very happy and cheerful person in life. I am very new to the writing world. Here are a few things that interest me:
 
 - **Photography** : I will not say I am a photographer but I am more of a photography enthusiast. I am always looking out for the next best photo that I can make.
 - **Music** : There are very few people in the world who will say they don't like music. If I am ever given charge of music you will end up hearing Rock, Post Rock, Alternate Rock and sometimes pop music from the 90's
 - **Biking** : I think a wannabe biker will describe me the best. Currently travelling the country with grasskode, riding through one state at a time.
 - **Sleeping** : When I am confused on what it is that I want to do at any point in time I sleep. It's more like a talent than hobby, sleeping anywhere, anytime, anyhow. I don't regret a single minute I have spent sleeping.
-- **Irritating Grasskode** : It took me a while to realise this actually but this is only other thing besides sleeping that I do when I am confused.
+- **Irritating grasskode** : It took me a while to realise this actually but this is only other thing besides sleeping that I do when I am confused.
 
 I am very new to the writing world. Every feedback that you give will help me get better than grasskode at writing :grin:
