@@ -19,8 +19,8 @@ In case you wish to [reach out](mailto:gupta.karan.11@gmail.com) to us, feel fre
 ## The Us
 
 <div class="postimg">
-  <a href="https://storage.googleapis.com/grasskode.xyz/images/about/dnd-russia.jpg" data-toggle="lightbox">
-    <img src="https://storage.googleapis.com/grasskode.xyz/images/about/dnd-russia.jpg" alt="the-us">
+  <a href="https://res.cloudinary.com/grasskode/image/upload/images/about/dnd-russia.jpg" data-toggle="lightbox">
+    <img src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/about/dnd-russia.jpg" alt="the-us">
   </a>
 </div>
 

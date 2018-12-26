@@ -1,0 +1,2 @@
+gsutil cp -r <folder> gs://grasskode.xyz/images/<category>/<series>
+gsutil -m rsync -d <folder> gs://grasskode.xyz/images/<category>/<series>/<folder>
