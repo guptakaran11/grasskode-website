@@ -4,6 +4,7 @@ tags = ["india", "roadtrip", "north_east", "arunachal", "music_festival", "ziro"
 date = "2018-12-23T22:10:41+05:30"
 title = "The Golden Valley"
 image = "https://res.cloudinary.com/grasskode/image/upload/w_1024/images/travel/arunachal/ziro/guesthouse-view-1.jpg"
+series = "Where is North East?"
 toc = true
 author = "Karan"
 +++
