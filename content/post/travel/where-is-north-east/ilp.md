@@ -5,6 +5,7 @@ date = "2018-12-21T23:20:28+05:30"
 title = "Inner Line Permits in North East India"
 image = "https://res.cloudinary.com/grasskode/image/upload/w_1024/images/travel/arunachal/ILP3.jpg"
 toc = true
+series = "Where is North East?"
 author = "Karan"
 +++
 
