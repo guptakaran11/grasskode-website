@@ -3,7 +3,7 @@ categories = ["travel"]
 tags = ["india", "roadtrip", "north_east", "arunachal", "music_festival", "ziro"]
 date = "2018-12-23T22:10:41+05:30"
 title = "The Golden Valley"
-image = "https://res.cloudinary.com/grasskode/image/upload/w_1024/images/travel/arunachal/ziro/guesthouse-view-1.jpg"
+image = "https://farm8.staticflickr.com/7872/31548222797_922079fc67_c.jpg"
 series = "Where is North East?"
 toc = true
 author = "Karan"
@@ -12,6 +12,8 @@ author = "Karan"
 I had put in my papers earlier this year and took off work in May. The idea was (and still is) to explore the alternation as a way of life. I find it hard to do things half-heartedly so I give it my all when I am in a job, consequently burn myself and then I think I owe myself some time off in order to explore other things in life and to help myself see a grander perspective.
 
 Parul decided to join me this time on my wandering spree and we decided on a road trip to North East India. After her [ride to Jaisalmer](/post/travel/firsts/ride-on/) earlier this year, Parul had been showing increasing confidence and interest in biking. So we set out of Delhi on the morning of 14th September and made it to Tezpur over a course of 8 days, stopping at Lucknow, Kushinagar, Darbhanga, Kurseong (:heart:) and Bongaigaon en route.
+
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BntbIGBhH_z/?utm_source=ig_embed&amp;utm_medium=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/BntbIGBhH_z/?utm_source=ig_embed&amp;utm_medium=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div><div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BntbIGBhH_z/?utm_source=ig_embed&amp;utm_medium=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Karan (@grasskode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-09-14T14:23:28+00:00">Sep 14, 2018 at 7:23am PDT</time></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
 
 After staying a few days in Tezpur to figure out a few things, we decided to leave our bikes in Tezpur at a friend's house and continue thence by public transport to our first destination - the Ziro Valley in Arunachal Pradesh.
 
@@ -24,19 +26,19 @@ I admittedly knew little about Arunachal Pradesh before I set foot inside it. Wh
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/bus-ride-snacks.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/bus-ride-snacks.jpg">
+      <a href="https://farm8.staticflickr.com/7881/32615552148_38680dfa16_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7881/32615552148_38680dfa16.jpg">
       </a>
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/bus-ride-views-1.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/bus-ride-views-1.jpg">
+      <a href="https://farm8.staticflickr.com/7802/32615542968_350197ff3d_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7802/32615542968_350197ff3d.jpg">
       </a>
     </div>
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/bus-ride-views-3.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/bus-ride-views-3.jpg">
+      <a href="https://farm8.staticflickr.com/7854/31548276697_e17c01e3fb_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7854/31548276697_e17c01e3fb.jpg">
       </a>
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/bus-ride-views-2.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/bus-ride-views-2.jpg">
+      <a href="https://farm8.staticflickr.com/7912/32615533838_30d71fe28c_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7912/32615533838_30d71fe28c.jpg">
       </a>
     </div>
   </div>
@@ -49,8 +51,8 @@ We got our [ILP](/post/travel/where-is-north-east/ilp/) checked at the gate and 
 We reached Naharlagun in less than an hour and quickly found a decent hotel near the bus stand. I went to ask for buses to Ziro on the following day but the bus stand seemed as if it had been dug up and left so since. There was no counter there that would serve for information and asking around did not help a lot. So I postponed the activity till the morrow and then walked around the town with Parul to hunt for food. And quite a hunt it was! Most of the places had shut down or were in the process of doing so. We were quite surprised since it was only a little after 7 PM and Naharlagun was a big enough city. We did find a restaurant open which looked a little uptown. We went in for the lack of a cheaper option. Turned out that the food was good and reasonably priced. I also tasted my first round of pork in North East :yum:
 
 <div class="postimg vertimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/naharlagun-dinner.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/naharlagun-dinner.jpg">
+  <a href="https://farm8.staticflickr.com/7864/46487744781_b4da1492f8_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm8.staticflickr.com/7864/46487744781_b4da1492f8.jpg">
   </a>
   <em>First Meal in Arunachal</em>
 </div>
@@ -58,8 +60,8 @@ We reached Naharlagun in less than an hour and quickly found a decent hotel near
 At 6 the next morning I went to ask around for a bus or Sumo. The counters were right across the street and since there was no bus to Ziro, I booked a Sumo. It was leaving in 10 minutes so I went back to the room, asked Parul to pack up as quickly as possible and we were down at the stand in 15 minutes. Luckily the Sumo had waited :stuck_out_tongue:
 
 <div class="postimg vertimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/naharlagun-sumo.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/naharlagun-sumo.jpg">
+  <a href="https://farm5.staticflickr.com/4918/32615012748_a45dbb7ee8_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm5.staticflickr.com/4918/32615012748_a45dbb7ee8.jpg">
   </a>
   <em>THE Sumo!</em>
 </div>
@@ -67,8 +69,8 @@ At 6 the next morning I went to ask around for a bus or Sumo. The counters were 
 It was cloudy throughout but the rains spared us after some light activity. The ride was a bumpy one with the _kalamitti_ being the most exciting. It is essentially a single lane of muddy path with 4 feet of mud wall (remenants of cleared landslide) on either side and spans across a couple of blind curves. I will let your imagination do the rest.
 
 <div class="postimg vertimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/checkpost.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/checkpost.jpg">
+  <a href="https://farm5.staticflickr.com/4819/45764498114_112cc8eb61_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm5.staticflickr.com/4819/45764498114_112cc8eb61.jpg">
   </a>
   <em>Checkpost on the way to Ziro</em>
 </div>
@@ -90,8 +92,8 @@ The homestay owner came to pick us up from the hotel and drove us to his house. 
 
 
 <div class="postimg vertimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/homestay-red-tea.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/homestay-red-tea.jpg">
+  <a href="https://farm8.staticflickr.com/7860/46436477892_867fb3d662_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm8.staticflickr.com/7860/46436477892_867fb3d662.jpg">
   </a>
   <em>Welcome drink :tea:</em>
 </div>
@@ -99,21 +101,21 @@ The homestay owner came to pick us up from the hotel and drove us to his house. 
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/homestay-garden-2.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/homestay-garden-2.jpg">
+      <a href="https://farm8.staticflickr.com/7844/44670818890_132198bbf1_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7844/44670818890_132198bbf1.jpg">
       </a>
     </div>
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/homestay-garden-3.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/homestay-garden-3.jpg">
+      <a href="https://farm5.staticflickr.com/4827/45574721055_128bf01891_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm5.staticflickr.com/4827/45574721055_128bf01891.jpg">
       </a>
     </div>
   </div>
 </div>
 
 <div class="postimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/homestay-view.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/homestay-view.jpg">
+  <a href="https://farm5.staticflickr.com/4889/45764199364_e66fd39cb2_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm5.staticflickr.com/4889/45764199364_e66fd39cb2.jpg">
   </a>
   <em>Homestay Feels</em>
 </div>
@@ -121,8 +123,8 @@ The homestay owner came to pick us up from the hotel and drove us to his house. 
 At night we were treated to a buffet of homecooked food in the pretty dining hall. It had a fireplace in between which we would learn to be typical of the region.
 
 <div class="postimg vertimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/homestay-dinner.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/homestay-dinner.jpg">
+  <a href="https://farm8.staticflickr.com/7833/45574765995_bfda9144d6_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm8.staticflickr.com/7833/45574765995_bfda9144d6.jpg">
   </a>
   <em>Home cooked dinner</em>
 </div>
@@ -130,8 +132,8 @@ At night we were treated to a buffet of homecooked food in the pretty dining hal
 After dinner we sat down with the hosts and Aunty poured us glasses of "organic juice". Over the local made mulberry wine we asked them a lot of questions about the region, their lifestyle, their religion, festivals, etc. The Apatanis were the main tribe of the Ziro valley and they were, as we would come to know first hand over the next few days, known for their hospitality and warmth. They had mostly converted to Christianity and were primarly agrarian in their lifestyle. The wine was quite potent and we slept a sound sleep that night, tired from a day of bad roads and unnecessary lodging hunting.
 
 <div class="postimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/homestay-fireplace.JPG" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/homestay-fireplace.JPG">
+  <a href="https://farm8.staticflickr.com/7859/32615283978_e86aeb5ae6_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm8.staticflickr.com/7859/32615283978_e86aeb5ae6.jpg">
   </a>
   <em>:fire:</em>
 </div>
@@ -141,19 +143,19 @@ The next morning Uncle introduced us to a relation of his who had a homestay in 
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/clouds.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/clouds.jpg">
+      <a href="https://farm5.staticflickr.com/4909/45764493464_e476aa89c2_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm5.staticflickr.com/4909/45764493464_e476aa89c2.jpg">
       </a>
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/hong-village-walk-1.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/hong-village-walk-1.jpg">
+      <a href="https://farm8.staticflickr.com/7820/32615200498_95c0fea17f_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7820/32615200498_95c0fea17f.jpg">
       </a>
     </div>
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/paddy-fields-5.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/paddy-fields-5.jpg">
+      <a href="https://farm5.staticflickr.com/4830/44670546470_12149f28dd_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm5.staticflickr.com/4830/44670546470_12149f28dd.jpg">
       </a>
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/hong-village-walk-bamboo-plantation.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/hong-village-walk-bamboo-plantation.jpg">
+      <a href="https://farm5.staticflickr.com/4915/46436329822_7a32f6063a_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm5.staticflickr.com/4915/46436329822_7a32f6063a.jpg">
       </a>
     </div>
   </div>
@@ -165,31 +167,31 @@ We found Uncle's relative's place after asking around a bit and checked it out. 
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/paddy-fields-1.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/paddy-fields-1.jpg">
+      <a href="https://farm8.staticflickr.com/7832/46487729021_e68878ca11_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7832/46487729021_e68878ca11.jpg">
       </a>
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/hong-village-walk-2.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/hong-village-walk-2.jpg">
+      <a href="https://farm8.staticflickr.com/7908/45574683355_8ea77d3735_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7908/45574683355_8ea77d3735.jpg">
       </a>
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/hong-village-walk-4.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/hong-village-walk-4.jpg">
+      <a href="https://farm8.staticflickr.com/7860/31547955577_d532448c30_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7860/31547955577_d532448c30.jpg">
       </a>
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/hong-village-walk-5.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/hong-village-walk-5.jpg">
+      <a href="https://farm5.staticflickr.com/4869/46436416562_8b093abc5f_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm5.staticflickr.com/4869/46436416562_8b093abc5f.jpg">
       </a>
     </div>
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/hong-village-walk-6.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/hong-village-walk-6.jpg">
+      <a href="https://farm8.staticflickr.com/7817/45574638305_765c8202c0_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7817/45574638305_765c8202c0.jpg">
       </a>
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/hong-village-walk-7.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/hong-village-walk-7.jpg">
+      <a href="https://farm5.staticflickr.com/4868/31547921627_2d208f8611_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm5.staticflickr.com/4868/31547921627_2d208f8611.jpg">
       </a>
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/hong-village-walk-9.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/hong-village-walk-9.jpg">
+      <a href="https://farm8.staticflickr.com/7923/46436342622_c29f98690e_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7923/46436342622_c29f98690e.jpg">
       </a>
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/hong-village-walk-10.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/hong-village-walk-10.jpg">
+      <a href="https://farm8.staticflickr.com/7923/44670662490_2987cc33b1_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7923/44670662490_2987cc33b1.jpg">
       </a>
     </div>
   </div>
@@ -201,21 +203,21 @@ The festival grounds were still being prepared but we asked permission to check 
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/zfm-festival-grounds-6.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/zfm-festival-grounds-6.jpg">
+      <a href="https://farm5.staticflickr.com/4910/46435701872_f7a783a543_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm5.staticflickr.com/4910/46435701872_f7a783a543.jpg">
       </a>
     </div>
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/zfm-festival-grounds-1.JPG" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/zfm-festival-grounds-1.JPG">
+      <a href="https://farm5.staticflickr.com/4864/46435746802_c811d90f6f_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm5.staticflickr.com/4864/46435746802_c811d90f6f.jpg">
       </a>
     </div>
   </div>
 </div>
 
 <div class="postimg vertimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/zfm-festival-grounds-7.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/zfm-festival-grounds-7.jpg">
+  <a href="https://farm8.staticflickr.com/7802/46435691022_6a6214972e_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm8.staticflickr.com/7802/46435691022_6a6214972e.jpg">
   </a>
   <em>A Promising Setup!</em>
 </div>
@@ -223,8 +225,8 @@ The festival grounds were still being prepared but we asked permission to check 
 More importantly though, we found a few boards right next to the entrance which advertised some guesthouses and homestays in the other direction (Birii village) from which we had come. We noted the names and numbers and made the calls. One of them told us that they had a vacancy and we decided to go check it out. While looking for the place we walked into another building mistaking it for the guesthouse. This was how we accidentally found the place that would host us for the entire duration of the festival and more! This house was being set up by a bunch of friends who were trying out the business for the first time and we willingly agreed to be their first customers. :joy:
 
 <div class="postimg vertimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/guesthouse-1.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/guesthouse-1.jpg">
+  <a href="https://farm8.staticflickr.com/7894/31548259627_2f86cd43b9_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm8.staticflickr.com/7894/31548259627_2f86cd43b9.jpg">
   </a>
   <em>The Accidental Home</em>
 </div>
@@ -239,8 +241,8 @@ The next morning, after breakfast, we bade farewell to our hosts and headed for 
 After the hour long walk to Birii, we came to know that the rooms we had selected on the previous day had been taken by a group that had managed to reach before us. We were offered another room and since it had just as pretty a view of the valley around, we were not really complaining.
 
 <div class="postimg vertimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/guesthouse-view-5.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/guesthouse-view-5.jpg">
+  <a href="https://farm8.staticflickr.com/7923/46488063221_be8a3bd4e4_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm8.staticflickr.com/7923/46488063221_be8a3bd4e4.jpg">
   </a>
   <em>Serene</em>
 </div>
@@ -248,10 +250,10 @@ After the hour long walk to Birii, we came to know that the rooms we had selecte
 We settled in, got ready and left for the festival which was to start later in the afternoon. Parul put on her red gum boots which we had got from Hapoli. I must add here that it did not rain at all and her two boots were of unequal size :joy: For more about the festival, you can read Parul's [post](/post/travel/where-is-north-east/zfm2018/).
 
 <div class="postimg vertimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/zfm-festival-grounds-8.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/zfm-festival-grounds-8.jpg">
+  <a href="https://farm8.staticflickr.com/7907/46487092761_3f44780cf7_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm8.staticflickr.com/7907/46487092761_3f44780cf7.jpg">
   </a>
-  <em>Hello ZFM!</em>
+  <em>Namaste ZFM!</em>
 </div>
 
 The festival was amazing, with the first day being the most mind blowing and the trip slowly fizzling towards the fourth day. At least for us and in terms of music and the experience. What I was looking forward to the most was... well it was **MONO**. But apart from the music, it was the **zero waste** drive that the ZFM was trying to do. Waste reduction and reluctance to use plastic packaging is one thing that Parul and I have been trying to adopt recently with varying degrees of success. I was quite curious as to how a music festival would play it out.
@@ -263,13 +265,13 @@ On a lighter note, we also had a gala time at the guesthouse. The group who had 
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/rum.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/rum.jpg">
+      <a href="https://farm8.staticflickr.com/7841/45763909944_c41a36741c_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7841/45763909944_c41a36741c.jpg">
       </a>
     </div>
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/guesthouse-4.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/guesthouse-4.jpg">
+      <a href="https://farm8.staticflickr.com/7835/46436695722_1c5f1acec7_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7835/46436695722_1c5f1acec7.jpg">
       </a>
     </div>
   </div>
@@ -281,13 +283,13 @@ The festival itself was something quite unlike what I have attended before. It w
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/zfm-festival-grounds-11.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/zfm-festival-grounds-11.jpg">
+      <a href="https://farm8.staticflickr.com/7811/45573856695_8294546a80_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7811/45573856695_8294546a80.jpg">
       </a>
     </div>
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/zfm-festival-grounds-us-2.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/zfm-festival-grounds-us-2.jpg">
+      <a href="https://farm8.staticflickr.com/7828/31547122157_4eedb86969_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7828/31547122157_4eedb86969.jpg">
       </a>
     </div>
   </div>
@@ -295,22 +297,22 @@ The festival itself was something quite unlike what I have attended before. It w
 </div>
 
 <div class="postimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/zfm-sunset-2.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/zfm-sunset-2.jpg">
+  <a href="https://farm5.staticflickr.com/4875/32614263588_9493ae2eb9_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm5.staticflickr.com/4875/32614263588_9493ae2eb9.jpg">
   </a>
   <em>Spectacular Sunsets</em>
 </div>
 
 <div class="postimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/zfm-bands-mono-3.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/zfm-bands-mono-3.jpg">
+  <a href="https://farm5.staticflickr.com/4901/46487360481_2f71497c92_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm5.staticflickr.com/4901/46487360481_2f71497c92.jpg">
   </a>
   <em>MONOmania</em>
 </div>
 
 <div class="postimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/zfm-bands-gauley-2.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/zfm-bands-gauley-2.jpg">
+  <a href="https://farm8.staticflickr.com/7844/46487478211_59faf11bf7_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm8.staticflickr.com/7844/46487478211_59faf11bf7.jpg">
   </a>
   <em>The colourful night stage</em>
 </div>
@@ -323,8 +325,8 @@ The festival ended in four days but we lingered on. One reason was that the Sumo
 We came to know that Ziro has an interesting systen of _panikheti_, as we learnt from our host Opo. The fields have canals and small pools where they rear small fishes. The Apatanis have been doing this traditionally for a long time now and it is only recently that a study proved that this method actually increases the field's fertility and helps keep the crop pest free. To top it, there is the harvest of fish as well.
 
 <div class="postimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/guesthouse-view-2.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/guesthouse-view-2.jpg">
+  <a href="https://farm5.staticflickr.com/4816/46436671072_0905940ce1_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm5.staticflickr.com/4816/46436671072_0905940ce1.jpg">
   </a>
   <em>Panikheti</em>
 </div>
@@ -334,14 +336,14 @@ Twice during my stay at the guesthouse, the kids of the nearby school went out o
 One of the days we walked around the villages on this side of Ziro - Hari and Bulla. The paddy fields were being harvested and the farmers went about their daily chores, used to seeing a occasional tourist stray about.
 
 <div class="postimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/hari-village-walk-1.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/hari-village-walk-1.jpg">
+  <a href="https://farm8.staticflickr.com/7890/32615368878_c99caa0aeb_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm8.staticflickr.com/7890/32615368878_c99caa0aeb.jpg">
   </a>
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/hari-village-walk-2.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/hari-village-walk-2.jpg">
+  <a href="https://farm5.staticflickr.com/4868/46488044591_ca1fb9d327_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm5.staticflickr.com/4868/46488044591_ca1fb9d327.jpg">
   </a>
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/hari-village-walk-3.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/hari-village-walk-3.jpg">
+  <a href="https://farm5.staticflickr.com/4914/44670881250_e9841ecc22_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm5.staticflickr.com/4914/44670881250_e9841ecc22.jpg">
   </a>
   <em>Walking around the villages</em>
 </div>
@@ -351,13 +353,13 @@ On another day, we tried seeing the famous _Shivling_ that had been discovered n
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/guesthouse-2.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/guesthouse-2.jpg">
+      <a href="https://farm8.staticflickr.com/7921/45764473594_70a03082cc_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7921/45764473594_70a03082cc.jpg">
       </a>
     </div>
     <div class="grid-column-50">
-      <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/guesthouse-3.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/guesthouse-3.jpg">
+      <a href="https://farm8.staticflickr.com/7856/45764464134_592c11689b_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://farm8.staticflickr.com/7856/45764464134_592c11689b.jpg">
       </a>
     </div>
   </div>
@@ -367,8 +369,8 @@ On another day, we tried seeing the famous _Shivling_ that had been discovered n
 After two days we bade goodbye to our hosts and friends and exchanged numbers to stay in touch. The Sumo ride back was slightly better since we took a slightly different route to get to North Lakhimpur instead of Naharlagun. This one skipped the _kalamitti_ stretch at the cost of a slightly longer ride on the plains back to Tezpur but we preffered this option to the other.
 
 <div class="postimg vertimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/ride-back.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/ride-back.jpg">
+  <a href="https://farm8.staticflickr.com/7802/44670509450_8dd52c8633_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://farm8.staticflickr.com/7802/44670509450_8dd52c8633.jpg">
   </a>
   <em>Returning to the plains</em>
 </div>
@@ -379,9 +381,6 @@ The driver of the Sumo told me a few more things about this part of Arunachal th
 
 By the time we got to North Lakimpur and took a bus back to Tezpur, I was thinking over and over about how different this land had been from the one where I had been living. It had it's dark sides but had seemed to me in many ways better than the mainland. I was looking forward to seeing more of it in the coming few weeks. We had a month long permit for the state and I was looking to make the most of it.
 
-<div class="postimg">
-  <a href="https://res.cloudinary.com/grasskode/image/upload/images/travel/arunachal/ziro/paddy-fields-5.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://res.cloudinary.com/grasskode/image/upload/w_auto/images/travel/arunachal/ziro/paddy-fields-5.jpg">
-  </a>
-  <em>Enigmatic</em>
-</div>
+Here is the complete album of our Ziro experience.
+
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157674920897397" title="Ziro, September 2018"><img src="https://farm8.staticflickr.com/7872/31548222797_922079fc67.jpg" alt="Ziro, September 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
