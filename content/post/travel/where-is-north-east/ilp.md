@@ -3,8 +3,9 @@ categories = ["travel"]
 tags = ["india", "north_east", "arunachal", "nagaland", "mizoram", "playbook"]
 date = "2018-12-21T23:20:28+05:30"
 title = "Inner Line Permits in North East India"
-image = "https://storage.googleapis.com/grasskode.xyz/images/travel/where-is-north-east/ILP3.jpg"
+image = "https://farm8.staticflickr.com/7927/45586159105_95e6e4f299_c.jpg"
 toc = true
+series = "Where is North East?"
 author = "Karan"
 +++
 

@@ -1,14 +1,17 @@
 baseurl = "http://grasskode.xyz/"
 languageCode = "en-us"
 MetaDataFormat = "toml"
-theme = "robust"
+theme = ["robust"]
 title = "grasskode"
-author = "Karan Gupta"
 copyright = "Copyright (c) 2018, Karan Gupta; some rights reserved."
 canonifyurls = true
 paginate = 8
 preserveTaxonomyNames = true
 enableEmoji = true
+
+[author]
+  name = "Karan Gupta"
+  email = "gupta.karan.11@gmail.com"
 
 [params]
     authors = ["karan", "parul"]

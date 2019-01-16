@@ -1,14 +1,133 @@
-## postimg with lightbox
+## single image
 
 find:
 
+single
 <a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
 
 replace:
 
 <div class="postimg">
   <a href="$1_c.jpg" data-toggle="lightbox">
-    <img src="$1.jpg" alt="$2">
+    <img class="lazy" data-src="$1.jpg">
   </a>
   <em>$2</em>
+</div>
+
+## grid 2x1
+
+find:
+
+grid 2x1
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+
+replace:
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="$1_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$1.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="$3_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$3.jpg">
+      </a>
+    </div>
+  </div>
+  <em>title</em>
+</div>
+
+## grid 2x2
+
+find:
+
+grid 2x2
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+
+replace:
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="$1_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$1.jpg">
+      </a>
+      <a href="$3_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$3.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="$5_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$5.jpg">
+      </a>
+      <a href="$7_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$7.jpg">
+      </a>
+    </div>
+  </div>
+  <em>title</em>
+</div>
+
+## grid 2x5
+
+find:
+
+grid 2x5
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="[\S]*" height="[\S]*" alt="([^"]*)"><\/a><script async src="[\S]*" charset="utf-8"><\/script>
+
+replace:
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="$1_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$1.jpg">
+      </a>
+      <a href="$3_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$3.jpg">
+      </a>
+      <a href="$5_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$5.jpg">
+      </a>
+      <a href="$7_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$7.jpg">
+      </a>
+      <a href="$9_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$9.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="$11_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$11.jpg">
+      </a>
+      <a href="$13_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$13.jpg">
+      </a>
+      <a href="$15_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$15.jpg">
+      </a>
+      <a href="$17_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$17.jpg">
+      </a>
+      <a href="$19_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="$19.jpg">
+      </a>
+    </div>
+  </div>
+  <em>title</em>
 </div>
