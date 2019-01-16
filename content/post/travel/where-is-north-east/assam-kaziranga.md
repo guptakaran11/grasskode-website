@@ -211,9 +211,4 @@ We are almost done with our tour of North East on our bikes. We have loved it a 
 
 Here is a complete album from our time in Kaziranga National Park. Pictures are credited to Karan and me.
 
-<div class="postimg">
-  <a href="https://farm8.staticflickr.com/7844/45586090235_36ff32613c_c_c.jpg" data-toggle="lightbox">
-    <img src="https://farm8.staticflickr.com/7844/45586090235_36ff32613c_c.jpg" alt="Kaziranga, November 2018">
-  </a>
-  <em>Kaziranga, November 2018</em>
-</div>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157705076430895" title="Kaziranga, November 2018"><img src="https://farm8.staticflickr.com/7844/45586090235_36ff32613c_z.jpg" width="640" height="427" alt="Kaziranga, November 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
