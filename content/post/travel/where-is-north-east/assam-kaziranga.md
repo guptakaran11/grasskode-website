@@ -2,7 +2,6 @@
 categories = ["travel"]
 tags = ["india", "biking", "roadtrip", "north_east", "assam", "national_park", "kaziranga", "Rhino"]
 date = "2019-01-16T17:08:25+05:30"
-type = "draft"
 title = "Kaziranga National Park"
 image = "https://farm5.staticflickr.com/4890/45775816934_8285cf0fef_b.jpg"
 toc = true
@@ -11,7 +10,7 @@ author = "Parul"
 
 Kaziranga National Park had been on my list for as long as I can remember. I always wanted to see the Greater Indian one-horned Rhinos. It was ideally supposed to be right after Ziro but due to rains the National park was closed. We made a trip to Kaziranga by the end of November, not long after the opening of the park. Besides being able to visit the park the other excitement was to be back on our bikes. For me it had been a long break since I did Meghalaya in a car before I went home for Diwali. For Karan the break was shorter but it was good to be back on our monsters :heart:.
 
-Loaded with recommendations we left for the national park leaving the comfort and delicious food of my aunt's house yet one more time, it was slowly becoming a base for us in the north east.
+Loaded with recommendations we left for the national park leaving the comfort and delicious food of my aunt's house yet another time, it was slowly becoming a base for us in the north east.
 
 ## Wait, is that a Rhino?
 
@@ -35,7 +34,7 @@ Ruma mausi had recommended Bhuban as one of the best guides to go around with wh
 </div>
 
 
-The Kaziranga animal corridor is a part of the highway that leads to Dibrugarh. Sadly, commuters forget the part that the highway is also an animal corridor and despite there being a countless speed limit warnings of 40kmph no one really paid any attention to it. Almost everybody zoomed past us. There weren't any speed checks as well even when the boards screamed of heavy fines. I guess it is only when you do not have something you realize it's worth, or maybe it's more like who cares about the animals?
+The Kaziranga animal corridor is a part of the highway that leads to Dibrugarh. Sadly, commuters forget that the highway is also an animal corridor and despite there being a countless speed limit warnings of 40kmph no one really paid any attention to it. Almost everybody zoomed past us. There weren't any speed checks as well even when the boards screamed of heavy fines. I guess it is only when you do not have something you realize it's worth, or maybe it's more like who cares about the animals?
 
 We were just discussing this when we saw something in the grassland from the highway. It was a bit far but once we halted it was clear. It took us a while to believe it because well, we were on a highway. The reaction was something like "Wait, What!!!". It was a RHINO! OMG! We had barely entered the park and we spotted our first Greater Indian Rhinoceros :heart:
 
@@ -55,7 +54,7 @@ Kaziranga National park is known for being the habitat for the big 5 : One Horne
   <em></em>
 </div>
 
-For all of the above activities one needs to obtain a permit for the Gypsy and/or the Elephant. The following fee/permits maybe needed:
+For all of the above activities one needs to obtain a permit for the Gypsy and/or the Elephant. The following fee/permits may be needed:
 
 - A day pass to enter the park, which can be used multiple times in a day.
 - A fee for the cameras depending upon the type(Still, Video, Professional Videography).
@@ -85,9 +84,9 @@ A few phone calls were made by Bhuban to see if a morning Elephant safari was po
 
 ## Safari on the Original 4X4
 
-We woke up at 4:30 AM. The Western range was a good 30 mins away from our homestay. We left at 5 AM sharp only to wait at the permit gate till 6 AM. We entered the national park eventually to the boarding area of the elephant only to be stopped by a Rhino crossing the road :joy:. This had got to be the best crossing ever. We were not even ready to click this. We boarded our 40 year old elephant Kanchan along with an elderly couple from Jabalpur and started at around 6:15 AM. We were asked to maintain silence and try to sit at a fixed angle to help Kanchan manage our weights, which we were failing at miserably. The elephants were divided in groups of 5-6 and each group took a different path.
+We woke up at 4:30 AM. The Western range was a good 30 mins away from our homestay. We left at 5 AM sharp only to wait at the permit gate till 6 AM. As we made our way to the elephants, we were asked to stop as a Rhino was crossing through the jungle :joy:. This had got to be the best crossing ever. We were not even ready to click this. We boarded our 40 year old elephant Kanchan along with an elderly couple from Jabalpur and started at around 6:15 AM. We were asked to maintain silence and try to sit at a fixed angle to help Kanchan manage our weights, which we were failing at miserably. The elephants were divided in groups of 5-6 and each group took a different path.
 
-We had barely covered 100m when we spotted our first Rhino. Now, the challenging part about an elephant safari is camera stability. If the elephant is moving it is really hard to get a clear picture :joy:. Usually the mahaut(elephant rider) stops for the customers to take a picture, after all his tip depends on the sightings, but for this one ours wasn't convinced that we should make a stop and he moved on. Having figured out that he won't stop we enjoyed this sighting without our camera. Then without a warning the elephant left the well paved path towards marshy lands. Ofcourse! Elephants are the original 4X4. We had barely gotten over this excitement from Kanchan's maneuvering when we spotted the next Rhino, up close. Very close. This I guess is the biggest advantage of an Elephant safari. Elephants can go really close and Rhino doesn't seem to mind them. This Rhino was beautiful with a perfect backdrop. We were awestruck and so much in love with these creatures. Moving on we saw another bunch of Rhinos grazing nonchalantly.
+We had barely covered 100m when we spotted another Rhino. Now, the challenging part about an elephant safari is camera stability. If the elephant is moving it is really hard to get a clear picture :joy:. Usually the mahaut(elephant rider) stops for the customers to take a picture, after all his tip depends on the sightings, but for this one ours wasn't convinced that we should make a stop and he moved on. Then without a warning the elephant left the well paved path towards marshy lands. Ofcourse! Elephants are the original 4X4. We had barely gotten over this excitement from Kanchan's maneuvering when we spotted the next Rhino, up close. Very close. This I guess is the biggest advantage of an Elephant safari. Elephants can go really close and Rhino doesn't seem to mind them. This Rhino was beautiful with a perfect backdrop. We were awestruck and so much in love with these creatures. Moving on we saw another bunch of Rhinos grazing nonchalantly.
 
 <div class="postimg">
   <a href="https://farm5.staticflickr.com/4890/45775816934_8285cf0fef_c.jpg" data-toggle="lightbox">
@@ -96,7 +95,7 @@ We had barely covered 100m when we spotted our first Rhino. Now, the challenging
   <em>The poser, he did not give a rat's ass about us</em>
 </div>
 
-A little more on the elephant safari feels. The elephant moves without any rush in the world which gives you a lot of time to admire the beauty around. The leisure walk of the elephant kinda forces you to appreciate things at a different pace. While we were on Kanchan the tall grass touched our feet; even when we were atop a full grown elephant. When I looked down to check what was touching my feet I saw how high up we were. The elephants would occasionally pull out this grass and start grazing much to the displeasure of the mahauts :stuck_out_tongue:.
+Kanchan moved without any rush in the world and gave me a lot of time to admire the beauty around. This leisurely walk of the elephants forces one to appreciate things at a different pace. While we were on Kanchan the tall grass touched our feet; even when we were atop a full grown elephant. When I looked down to check what was touching my feet I realised how high up we were. The elephants would occasionally pull out this grass and start grazing much to the displeasure of the mahauts :stuck_out_tongue:.
 
 We progressed at an enjoyable pace to the Dighali Beel(lake-like wetland). We could see a few birds here, the lady from Jabalpur was kind enough to lend her binoculars to us to see some of the birds. We also saw Rhinos grazing across the beel. It had been 40 mins since started and it was time to head back.
 
@@ -134,11 +133,11 @@ We had barely turned our heads after bidding goodbye to this Rhino when we saw a
   <em>Mom and Kids</em>
 </div>
 
-For sure we were coming back in a Gypsy. We had just said this when we met Bhuban who was taking a group of tourists for a safari. We left back for the homestay, had some food and slept to catch up on our sleep.
+For sure we were coming back in a Gypsy. We had just said this when we met Bhuban who was taking a group of tourists for a safari. We told him how we had loved the elephant safari and fixed a time for later that day for our Gypsy safari. We left back for the homestay, had some food and slept.
 
 ## Safari with Bhuban
 
-Bhuban called soon and we fixed 1:30 PM as the time to go back to the Western Range. We were dead asleep when the alarm rang. Bhuban arrived by the time we got ready. It was just going to be the three of us. Bhuban educated us about the success story of the Rhino conservation in India. How a British lady started the move on seeing pugmarks, the political scene around poaching in times of Congress and how the Rhinos are not endangered anymore.
+We were dead asleep when the alarm rang. Bhuban arrived by the time we got ready. It was just going to be the three of us. Bhuban educated us about the success story of the Rhino conservation in India. How a British lady started the move on seeing pugmarks, the political scene around poaching in times of Congress and how the Rhinos are not endangered anymore.
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7875/45796655185_c89bb706ca_c.jpg" data-toggle="lightbox">
