@@ -1,6 +1,6 @@
 +++
 categories = ["travel"]
-tags = ["india", "roadtrip", "north_east", "arunachal"]
+tags = ["india", "biking", "roadtrip", "north_east", "arunachal", "tawang"]
 date = "2019-02-25T19:01:52+05:30"
 title = "Tawang - Peace & Happiness"
 image = "https://farm8.staticflickr.com/7905/40190254313_4ae30164f3_c.jpg"
