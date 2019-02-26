@@ -67,6 +67,8 @@ We rode all the way to Dirang on the first day. After that 20 kilometer stretch 
   <em>Breath of relief</em>
 </div>
 
+Parul managed to entertain as always. On one of the stops, she complained that she smelt something burning. Upon closer inspection, we found out that in her awesomeness, she had packed the Rynox bag wrong and one of it's leg had burnt off against the rear tyre. On further inspection we found that it was not the only thing that had burnt. Parul's white shoes had a burnt off toe now. :laughing: To her credit, she is still sporting the same pair. :stuck_out_tongue_closed_eyes:
+
 There was little in the name of traffic on these roads. An occasional truck or some tourist vehicle; perhaps a military truck or convoy. One thing that stood out was how well behaved all the drivers were out here. Everyone followed proper road discipline. As a motorist, it is a treat to drive in Arunachal. :smile:
 
 We crossed Bomdilla without a second thought. It was on the list of places that were suggested to us but we still had time on our hands and decided to push Bomdilla for the return journey. We pushed ahead to Dirang and got there well before sundown.
@@ -100,7 +102,7 @@ There was some *bandh* in the town so our ration of **Old Monk** took a hit. We 
   <em>Early morning in Dirang</em>
 </div>
 
-The next morning we started early as usual. Around 20 kms from Dirang we reached the Baishakhi canteen. The sun had barely made an appearance till now and we stopped for breakfast and something warm to drink. The Tawang route has a lot of good army run canteens that the civilians can use. It is set up to compensate for the lack of tourist facilities otherwise. We had momos and sat sipping on some tea, waiting for the sun to break out of the clouds. Little did we know that this was the perpetual state of this region.
+The next morning we started early as usual. Around 20 kms from Dirang we reached the Baishakhi canteen. The sun had barely made an appearance till now. Parul had decided to layer up here and it was only once she was shivering that we realised that the temperature out here was 6 degrees! We decided to stop longer for breakfast and something warm to drink. The Tawang route has a lot of good army run canteens that the civilians can use. It is set up to compensate for the lack of tourist facilities otherwise. We had momos and sat sipping on some tea, waiting for the sun to break out of the clouds. Little did we know that this was the perpetual state of this region.
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7807/46494312224_f0f0c56b30_c.jpg" data-toggle="lightbox">
@@ -162,7 +164,7 @@ The road after Sela Pass was somewhat tricky. Broken and turning in U-pins for a
   <em>Respite</em>
 </div>
 
-**Jaswantgarh War Memorial** was our next stop. This is a memorial built in the memory of Jaswant Singh Rawat, a rifleman of Garhwal Rifles who captured an enemy MMG from the Chinesse army in the war of 1962. It was a valourous effort in which Jaswant Singh lost his life and there were many legends surrounding this man's heroics. I am not sure how many of them are true and how many fantasy but they are all surely interesting. Standing at the spot and looking at the mountains all around, it was obvious how important these were to the security of our country.
+**Jaswantgarh War Memorial** was our next stop. This is a memorial built in the memory of Jaswant Singh Rawat, a rifleman of Garhwal Rifles who captured an enemy MMG from the Chinese army in the war of 1962. It was a valourous effort in which Jaswant Singh lost his life and there were many legends surrounding this man's heroics. I am not sure how many of them are true and how many fantasy but they are all surely interesting. Standing at the spot and looking at the mountains all around, it was obvious how important these were to the security of our country.
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7888/47217812031_91ce9d75f9_c.jpg" data-toggle="lightbox">
@@ -342,7 +344,7 @@ There was another reason I had put Zemithang on our route. There was a _stupa_ w
   <em>End of the road</em>
 </div>
 
-There was a certain thrill in having had come this far but we knew that we had lost a lot of time. Part of the road back would have to be negotiated in darkness and neither of us were fans of the idea. We started back at quarter past four and 40 minutes later reached Zemithang again, to the spot where the road diverged back to Tawang. In my mind, somehow, Tawang was supposed to be 35-40 kms from this spot. My heart sunk a little when I saw the signboard pronounce that it was another 85 kilometers away. I had been ready for an hour long drive in the dark. This would be more; much more. We hurried on, eager to lose as little of the precious daylight as possible.
+There was a certain thrill in having had come this far but we knew that we had lost a lot of time. Part of the road back would have to be negotiated in darkness and neither of us were fans of the idea. We started back at quarter past four and 40 minutes later reached Zemithang again, to the spot where the road diverged back to Tawang. In my mind, somehow, Tawang was supposed to be 35-40 kms from this spot. My heart sunk a little when I saw the sign board pronounce that it was another 85 kilometers away. I had been ready for an hour long drive in the dark. This would be more; much more. We hurried on, eager to lose as little of the precious daylight as possible.
 
 Not 5 minutes out of Zemithang on this route, we saw the stupa we had been searching for! The sun had already disappeared behind the mountains and the dusk was setting in. We decided to spend some time admiring the stupa that we had so frantically searched for, which we now learnt was called **Gorsem Chorten**. Since we had to ride back in the dark anyway, another fifteen minutes would no longer matter all that much. The stupa was beautiful and big. We took a complete round around it and Parul, as usual, turned every single prayer wheel. As per her, we needed all the karma and luck we could get.
 
@@ -426,7 +428,7 @@ We ended the evening by watching a documentary on the war which played in an ope
 
 For our last day, we headed to Chakzam bridge. Chakzam Lama had, almost 600 years ago, connected the valleys using metal chains. A few of these old bridges still remain although many of the old metal chains have been claimed by the valleys. However, they are still free of rust, a metallurgical miracle similar to the Asoka Stambha in the Qutub Complex. Perhaps the people then just had the patience to do things right rather than hurry and make things that they knew were not perfect.
 
-The ride to the bridge was through small roads with flowers on either side. The rice fields had already been harvested and the villagers were busy loading the trucks. We reached the bridge and saw another new one constructed right next to it. But we chose to cross by the wobbly Chakzam bridge. It was a funny affair to begin with but we got used to the movement of the chains. Bamboo and iron meshes provided a walkable surface and we were soon walking with ease and dab'ing on the bridge. :tongue_stuck_out:
+The ride to the bridge was through small roads with flowers on either side. The rice fields had already been harvested and the villagers were busy loading the trucks. We reached the bridge and saw another new one constructed right next to it. But we chose to cross by the wobbly Chakzam bridge. It was a funny affair to begin with but we got used to the movement of the chains. Bamboo and iron meshes provided a walkable surface and we were soon walking with ease and dab'ing on the bridge. :stuck_out_tongue:
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7873/46431814384_055409ec6c_c.jpg" data-toggle="lightbox">
@@ -497,10 +499,10 @@ We rode to the **Thembang Village** next. It was a little farther and the road t
       </a>
     </div>
   </div>
-  <em>title</em>
+  <em>Road to Thembang</em>
 </div>
 
-Thembang is a fortified village on top of the mountain and a UNESCO world heritage site. It was interesting to see how the villagers here lived, walled away from the hustle and advances of civilization barely a few kilometers away.
+Thembang is a fortified village on top of the mountain and a tentative UNESCO world heritage site. It was interesting to see how the villagers here lived, walled away from the hustle and advances of civilization barely a few kilometers away.
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7843/46241041645_9241b1aacf_c.jpg" data-toggle="lightbox">
@@ -519,6 +521,6 @@ The next morning we left Dirang for Guwahati, skipping Bomdilla yet again. The d
 
 Back on the plains, we were reminded of the woes of population and civilization. Honking buses and rash taxis. It left us a little flustered since we had gotten used to disciplined driving. :expressionless: Cribbing, we made our way back to Guwahati, to a home we were getting used to.
 
-Here is the complete album of our Ziro experience.
+Here is the complete album from our road trip to Tawang.
 
 <a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157705426450971" title="Tawang, October 2018"><img src="https://farm8.staticflickr.com/7814/33280016368_ebd86165d5.jpg" alt="Tawang, October 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
