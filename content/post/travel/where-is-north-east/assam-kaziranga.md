@@ -4,6 +4,7 @@ tags = ["india", "biking", "roadtrip", "north_east", "assam", "national_park", "
 date = "2019-01-16T17:08:25+05:30"
 title = "Kaziranga National Park"
 image = "https://farm5.staticflickr.com/4890/45775816934_8285cf0fef_b.jpg"
+series = "Where is North East?"
 toc = true
 author = "Parul"
 +++
