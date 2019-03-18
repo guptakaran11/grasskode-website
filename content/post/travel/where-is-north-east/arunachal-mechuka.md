@@ -13,7 +13,7 @@ After wrapping up an amazing [Kaziranga](/post/travel/where-is-north-east/assam-
 
 ## The Other Side
 
-We had not prepared just as well this time for Arunachal. I had completely forgotten about the need of an ILP and the online service had not come through at the last minute since it was a weekend (or so I think). So a day was lost in getting an ILP made the old way, visiting a government office in Jorhat, producing photocopies of our driving licence and vehicle registration, digging up our wallets for old photographs and finally finding out that the ILP was nowhere as flexilble as the one online; we would be granted entry only to one district and that too for just a week. :expressionless:
+We had not prepared just as well this time for Arunachal. I had completely forgotten about the need of an ILP and the online service had not come through at the last minute since it was a weekend (or so I think). So a day was lost in getting an ILP made the old way, visiting a government office in Jorhat, producing photocopies of our driving license and vehicle registration, digging up our wallets for old photographs and finally finding out that the ILP was nowhere as flexible as the one online; we would be granted entry only to one district and that too for just a week. :expressionless:
 
 We gathered the ILP but we had lost a precious couple of hours in the process. We raced to the Bogibeel ghat and while the final touches to the Bogibeel bridge were underway, we roamed around under it listening to boatsmen quote unreal prices for ferrying us across the river. The last "line" ferry (shared ferry) had departed for the day and we were unable to locate the ghat in the darkness. A policeman came along to enquire what we were up to. The prime minister was to inaugurate the bridge in a few days and he was keeping an eye out for miscreants. He adviced us to come back the following morning and we decided to heed him since there was little option left.
 
@@ -62,7 +62,7 @@ On the other side, at Kareng Ghat, I got the bikes off board again and then we s
   <em>The other side</em>
 </div>
 
-Then we continued onwards, enquiring about the road to Basar which would have been a shorter approach to Aalo. Since no one seemed to be sure whether the road had been completed or not, we decided to stick to the original plan and headed towards Pasighat. We reached the gate into Arunachal at Jonai. It was barely a barrier but I stopped anyway and asked the police officer.
+Then we continued onwards, inquiring about the road to Basar which would have been a shorter approach to Aalo. Since no one seemed to be sure whether the road had been completed or not, we decided to stick to the original plan and headed towards Pasighat. We reached the gate into Arunachal at Jonai. It was barely a barrier but I stopped anyway and asked the police officer.
 
 "Is this where we need to get the ILPs checked?"
 
@@ -72,7 +72,7 @@ Then we continued onwards, enquiring about the road to Basar which would have be
 
 "Go on then." he waved us on and went inside his cabin.
 
-Dafuq! The ILP we had lost a day in procuring had not even been checked by the policeman. Confused, we went ahead and refuelled on the cheap Arunachal petrol. By late afternoon we entered Pasighat, located next to the beautiful Siang. My random Google exploration had found a pretty homestay and we decided to check it out. We liked the property so much that we instantly decided to spend an extra day there. It was slightly on the pricier side but it was oh so pretty! :heart:
+_Dafuq!_ The ILP we had lost a day in procuring had not even been checked by the policeman. Confused, we went ahead and refuelled on the cheap Arunachal petrol. By late afternoon we entered Pasighat, located next to the beautiful Siang. My random Google exploration had found a pretty homestay and we decided to check it out. We liked the property so much that we instantly decided to spend an extra day there. It was slightly on the pricier side but it was oh so pretty! :heart:
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7846/40321219213_d881e0e977_c.jpg" data-toggle="lightbox">
@@ -106,7 +106,7 @@ Dafuq! The ILP we had lost a day in procuring had not even been checked by the p
 
 ## Arunachal Again
 
-After spending two days in Pasighat doing little but idling, eating and arguing with the money minded proprietess of the homestay, we left in the direction of Aalo. The departure was somewhat delayed since Parul and I had felt a wobble in Typhon's rear tyre the evening before. My preliminary analysis said that the tyre's threading was a little off and the next morning I went looking for a mechanic to reset the tyre. I found a nail in the tyre as well but miraculously it had gotten stuck sideways and had not pierced the tube. I was hating the new tyre already. I had gotten it installed after Meghalaya and this **MRF Zapper C** was just as bad as the stock installed one. Guwahati was low on choices so I could not find my preferred **Michellin Sirac Sport** but I was now mentally in dread of the new tyre. :grimacing:
+After spending two days in Pasighat doing little but idling, eating and arguing with the money minded proprietress of the homestay, we left in the direction of Aalo. The departure was somewhat delayed since Parul and I had felt a wobble in Typhon's rear tyre the evening before. My preliminary analysis said that the tyre's threading was a little off and the next morning I went looking for a mechanic to reset the tyre. I found a nail in the tyre as well but miraculously it had gotten stuck sideways and had not pierced the tube. I was hating the new tyre already. I had gotten it installed after Meghalaya and this **MRF Zapper C** was just as bad as the stock installed one. Guwahati was low on choices so I could not find my preferred **Michelin Sirac Sport** but I was now mentally in dread of the new tyre. :grimacing:
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7821/32343980637_4a1294543a_c.jpg" data-toggle="lightbox">
@@ -124,7 +124,7 @@ We headed out of Pasighat by 11 AM or so, late by our standards but still with e
   <em>Ifrit completed her 10k somewhere on the way</em>
 </div>
 
-We stopped somewhere midway for a late breakfast / early lunch. The _dhaba_ already had it's patrons by the time we entered. One of them was a middle aged man who sat sipping his can of beer with the helmet still on. During the lunch more interesting people walked into the small shop. One of them carried a rifle on his back and a _dao_(machette) on his waist! He made polite conversation with us and the beer sipping man gave us useful time estimates. But our minds were preoccupied with the beer and the rifle. This was the first time that we were witnessing this in Arunachal and eventually it would become a common sight. Hunting, despite being officially banned, was still common in these parts. Hence the rifle. And beer... well, alcohol is cheap in Arunachal. :stuck_out_tongue:
+We stopped somewhere midway for a late breakfast / early lunch. The _dhaba_ already had it's patrons by the time we entered. One of them was a middle aged man who sat sipping his can of beer with the helmet still on. During the lunch more interesting people walked into the small shop. One of them carried a rifle on his back and a _dao_(machete) on his waist! He made polite conversation with us and the beer sipping man gave us useful time estimates. But our minds were preoccupied with the beer and the rifle. This was the first time that we were witnessing this in Arunachal and eventually it would become a common sight. Hunting, despite being officially banned, was still common in these parts. Hence the rifle. And beer... well, alcohol is cheap in Arunachal. :stuck_out_tongue:
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7846/47233678262_f41a539827_c.jpg" data-toggle="lightbox">
@@ -133,7 +133,7 @@ We stopped somewhere midway for a late breakfast / early lunch. The _dhaba_ alre
   <em>Lunch point</em>
 </div>
 
-The last 20 kilimeters from Pangin to Aalo were the worst of the day. There had been no tar on the road for quite a while now but at least it was mostly plane. This stretch was made of mounds of muds and the depressions that linked them. :expressionless: It took us an hour to negotiate this stretch and at the end of it we were so flustered that we stopped for a break right before hitting Aalo. The scenes though, were just as beautiful as ever.
+The last 20 kilometers from Pangin to Aalo were the worst of the day. There had been no tar on the road for quite a while now but at least it was mostly plane. This stretch was made of mounds of muds and the depressions that linked them. :expressionless: It took us an hour to negotiate this stretch and at the end of it we were so flustered that we stopped for a break right before hitting Aalo. The scenes though, were just as beautiful as ever.
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7848/47233677402_c301a35725_c.jpg" data-toggle="lightbox">
@@ -182,7 +182,7 @@ We stopped for a bit to take pictures and curious locals gathered around us. Par
   <em>Local celebrity :stuck_out_tongue_closed_eyes:</em>
 </div>
 
-We were warned that we wouldn't get anything to eat further ahead but since we were not really hungry, we moved on and reached Tato a little past mid noon. Since we had not broken fast all day and were understandably starving, we decided to break for an early lunch. While having the standard rice plate, a group of army men approached us, expressing the usual curiosities. They were on their way back to their cantontment. They told us that they had cycled with Salman Khan the previous day. Salman Khan had come to inaugurate the Mechuka Adventure Festival the day before and we had heard people express regret at us not having reached a day earlier all the way. Not that we were any crazy about Salman or the festival but it seemed like a major event for the entire valley.
+We were warned that we wouldn't get anything to eat further ahead but since we were not really hungry, we moved on and reached Tato a little past mid noon. Since we had not broken fast all day and were understandably starving, we decided to break for an early lunch. While having the standard rice plate, a group of army men approached us, expressing the usual curiosities. They were on their way back to their cantonment. They told us that they had cycled with Salman Khan the previous day. Salman Khan had come to inaugurate the Mechuka Adventure Festival the day before and we had heard people express regret at us not having reached a day earlier all the way. Not that we were any crazy about Salman or the festival but it seemed like a major event for the entire valley.
 
 The road continued much the same way after Tato. I was starting to wonder why people had recommended Mechuka so highly to us. The valley was beautiful but not anything exceptional given what we had already seen in Arunachal. But I would not realise the reason until we actually reached Mechuka. Right after a turn on the road we were forced to stop and admire the beauty of the valley we had just entered.
 
@@ -204,7 +204,7 @@ The road continued much the same way after Tato. I was starting to wonder why pe
 
 Mechuka is an unexpected stretch of flat land cradled between the mountains. The meadows give it a very contrasting beauty from the green valleys and here in lies its charm. The pleated mountains were mostly golden in colour due to the dry grass cover and tallest ones were capped with snow. The vast expanses were dotted with clusters of huts and a river flowed through the setting. It was, for the lack of a more appropriate word, magical.
 
-We entered the Tourist Lodge to ask for availability. Of course they did not have anything available since the festival was going on. The valley was full of tents and the homestays were already pre-booked. But we thought we'd try our luck anyway. The manager confirmed our suspicions but he told us to follow him. We rode behind his car to the other side of the town where he took us to his home. A beautiful place and he offered us a room at a reasonable rate. How could we refuse!
+We entered the Tourist Lodge to ask for availability. Of course they did not have anything available since the festival was going on. The valley was full of tents and the homestays were already booked. But we thought we'd try our luck anyway. The manager confirmed our suspicions but he told us to follow him. We rode behind his car to the other side of the town where he took us to his home. A beautiful place and he offered us a room at a reasonable rate. How could we refuse!
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7866/32343960217_0dc74503d9_c.jpg" data-toggle="lightbox">
@@ -247,13 +247,13 @@ The next morning we took out the bike and went in the direction of the _Gurudwar
   <em>Sceneries</em>
 </div>
 
-There was a cave in here that was used by Guru Nanak for meditation. Legend has it that Guru Nanak, on his way to Tibet, had halted here. He used to meditate near the river and once when he and his disciple were deep in trance a bear had tried to attack them. THe cave had swallowed the figures of Nanak and his disciple and the impressions can still be seen in the caves roof.
+There was a cave in here that was used by Guru Nanak for meditation. Legend has it that Guru Nanak, on his way to Tibet, had halted here. He used to meditate near the river and once when he and his disciple were deep in trance a bear had tried to attack them. The cave had swallowed the figures of Nanak and his disciple and the impressions can still be seen in the caves roof.
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7891/47233665672_d469b57308_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://farm8.staticflickr.com/7891/47233665672_d469b57308.jpg">
   </a>
-  <em>Entrance to the Taposthal</em>
+  <em>Entrance to Taposthal</em>
 </div>
 
 As I parked the bike, a man came up to us and started talking. He was reeking of alcohol and informed us that he and his friend had spent the night hunting in the jungle nearby. They had guns in the car, the numbers of which he specified for some reason. Anywhere else in the country, I would have probably braced for confrontation. But this was Arunachal so I decided to take it a little easy. We entered the path to the cave and looked around. There was a flight of steps going down to the stream and we took it. Here in was a crack in the rock and a group leaving this place told me to go through it. It seemed quite narrow but I went in anyway. The other side came out to the stream. Apparently this was the same route taken by Nanak. Another local myth says that only the pure of heart can pass through this crack in the cave. A person of impure heart, no matter how thin, would fail to cross it. I would say that claustrophobia might be a more important consideration.
@@ -305,7 +305,7 @@ Parul was next and she picked up a white one as well. The man was in utter disbe
   <em>Utter disbelief!</em>
 </div>
 
-Our drunken companions then pointed to another path and told us to follow it to a waterfall, wished us good luck and went back out. Anywhere else in the country, this story would not have ended so peacefullyor abruptly. But this was Arunachal! The drunk guys just wanted to show off their land like anyone else. :smile: The waterfall turned out to be a small one. There is yet another legend that the water here is always warm, no matter what the season. Not that we tested. We wandered on more random paths in the area, clicked some photographs and finally went back to our bike.
+Our drunken companions then pointed to another path and told us to follow it to a waterfall, wished us good luck and went back out. Anywhere else in the country, this story would not have ended so peacefully or abruptly. But this was Arunachal! The drunk guys just wanted to show off their land like anyone else. :smile: The waterfall turned out to be a small one. There is yet another legend that the water here is always warm, no matter what the season. Not that we tested. We wandered on more random paths in the area, clicked some photographs and finally went back to our bike.
 
 <div class="postimg">
   <div class="grid">
@@ -323,7 +323,7 @@ Our drunken companions then pointed to another path and told us to follow it to 
   <em>Wandering on random paths</em>
 </div>
 
-The Gurudwara was a little ahead and we went in there next. It was here that we learnt about many of the myths and stories regarding the area and Guru Nanak. The "lucky stone" and warm-warter-waterfall were understandably myths. However, the local monks considered Guru Nanak as one of their Lamas! This came as news to me. The _sardarji_ inside the gurudwara also told us about how Guru Nanak had travelled to a lot of places around India and was known by different names in these countries. I started thinking of how much of Nanak's knowledge might have been acquired because of this travelling. It was interesting to think that in those days, without much of the modern travel conveniences, some had been so determined to travel as to traverse all kinds of landscapes.
+The Gurudwara was a little ahead and we went in there next. It was here that we learnt about many of the myths and stories regarding the area and Guru Nanak. The "lucky stone" and warm-water-waterfall were understandably myths. However, the local monks considered Guru Nanak as one of their Lamas! This came as news to me. The _sardarji_ inside the Gurudwara also told us about how Guru Nanak had travelled to a lot of places around India and was known by different names in these countries. I started thinking of how much of Nanak's knowledge might have been acquired because of this travelling. It was interesting to think that in those days, without much of the modern travel conveniences, some had been so determined to travel as to traverse all kinds of landscapes.
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7867/32343972027_cce6eb83c5_c.jpg" data-toggle="lightbox">
@@ -341,7 +341,7 @@ We had a modest lunch at the _langar_ and then headed ahead to check out how clo
   <em>Another close shave with the border</em>
 </div>
 
-We ran into the Roing gang once again on the way back and then sought out the Hanuman face together. It was an abberation on the cliff on the other side that resembled the features of the monkey god. One of the guys even had a binocular that we used to get a closer look. Eventually, we started spotting more abberations that resembled monkeys or men or anything else you could possibly imagine. The faces of Hanuman did not exist on the cliffs on the mountains but in the imagination of men. Given enough time and unreigned imagination, one could see and feel anything he wanted to!
+We ran into the Roing gang once again on the way back and then sought out the Hanuman face together. It was an aberration on the cliff on the other side that resembled the features of the monkey god. One of the guys even had a binocular that we used to get a closer look. Eventually, we started spotting more aberrations that resembled monkeys or men or anything else you could possibly imagine. The faces of Hanuman did not exist on the cliffs on the mountains but in the imagination of men. Given enough time and freedom of imagination, one could see and feel anything he wanted to!
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7912/32343993567_139f0a798e_c.jpg" data-toggle="lightbox">
@@ -379,7 +379,7 @@ We ran into the Roing gang once again on the way back and then sought out the Ha
   <em>Scenes from the road on Day 1</em>
 </div>
 
-Back in Mechuka, we went to out favourite food joint, Snowland, for a hot plate of momos. The old couple running the place were happy and warm. Of course the food foolowed suit. Post dinner we hung out in the homestay living room. The warm stove and the butter tea made for many interesting conversations with fellow inhabitants. We talked to some who had come from Itanagar to see the festival. One particular lady was in charge of Arunachal's tourism department and we discussed our observations of Arunachal's tourism, reality versus potential. The girls of the family whose home we were staying in were fun to talk to as well. The Mechuka Adventure Festival was something they looked forward to every year. An excuse to party! :joy:
+Back in Mechuka, we went to out favourite food joint, Snowland, for a hot plate of momos. The old couple running the place were happy and warm. Of course the food followed suit. Post dinner we hung out in the homestay living room. The warm stove and the butter tea made for many interesting conversations with fellow inhabitants. We talked to some who had come from Itanagar to see the festival. One particular lady was in charge of Arunachal's tourism department and we discussed our observations of Arunachal's tourism, reality versus potential. The girls of the family whose home we were staying in were fun to talk to as well. The Mechuka Adventure Festival was something they looked forward to every year. An excuse to party! :joy:
 
 <div class="postimg">
   <div class="grid">
@@ -522,7 +522,7 @@ We left early the next morning. The drill was all too familiar now but we waited
 
 Slightly late, we rode out of Mechuka and just as suddenly as it had appeared, it vanished, giving way to the familiar green valley of Siam. We rode all the way till Siko Dido Waterfalls, where we stopped for breakfast.
 
-We were making good time so we stretched all the way till Aalo. While refuelling right before the town, we enquired availbility in the homestay that had been suggested to us by a fellow traveller while we were staying in Pasighat. They had a room available so we went there. It was nightfall by the time we reached and the place was a little away from the main town. We had thought of staying there for a day and be out by the next morning. We ended up staying there three nights. [Reyi Homestay](https://www.facebook.com/reyihomestay/) is a beautiful property surrounded by green hills and fields.
+We were making good time so we stretched all the way till Aalo. While refuelling right before the town, we enquired availability in the homestay that had been suggested to us by a fellow traveller while we were staying in Pasighat. They had a room available so we went there. It was nightfall by the time we reached and the place was a little away from the main town. We had thought of staying there for a day and be out by the next morning. We ended up staying there three nights. [Reyi Homestay](https://www.facebook.com/reyihomestay/) is a beautiful property surrounded by green hills and fields.
 
 <div class="postimg">
   <div class="grid">
@@ -564,7 +564,7 @@ It was Parul's monthly break from riding so I also took the opportunity to get s
   <em>Maintenance rituals</em>
 </div>
 
-One of the days we also went on a tour of the nearby villages and came to the conclusion that neither these villages hold much charm for us as Indians nor did we inspire much curiosity in the villagers. But apart from this, there were the very interesting dinner time conversations with fellow travellers, aided by black Apong (a speciality of the proprietess). Some were Indians and others foreigners on their _nth_ trip to India. We came to know how these guided cultural tours are big in the North Eastern states and even the guides were quite interesting personalities.
+One of the days we also went on a tour of the nearby villages and came to the conclusion that neither these villages hold much charm for us as Indians nor did we inspire much curiosity in the villagers. But apart from this, there were the very interesting dinner time conversations with fellow travellers, aided by black Apong (a specialty of the proprietress). Some were Indians and others foreigners on their _nth_ trip to India. We came to know how these guided cultural tours are big in the North Eastern states and even the guides were quite interesting personalities.
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7820/47285738861_df07e7de6c_c.jpg" data-toggle="lightbox">
