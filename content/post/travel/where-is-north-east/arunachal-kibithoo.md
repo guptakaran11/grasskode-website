@@ -7,7 +7,6 @@ image = "https://live.staticflickr.com/65535/32702612687_140ce436b0_c.jpg"
 series = "Where is North East?"
 toc = true
 author = "Karan"
-type = "draft"
 +++
 
 It was cosy at Reyi and would have liked nothing better than to continue for a few more days in a similar fashion - relaxing through the day and working on our blogs, and sitting by the fireside in the evening sharing stories with fellow travellers over some _apong_. But we pulled ourselves out of our comfort zones on the fourth morning and strapped on the bags on our respective bikes. Our target was to reach Roing by the evening. Little did we know how eventful the day was to be.
