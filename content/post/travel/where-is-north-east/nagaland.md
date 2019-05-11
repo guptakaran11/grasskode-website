@@ -103,18 +103,6 @@ We learnt that the curfew was from 5 AM to 5 PM the next day. This meant we coul
 
 It was Karan's birthday today. Happy with the thought of leaving the city of despair to celebrate it in Kohima, we left around 11 AM after we made a funny video for the moment on this song :crown:.
 
-<div class="postimg">
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/40853546983/in/album-72157690460112743/"" title="Sukanya Ramgopal"><img src="https://live.staticflickr.com/31337/40853546983_9ca6bb21c4_z.jpg" alt="Sukanya Ramgopal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  <em>VIDEO : Sukanya Ramgopal</em>
-</div>
-
-<div class="postimg">
-  <a href="https://live.staticflickr.com/31337/40853546983_ef5db010b2_o_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/31337/40853546983_ef5db010b2_o.jpg">
-  </a>
-  <em>Dont stop me now</em>
-</div>
-
 <div class="postimg vertimg">
   <a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/40853546983/in/album-72157690460112743/" title="Dont stop me now"><img src="https://live.staticflickr.com/31337/40853546983_9ca6bb21c4_z.jpg" alt="Dont stop me now"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   <em>VIDEO : Don't stop me now :crown:</em>
