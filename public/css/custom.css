@@ -152,6 +152,22 @@ article.single .article-body a {
   width: auto;
 }
 
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 80%;
+    height: 95%;
+}
+
 .borderedimg img {
   padding: 0.2rem;
   border: 1.5px solid #021a40;
