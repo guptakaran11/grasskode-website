@@ -103,15 +103,15 @@ We learnt that the curfew was from 5 AM to 5 PM the next day. This meant we coul
 
 It was Karan's birthday today. Happy with the thought of leaving the city of despair to celebrate it in Kohima, we left around 11 AM after we made a funny video for the moment on this song :crown:.
 
-<div class="postimg vertimg">
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/40853546983/in/album-72157690460112743/" title="Dont stop me now"><img src="https://live.staticflickr.com/31337/40853546983_9ca6bb21c4_z.jpg" alt="Dont stop me now"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="postimg video-container">
+  <iframe src="https://player.vimeo.com/video/335635545" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   <em>VIDEO : Don't stop me now :crown:</em>
 </div>
 
 It wasn't very far, only 70 kms! A million people had warned us how bad the road was. What was surprising was everyone said it very nonchalantly. A few said it in a way which was more like we didn't know what were in for. It took us an hour to get out of the standstill traffic of Dimapur, thank god we were on bikes. Soon we were on the highway(to hell) :stuck_out_tongue:. The traffic thinned out shortly and the hilly region started. With each passing car there was a smoke of dust which reduced the visibility to zero. There was one point when Karan who was riding just 20m ahead of me was not visible anymore because of the thick cloud of dust. I tried to brake to see where I was going and as soon as I braked I skid only to realise I was on thick gravel, thankfully my bike rebalanced itself. I cursed angrily. We got a short patch of tarred road and decided to stop for a break and vent out our feelings. I jokingly dusted off my riding jacket and with the whiff of dust flew off. It was time to sing "Another one bites the dust" now.
 
-<div class="postimg vertimg">
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/46903683445/in/album-72157690460112743/" title="Another one bites the dust"><img src="https://live.staticflickr.com/31337/46903683445_f543fdf369_z.jpg" alt="Another one bites the dust"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="postimg video-container">
+  <iframe src="https://player.vimeo.com/video/335635534" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   <em>VIDEO : Another one bites the dust :crown:</em>
 </div>
 
