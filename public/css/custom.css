@@ -163,7 +163,7 @@ article.single .article-body a {
 .video-container iframe {
     position: absolute;
     top:0;
-    left: 0;
+    left: 10%;
     width: 80%;
     height: 95%;
 }
