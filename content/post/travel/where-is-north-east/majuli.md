@@ -12,12 +12,19 @@ type = "draft"
 
 We had reached Guwahati after officially ending this spell of our biking in the North Eastern states. A lot many plans had been cooked up en route, almost on a daily basis. We had gotten a little tired of the mountains, the rickety roads and the repetitive scenery. A beach holiday had been discussed many a times but then there was also the peninsula trip I wanted to do and somewhere we had this feeling of wanting to complete the seven sisters and possibly their younger brother. Then there was Bhutan as well, the original reason why we had ventured into this part of the country. In the midst of all this confusion, the only certainty was that we would be getting out the North East, at least for the time being. We prepared for the final leg of the journey in our home away from home in Guwahati. We got our bikes repaired; kicked back and enjoyed the New Year eve with Ruma Masi, Gautam Da, Ajay, Roopali, Rio and Pakhi; cooked and drank; did everything "normal" that we had been missing dearly on our extended road trip.
 
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/48050230897_3aa8b94aa5_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/48050230897_3aa8b94aa5.jpg">
+  </a>
+  <em>At Home in Guwahati</em>
+</div>
+
 
 ## The River Island
 
 The initial plan to visit Manas National Park for the New Year got cancelled indefinitely because of various reasons. So, in the face of Parul's insistence, we decided to go visit Majuli, a river island which is famed as Assam's cultural hub. It is a river island that is constantly losing land area to the mighty Bramhaputra. To be honest, I had been pushing Majuli out of our list for the longest of time. For me, Assam was just about tea-estates, tea-factories, cities and everything mundane that one associates with the plains. I was not sure of what we would find in Majuli but I was skeptical about it's impressiveness. But this time around I had no excuse or better option to throw around. So we booked a train ticket to Jorhat and left Guwahati on the night of the 1st of January, 2019. This was to be our first official holiday of the new year.
 
-The train ride was quite convenient. It would bring us to Jorhat early on the following morning and then we had to arrange for a ferry to Majuli. Trains are my favourite way to travel in India. Over the years the social factor of train rides has been rapidly declining due to the convenience of smartphones but you still manage to find friendly neighbours if you are lucky enough. The middle aged couple next to us asked us where we were going to. They thought we were students in Guwahati which we denied and then told them about our travels in the North Eastern states. One of the younger guys in the compartment who had been hearing the conversation took up the onus from there on. He asked us what we planned to do in Majuli and where we planned on staying. Upon learning that we had made no booking, he gave me the number of a friend who owned some bamboo cottages on the island. I thanked him but then he pushed his phone towards me. He had called up the guy at the late hour and I talked on the phone confirming our approximate time of arrival and asking the rough budget for the cottage. It's funny how things work out for you when you place your faith the randomness of unpreparedness and the good nature of strangers. But I guess it's a very South Asian thing because we tried doing it in Budapest recently and it did not work out too well :grimacing:
+The train ride was quite convenient. It would bring us to Jorhat early on the following morning and then we had to arrange for a ferry to Majuli. Trains are my favourite way to travel in India. Over the years the social factor of train rides has been rapidly declining due to the convenience of smartphones but you still manage to find friendly neighbours if you are lucky enough. The middle aged couple next to us asked us where we were going to. They thought we were students in Guwahati which we denied and then told them about our travels in the North Eastern states. One of the younger guys in the compartment who had been hearing the conversation took up the onus from there on. He asked us what we planned to do in Majuli and where we planned on staying. Upon learning that we had made no booking, he gave me the number of a friend who owned some bamboo cottages on the island. I thanked him but then he pushed his phone towards me. He had called up the guy at the late hour and I talked on the phone confirming our approximate time of arrival and asking the rough budget for the cottage. It's funny how things tend to work out when you are willing to risk unpreparedness and place your faith in the good nature of strangers. But I guess it's a very South Asian thing because we tried doing it in Budapest recently and it did not work out too well :grimacing:
 
 The following morning we were at Jorhat, a bit too early for the town to have woken up. A couple of stuffed auto rides later we found ourselves at the Nimati Ghat.
 
@@ -28,7 +35,7 @@ The following morning we were at Jorhat, a bit too early for the town to have wo
   <em>Early Morning Ride to the Ghat</em>
 </div>
 
-A boat was filling up to tow passengers and vehicles to Kamalabari - the ghat on Majuli, and we joined the queue for the ticket. Backpacking felt bittersweet after the months of motorbiking. Transportation had suddenly become a huge deal while it was the least of our concerns just a while ago. We did gain agility though and the amazing ability of travelling overnight. I was looking forward to the break since it had been a while but as of now, I would have been completely content spending these days sitting in a cafe in some lane of Guwahati. But then Parul had **insisted**.
+A boat was filling up to tow passengers and vehicles to Kamalabari - the ghat on Majuli, and we joined the queue for the ticket. Backpacking felt bittersweet after all these months of motorbiking. Transportation had suddenly become a huge deal while it was the least of our concerns just a while ago. We did gain agility though and the amazing ability of travelling overnight. I was looking forward to the break since it had been a while but as of now, I would have been completely content spending these days sitting in a cafe in some lane of Guwahati. But then Parul had **insisted**.
 
 The ferry ride took a while and was mostly uneventful. We saw something move in the water that we now think was a dolphin but we can not be sure. However, we like to think it was a dolphin so a dolphin it was. :dolphin:
 
@@ -198,7 +205,7 @@ While the Ygdrasill Cottage was a perfect enough location to click through the d
   <em>Map of Satras</em>
 </div>
 
-These _satras_ are monastries which practice their own traditions and studies. They are responsible for keeping the culutre of the island alive and the reason why Majuli is credited with being the cultural capital of Assam. We saw a few _satras_ which were spread across the island. They were quite interesting. There was a small one with mask making tradition that we enjoyed a lot. Their masks are rented by drama troupes performing Ramayana all over the country.
+These _satras_ are monasteries which practice their own traditions and studies. They are responsible for keeping the culture of the island alive and the reason why Majuli is credited with being the cultural capital of Assam. We saw a few _satras_ which were spread across the island. They were quite interesting. There was a small one with mask making tradition that we enjoyed a lot. Their masks are rented by drama troupes performing Ramayana all over the country.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48046257563_05dd9d3818_c.jpg" data-toggle="lightbox">
@@ -223,7 +230,7 @@ These _satras_ are monastries which practice their own traditions and studies. T
   <em>The Art of Making and Wearing Masks</em>
 </div>
 
-Then there were other bigger ones with massive setups, libraries, temples, ritual halls, ponds and more. The evening prayers and rituals by the monks are something that these _satras_ are known for. However, we did not stay late enough to watch any of those.
+Then there were the big ones - Auniati and Dakhinpat, with massive setups, libraries, temples, ritual halls, ponds and more. The evening prayers and rituals by the monks are something that these _satras_ are known for. However, we did not stay late enough to watch any of those.
 
 <div class="postimg">
   <div class="grid">
@@ -318,7 +325,7 @@ On one such stop a young man came up to me to get his picture clicked. I happily
   <em>:man:</em>
 </div>
 
-We also saw some amazing sunsets during our stay on the river island. The skies were clear and every evening the western skies would paint itself in a pallate of vibrant colours.
+We also saw some amazing sunsets during our stay on the river island. The skies were clear and every evening the western skies would be painted in a palette of vibrant colours.
 
 <div class="postimg">
   <div class="grid">
@@ -342,7 +349,7 @@ We also saw some amazing sunsets during our stay on the river island. The skies 
   <em>Sunsets</em>
 </div>
 
-We usually grabbed went to one of the adjoining towns for lunch. Assamese food is one of my favourite cuisines by now (I love rice!) and the dollops of hospitality that it is served with adds to the flavour.
+We usually went to one of the adjoining towns for lunch. Assamese food is one of my favourite cuisines by now (I love rice!) and the dollops of hospitality that it is served with adds to the flavour.
 
 <div class="postimg">
   <div class="grid">
@@ -385,7 +392,7 @@ The evenings were mostly about drinking a bottle of white rice wine that Surende
   <em>Majuli's Famous Bamboo Chicken</em>
 </div>
 
-The bonfire was lit in the common area and we saw many a visitors come and go in the short duration we had been there. More importantly, there were the fireside conversations. Bedu and Mamtha were constants and there were fleeting guests. Bedu was the owner of Ygdrasill and Mamtha was running an organisation that taught women of the island to weave and sell their work outside the villages, hopefully enabling them in the process and making them financially stronger. The conversations were usually about the simplicity of life on the island and how the cities have lost track of what is really important in life. Often the conversations would take on political or cultural angles, fuelled by our observations of the past few months and the feelings of the locals for the mainlanders. We talked about the sustainability of tourism, the decline of population in the villages, the political setup of the island, superstitions, stories from the forests of Assam, the supernatural, how Tata and Maruti do not make their own motors, movie recommendations and much much more.
+The bonfire was lit in the common area and we saw many a visitors come and go in the short duration we had been there. More importantly, there were the fireside conversations. Bedu and Mamtha were the regular attendees of the bonfire sessions and the other guests changed on a daily basis. Bedu was the owner of Ygdrasill and Mamtha was running an organisation that taught women of the island to weave and sell their work outside the villages, hopefully enabling them in the process and making them financially stronger. The conversations were usually about the simplicity of life on the island and how the cities have lost track of what is really important in life. Often the conversations would take on political or cultural angles, fuelled by our observations of the past few months and the feelings of the locals for the mainlanders. We talked about the sustainability of tourism, the decline of population in the villages, the political setup of the island, superstitions, stories from the forests of Assam, the supernatural, how Tata and Maruti do not make their own motors, movie recommendations and much much more.
 
 ## The Way Back
 
