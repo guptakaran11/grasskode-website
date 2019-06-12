@@ -292,3 +292,9 @@ ul.icons li a:hover {
 .section.taxonomies a:hover {
   color: #FF5733;
 }
+
+#world_map_choropleth {
+  width: 700px;
+  height: 475px;
+  position: relative;
+}
