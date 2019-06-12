@@ -378,7 +378,12 @@ We even tried _tamul_ on one of the days. I cannot say that I am a fan, though I
 
 The evenings were mostly about drinking a bottle of white rice wine that Surender procured from a nearby village and eating the delicious dinner he cooked for us.
 
-[TODO] video of surender's chicken
+<div class="postimg">
+  <div class="video-container">
+    <iframe src="https://player.vimeo.com/video/341803830" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  </div>
+  <em>Majuli's Famous Bamboo Chicken</em>
+</div>
 
 The bonfire was lit in the common area and we saw many a visitors come and go in the short duration we had been there. More importantly, there were the fireside conversations. Bedu and Mamtha were constants and there were fleeting guests. Bedu was the owner of Ygdrasill and Mamtha was running an organisation that taught women of the island to weave and sell their work outside the villages, hopefully enabling them in the process and making them financially stronger. The conversations were usually about the simplicity of life on the island and how the cities have lost track of what is really important in life. Often the conversations would take on political or cultural angles, fuelled by our observations of the past few months and the feelings of the locals for the mainlanders. We talked about the sustainability of tourism, the decline of population in the villages, the political setup of the island, superstitions, stories from the forests of Assam, the supernatural, how Tata and Maruti do not make their own motors, movie recommendations and much much more.
 
@@ -430,4 +435,4 @@ Here is the complete album from our time in Majuli.
 
 <hr />
 
-[This site](http://majulilandscape.gov.in/fauna_birds.php) helped be a lot in identifying a lot of the birds I saw in Majuli.
+<a href="http://majulilandscape.gov.in/fauna_birds.php" target="_blank">This site</a> helped be a lot in identifying the birds I saw in Majuli.
