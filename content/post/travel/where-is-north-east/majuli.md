@@ -7,7 +7,6 @@ image = "https://live.staticflickr.com/65535/48047021307_d2c356b68b_c.jpg"
 series = "Where is North East?"
 toc = true
 author = "Karan"
-type = "draft"
 +++
 
 We had reached Guwahati after officially ending this spell of our biking in the North Eastern states. A lot many plans had been cooked up en route, almost on a daily basis. We had gotten a little tired of the mountains, the rickety roads and the repetitive scenery. A beach holiday had been discussed many a times but then there was also the peninsula trip I wanted to do and somewhere we had this feeling of wanting to complete the seven sisters and possibly their younger brother. Then there was Bhutan as well, the original reason why we had ventured into this part of the country. In the midst of all this confusion, the only certainty was that we would be getting out the North East, at least for the time being. We prepared for the final leg of the journey in our home away from home in Guwahati. We got our bikes repaired; kicked back and enjoyed the New Year eve with Ruma Masi, Gautam Da, Ajay, Roopali, Rio and Pakhi; cooked and drank; did everything "normal" that we had been missing dearly on our extended road trip.
