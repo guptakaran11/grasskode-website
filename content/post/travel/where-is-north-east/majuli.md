@@ -193,7 +193,7 @@ Birds were probably the highlight of Majuli for me. There were birds **everywher
   <em>Birds of Majuli</em>
 </div>
 
-> There are more pictures of the birds in the album embedded at the end of the post. Do check it out :smiley:
+> Click on the pictures for a higher definition version. There are more pictures of the birds of Majuli in the album embedded at the end of the post. Do check it out as well :smiley:
 
 While the Ygdrasill Cottage was a perfect enough location to click through the day, we also rented out the bicycles they provided. We went to see the ***satras*** that the island is famous for.
 
