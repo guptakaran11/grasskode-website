@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>grasskode</title>
@@ -9,10 +8,19 @@
     <managingEditor>gupta.karan.11@gmail.com (Karan Gupta)</managingEditor>
     <webMaster>gupta.karan.11@gmail.com (Karan Gupta)</webMaster>
     <copyright>Copyright (c) 2018, Karan Gupta; some rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 Jun 2019 16:19:42 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 16:14:32 +0530</lastBuildDate>
     
         <atom:link href="http://grasskode.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Locations Travelled</title>
+      <link>http://grasskode.xyz/maps-post/</link>
+      <pubDate>Wed, 12 Jun 2019 16:14:32 +0530</pubDate>
+      <author></author>
+      <guid>http://grasskode.xyz/maps-post/</guid>
+      <description>Here is a visualization of the countries we have travelled to so far. Blue for Karan, Red for Parul and Magenta for both of us.     var basic_choropleth = new Datamap({ element: document.getElementById(&amp;ldquo;world_map_choropleth&amp;rdquo;), projection: &amp;lsquo;mercator&amp;rsquo;, fills: { defaultFill: &amp;ldquo;#D8D8D8&amp;rdquo;, karanTravelledTo: &amp;ldquo;#0000FF&amp;rdquo;, parulTravelledTo: &amp;ldquo;#FF0000&amp;rdquo;, bothTravelledTo : &amp;ldquo;#FF00FF&amp;rdquo; }, data: { USA: { fillKey: &amp;ldquo;bothTravelledTo&amp;rdquo; }, JPN: { fillKey: &amp;ldquo;karanTravelledTo&amp;rdquo; }, ITA: { fillKey: &amp;ldquo;parulTravelledTo&amp;rdquo; }, CRI: { fillKey: &amp;ldquo;bothTravelledTo&amp;rdquo; }, KOR: { fillKey: &amp;ldquo;karanTravelledTo&amp;rdquo; }, DEU: { fillKey: &amp;ldquo;parulTravelledTo&amp;rdquo; }, } });</description>
+    </item>
     
     <item>
       <title>Rustic Pleasures of Majuli</title>
