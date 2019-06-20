@@ -3,7 +3,7 @@ categories = ["travel"]
 tags = ["Laos", "dondet", "backpacking", "island", "laidback"]
 date = "2019-06-17T18:20:17-04:00"
 type = "draft"
-title = "Been there, Done Det"
+title = "Been there, Don Det"
 image = "https://live.staticflickr.com/65535/48087005961_f49268b8fc_b.jpg"
 toc = true
 author = "Parul"
@@ -294,7 +294,7 @@ There were a couple of options if we really want to go for it. The island compri
 - Will we recommend this place to anyone? </br>
 Absolutely! If someone wants to do nothing then its a perfect setting. If someone wants to do things there are hordes of options. Get spaced out, cycle around, go tubing, maybe go see Don Khon and its waterfalls, learn to cook, go fishing with the locals. Everything will remind us of how we don't really need a lot of money and frills to be happy and content. All of this if you can escape the spell of calmness the river casts on you. If you stare at the river for too long you are bound to be spellbound :stars: and then you just don't move! At all...
 
-With that we took our boat back to Nakasong :boat::man::woman::heart: and can now proudly say **Been there, Done Det**.
+With that we took our boat back to Nakasong :boat::man::woman::heart: and can now proudly say **Been there, Don Det**.
 
 <hr />
 
