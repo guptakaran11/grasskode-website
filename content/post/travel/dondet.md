@@ -9,11 +9,11 @@ toc = true
 author = "Parul"
 +++
 
-After spending close to a month backpacking in Cambodia our next destination was Laos. A country which neither of us had seen and were looking forward to very eagerly. There was little we had heard of the country and all we had planned was for the places we wanted to go to. We were to cross over to Laos on land and the first place we wanted to go to after entering Laos was the 4000 Islands. The plan was to stay at Don Det, one of the 4000 islands made by the tributaries of Mekong river.
+After spending close to a month backpacking in Cambodia our next destination was Laos. A country which neither of us had seen and were looking forward to very eagerly. There was little we had heard of the country and all we had planned was for the places we wanted to go to. We were to cross over to Laos over land and the first place we wanted to go to after entering Laos was the 4000 Islands. The plan was to stay at Don Det, one of the 4000 islands made by the tributaries of Mekong river.
 
-### Crossing Borders
+## Crossing Borders
 
-We had reached the office of Asia Van Transfer at Stung Treng(Cambodian border town) by noon. We had spent the night in this town. Our minivan to the border was at 2 PM. From there we would get another one to take us to the town of Nakasong (riverside town of Laos). From Nakasong a boat would take us to Don Det. It seems like a lot when I write it like this but it wasn't much in Lao standard time :stuck_out_tongue:. If you were in a hurry it was your problem, as simple as that.
+We had reached the office of [Asia Van Transfer](https://asiavantransfer.com/) at Stung Treng(Cambodian border town) by noon. We had spent the night in this town. Our minivan to the border was at 2 PM. From there we would get another one to take us to the town of Nakasong (riverside town of Don Det). From Nakasong a boat would take us to Don Det. It seems like a lot when I write it like this but it wasn't much in Lao standard time :stuck_out_tongue:. If you were in a hurry it was your problem, as simple as that.
 
 The broken roads soon took us to the Cambodian side of border. There are many shops here. In one such shop we were given an application form and an entry and departure slip to fill for Laos. You will need the following things for your exit stamp:
 
@@ -21,15 +21,16 @@ The broken roads soon took us to the Cambodian side of border. There are many sh
 - Your passport(of course)
 - Passport size photo(if you don't have it, the shop can make one for you)
 
-The shop provides glue and anything else you would need to fill the form. They also exchange your left over Dollars and Cambodian Riels for Lao Kip.
+The shop provides glue and anything else you would need to fill the form. They also exchange your left over USD and Cambodian Riels for Lao Kip.
 
 **Pro Tips:**
 
-- The visa and stamping fee is best paid in Dollars so check the list of visa fee before hand and keep those extra dollars for paying off the fee.
-- Dollars and Cambodian Riels do not work in Laos. When you are buying a bus ticket for yourself make sure you get rid of all your left over Riels first. If for some reason you don't manage to finish them the shops at the border are your last resort. Dollars are dollars you can use them anytime in your future travel or at Duty free while leaving the country. The border shop exchange dollars for Lao Kip too.
-- You don't really need Lao Kip till you reach Don Det, unless you are hungry the moment you cross over to Lao. You can get Kips at the ATM of the first town. We did that.
+- The visa and _"stamping fee"_ is best paid in USD so check the list of visa fee before hand and keep those extra USD for paying off the fee.
+- Visa fee is only paid in cash. No cards accepted.
+- USD and Cambodian Riels do not work in Laos. When you are buying a bus ticket for yourself make sure you get rid of all your left over Riels first. If for some reason you don't manage to finish them the shops at the border are your last resort. USD can be used in your future travel or at Duty free while leaving the country. However, the border shop exchange USD for Lao Kip too.
+- You don't really need Lao Kip till you reach Don Det, unless you are hungry the moment you cross over to Lao. You can get Kips at the ATM of Nakasong. We did that. There is no ATM on Don Det though you can get the usual money exchange.
 
-After completing our forms we walked to the immigration office and a French family of 4 was ahead of us. They submitted their passport and the departure slip to someone's hand at the first window, no one could see the face or the name of the officer even if they wanted to. There was a second window where you could get your passport back with an exit stamp after you had paid the _"stamping fee"_. The French were given their passports without being asked for any money! Great. It was our turn and obviously we were asked $2 each as a _stamp out fee_ :angry:. All done we started walking to the Laos Border.
+After completing our forms we walked to the immigration office and a French family of 4 was ahead of us. They submitted their passport and the departure slip to someone's hand at the first window, no one could see the face or the name of the officer even if they wanted to. There was a second window where you could get your passport back with an exit stamp after you had paid the [_"stamping fee"_](https://www.tripadvisor.com/ShowTopic-g293949-i9320-k11458400-Cambodia_Laos_border_crossing_Big_SCAM-Laos.html). The French were given their passports without being asked for any money! Great. It was our turn and obviously we were asked $2 each as a _stamp out fee_ :angry:. All done we started walking to the Laos Border.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48087236653_c824c56c2f_c.jpg" data-toggle="lightbox">
@@ -38,9 +39,9 @@ After completing our forms we walked to the immigration office and a French fami
   <em>Walking to Laos from Cambodia :walking:</em>
 </div>
 
-Here again there were 2 windows. One for collecting the passport, the application form and the arrival slip and other for the payment of the visa fee. As per the list the cost of Laos visa for Indians was $40 per person. Cool, we had enough dollars to pay for the fee. Once our name was called at the second counter to collect the passport we were asked for $42 each!! :scream:. Stamping fee again! This was outrageous but none of us was in the mood to stand and fight for the rest of the day against it. Well people apparently do that and some do get away with it. Whatever the case be we left with our passports to a restaurant where the bus was to pick us up from. As soon as we settled down it started raining cats and dogs!
+Here again there were 2 windows. One for collecting the passport, the application form and the arrival slip and other for the payment of the visa fee. As per the list the cost of Laos visa for Indians was $40 per person. Cool, we had enough USD to pay for the fee. Once our name was called at the second counter to collect the passport we were asked for $42 each!! :scream:. _"Stamping fee"_ again! This was outrageous but neither of us was in the mood to stand and fight for the rest of the day against it. Well people apparently do that and some do get away with it. Whatever the case be we left with our passports to a restaurant where the bus was to pick us up from. As soon as we settled down it started raining cats and dogs!
 
-Eventually the minibus cum pick up truck arrived. It was open from three sides and with the rain everyone refused to board. Eventually the driver and the co-driver opened up the rain covers and everyone rushed to the pickup. It was supposed to be a minibus but oh well! The pick consisted of 4 young party guys with _The Mad Monkey_ arm band, the French family, two girls and us. The French had been travelling with their very young kids for 8 months and I was super impressed by the real life values they were gaining while doing so.
+Eventually a pick up truck arrived. It was open from three sides and with the rain everyone refused to board. The driver and the co-driver opened up the rain covers and everyone rushed to board. It was supposed to be a minibus but oh well! The pick consisted of 4 young party guys with _The Mad Monkey_ arm band, the French family, two girls and us. The French had been travelling with their very young kids for 8 months and I was super impressed by the real life values they were gaining while doing so.
 
 We reached Nakasong shortly. While the others rushed to the boat for Don Det, the two girls, Karan and I waited to get money from the ATM.
 
@@ -67,13 +68,13 @@ Once we had the monies we got on our boat to Don Det.
 </div>
 
 
-### Lazy days, Lazier nights
+## Lazy days, Lazier nights
 
 We reached Don Det uneventfully but could see dark clouds swelling up. We said our goodbyes to the girls and started our hunt for a place to stay.
 
-Don Det had two sides, the sunrise one and the sunset one. We were on the Sunrise side and decided to walk away from the "busier part" of this side to get a place to stay. We checked out many places. The ones available were a bit too rickety and the ones we liked were full. We were still walking looking for a place to stay when the sandstorm set in.
+Don Det had two sides, sunrise and sunset. We docked on the Sunrise side and decided to walk away from the "busier part" to get a place to stay. We checked out many places. The ones available were a bit too rickety and the ones we liked were full. We were still walking looking for a place to stay when the storm set in.
 
-We agreed that both of us battling the sandstorm with our backpacks was not exactly the best idea. I stopped at a restaurant with our bags while Karan went searching for a guesthouse. The sandstorm had gotten crazy by now! Things were falling and breaking. Eventually Karan returned with a few options and we decided to stay at Mama Piang's guesthouse. We checked in and after cleaning our dusty selves up went down to have a food and a few drinks later called it a day.
+We agreed that both of us battling the storm with our backpacks was not exactly the best idea. I stopped at a restaurant with our bags while Karan went searching for a guesthouse. The storm had gotten crazy by now! Things were falling and breaking. Eventually Karan returned with a few options and we decided to stay at Mama Piang's guesthouse. We checked in and after cleaning our dusty selves up went down to have a food and a few drinks before calling it a day.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48087294682_94773ec567_c.jpg" data-toggle="lightbox">
@@ -119,7 +120,7 @@ We reached the restaurant of the guesthouse. Mama Piang was a feisty woman runni
 The general pace of Don Det started from laid back to lazy to glacial to comatose.
 </blockquote>
 
-I had struck friendship with Mama Piang's girls. There was a language barrier but we managed to communicate. The elder one made a picture of her mom in my notebook.
+I had struck friendship with Mama Piang's girls. There was a language barrier but we managed to communicate. The elder one made a picture of her mom in my notebook :smile:
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48099659051_b32300fa2f_c.jpg" data-toggle="lightbox">
@@ -128,7 +129,7 @@ I had struck friendship with Mama Piang's girls. There was a language barrier bu
   <em>Mama Piang by Pen</em>
 </div>
 
-Our days were mostly about eating, trying to work on our blogs and sleeping. The most activity of the day was really about which place should we go to eat. Or should we just eat at Mama Piang's. We had ready about the _"happy"_ and _"space"_ shakes and pizzas and pancakes and it was on the list of things we wanted to do.
+Our days were mostly about eating, trying to work on our blogs and sleeping. The most activity of the day was really about which place should we go to eat. Or should we just eat at Mama Piang's. We had read about the _"happy"_ and _"space"_ shakes, pizzas and pancakes and it was on the list of things we wanted to do.
 
 One afternoon we had one such pancake and then had a very future trip where we were discussing what is immortality, space age reality of humans and measuring time across planets as one single unit. Everything was going oh so well before my stomach died and the rest of the night I was trying to stay out of the bathroom :cry:.
 
@@ -139,7 +140,7 @@ One afternoon we had one such pancake and then had a very future trip where we w
   <em>Spaced out</em>
 </div>
 
-### Changing sides
+## The other side
 
 After spending 2 days on the sunrise side we finally decided to move to the sunset side. We had already checked out a few options the day before and all we had to do was pick up our bags and move. **That was a lot** :stuck_out_tongue:.
 
@@ -193,7 +194,7 @@ Our favorite thing to do had become going to the café next to our guest house t
   <em>Doggie love :dog:</em>
 </div>
 
-After 3 days of nothingness guilt took over and we decided to rent out a cycle and go to an all vegan restaurant [Garden of Nang](https://www.tripadvisor.com/Restaurant_Review-g1082249-d11600091-Reviews-The_Garden_of_Nang-Don_Det_Champasak_Province.html) which had a private beach. And maybe see one more of the 4000 Islands - Don Khon. Garden of Nang wasn't very far from our guesthouse and cycle through the village was so peaceful. We reached and ordered some food and drinks. An all vegan café in a setup like this was very interesting and not surprisingly quite crowded. Everything looked so fresh, especially the drinks with the yellow flowers and the food was delicious :yum:.
+After 3 days of nothingness guilt took over and we decided to rent out a cycle and go to an all vegan restaurant [Garden of Nang](https://www.tripadvisor.com/Restaurant_Review-g1082249-d11600091-Reviews-The_Garden_of_Nang-Don_Det_Champasak_Province.html) which had a private beach. And maybe see one more of the 4000 Islands - Don Khon. Garden of Nang wasn't very far from our guesthouse and cycling through the village was so peaceful. We reached and ordered some food and drinks. An all vegan café in a setup like this was very interesting and not surprisingly quite crowded. Everything looked so fresh, especially the drinks with the yellow flowers and the food was delicious :yum:.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48093675916_0b7c305f81_c.jpg" data-toggle="lightbox">
@@ -245,7 +246,7 @@ We were trying to sleep on the beach when we noticed a lot of commotion. We woke
   <em>We found Shangri La :pray:</em>
 </div>
 
-We cycled all the way to the old French bridge which was the way to cross over to Don Khon. Somehow on the edge of the bridge we decided we don't want to go to Don Khon anymore :stuck_out_tongue:. So just like that, from the edge we decided to make our way back to our guesthouse from the sunrise side. The ride this side was quite beautiful!
+We cycled all the way to the old French bridge which was the way to cross over to Don Khon. Somehow on the edge of the bridge we decided we don't want to go to Don Khon anymore :stuck_out_tongue:. So just like that, from the edge we decided to take a round of the island and return to our guesthouse. The ride was quite beautiful!
 
 <div class="postimg">
   <div class="grid">
@@ -269,7 +270,7 @@ We cycled all the way to the old French bridge which was the way to cross over t
   <em>Joys of two wheels</em>
 </div>
 
-We returned our cycles in the _"main market"_ area, which wasn't too big really given the whole island was about 6 Kms :stuck_out_tongue: and Booked our tickets out of this oh so laidback place to the next destination which was Pakse.
+We returned our cycles in the _"main market"_ area, which wasn't too big really given the whole island was about 6 Kms :stuck_out_tongue: and booked our tickets out of this oh so laidback place to the next destination Pakse.
 
 After a lot of activity we sat down for another of our favourite thing to do on this island, sit in the balcony of our room and watch the beautiful sunset :sunny:
 
@@ -280,10 +281,9 @@ After a lot of activity we sat down for another of our favourite thing to do on 
   <em>The last sunset on Don Det</em>
 </div>
 
+<hr />
 
-### Done Det
-
-We packed our bags and went to the pier for a boat back to Nakasong. We were segregated based on our destinations by the color of our ticket. While we waited for our ride we discussed the following:
+We packed our bags and went to the pier for a boat back to Nakasong. While we waited for our ride we discussed the following:
 
 - What did we do on the island for 5 days? </br>
 Nothing much really besides chilling. *Nothing* :grin:
@@ -294,9 +294,7 @@ There were a couple of options if we really want to go for it. The island compri
 - Will we recommend this place to anyone? </br>
 Absolutely! If someone wants to do nothing then its a perfect setting. If someone wants to do things there are hordes of options. Get spaced out, cycle around, go tubing, maybe go see Don Khon and its waterfalls, learn to cook, go fishing with the locals. Everything will remind us of how we don't really need a lot of money and frills to be happy and content. All of this if you can escape the spell of calmness the river casts on you. If you stare at the river for too long you are bound to be spellbound :stars: and then you just don't move! At all...
 
-With that we took our boat back to Nakasong :boat::man::woman::heart: and can now proudly say **Been there, Don Det**.
-
-<hr />
+We took our boat back to Nakasong :boat::man::woman::heart: and can now proudly say **Been there, Don Det**.
 
 Here is a complete album from our time in Don Det. Pictures are credited to Karan and me.
 
