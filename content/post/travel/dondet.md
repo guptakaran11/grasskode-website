@@ -1,8 +1,7 @@
 +++
 categories = ["travel"]
 tags = ["Laos", "dondet", "backpacking", "island", "laidback"]
-date = "2019-06-17T18:20:17-04:00"
-type = "draft"
+date = "2019-06-20T18:20:17-04:00"
 title = "Been there, Don Det"
 image = "https://live.staticflickr.com/65535/48087005961_f49268b8fc_b.jpg"
 toc = true
