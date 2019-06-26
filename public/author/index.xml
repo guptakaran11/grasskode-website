@@ -9,10 +9,19 @@
     <managingEditor>gupta.karan.11@gmail.com (Karan Gupta)</managingEditor>
     <webMaster>gupta.karan.11@gmail.com (Karan Gupta)</webMaster>
     <copyright>Copyright (c) 2018, Karan Gupta; some rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 Jun 2019 16:19:42 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 18:20:17 -0400</lastBuildDate>
     
 	<atom:link href="http://grasskode.xyz/author/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Parul</title>
+      <link>http://grasskode.xyz/author/parul/</link>
+      <pubDate>Thu, 20 Jun 2019 18:20:17 -0400</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/author/parul/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Karan</title>
@@ -20,15 +29,6 @@
       <pubDate>Mon, 10 Jun 2019 16:19:42 -0400</pubDate>
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
       <guid>http://grasskode.xyz/author/karan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parul</title>
-      <link>http://grasskode.xyz/author/parul/</link>
-      <pubDate>Fri, 07 Jun 2019 15:36:42 -0400</pubDate>
-      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/author/parul/</guid>
       <description></description>
     </item>
     
