@@ -48,7 +48,7 @@ I am generally a very happy and cheerful person in life. I am very new to the wr
 
 - **Photography** : I will not say I am a photographer but I am more of a photography enthusiast. I am always looking out for the next best photo that I can make.
 - **Music** : There are very few people in the world who will say they don't like music. If I am ever given charge of music you will end up hearing Rock, Post Rock, Alternate Rock and sometimes pop music from the 90's
-- **Biking** : I think a wannabe biker will describe me the best. Currently travelling the country with grasskode, riding through one state at a time.
+- **Biking** : Don't recall the exact age I fell in love with the bike. Maybe it was when my dad sold his Yezdi that I realised I loved it. Love riding through the country with Karan and my 350cc Royal Enfield Electra lovingly known as Ifrit.
 - **Sleeping** : When I am confused on what it is that I want to do at any point in time I sleep. It's more like a talent than hobby, sleeping anywhere, anytime, anyhow. I don't regret a single minute I have spent sleeping.
 - **Irritating Karan** : It took me a while to realise this actually but this is only other thing besides sleeping that I do when I am confused.
 
