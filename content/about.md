@@ -1,9 +1,9 @@
 +++
-date = "2016-01-22T16:14:32+05:30"
 title = "About"
-description = "About the Site"
-type = "info"
-comment = false
+description = "All about the site and the authors."
+url = "/about/"
+type = "about"
+toc = true
 +++
 
 ## The Blog
@@ -53,3 +53,22 @@ I am generally a very happy and cheerful person in life. I am very new to the wr
 - **Irritating grasskode** : It took me a while to realise this actually but this is only other thing besides sleeping that I do when I am confused.
 
 I am very new to the writing world. Every feedback that you give will help me get better than grasskode at writing :grin:
+
+
+## Content License
+
+All blog content is licensed under [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Please share and use responsibly. ✌
+
+
+## Wanderlust
+
+<div>
+  <p>Here is a visualization of the countries we have travelled to so far. <font color="blue">Blue for Karan</font>, <font color="red">Red for Parul</font> and <font color="magenta">Magenta for both of us</font>.
+  </p>
+</div>
+
+<div id="world_map_choropleth"></div>
+
+<hr />

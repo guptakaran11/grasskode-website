@@ -8,19 +8,10 @@
     <managingEditor>gupta.karan.11@gmail.com (Karan Gupta)</managingEditor>
     <webMaster>gupta.karan.11@gmail.com (Karan Gupta)</webMaster>
     <copyright>Copyright (c) 2018, Karan Gupta; some rights reserved.</copyright>
-    <lastBuildDate>Wed, 12 Jun 2019 16:14:32 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2019 16:19:42 -0400</lastBuildDate>
     
         <atom:link href="http://grasskode.xyz/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Locations Travelled</title>
-      <link>http://grasskode.xyz/maps-post/</link>
-      <pubDate>Wed, 12 Jun 2019 16:14:32 +0530</pubDate>
-      <author></author>
-      <guid>http://grasskode.xyz/maps-post/</guid>
-      <description>Here is a visualization of the countries we have travelled to so far. Blue for Karan, Red for Parul and Magenta for both of us.     var basic_choropleth = new Datamap({ element: document.getElementById(&amp;ldquo;world_map_choropleth&amp;rdquo;), projection: &amp;lsquo;mercator&amp;rsquo;, fills: { defaultFill: &amp;ldquo;#D8D8D8&amp;rdquo;, karanTravelledTo: &amp;ldquo;#0000FF&amp;rdquo;, parulTravelledTo: &amp;ldquo;#FF0000&amp;rdquo;, bothTravelledTo : &amp;ldquo;#FF00FF&amp;rdquo; }, data: { USA: { fillKey: &amp;ldquo;bothTravelledTo&amp;rdquo; }, JPN: { fillKey: &amp;ldquo;karanTravelledTo&amp;rdquo; }, ITA: { fillKey: &amp;ldquo;parulTravelledTo&amp;rdquo; }, CRI: { fillKey: &amp;ldquo;bothTravelledTo&amp;rdquo; }, KOR: { fillKey: &amp;ldquo;karanTravelledTo&amp;rdquo; }, DEU: { fillKey: &amp;ldquo;parulTravelledTo&amp;rdquo; }, } });</description>
-    </item>
     
     <item>
       <title>Rustic Pleasures of Majuli</title>
@@ -636,21 +627,11 @@ Check out the About page for more about me or browse through this awesome blog. 
     <item>
       <title>About</title>
       <link>http://grasskode.xyz/about/</link>
-      <pubDate>Fri, 22 Jan 2016 16:14:32 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author></author>
       <guid>http://grasskode.xyz/about/</guid>
       <description>The Blog This is the second attempt to maintain a blog of my own. Once upon a time I had taken a domain and hosted a wordpress powered website. Then I gave up because I did not really think I had stories to tell. This time around, I think I do have stories to tell. Maybe this one will survive.
 The blog will mostly contain a more regular log of my travels and activities.</description>
-    </item>
-    
-    <item>
-      <title>License</title>
-      <link>http://grasskode.xyz/license/</link>
-      <pubDate>Tue, 19 Jan 2016 18:08:33 +0530</pubDate>
-      <author></author>
-      <guid>http://grasskode.xyz/license/</guid>
-      <description>Content License All blog content is licensed under Creative Commons BY-NC-SA.
-Please share and use responsibly. ✌</description>
     </item>
     
   </channel>
