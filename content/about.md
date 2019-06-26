@@ -50,9 +50,9 @@ I am generally a very happy and cheerful person in life. I am very new to the wr
 - **Music** : There are very few people in the world who will say they don't like music. If I am ever given charge of music you will end up hearing Rock, Post Rock, Alternate Rock and sometimes pop music from the 90's
 - **Biking** : I think a wannabe biker will describe me the best. Currently travelling the country with grasskode, riding through one state at a time.
 - **Sleeping** : When I am confused on what it is that I want to do at any point in time I sleep. It's more like a talent than hobby, sleeping anywhere, anytime, anyhow. I don't regret a single minute I have spent sleeping.
-- **Irritating grasskode** : It took me a while to realise this actually but this is only other thing besides sleeping that I do when I am confused.
+- **Irritating Karan** : It took me a while to realise this actually but this is only other thing besides sleeping that I do when I am confused.
 
-I am very new to the writing world. Every feedback that you give will help me get better than grasskode at writing :grin:
+I am very new to the writing world. Every feedback that you give will help me get better than Karan at writing :grin:
 
 
 ## Content License
