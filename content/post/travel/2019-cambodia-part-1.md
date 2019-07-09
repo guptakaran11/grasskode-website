@@ -1,6 +1,6 @@
 +++
 categories = ["travel"]
-tags = ["photoblog", "siem reap", "battambang", "phnom penh", "apsara dance", "modulkiri", "elephant", "angkor", "preah vihear", "cambodia", "backpacking", "south east asia"]
+tags = ["photoblog", "battambang", "modulkiri", "elephant", "koh rong samloem", "beach", "island", "cambodia", "backpacking", "south east asia"]
 date = "2019-07-07T22:13:19-04:00"
 type = "draft"
 title = "The Cambodian Getaway [Part 1] - Mountains and Beaches"
