@@ -1,6 +1,6 @@
 +++
 categories = ["travel"]
-tags = ["Laos", "dondet", "backpacking", "island", "laidback"]
+tags = ["dondet", "laos", "south east asia", "backpacking", "island", "laidback", "border crossing"]
 date = "2019-06-20T18:20:17-04:00"
 title = "Been there, Don Det"
 image = "https://live.staticflickr.com/65535/48087005961_f49268b8fc_b.jpg"
@@ -67,7 +67,7 @@ Once we had the monies we got on our boat to Don Det.
 </div>
 
 
-## Lazy days, Lazier nights
+## Lazy Days, Lazier Nights
 
 We reached Don Det uneventfully but could see dark clouds swelling up. We said our goodbyes to the girls and started our hunt for a place to stay.
 
@@ -139,7 +139,7 @@ One afternoon we had one such pancake and then had a very future trip where we w
   <em>Spaced out</em>
 </div>
 
-## The other side
+## The Other Side
 
 After spending 2 days on the sunrise side we finally decided to move to the sunset side. We had already checked out a few options the day before and all we had to do was pick up our bags and move. **That was a lot** :stuck_out_tongue:.
 
