@@ -4,30 +4,7 @@
   
   <url>
     <loc>http://grasskode.xyz/author/</loc>
-    <lastmod>2019-07-08T20:59:54-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/post/travel/2019-cambodia-part-2/</loc>
-    <lastmod>2019-07-08T20:59:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/author/</loc>
-    <lastmod>2019-07-08T20:59:54-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/post/</loc>
-    <lastmod>2019-07-08T20:59:54-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/</loc>
-    <lastmod>2019-07-08T20:59:54-04:00</lastmod>
+    <lastmod>2019-07-07T22:13:19-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -44,6 +21,12 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/post/</loc>
+    <lastmod>2019-07-07T22:13:19-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/</loc>
     <lastmod>2019-07-07T22:13:19-04:00</lastmod>
     <priority>0</priority>
@@ -51,6 +34,11 @@
   
   <url>
     <loc>http://grasskode.xyz/post/travel/2019-cambodia-part-1/</loc>
+    <lastmod>2019-07-07T22:13:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/travel/2019-cambodia-part-2/</loc>
     <lastmod>2019-07-07T22:13:19-04:00</lastmod>
   </url>
   
@@ -84,6 +72,12 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/beach/</loc>
+    <lastmod>2019-07-07T22:13:19-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/cambodia/</loc>
     <lastmod>2019-07-07T22:13:19-04:00</lastmod>
     <priority>0</priority>
@@ -91,6 +85,24 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/elephant/</loc>
+    <lastmod>2019-07-07T22:13:19-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/</loc>
+    <lastmod>2019-07-07T22:13:19-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/island/</loc>
+    <lastmod>2019-07-07T22:13:19-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/koh-rong-samloem/</loc>
     <lastmod>2019-07-07T22:13:19-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -150,12 +162,6 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/dondet/</loc>
-    <lastmod>2019-06-20T18:20:17-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/island/</loc>
     <lastmod>2019-06-20T18:20:17-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -550,12 +556,6 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/bali/</loc>
-    <lastmod>2017-12-03T21:22:48+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/beach/</loc>
     <lastmod>2017-12-03T21:22:48+05:30</lastmod>
     <priority>0</priority>
   </url>
