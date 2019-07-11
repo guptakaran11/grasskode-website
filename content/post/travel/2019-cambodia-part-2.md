@@ -114,11 +114,11 @@ We walked around the streets of the city and saw some pagodas nearby. Phnom Penh
   <em>Walking around Phnom Penh</em>
 </div>
 
-There were quite a few interesting episodes during our walk around town with Papa and Chachu. During one such walk, Papa started talking to a kid who was carrying a shoe. He somehow convinced the child (they were speaking different languages) to give him the shoe. The kid then proceeded to get all the belongings of his family from a nearby tuk-tuk and pile it in front of Papa. Chachu was clicking photos all this while. Parul and I were standing in a corner amused and afraid of how the parents would react. After a while someone did come looking for the kids and frowned at the mess. We got away as innocent tourists. :joy:
+There were quite a few interesting episodes during our walk around town with Papa and Chachu. During one such walk, Papa started talking to a kid who was carrying a shoe. He somehow convinced the child (they were speaking different languages) to give him the shoe. The kid then proceeded to get all the belongings of his family from a nearby tuk-tuk and pile it in front of Papa. Chachu was clicking photos all this while. Parul and I were standing in a corner amused and afraid of how the parents would react. After a while someone did come looking for the kid and frowned at the mess. We got away as innocent tourists. :joy:
 
 ### Apsara Dance
 
-Another highlight of the trip was the **Apsara Dance**. [Cambodian Living Arts](https://www.cambodianlivingarts.org/) perform the dance at the National Museum in Phnom Penh. I had missed this the last time I was in Phnom Penh. I had discarded it as yet another touristy thing but it proved to be quite a treat. I thoroughly enjoyed it and I think the others liked it as well.
+Another highlight of the trip was the **Apsara Dance**. [Cambodian Living Arts](https://www.cambodianlivingarts.org/) perform the dance at the National Museum in Phnom Penh. I had missed this the last time I was in Phnom Penh. I had discarded it as yet another touristy thing but it proved to be quite a treat. I thoroughly enjoyed it and I think the others liked it as well. Chachu had a gala time shooting the entire performance on his camera.
 
 <div class="postimg">
   <div class="grid">
@@ -339,7 +339,7 @@ Papa decided to sit it out after the first few flights of steps. To each his own
   <em>Papa chilling at the lower level</em>
 </div>
 
-Next up was was the famed Bayon.
+Next up was the famed Bayon.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48235438682_9506886226_c.jpg" data-toggle="lightbox">
@@ -589,7 +589,9 @@ We stuck around in Siem Reap for another day to plan our travel ahead. We visite
   <em>Dosa and Pho :yum:</em>
 </div>
 
-Our next, and final, destination in Cambodia was to be Prasat Preah Vihear. Once again, there is no easy way to get here but that made this temple all the more beautiful. The morning after we reached the town of Sra'aem, we hiked to the temple (a total of 2243 steps!) to see the beautiful temple and the vistas it provided.
+Our next, and final, destination in Cambodia was to be Prasat Preah Vihear. Once again, there is no easy way to get here but that made this temple all the more beautiful. The morning after we reached the town of Sra'aem, we hiked to the temple. I was looking forward to it once again because the [last time](/post/travel/sea-chronicles/cambodia/preahvihear/) had been magical.
+
+Preah Vihear is a personal favourite of all the temples I have been to anywhere in the world. To start with, the climb of 2243 steps exhausts you out of your mind and it is in this state that you can feel the divinity of the temple. The vistas and the ruins of the temple look much better once you reach the top gasping for air. The lack of tourists and the few locals only add to the "authenticity" of the experience.
 
 <div class="postimg">
   <div class="grid">
