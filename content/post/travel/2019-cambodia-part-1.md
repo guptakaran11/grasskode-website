@@ -1,6 +1,6 @@
 +++
 categories = ["travel"]
-tags = ["photoblog", "battambang", "modulkiri", "elephant", "koh rong samloem", "beach", "island", "cambodia", "backpacking", "south east asia"]
+tags = ["photoblog", "battambang", "modulkiri", "elephant", "koh rong samloem", "beach", "island", "adventure", "cambodia", "backpacking", "south east asia"]
 date = "2019-07-07T22:13:19-04:00"
 type = "draft"
 title = "The Cambodian Getaway [Part 1] - Mountains and Beaches"
@@ -9,7 +9,11 @@ toc = false
 author = "Karan"
 +++
 
-I have been shirking my blogging duties of late. However, the trip to Cambodia earlier in 2019 was way too epic to be ignored. The pictures have come out quite nicely so I will make a photoblog of this one.
+I have been shirking my blogging duties of late. However, the trip to Cambodia earlier in 2019 was way too epic to be ignored. The pictures have come out quite nicely so I will make a photoblog of this one. This is the first part of a two blog series. Read the second one [here](/post/travel/2019-cambodia-part-2/).
+
+<hr />
+
+I was returning to Cambodia after two and a half years. While I had travelled the country extensively, there were a few parts that had been left out in the last go. This was to be Parul's first time to the country so we made a mixed itinerary of places that would interest us equally.
 
 ## Settling In
 
@@ -489,7 +493,7 @@ The next day we had an entire day to kill between checking out of the guesthouse
 
 ## Koh Rong Samloem
 
-We took an overnight bus to Sihanoukville with the usual change at Phnom Penh. Sihanoukville ahd changed a lot since the last time I had been here. There were many casinos and most of the places had Mandarin signboards. It had been developed immensely for Chinese tourists.
+We took an overnight bus to Sihanoukville with the usual change at Phnom Penh. Sihanoukville had changed a lot since the last time I had been here. There were many casinos and most of the places had Mandarin signboards. It had been developed immensely for Chinese tourists.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48235316541_af19ba7020_c.jpg" data-toggle="lightbox">
@@ -615,6 +619,13 @@ For a couple of hours we had the beach all to ourselves! We spent the entire mor
     </div>
   </div>
   <em>Day well spent :sunny:</em>
+</div>
+
+<div class="postimg">
+  <div class="video-container">
+    <iframe src="https://player.vimeo.com/video/346953638" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  </div>
+  <em>A teaser</em>
 </div>
 
 Driftwood Hostel, the only hostel that used to provide accomodation on the Clearwater Bay, was closed and we learnt that there was a casino that was coming up on the bay. We were lucky enough to experience the bay before the casino ruined it.
@@ -794,3 +805,5 @@ Eventually it was time to say goodbye to Koh Rong Samloem. But we had more time 
   </a>
   <em>Time to say goodbye</em>
 </div>
+
+Read on about the remainder of our trip [here](/post/travel/2019-cambodia-part-2/).
