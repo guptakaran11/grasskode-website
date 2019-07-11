@@ -162,20 +162,20 @@ We walked down close to the time for sunset and took a seat in a nearby cafe to 
 
 ### Crocodile Farm
 
-The next day we made a cycle trip to the [Crocodile Farms](https://www.tripadvisor.com/Attraction_Review-g303666-d5859537-Reviews-Battambang_Crocodile_Farm-Battambang_Battambang_Province.html). This one had nothing on the one we had seen years back near Chennai but the fact that you could walk about anywhere added a sense of thrill to the experience. One really needed to watch his foot out here! :grimacing: :crocodile:
-
-<div class="postimg">
-  <a href="https://live.staticflickr.com/65535/48235260991_b13b6204cc_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235260991_b13b6204cc.jpg">
-  </a>
-  <em>Reptilian love</em>
-</div>
+The next day we made a cycle trip to the [Crocodile Farms](https://www.tripadvisor.com/Attraction_Review-g303666-d5859537-Reviews-Battambang_Crocodile_Farm-Battambang_Battambang_Province.html). This one was not as impressive as the [Crocodile Park](https://en.wikipedia.org/wiki/Madras_Crocodile_Bank_Trust) we had seen years back near Chennai but the fact that you could walk about anywhere added a sense of thrill to the experience. One really needed to watch his foot out here! :grimacing: :crocodile:
 
 <div class="postimg">
   <div class="video-container">
     <iframe src="https://player.vimeo.com/video/346953588" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   </div>
   <em>:grimacing:</em>
+</div>
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/48235260991_b13b6204cc_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235260991_b13b6204cc.jpg">
+  </a>
+  <em>Reptilian love</em>
 </div>
 
 <div class="postimg">
@@ -243,15 +243,34 @@ That night we left Battambang and headed east to the beautiful province of Mondu
 The next morning we were back on our way to Sen Monorom. We rented a motorbike the following morning and headed out to the countryside. We rode all the way till Bou Sra falls. The water in the falls was less than I remembered from the last time. This meant no swimming but we spent our time clicking pictures and fooling around. Parul asked a dressed up local girl for a picture since her clothes were more instagram friendly. :dancer:
 
 <div class="postimg">
-  <a href="https://live.staticflickr.com/65535/48235443676_56755b6e2d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235443676_56755b6e2d.jpg">
-  </a>
-  <em>For the love of Instagram</em>
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/48235443676_56755b6e2d_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235443676_56755b6e2d.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/48243393607_4d3d47c165_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/48243393607_4d3d47c165.jpg">
+      </a>
+    </div>
+  </div>
+  <em>Before & After - For the love of Instagram :joy:</em>
 </div>
+
 <div class="postimg">
-  <a href="https://live.staticflickr.com/65535/48235443211_5202228b66_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235443211_5202228b66.jpg">
-  </a>
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/48235442616_f3e0a843ec_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235442616_f3e0a843ec.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/48235443211_5202228b66_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235443211_5202228b66.jpg">
+      </a>
+    </div>
+  </div>
   <em>Not a lot of water, but still quite beautiful!</em>
 </div>
 
@@ -293,7 +312,7 @@ We saw the sun set from the Doh Kromom hill before heading back to the town.
       </a>
     </div>
   </div>
-  <em>Sunset at Doh Kromom</em>
+  <em>Sunset at Doh Kromom as viewed through Parul's pink sunglasses :smile:</em>
 </div>
 
 ### Elephant Tour
@@ -361,7 +380,7 @@ Once the elephants had enough of us humans, they went into the bushes to play wi
       </a>
     </div>
   </div>
-  <em>Water activities</em>
+  <em>Water activities (notice Parul's faithful red float :stuck_out_tongue:)</em>
 </div>
 
 A little while later, they did come and the first thing they did was take a dump in the pool. :shit: :joy: The mahouts cleaned up the mess and the tourists got in to play with the elephants in the water.
