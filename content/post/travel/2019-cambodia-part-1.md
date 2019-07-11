@@ -2,7 +2,6 @@
 categories = ["travel"]
 tags = ["photoblog", "battambang", "modulkiri", "elephant", "koh rong samloem", "beach", "island", "adventure", "cambodia", "backpacking", "south east asia"]
 date = "2019-07-07T22:13:19-04:00"
-type = "draft"
 title = "The Cambodian Getaway [Part 1] - Mountains and Beaches"
 image = "https://live.staticflickr.com/65535/48235394446_c1f690b2ae_b.jpg"
 toc = false

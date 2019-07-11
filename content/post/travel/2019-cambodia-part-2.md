@@ -2,7 +2,6 @@
 categories = ["travel"]
 tags = ["photoblog", "siem reap", "phnom penh", "apsara dance", "angkor", "preah vihear", "temple", "culture", "cambodia", "backpacking", "south east asia"]
 date = "2019-07-08T20:59:54-04:00"
-type = "draft"
 title = "The Cambodian Getaway [Part 2] - Temples and Culture"
 image = "https://live.staticflickr.com/65535/48235422242_fd988afdd4_b.jpg"
 toc = false
