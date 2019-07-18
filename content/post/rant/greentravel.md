@@ -43,6 +43,13 @@ The use of plastic is not just for you or for your future generations it is also
 - May, 2019, Japan. [Plastic bags found in dead deer at Japan park](https://www.straitstimes.com/asia/east-asia/plastic-bags-found-in-dead-deer-at-japan-park). A 38 Kg deer had 4.3 Kg of plastic bags and snack wrappers in its stomach.
 - June, 2019, Greece. [A 5.3-meter (17-foot) young sperm whale swallowed 135 plastic items](https://wtop.com/animals-pets/2019/06/study-lethal-plastic-trash-now-common-in-greeces-whales/) weighing a total of 3.2 kilograms (7 pounds). This blocked its stomach, grossly distending it, while the animal itself was emaciated and had starved to death.
 
+<div class="postimg vertimg">
+  <a href="https://www.nationalgeographic.com/environment/2019/04/dead-pregnant-whale-plastic-italy" data-toggle="lightbox">
+    <img class="lazy" data-src="https://www.nationalgeographic.com/environment/2019/04/dead-pregnant-whale-plastic-italy/">
+  </a>
+  <em>The three R's</em>
+</div>
+
 <hr/>
 
 A lot of us manage our waste efficiently at home but when we travel we do not take care of these things. We obviously cannot suggest ways to solve recycling problem, we cannot as individuals. What we are sharing here is how we have managed to reduce our plastic footprint and specially how it can be done while travelling. Whether it's a day trip, a short holiday or travel over months. From the last one year of our travel here are some of the things that helped us replace some of the one time use plastic in our lives and also the things which did not work out.
@@ -175,6 +182,13 @@ I use about 15 sanitary napkins in a month. For a year that comes out to be:
 That's 180 sanitary napkin a year, not much of a deal but multiply that number by everyone on this planet that gets her period and that equals a substantial amount of waste. And now imagine, the cost of all these.
 Replace them with one reusable menstrual cup!
 
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/48310682856_3012d04cb0_c_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/48310682856_3012d04cb0_c.jpg">
+  </a>
+  <em>Menstrual cup and Biodegradable sanitary napkin </em>
+</div>
+
 ## Straws
 
 <div class="postimg vertimg">
@@ -212,14 +226,37 @@ There can be a debate whether plastic glasses are recyclable or not but like I m
 
 **Alternatives**
 
-+ Get reusable glasses. Many cafes in US actually give you a discount if you hand over your own glass to them! They look very cool too and shows you care for important things in life. [Here](https://www.amazon.in/s?k=insulated+coffee+travel+mug&crid=3SB9Y9JUVW7MS&sprefix=insulated+coffee%2Caps%2C402&ref=nb_sb_ss_i_5_16) are a few options for the same on Amazon.
-+ A lot of coffee shops also sell these insulated mugs which also keep your coffee warm. So if you are a brand freak you can even get a mug to support the brand!
++ Get reusable glasses. Many cafes in US actually give you a discount if you hand over your own glass to them! They look very cool too and shows you care for important things in life. [Here](https://www.amazon.in/s?k=insulated+coffee+travel+mug&crid=3SB9Y9JUVW7MS&sprefix=insulated+coffee%2Caps%2C402&ref=nb_sb_ss_i_5_16) are a few options for the same on Amazon. A lot of coffee shops also sell these insulated mugs which also keep your coffee warm. So if you are a brand freak you can even get a mug to support the brand!
+
 + Bamboo glasses, we got ours from Ziro Music Festival and it works wonders!
+
+<div class="postimg vertimg">
+  <a href="https://live.staticflickr.com/65535/48310789447_0ed4d48ba9_c_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/48310789447_0ed4d48ba9_c.jpg">
+  </a>
+  <em>Reusable Bamboo mug</em>
+</div>
+
 + Reusable plastic glasses, we have one of that too. We don't remember the last time we used a disposable glass for water or alcohol.
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+    <a href="https://live.staticflickr.com/65535/48310789342_953673bb13_c_c.jpg" data-toggle="lightbox">
+      <img class="lazy" data-src="https://live.staticflickr.com/65535/48310789342_953673bb13_c.jpg">
+    </a>
+    </div>
+    <div class="grid-column-50">
+    <a href="https://live.staticflickr.com/65535/48310675881_8bcc0f9aeb_c_c.jpg" data-toggle="lightbox">
+      <img class="lazy" data-src="https://live.staticflickr.com/65535/48310675881_8bcc0f9aeb_c.jpg">
+    </a>
+    </div>
+  </div>
+  <em>Reusable, fold-able and extremely travel friendly plastic glass</em>
+</div>
 
 Again it is hard to put numbers on this one, but depending upon how many coffee you have in a day you can probably do some math!
 
-<Photo of green glass and bamboo glass, ask tannu to send a pic of his bamboo glass>
 
 ## Plastic Bags
 
