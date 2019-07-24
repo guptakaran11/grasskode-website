@@ -1,15 +1,18 @@
 +++
 categories = ["travel"]
-tags = ["photoblog", "siem reap", "battambang", "phnom penh", "apsara dance", "modulkiri", "elephant", "angkor", "preah vihear", "cambodia", "backpacking", "south east asia"]
+tags = ["photoblog", "battambang", "modulkiri", "elephant", "koh rong samloem", "beach", "island", "adventure", "cambodia", "backpacking", "south east asia"]
 date = "2019-07-07T22:13:19-04:00"
-type = "draft"
 title = "The Cambodian Getaway [Part 1] - Mountains and Beaches"
 image = "https://live.staticflickr.com/65535/48235394446_c1f690b2ae_b.jpg"
 toc = false
 author = "Karan"
 +++
 
-I have been shirking my blogging duties of late. However, the trip to Cambodia earlier in 2019 was way too epic to be ignored. The pictures have come out quite nicely so I will make a photoblog of this one.
+I have been shirking my blogging duties of late. However, the trip to Cambodia earlier in 2019 was way too epic to be ignored. The pictures have come out quite nicely so I will make a photoblog of this one. This is the first part of a two blog series. Read the second one [here](/post/travel/2019-cambodia-part-2/).
+
+<hr />
+
+I was returning to Cambodia after two and a half years. While I had travelled the country extensively, there were a few parts that had been left out in the last go. This was to be Parul's first time to the country so we made a mixed itinerary of places that would interest us equally.
 
 ## Settling In
 
@@ -158,20 +161,20 @@ We walked down close to the time for sunset and took a seat in a nearby cafe to 
 
 ### Crocodile Farm
 
-The next day we made a cycle trip to the [Crocodile Farms](https://www.tripadvisor.com/Attraction_Review-g303666-d5859537-Reviews-Battambang_Crocodile_Farm-Battambang_Battambang_Province.html). This one had nothing on the one we had seen years back near Chennai but the fact that you could walk about anywhere added a sense of thrill to the experience. One really needed to watch his foot out here! :grimacing: :crocodile:
-
-<div class="postimg">
-  <a href="https://live.staticflickr.com/65535/48235260991_b13b6204cc_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235260991_b13b6204cc.jpg">
-  </a>
-  <em>Reptilian love</em>
-</div>
+The next day we made a cycle trip to the [Crocodile Farms](https://www.tripadvisor.com/Attraction_Review-g303666-d5859537-Reviews-Battambang_Crocodile_Farm-Battambang_Battambang_Province.html). This one was not as impressive as the [Crocodile Park](https://en.wikipedia.org/wiki/Madras_Crocodile_Bank_Trust) we had seen years back near Chennai but the fact that you could walk about anywhere added a sense of thrill to the experience. One really needed to watch his foot out here! :grimacing: :crocodile:
 
 <div class="postimg">
   <div class="video-container">
     <iframe src="https://player.vimeo.com/video/346953588" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   </div>
   <em>:grimacing:</em>
+</div>
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/48235260991_b13b6204cc_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235260991_b13b6204cc.jpg">
+  </a>
+  <em>Reptilian love</em>
 </div>
 
 <div class="postimg">
@@ -239,15 +242,34 @@ That night we left Battambang and headed east to the beautiful province of Mondu
 The next morning we were back on our way to Sen Monorom. We rented a motorbike the following morning and headed out to the countryside. We rode all the way till Bou Sra falls. The water in the falls was less than I remembered from the last time. This meant no swimming but we spent our time clicking pictures and fooling around. Parul asked a dressed up local girl for a picture since her clothes were more instagram friendly. :dancer:
 
 <div class="postimg">
-  <a href="https://live.staticflickr.com/65535/48235443676_56755b6e2d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235443676_56755b6e2d.jpg">
-  </a>
-  <em>For the love of Instagram</em>
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/48235443676_56755b6e2d_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235443676_56755b6e2d.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/48243393607_4d3d47c165_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/48243393607_4d3d47c165.jpg">
+      </a>
+    </div>
+  </div>
+  <em>Before & After - For the love of Instagram :joy:</em>
 </div>
+
 <div class="postimg">
-  <a href="https://live.staticflickr.com/65535/48235443211_5202228b66_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235443211_5202228b66.jpg">
-  </a>
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/48235442616_f3e0a843ec_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235442616_f3e0a843ec.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/48235443211_5202228b66_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235443211_5202228b66.jpg">
+      </a>
+    </div>
+  </div>
   <em>Not a lot of water, but still quite beautiful!</em>
 </div>
 
@@ -289,7 +311,7 @@ We saw the sun set from the Doh Kromom hill before heading back to the town.
       </a>
     </div>
   </div>
-  <em>Sunset at Doh Kromom</em>
+  <em>Sunset at Doh Kromom as viewed through Parul's pink sunglasses :smile:</em>
 </div>
 
 ### Elephant Tour
@@ -357,7 +379,7 @@ Once the elephants had enough of us humans, they went into the bushes to play wi
       </a>
     </div>
   </div>
-  <em>Water activities</em>
+  <em>Water activities (notice Parul's faithful red float :stuck_out_tongue:)</em>
 </div>
 
 A little while later, they did come and the first thing they did was take a dump in the pool. :shit: :joy: The mahouts cleaned up the mess and the tourists got in to play with the elephants in the water.
@@ -489,7 +511,7 @@ The next day we had an entire day to kill between checking out of the guesthouse
 
 ## Koh Rong Samloem
 
-We took an overnight bus to Sihanoukville with the usual change at Phnom Penh. Sihanoukville ahd changed a lot since the last time I had been here. There were many casinos and most of the places had Mandarin signboards. It had been developed immensely for Chinese tourists.
+We took an overnight bus to Sihanoukville with the usual change at Phnom Penh. Sihanoukville had changed a lot since the last time I had been here. There were many casinos and most of the places had Mandarin signboards. It had been developed immensely for Chinese tourists.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48235316541_af19ba7020_c.jpg" data-toggle="lightbox">
@@ -615,6 +637,13 @@ For a couple of hours we had the beach all to ourselves! We spent the entire mor
     </div>
   </div>
   <em>Day well spent :sunny:</em>
+</div>
+
+<div class="postimg">
+  <div class="video-container">
+    <iframe src="https://player.vimeo.com/video/346953638" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  </div>
+  <em>A teaser</em>
 </div>
 
 Driftwood Hostel, the only hostel that used to provide accomodation on the Clearwater Bay, was closed and we learnt that there was a casino that was coming up on the bay. We were lucky enough to experience the bay before the casino ruined it.
@@ -794,3 +823,5 @@ Eventually it was time to say goodbye to Koh Rong Samloem. But we had more time 
   </a>
   <em>Time to say goodbye</em>
 </div>
+
+Read on about the remainder of our trip [here](/post/travel/2019-cambodia-part-2/).
