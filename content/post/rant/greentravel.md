@@ -3,7 +3,7 @@ categories = ["rant"]
 tags = []
 date = "2019-06-25T23:37:42-04:00"
 type = "draft"
-title = "Green travel"
+title = "Travelling Green - Limiting your Environmental Impact on the Road"
 image = "https://live.staticflickr.com/65535/48130123237_379cc0e690_b.jpg"
 toc = false
 author = "Parul"
@@ -23,8 +23,6 @@ It is easy to believe that the plastic menace is an institutional thing; that if
 Everyone must have heard these three terms quite often now. But somehow when it comes to plastic or management of other waste, we conveniently jump to the last R : **RECYCLE**. But it is you who can **REDUCE** the amount of waste you generate. It is you who can stop using one time use plastic bags and find out ways to **REUSE** plastic trash. You, my friend, are the key.
 
 Intuitively as well, it is not a very difficult problem to grasp. If humanity produces more waste than it can manage, that waste will find a way into our oceans, rivers, valleys, forests or anything else that you hold sacred. Are we are creating far more waste than we can manage. Some of us are fortunate enough to live in places where they can happily ignore the fact. For some others, the fact is a part of their everyday lives.
-
-[TODO plastic waste generation by year]
 
 
 ## Some Facts
@@ -52,15 +50,6 @@ The use of plastic is not just for you or for your future generations it is also
 - May, 2019, Japan. [Plastic bags found in dead deer at Japan park](https://www.straitstimes.com/asia/east-asia/plastic-bags-found-in-dead-deer-at-japan-park). A 38 Kg deer had 4.3 Kg of plastic bags and snack wrappers in its stomach.
 - June, 2019, Greece. [A 5.3-meter (17-foot) young sperm whale swallowed 135 plastic items](https://wtop.com/animals-pets/2019/06/study-lethal-plastic-trash-now-common-in-greeces-whales/) weighing a total of 3.2 kilograms (7 pounds). This blocked its stomach, grossly distending it, while the animal itself was emaciated and had starved to death.
 
-<div class="postimg vertimg">
-  <a href="https://www.nationalgeographic.com/environment/2019/04/dead-pregnant-whale-plastic-italy" data-toggle="lightbox">
-    <img class="lazy" data-src="https://www.nationalgeographic.com/environment/2019/04/dead-pregnant-whale-plastic-italy/">
-  </a>
-  <em>The three R's</em>
-</div>
-
-[TODO check image]
-
 
 ## Managing the Problem
 
@@ -70,9 +59,7 @@ A lot of us have started growing cognizant of the problem of waste that is stari
 
 **Problem**
 
-[TODO time of degradation]
-
-No one loves a plastic bottle protruding out of the sand on a beach. Or on a beautiful mountain trail. Or maybe in a jungle. Basically anywhere it shouldn't be. Let's think about why this recyclable plastic bottle is there in the first place? It's probably because it never reached a recycling station. While we might not be able to change to local governance's focus or priority for fund management, we can make sure these bottles don't need to be there at all. We can make sure, no one needs to be appointed for the job of cleaning plastic waste off the beaches and mountains. Blaming someone for not doing his job will certainly not solve this issue. But we do need water to drink. So what do we do?
+No one loves a plastic bottle protruding out of the sand on a beach. Or on a beautiful mountain trail. Or maybe in a jungle. Basically anywhere it shouldn't be. Let's think about why this recyclable plastic bottle is there in the first place? It's probably because it never reached a recycling station. And these bottles are not going to degrade in another 450 years! But we do need water to drink. So what do we do?
 
 **Alternatives**
 
@@ -98,13 +85,11 @@ _120*11 = 1320 bottles!_ **THAT'S A LOT!**
 </blockquote>
 
 <div class="postimg vertimg">
-  <a href="https://live.staticflickr.com/65535/48086920003_9620a88a2d_b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48086920003_9620a88a2d_b.jpg">
+  <a href="https://live.staticflickr.com/65535/48384882232_96e24b7ba9_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/48384882232_96e24b7ba9.jpg">
   </a>
   <em>Our reusable bottles on the beach. A sight no one minds.</em>
 </div>
-
-[TODO image]
 
 
 ### Shampoo Sachets
@@ -204,7 +189,7 @@ Replace them with one reusable menstrual cup!
 </div>
 
 
-### Straws
+### Plastic Straws
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48141365816_b5d305a675_b_c.jpg" data-toggle="lightbox">
@@ -235,20 +220,20 @@ We tried a few things and it will be wrong to say everything works. Here are the
 
 There is no possible math I can do for this. So I leave it on you to think upon what difference can be made.
 
-[TODO]
+The current estimate for US stands at 1.6 straws per person per day. That's almost _600_ straws per person annually.
 
 
-### Plastic and Single Use Cups
+### Single Use Cups
 
 **Problem**
 
-There can be a debate whether plastic glasses are recyclable or not but like I mentioned again that is not a problem you and I can solve. We cannot expect the restaurant we are buying a cup of coffee from to manage their waste in the interest of the planet! And it is not just the plastic cups that are a problem. Single use paper cups contain a small amount of plastic which makes the composting and recycling of these cups difficult.
+There can be a debate whether plastic cups are recyclable or not but like I mentioned again that is not a problem you and I can solve. We cannot expect the restaurant we are buying a cup of coffee from to manage their waste in the interest of the planet! And it is not just the plastic cups that are a problem. Single use paper cups contain a small amount of plastic which makes the composting and recycling of these cups difficult.
 
 **Alternatives**
 
 * Get coffee mugs for your daily dose of caffine. Many cafes in US actually give you a discount if you hand over your own mugs to them! They look very cool too and shows you care for important things in life. [Here](https://www.amazon.in/s?k=insulated+coffee+travel+mug&crid=3SB9Y9JUVW7MS&sprefix=insulated+coffee%2Caps%2C402&ref=nb_sb_ss_i_5_16) are a few options for the same online. A lot of coffee shops also sell these insulated mugs so if you are a brand freak you can even get a mug to support the brand!
 
-* Bamboo glasses, we got ours from Ziro Music Festival and it works wonders! A bunch of these can be used in a house party as well.
+* Bamboo cups, we got ours from Ziro Music Festival and it works wonders! A bunch of these can be used in a house party as well.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48310789447_0ed4d48ba9_c_c.jpg" data-toggle="lightbox">
@@ -257,7 +242,7 @@ There can be a debate whether plastic glasses are recyclable or not but like I m
   <em>Reusable Bamboo mug</em>
 </div>
 
-* Reusable plastic glasses, we have one of that too. We don't remember the last time we used a disposable glass for water or alcohol.
+* Reusable plastic cups, we have one of that too. We don't remember the last time we used a disposable glass for water or alcohol.
 
 <div class="postimg">
   <div class="grid">
@@ -290,7 +275,7 @@ I would put a conservative estimate of _500_ plastic and single use cups per per
 
 **Problem**
 
-And in the end, the biggest demon of all. That one time use plastic bag! To be honest it doesn't really matter how long it takes for plastic to decompose, if it's not in your lifetime it is enough to be scared of.
+And in the end, the biggest demon of all. That one time use plastic bag! To be honest it doesn't really matter how long it takes for plastic to decompose, if it's not in your lifetime it is enough to be scared of. Add on to it the horror of these bags choking animals on land and in seas.
 
 When we were in the North-Eastern part of India and while buying things if we used to deny a plastic bag for taking things in the locals used to thank us! It felt heartening that they realized the horror of the bags. This is a common trend in most rural parts we have been to. Over time people have started agreeing to the convenience that this evil brings.
 
@@ -310,12 +295,13 @@ Advantages of a tote bag:
 
 **Difference You Can Make**
 
-[TODO]
+This one is very difficult to put numbers on as well. Going by what we have seen recently in cities and states that have not banned plastic bags, you use these bags for every purchase you make, either in a grocery store or a fancy uptown garment shop.
+
+The world average stands at a staggering _700_ plastic bags per capita per annum. Of this only _1%_ is recycled. Rest is discarded in many ways and around _10%_ finds its way into the oceans and the food chain.
+
 
 <hr/>
 
-Finally, coming to the point of recycling and how can we help solve that problem. Just like most of us segregate our garbage at home many of the hotels, restaurants and hostels today have segregation of the garbage as recyclable and compost. If we just keep an eye out for the same and help them manage their waste I think we would have done our part.
+This rant was not in order to enlighten people about the ill effects of plastic. With all that is going around, if people care about things, there is enough to tell them what a big crisis we are facing. This rant was for those who wish to start reducing their plastic footprint and find it too much of a hassle. Or those who think that it's too much of a hassle while travelling.
 
-[TODO conclude]
-
-<hr/>
+Do let us know if you know of and practice any other way of reducing your plastic footprint and amount of waste generation. We'd be happy to adapt it into our travel regime. :smile:
