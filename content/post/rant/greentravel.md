@@ -108,12 +108,12 @@ Besides being a one time use, non recyclable plastic(which is a big thing in its
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
-    <a href="https://live.staticflickr.com/65535/48235238127_32a486eff6_b_c.jpg" data-toggle="lightbox">
+    <a href="https://live.staticflickr.com/65535/48235238127_32a486eff6_c.jpg" data-toggle="lightbox">
       <img class="lazy" data-src="https://live.staticflickr.com/65535/48235238127_32a486eff6_b.jpg">
     </a>
     </div>
     <div class="grid-column-50">
-    <a href="https://live.staticflickr.com/65535/48235238402_70f187fe0f_b_c.jpg" data-toggle="lightbox">
+    <a href="https://live.staticflickr.com/65535/48235238402_70f187fe0f_c.jpg" data-toggle="lightbox">
       <img class="lazy" data-src="https://live.staticflickr.com/65535/48235238402_70f187fe0f_b.jpg">
     </a>
     </div>
@@ -181,7 +181,7 @@ That's 180 sanitary napkin a year, not much of a deal but multiply that number b
 Replace them with one reusable menstrual cup!
 
 <div class="postimg">
-  <a href="https://live.staticflickr.com/65535/48310682856_3012d04cb0_c_c.jpg" data-toggle="lightbox">
+  <a href="https://live.staticflickr.com/65535/48310682856_3012d04cb0_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/48310682856_3012d04cb0_c.jpg">
   </a>
   <em>Menstrual cup and Biodegradable sanitary napkin </em>
@@ -191,7 +191,7 @@ Replace them with one reusable menstrual cup!
 ### Plastic Straws
 
 <div class="postimg vertimg">
-  <a href="https://live.staticflickr.com/65535/48141365816_b5d305a675_b_c.jpg" data-toggle="lightbox">
+  <a href="https://live.staticflickr.com/65535/48141365816_b5d305a675_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/48141365816_b5d305a675_b.jpg">
   </a>
   <em>Stop sucking</em>
@@ -235,7 +235,7 @@ There can be a debate whether plastic cups are recyclable or not but like I ment
 * Bamboo cups, we got ours from Ziro Music Festival and it works wonders! A bunch of these can be used in a house party as well.
 
 <div class="postimg vertimg">
-  <a href="https://live.staticflickr.com/65535/48310789447_0ed4d48ba9_c_c.jpg" data-toggle="lightbox">
+  <a href="https://live.staticflickr.com/65535/48310789447_0ed4d48ba9_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/48310789447_0ed4d48ba9_c.jpg">
   </a>
   <em>Reusable Bamboo mug</em>
@@ -246,12 +246,12 @@ There can be a debate whether plastic cups are recyclable or not but like I ment
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
-    <a href="https://live.staticflickr.com/65535/48310789342_953673bb13_c_c.jpg" data-toggle="lightbox">
+    <a href="https://live.staticflickr.com/65535/48310789342_953673bb13_c.jpg" data-toggle="lightbox">
       <img class="lazy" data-src="https://live.staticflickr.com/65535/48310789342_953673bb13_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
-    <a href="https://live.staticflickr.com/65535/48310675881_8bcc0f9aeb_c_c.jpg" data-toggle="lightbox">
+    <a href="https://live.staticflickr.com/65535/48310675881_8bcc0f9aeb_c.jpg" data-toggle="lightbox">
       <img class="lazy" data-src="https://live.staticflickr.com/65535/48310675881_8bcc0f9aeb_c.jpg">
     </a>
     </div>
