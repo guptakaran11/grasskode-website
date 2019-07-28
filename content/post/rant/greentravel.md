@@ -1,9 +1,8 @@
 +++
 categories = ["rant"]
-tags = []
-date = "2019-06-25T23:37:42-04:00"
-type = "draft"
-title = "Travelling Green - Limiting your Environmental Impact on the Road"
+tags = ["say no to plastic","one time plastic","go green","green travel","reduce","reuse","recycle"]
+date = "2019-07-26T23:37:42-04:00"
+title = "Travelling Green - Limiting your Environmental Impact"
 image = "https://live.staticflickr.com/65535/48130123237_379cc0e690_b.jpg"
 toc = false
 author = "Parul"
@@ -22,7 +21,7 @@ It is easy to believe that the plastic menace is an institutional thing; that if
 
 Everyone must have heard these three terms quite often now. But somehow when it comes to plastic or management of other waste, we conveniently jump to the last R : **RECYCLE**. But it is you who can **REDUCE** the amount of waste you generate. It is you who can stop using one time use plastic bags and find out ways to **REUSE** plastic trash. You, my friend, are the key.
 
-Intuitively as well, it is not a very difficult problem to grasp. If humanity produces more waste than it can manage, that waste will find a way into our oceans, rivers, valleys, forests or anything else that you hold sacred. Are we are creating far more waste than we can manage. Some of us are fortunate enough to live in places where they can happily ignore the fact. For some others, the fact is a part of their everyday lives.
+Intuitively as well, it is not a very difficult problem to grasp. If humanity produces more waste than it can manage, that waste will find a way into our oceans, rivers, valleys, forests or anything else that you hold sacred. And we are creating far more waste than we can manage. Some of us are fortunate enough to live in places where they can happily ignore the fact. For some others, the fact is a part of their everyday lives.
 
 
 ## Some Facts
@@ -291,7 +290,21 @@ Advantages of a tote bag:
 * They are perfect souvenirs (I have 2 tote bags, after a very strict limited shopping policy during travels :stuck_out_tongue:)
 * You can finally get rid of that bag of plastic which is filled with plastic bags in your house.
 
-< TODO Add my pictures with the two tote bags>
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+    <a href="https://live.staticflickr.com/65535/48391474887_8b3d1452ee_c.jpg" data-toggle="lightbox">
+      <img class="lazy" data-src="https://live.staticflickr.com/65535/48391474887_8b3d1452ee_c.jpg">
+    </a>
+    </div>
+    <div class="grid-column-50">
+    <a href="https://live.staticflickr.com/65535/48391468602_5796112151_c.jpg" data-toggle="lightbox">
+      <img class="lazy" data-src="https://live.staticflickr.com/65535/48391468602_5796112151_c.jpg">
+    </a>
+    </div>
+  </div>
+  <em>Tote bag all the way</em>
+</div>
 
 **Difference You Can Make**
 
@@ -303,5 +316,7 @@ The world average stands at a staggering _700_ plastic bags per capita per annum
 <hr/>
 
 This rant was not in order to enlighten people about the ill effects of plastic. With all that is going around, if people care about things, there is enough to tell them what a big crisis we are facing. This rant was for those who wish to start reducing their plastic footprint and find it too much of a hassle. Or those who think that it's too much of a hassle while travelling.
+
+Of course, it is extremely difficult to stop generating plastic waste *completely* but if buying every single bottle of water or every single one time use plastic packaging hurts we are in the right direction. If we know the amount of waste we are generating we are in the right direction. If waste is generated in an amount that can be managed there is hope.
 
 Do let us know if you know of and practice any other way of reducing your plastic footprint and amount of waste generation. We'd be happy to adapt it into our travel regime. :smile:
