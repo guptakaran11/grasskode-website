@@ -8,7 +8,7 @@ toc = false
 author = "Parul"
 +++
 
-Thrash. One of those things that are the most commonplace in our daily lives. Most of us despise it but we would not like to think about it. Is it not worthy of our thoughts? Plastic is one demon that has turned things around recently. #planetvsplastic, other popular hashtags on social media and [celebrity involvement](https://www.instagram.com/p/BjYIQGFBbny/) have brought forth the problems that non bio-degradable garbage and plastics in particular pose.
+Trash. One of those things that are the most commonplace in our daily lives. Most of us despise it but we would not like to think about it. Is it not worthy of our thoughts? Plastic is one demon that has turned things around recently. #planetvsplastic, other popular hashtags on social media and [celebrity involvement](https://www.instagram.com/p/BjYIQGFBbny/) have brought forth the problems that non bio-degradable garbage and plastics in particular pose.
 
 It is easy to believe that the plastic menace is an institutional thing; that if the government and industry are more efficient in recycling and managing waste, things will get better. We usually do not see the role that we can play in the big picture. But how so? We can obviously not recycle plastic at home! And whatever plastic we do use, if waste management is done properly at an institutional level then things would obviously not be this messy. So how exactly can we make a difference?
 
