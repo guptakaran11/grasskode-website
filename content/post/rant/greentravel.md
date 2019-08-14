@@ -1,15 +1,14 @@
 +++
 categories = ["rant"]
-tags = []
-date = "2019-06-25T23:37:42-04:00"
-type = "draft"
-title = "Travelling Green - Limiting your Environmental Impact on the Road"
+tags = ["say no to plastic","one time plastic","go green","green travel","reduce","reuse","recycle"]
+date = "2019-07-26T23:37:42-04:00"
+title = "Travelling Green - Limiting your Environmental Impact"
 image = "https://live.staticflickr.com/65535/48130123237_379cc0e690_b.jpg"
 toc = false
 author = "Parul"
 +++
 
-Thrash. One of those things that are the most commonplace in our daily lives. Most of us despise it but we would not like to think about it. Is it not worthy of our thoughts? Plastic is one demon that has turned things around recently. #planetvsplastic, other popular hashtags on social media and [celebrity involvement](https://www.instagram.com/p/BjYIQGFBbny/) have brought forth the problems that non bio-degradable garbage and plastics in particular pose.
+Trash! One of those things that are the most commonplace in our daily lives. Most of us despise it but we would not like to think about it. Is it not worthy of our thoughts? Plastic is one demon that has turned things around recently. #planetvsplastic, other popular hashtags on social media and [celebrity involvement](https://www.instagram.com/p/BjYIQGFBbny/) have brought forth the problems that non bio-degradable garbage and plastics in particular pose.
 
 It is easy to believe that the plastic menace is an institutional thing; that if the government and industry are more efficient in recycling and managing waste, things will get better. We usually do not see the role that we can play in the big picture. But how so? We can obviously not recycle plastic at home! And whatever plastic we do use, if waste management is done properly at an institutional level then things would obviously not be this messy. So how exactly can we make a difference?
 
@@ -22,7 +21,7 @@ It is easy to believe that the plastic menace is an institutional thing; that if
 
 Everyone must have heard these three terms quite often now. But somehow when it comes to plastic or management of other waste, we conveniently jump to the last R : **RECYCLE**. But it is you who can **REDUCE** the amount of waste you generate. It is you who can stop using one time use plastic bags and find out ways to **REUSE** plastic trash. You, my friend, are the key.
 
-Intuitively as well, it is not a very difficult problem to grasp. If humanity produces more waste than it can manage, that waste will find a way into our oceans, rivers, valleys, forests or anything else that you hold sacred. Are we are creating far more waste than we can manage. Some of us are fortunate enough to live in places where they can happily ignore the fact. For some others, the fact is a part of their everyday lives.
+Intuitively as well, it is not a very difficult problem to grasp. If humanity produces more waste than it can manage, that waste will find a way into our oceans, rivers, valleys, forests or anything else that you hold sacred. And we are creating far more waste than we can manage. Some of us are fortunate enough to live in places where they can happily ignore the fact. For some others, the fact is a part of their everyday lives.
 
 
 ## Some Facts
@@ -109,12 +108,12 @@ Besides being a one time use, non recyclable plastic(which is a big thing in its
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
-    <a href="https://live.staticflickr.com/65535/48235238127_32a486eff6_b_c.jpg" data-toggle="lightbox">
+    <a href="https://live.staticflickr.com/65535/48235238127_32a486eff6_c.jpg" data-toggle="lightbox">
       <img class="lazy" data-src="https://live.staticflickr.com/65535/48235238127_32a486eff6_b.jpg">
     </a>
     </div>
     <div class="grid-column-50">
-    <a href="https://live.staticflickr.com/65535/48235238402_70f187fe0f_b_c.jpg" data-toggle="lightbox">
+    <a href="https://live.staticflickr.com/65535/48235238402_70f187fe0f_c.jpg" data-toggle="lightbox">
       <img class="lazy" data-src="https://live.staticflickr.com/65535/48235238402_70f187fe0f_b.jpg">
     </a>
     </div>
@@ -182,7 +181,7 @@ That's 180 sanitary napkin a year, not much of a deal but multiply that number b
 Replace them with one reusable menstrual cup!
 
 <div class="postimg">
-  <a href="https://live.staticflickr.com/65535/48310682856_3012d04cb0_c_c.jpg" data-toggle="lightbox">
+  <a href="https://live.staticflickr.com/65535/48310682856_3012d04cb0_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/48310682856_3012d04cb0_c.jpg">
   </a>
   <em>Menstrual cup and Biodegradable sanitary napkin </em>
@@ -192,7 +191,7 @@ Replace them with one reusable menstrual cup!
 ### Plastic Straws
 
 <div class="postimg vertimg">
-  <a href="https://live.staticflickr.com/65535/48141365816_b5d305a675_b_c.jpg" data-toggle="lightbox">
+  <a href="https://live.staticflickr.com/65535/48141365816_b5d305a675_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/48141365816_b5d305a675_b.jpg">
   </a>
   <em>Stop sucking</em>
@@ -236,7 +235,7 @@ There can be a debate whether plastic cups are recyclable or not but like I ment
 * Bamboo cups, we got ours from Ziro Music Festival and it works wonders! A bunch of these can be used in a house party as well.
 
 <div class="postimg vertimg">
-  <a href="https://live.staticflickr.com/65535/48310789447_0ed4d48ba9_c_c.jpg" data-toggle="lightbox">
+  <a href="https://live.staticflickr.com/65535/48310789447_0ed4d48ba9_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/48310789447_0ed4d48ba9_c.jpg">
   </a>
   <em>Reusable Bamboo mug</em>
@@ -247,12 +246,12 @@ There can be a debate whether plastic cups are recyclable or not but like I ment
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
-    <a href="https://live.staticflickr.com/65535/48310789342_953673bb13_c_c.jpg" data-toggle="lightbox">
+    <a href="https://live.staticflickr.com/65535/48310789342_953673bb13_c.jpg" data-toggle="lightbox">
       <img class="lazy" data-src="https://live.staticflickr.com/65535/48310789342_953673bb13_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
-    <a href="https://live.staticflickr.com/65535/48310675881_8bcc0f9aeb_c_c.jpg" data-toggle="lightbox">
+    <a href="https://live.staticflickr.com/65535/48310675881_8bcc0f9aeb_c.jpg" data-toggle="lightbox">
       <img class="lazy" data-src="https://live.staticflickr.com/65535/48310675881_8bcc0f9aeb_c.jpg">
     </a>
     </div>
@@ -291,7 +290,21 @@ Advantages of a tote bag:
 * They are perfect souvenirs (I have 2 tote bags, after a very strict limited shopping policy during travels :stuck_out_tongue:)
 * You can finally get rid of that bag of plastic which is filled with plastic bags in your house.
 
-< TODO Add my pictures with the two tote bags>
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+    <a href="https://live.staticflickr.com/65535/48391474887_8b3d1452ee_c.jpg" data-toggle="lightbox">
+      <img class="lazy" data-src="https://live.staticflickr.com/65535/48391474887_8b3d1452ee_c.jpg">
+    </a>
+    </div>
+    <div class="grid-column-50">
+    <a href="https://live.staticflickr.com/65535/48391468602_5796112151_c.jpg" data-toggle="lightbox">
+      <img class="lazy" data-src="https://live.staticflickr.com/65535/48391468602_5796112151_c.jpg">
+    </a>
+    </div>
+  </div>
+  <em>Tote bag all the way</em>
+</div>
 
 **Difference You Can Make**
 
@@ -303,5 +316,7 @@ The world average stands at a staggering _700_ plastic bags per capita per annum
 <hr/>
 
 This rant was not in order to enlighten people about the ill effects of plastic. With all that is going around, if people care about things, there is enough to tell them what a big crisis we are facing. This rant was for those who wish to start reducing their plastic footprint and find it too much of a hassle. Or those who think that it's too much of a hassle while travelling.
+
+Of course, it is extremely difficult to stop generating plastic waste *completely* but if buying every single bottle of water or every single one time use plastic packaging hurts we are in the right direction. If we know the amount of waste we are generating we are in the right direction. If waste is generated in an amount that can be managed there is hope.
 
 Do let us know if you know of and practice any other way of reducing your plastic footprint and amount of waste generation. We'd be happy to adapt it into our travel regime. :smile:
