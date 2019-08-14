@@ -2,7 +2,6 @@
 categories = ["rant"]
 tags = ["philosophy", "slow", "travel"]
 date = "2019-08-13T15:25:26-05:00"
-type = "draft"
 title = "Slow"
 image = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Total_internal_reflection_of_Chelonia_mydas.jpg/1440px-Total_internal_reflection_of_Chelonia_mydas.jpg"
 toc = false
@@ -13,7 +12,7 @@ author = "Karan"
 
 _"Two months in Mexico! What are you guys planning to do for that long?"_
 
-I would usually shrug my shoulders and give a sheepish smile at the question whenever it came up. Yes, two months seems like a long time but once we had started researching, it actually felt somewhat short. In the last 40 days that we have been in Mexico, we have come to know that 2 months is not even enough to scratch the surface of this huge country. We spent 5 months motorbiking in North East India and have not even finished the seven sisters. I guess we travel slow.
+I would usually shrug my shoulders and give a sheepish smile at the question whenever it came up. Yes, two months seems like a long time but once we started researching, it actually felt somewhat short. In the last 40 days that we have been in Mexico, we have come to know that 2 months is not even enough to scratch the surface of this huge country. We spent 5 months motorbiking in North East India and have not even finished the seven sisters. I guess we travel slow.
 
 Parul and I have been drifting into this style of travel. It started as 3 week itineraries for countries where we planned to spend our annual vacation ([Myanmar](/tags/myanmar/) and [Indonesia](/tags/indonesia/)). By then I had also backpacked in South East Asia for a few months and the philosophy of travelling slowly was taking a subtle form in my mind. We deliberately added a few days of buffer in our itineraries to allow us time to spend in places we liked. We avoided all guided tours to save on expenses and took the most basic transportation. This took days at times but awarded us with beautiful scenery and a cultural touch that is difficult to beat. Sometimes a recommendation from a fellow diver on a bus would add a new destination to our list. Or maybe we spent less time in a place than we had initially thought because it felt too "touristy" (lacking in local culture). Extending our stays by a few days started becoming a norm; spending a few days in a village that we liked was completely acceptable. Spending a day sitting and reading a book in the balcony of a pretty room in a hill town was a thing to do that no online research ever prepared us for. We were in no rush to cover everything that we had looked up beforehand. We were happy being happy at the state of things as they were. The philosophy of [slow travel](https://www.slowmovement.com/slow_travel.php) took shape organically in our brains.
 
@@ -53,9 +52,9 @@ This is still a naive philosophy for me and I am trying to find my way about it.
 
 I have found a big value in slowing down. It has given me time to think, more than I would consider healthy for a person like me :joy: It has allowed me to question things that I was ignoring otherwise. For me, it was the question of the numerical nature of our lives. For someone else, it might be a different question altogether. The idea is to find time to ask these questions, rather than be brain-dead enough to find solace in _neflix-and-chill_ at the end of a hectic week. Allow yourself course correction once in a while.
 
-A lot of practical things help in the process of slowing down. These might change from person to person but here is a bunch of things that have helped me (bullet pointed because that is essential :stuck_out_tongue)
+A lot of practical things help in the process of slowing down. These might change from person to person but here is a bunch of things that have helped me (bullet pointed because that is essential :stuck_out_tongue:)
 
-* **Disconnect** As often you can and whenever you can. One of the reasons we live life so fast is that small device that every one of us carries in our pockets. It allows us so many possibilities that we are naturally inclined to going fast.
+* **Disconnect** As often you can and whenever you can. One of the reasons we live life so fast is that small device that every one of us carries in our pockets. It allows us so many possibilities that we are naturally inclined to going fast. My phone died on me twice in the last year. It was during those days when I did not have it that I realised that I did not even need it.
 
 * **Me Time** Just you. No sweethearts. No work. No correspondences. No smart device. Perhaps a cup of coffee. Or cook a meal. Or listen to a vinyl as you smoke a Cuban. Maybe draw something. Maybe read a book. Or just daydream. Allow yourself the freedom.
 
