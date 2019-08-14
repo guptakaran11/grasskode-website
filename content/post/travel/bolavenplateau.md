@@ -1,7 +1,7 @@
 +++
 categories = ["travel"]
 tags = ["pakse", "laos", "south east asia", "backpacking", "bolaven plateau", "the loop", "pakse loop"]
-date = "2019-08-12T18:33:46-05:00"
+date = "2019-08-13T18:33:46-05:00"
 type = "draft"
 title = "The Bolaven Plateau"
 image = "https://live.staticflickr.com/65535/48368839526_c1ffaf7a74_h.jpg"
@@ -9,7 +9,7 @@ toc = true
 author = "Parul"
 +++
 
-After the lazy [Don Det](http://grasskode.xyz/post/travel/dondet/) it was time for some activity. We had met a lot of backpackers in Cambodia and in Don Det who were talking about biking on the loop. We had the same plans. There was a certain Bolaven Plateau which promised of waterfalls, coffee plantations and a good ride. We had been away from our bikes for a while now and I was kinda missing them a lot too. In the light of all this biking seemed like a brilliant idea. The town at the start of the loop was Pakse which was going to be our next stop.
+After the lazy [Don Det](/post/travel/dondet/) it was time for some activity. We had met a lot of backpackers in Cambodia and in Don Det who were talking about biking on the loop. We had the same plans. There was a certain Bolaven Plateau which promised of waterfalls, coffee plantations and a good ride. We had been away from our bikes for a while now and I was kinda missing them a lot too. In the light of all this biking seemed like a brilliant idea. The town at the start of the loop was Pakse which was going to be our next stop.
 
 ## Getting ready
 
@@ -723,7 +723,7 @@ After enjoying this waterfall it was time to go to the next one. We picked up ou
 
 We reached Tad Fan to find out that we need to pay for the parking and the entry fee again. After a long discussion we decided to go to Tad Champee as we could only see Tad Fan from a view point, couldn't hike down and obviously we couldn't swim if we were not allowed to go down :stuck_out_tongue:.
 
-We reached Tad Champee with black clouds hovering above. We parked our bike and paid the parking fee. There are a few tiny restaurants here which also supplied a life jacket. We were the only ones here which cheered us up. We fetched ourselves one life jacket and quickly ran off to the waterfall. The first look reminded us of [Krang Shuri](http://grasskode.xyz/post/travel/where-is-north-east/meghalaya/#krang-shuri) in Shillong(India).
+We reached Tad Champee with black clouds hovering above. We parked our bike and paid the parking fee. There are a few tiny restaurants here which also supplied a life jacket. We were the only ones here which cheered us up. We fetched ourselves one life jacket and quickly ran off to the waterfall. The first look reminded us of [Krang Shuri](/post/travel/where-is-north-east/meghalaya/#krang-shuri) in Shillong(India).
 
   <div class="postimg">
   <div class="grid">
