@@ -1,7 +1,7 @@
 +++
 categories = ["travel"]
 tags = ["pakse", "laos", "south east asia", "backpacking", "bolaven plateau", "the loop", "pakse loop"]
-date = "2019-08-13T18:33:46-05:00"
+date = "2019-08-12T18:33:46-05:00"
 type = "draft"
 title = "The Bolaven Plateau"
 image = "https://live.staticflickr.com/65535/48368839526_c1ffaf7a74_h.jpg"
