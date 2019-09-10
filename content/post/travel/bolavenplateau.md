@@ -56,7 +56,7 @@ The session ended and we were undecided on how long we want to be on the loop. W
 </div>
 
 
-## Do we Want to do This?
+## Do We Want To Do This?
 
 The next day we packed up one of our daypacks with clothes and another dry bag with some stuff and left everything else in Miss Noy's storage. Since we were going to be on the road and Yves had scared us a bit about one patch where there is a possibility of being mugged we decided to leave our laptops and camera in the storage. We handed over our passports, signed a disclaimer saying everything was our responsibility and started off.
 
@@ -123,10 +123,10 @@ Our first stop was [Mr. Vieng's coffee Homestay](https://www.tripadvisor.com/Hot
 We sat here and discussed how we were not very impressed so far. I mean the road was not challenging. We were crossing one village after the other in the sun without any breathtaking views to compensate for the heat. After spending enough time at the coffee shop we moved on to reach Tad Hang village and decided to stay at [Mama Pap](https://www.tripadvisor.com/Restaurant_Review-g11046564-d4274963-Reviews-Mama_Pap_s-Tad_Lo_Salavan_Province.html). It was a very basic dorm with mosquito nets. We dumped our bags and headed out to Tad Hang waterfall.
 
 <blockquote>
-Pro Tip: The swimming costume of Laos for women is a T-shirt and shorts. Something Yves had suggested in order to respect locals. They were not used to seeing women in bikinis and unless you want to be stared at it's a good idea to respect the dress code. Men can wear whatever they want.
+Pro Tip: The swimming costume of Laos for women is a T-shirt and shorts. Something Yves had suggested in order to respect local customs. They were not used to seeing women in bikinis and unless you want to be stared at it's a good idea to respect the dress code. Men can wear whatever they want, no one stares at them anyway :grin:
 </blockquote>
 
-The waterfall was full of locals enjoying themselves. There were two ways to get up, close and personal with the waterfall. One right before the bridge over Tad Hang on the left which is free of cost and other via a resort after crossing the bridge on paying a fee. We took the former. We reached the base of the waterfall and it was a no brainer that we were going to take a dip :grin:. Karan even took a dip in one of the multiple sink holes in the pools of the waterfall that one of the locals insisted he should :grin:
+The waterfall was full of locals enjoying themselves. There were two ways to get up, close and personal with the waterfall. One right before the bridge over Tad Hang on the left which is free of cost and other via a resort after crossing the bridge on paying a fee. We took the former. We reached the base of the waterfall and it was a no brainer that we were going to take a dip :grin:. Karan even took a dip in one of the multiple sink holes in the pools of the waterfall after one of the locals insisted he should :grin:
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48467883361_124b45bcf3_c.jpg" data-toggle="lightbox">
@@ -159,7 +159,7 @@ The waterfall was full of locals enjoying themselves. There were two ways to get
 
 ### Tad Lo Waterfall
 
-We had also heard there were elephants that come to take a bath sometime near the waterfall but we did not make any special efforts to see them. After frolicking enough in Tad Hang we decided to go to Tad Lo as well. It was at a short walk from Tad Hang. After about 15 mins or so on the main road and then on the walking trail path for another 5 mins we reached the bigger waterfall, Tad Lo.
+After frolicking enough in Tad Hang we decided to go to Tad Lo as well. It was at a short walk from Tad Hang. After about 15 mins or so on the main road and then on the walking trail path for another 5 mins we reached the bigger waterfall, Tad Lo.
 
 <div class="postimg">
   <div class="video-container">
@@ -237,7 +237,7 @@ The villages became sparse and the traffic thinned down. It rained a bit as well
 
 ### Tad Hua Khon waterfall
 
-We reached P&S Garden well in time. This place was something that Yves had suggested. It seemed like a very cool place and made us feel glad about taking the big loop. The restaurant was very rustic. It was in a jungle and there were 5 dogs and 2 pups as well! Perfect!. We decided to go and check out the waterfall first. The walk to the waterfall was through a path in the jungle which very well maintained by this property. There were many tiny pools of water and so many little streams under the walkway. It was just so lovely.
+We reached P&S Garden well in time. It seemed like a very cool place and made us feel glad once again about taking the big loop. The restaurant was very rustic. It was in a jungle and there were 5 dogs and 2 pups as well! Perfect!. We decided to go and check out the waterfall first. The walk to the waterfall was through a path in the jungle which very well maintained by this property. There were many tiny pools of water and so many little streams under the walkway. It was just so lovely.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48369055792_251ca4b8d3_c.jpg" data-toggle="lightbox">
@@ -273,7 +273,7 @@ We sat down to breathe and take it all in. We were the only ones here. We were t
   <em>Priceless buffoonery!</em>
 </div>
 
-After we settled down for some coffee and tea the doggies melted our hearts. We decided to check out the camp site which was oh so cool. There were two raised and covered platforms which had multiple tents setup. These raised surface were close to the top of the waterfall. There were kids jumping in the puddles made by rain water probably. There were hammocks under these platforms. There were charging points as well. There were decent lights all around and most important of all there were toilets and shower rooms. [Glamping](https://en.wikipedia.org/wiki/Glamping) is the term for this I guess. Staying in a camp (or not) is usually my call because I am the picky one but there was no doubt here that we were camping tonight. Plus we were the only ones there so it was all the more fun.
+After we settled down for some coffee and tea the doggies melted our hearts. We decided to check out the camp site which was oh so cool. There were two raised and covered platforms which had multiple tents setup. These raised surface were close to the top of the waterfall where kids jumping in puddles. There were hammocks under these platforms. There were charging points as well. There were decent lights all around and most important of all there were toilets and shower rooms. [Glamping](https://en.wikipedia.org/wiki/Glamping) is the term for this I guess. Staying in a camp (or not) is usually my call because I am the picky one but there was no doubt here that we were camping here tonight. Plus we were the only ones there so it was all the more fun.
 
 <div class="postimg">
   <div class="grid">
@@ -359,7 +359,7 @@ The route looked like follows except that the missing link here was an actual ro
   <em>Day 3 on the loop</em>
 </div>
 
-Now, when we left P&S garden there was a petrol pump about 3kms in the opposite direction of where we had to go, where we could have gotten a refuel. But, since we do not go back, (ever, as a rule,) we decided to move on. After all the road was just gorgeous by now!
+Now, when we left P&S garden there was a petrol pump about 3kms in the opposite direction of where we had to go, where we could have gotten a refuel. But, since we do not go back(ever, as a rule), we decided to move on. After all the road was just gorgeous by now!
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48467016512_9f2789e2be_c.jpg" data-toggle="lightbox">
@@ -379,7 +379,7 @@ Just before entering the national park it hit us that well we might not be able 
 
 The road through the national park was flanked by hills on one side and a river on the other in the valley. There were occasional vehicles which passed us but it wasn't really a very busy road. We had realised by now that our fuel gauge used to tell us we are out of petrol when we were ascending and that we had more petrol than what we refueled with when we were going down. So truly we had no idea how much fuel we had left :joy:. We agreed that instead of panicking we will see what happens when it happens and enjoyed the beautiful national park.
 
-The waterfall of the day was on the way to our stop for the day but then again Yves had asked us to skip the shortcut as there was a higher chance of getting mugged there. Mugged to the extent that people would threaten travelers with a machete and take the bike away. Also that the road was gravel so the bikes would skid if we brake or speed off too fast. So we skipped this road and decided to come to the waterfall via another route. We reached the next town. First things first. Fuel! The moment we left the national park and reached a town we refueled the tank :joy:. Then we found ourselves a very nice and cozy place to stay. It had started getting a little cold and we love cold!
+The waterfall of the day was on the way to our stop for the day but then again Yves had asked us to skip the shortcut as this was the spot with chances of getting mugged. He told us stories that people would threaten travelers with a machete and take the bike away. Also that the road was gravel so the bikes would skid if we brake or speed off too fast. Also we did not have fuel. So we skipped this road and decided to come to the waterfall via another route. We reached the next town. First things first. Fuel! The moment we reached a town we refueled the tank :joy:. Then we found ourselves a very nice and cozy place to stay. It had started getting a little cold and we love cold!
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48368896496_d891f1cb08_c.jpg" data-toggle="lightbox">
@@ -402,7 +402,7 @@ The waterfall of the day was on the way to our stop for the day but then again Y
   <em>Yves said we should be careful about Noodle soups! :joy:</em>
 </div>
 
-### Tad Tayicseua and the neighboring waterfalls
+### Tad Tayicseua And The Neighboring Waterfalls
 
 After leaving most of our stuff at our cute hotel we decided to take on the adventure of going to Tad Tayicseua. The road was short 11 Kms but was going to take 30 mins. Which means the road was not the best one.
 
@@ -804,7 +804,7 @@ This was not the end of Pakse for us. We stayed on for another couple of days to
   <em>How do you cut this? :angry:</em>
 </div>
 
-Pakse is a perfect expat town which means that we could find all sorts of cuisines here, be it Italian, Korean, Vietnamese, Mediterranean, anything!
+Pakse is a perfect expat town which means that we could find all sorts of cuisines here, be it Italian, Korean, Vietnamese, French, anything!
 
 <div class="postimg">
   <div class="grid">
@@ -825,7 +825,7 @@ Pakse is a perfect expat town which means that we could find all sorts of cuisin
       </a>
     </div>
   </div>
-  <em>Food scenes of Pakse</em>
+  <em>Food scenes of Pakse and cuteness while waiting for it :grin:</em>
 </div>
 
 On our last night we did discover something cool. There was a large compound with multiple restaurants and a live stage. And people were drinking, eating and making merry. It was such a happy place, too bad we discovered it on our last day in Pakse.
@@ -841,6 +841,6 @@ Our next destination was to be Vang Vieng. My friends from Pune, Aamir and Nites
 
 <hr/>
 
-Here is a complete album from our time in Don Det.
+Here is a complete album from our time in Bolaven Plateau.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/140507143@N02/albums/72157709866205846" title="Pakse, March 2019"><img src="https://live.staticflickr.com/65535/48368839526_62379f84cb_c.jpg" width="600" height="800" alt="Pakse, March 2019"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
