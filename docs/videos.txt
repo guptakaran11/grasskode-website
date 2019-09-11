@@ -1,8 +1,0 @@
-## Iframe (youtube / vimeo)
-
-<div class="postimg">
-  <div class="video-container">
-    <iframe ...></iframe>
-  </div>
-  <em>title</em>
-</div>
