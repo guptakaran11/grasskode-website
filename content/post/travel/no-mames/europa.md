@@ -17,7 +17,7 @@ Late September 2018, Priyanko and Di had informed us that a new addition to the 
 
 ### A Warm Welcome
 
-The planning for our time in The Netherlands had been left up to C&A. When they had first told us the suggested itinerary, the procrastinator in me had kicked back and put on his lazy hat. This was well taken care of! :wine_glass: Our flight was through Moscow (Aeroflot has become our flight of choice these days  :smile:) and we reached Netherlands late in the afternoon. Rita and Wietze, Arno's parents, met us and took us to their home where we were supposed to meet C&A later that evening. They stayed in Alphen, a small town south of Amsterdam and we drove there in in their car. Of course, at this time I had no idea about how far a "town south of Amsterdam" would be. Turns out, people commute from one city to another for work on a daily basis in this country. If you are from India, daily commute in Bangalore would probably take more time. :expressionless:
+The planning for our time in The Netherlands had been left up to C&A. When they had first told us the suggested itinerary, the procrastinator in me had kicked back and put on his lazy hat. This was well taken care of! :wine_glass: Our flight was through Moscow (Aeroflot has become our flight of choice these days  :smile:) and we reached Netherlands late in the afternoon. Rita and Wietze, Arno's parents, met us and took us to their home where we were supposed to meet C&A later that evening. They stayed in Alphen, a small town south of Amsterdam and we drove there in their car. Of course, at this time I had no idea about how far a "town south of Amsterdam" would be. Turns out, people commute from one city to another for work on a daily basis in this country. If you are from India, daily commute in Bangalore would probably take more time. :expressionless:
 
 We stopped in a mall first where Rita picked up some stuff for our stay. I, as usual, was going crazy exploring the alleys :joy: I think I will make this one of the things to do in every country. Randomly walk the aisles of a grocery mall :stuck_out_tongue:
 
@@ -30,7 +30,7 @@ We stopped in a mall first where Rita picked up some stuff for our stay. I, as u
 
 Rita kept pointing at things that were typically Dutch and if I showed a flicker of interest, it went into the shopping cart :blush:
 
-We drove to their pretty home next and settled in. It was one of those pretty houses that make you smile involuntarily.
+Next, we drove to their pretty home and settled in. It was one of those pretty houses that make you smile involuntarily.
 
 <div class="postimg">
   <div class="grid">
@@ -88,7 +88,7 @@ After breakfast we left for a drive. Wietze loved driving and had been a rally d
   <em>Navigation before Google :joy:</em>
 </div>
 
-We rode along country roads along canals. Wietze explained more about the Dutch creation of The Netherlands and how the land was actually under the level of water. "Netherlands" made sense. We crossed some tulip farms which were still to be harvested. The typical scenery of big pastures and cattle was everywhere to be seen. It was quite beautiful. The roads were well wide and well maintained.
+We drove on country roads along canals. Wietze explained more about the Dutch creation of The Netherlands and how the land was actually under the level of water. "Netherlands" made sense. We crossed some tulip farms which were yet to be harvested. The typical scenery of big pastures and cattle was everywhere to be seen and was beautiful. The roads were wide and well maintained.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688262877_88320f0e1c_c.jpg" data-toggle="lightbox">
@@ -136,7 +136,7 @@ We took a short coffee break next to the river crossing on The Lek. The hotel th
   <em>Coffee break by the river</em>
 </div>
 
-Across the other side was Kinderdijk, a small village that offers a sight of numerous windmills. The windmills here were built to pump out water from the [polder](https://en.wikipedia.org/wiki/Polder) and while most of the windmills no longer serve this purpose, it has been preserved as a UNESCO world heritage site.
+As we crossed the river, Wietze passed over the ferry tickets to Parul for a scrapbook he was sure that she would be maintaining :laughing: Across the other side was Kinderdijk, a small village that offers a sight of numerous windmills. The windmills here were built to pump out water from the [polder](https://en.wikipedia.org/wiki/Polder) and while most of the windmills no longer serve this purpose, it has been preserved as a UNESCO world heritage site.
 
 <div class="postimg">
   <div class="grid">
@@ -178,7 +178,7 @@ The Kinderdijk museum was an interesting display of the typical lifestyle of the
   <em>The Kinderdijk Museum</em>
 </div>
 
-From Kinderdijk, it was a short drive to Rotterdam. This city is a bustling port of commerce and has been so for a long time. This town is also known for it's modern architecture and it's football club, Feyenoord, rivals Amsterdam's Ajax. We were also told a bit about the historical context of Rotterdam in World War II. Wietze took us to his old work place and walked out for a bit. The rains that had been threatening since the morning finally came down. While the initial plan was to have our lunch here, we were running a little late and decided to grab a quick bite enroute.
+From Kinderdijk, it was a short drive to Rotterdam. This city is a bustling port of commerce and has been so for a long time. This town is also known for it's modern architecture and it's football club, Feyenoord, rivals Amsterdam's Ajax. We were also told a bit about the historical context of Rotterdam in World War II. Wietze took us to his old work place and walked out for a bit. The rains that had been threatening since the morning (which I had been predicting since we left the house (a prediction that Wietze kept making fun of because it had not rained till now :stuck_out_tongue)) finally came down. While the initial plan was to have our lunch here, we were running a little late and decided to grab a quick bite enroute.
 
 <div class="postimg">
   <div class="grid">
@@ -250,6 +250,7 @@ The concert was in Paradiso, a chapel that had been converted into a music club 
 
 We enjoyed the band's performance for a bit with C&A and their friends but had to skip the later half because Parul was feeling faint. It might have been claustrophobia (the Dutch are tall and the hall was jam packed) but we are not quite sure yet. After returning to the house we talked some more over some wine and Arno's Spotify playlist before calling it a night.
 
+
 ### When in Amsterdam
 
 The next morning while Lot headed for work, Arno and I rented out cycles. Cycles are a very Amsterdam thing. Bicyclists have the biggest priority on the road (even more than pedestrians!) and cycles are probably the most protected item, heavily guarded by big locks and chains. Arno told us that there is a big black market of cycles and everyone has their cycle stolen at least once in this city :joy: The cycles were not easy to ride for us. They were so counter-intuitive with their back-pedal-brakes and no hand brakes. I am surprised at how neither of us banged into a car or something (someone) else! At the end of the tour even Arno expressed his surprised at it. Evidently it's something of an adventure sport for the tourists :bicyclist: :finnadie:
@@ -312,7 +313,7 @@ We rode along the roads as Arno explained to us the way Amsterdam was structured
   <em>Our rides</em>
 </div>
 
-Arno had breezed over all the usual touristy parts of the city and I liked it better this way :smile: He also told us how Amsterdam derived it's name from the river Amstel. While we were having lunch, we thought of the museums we would like to check out during our stay but evidently the museums here need to be booked **well** in advance. There was a special Rembrandt exhibition going on in the Rijksmuseum and we decided to do that. Lot booked us the first available tickets which were just a day before our departure :grimacing: Europe definitely needs more planning than what I had thought and what we are used to.
+Arno had breezed over all the usual touristy parts of the city and I liked it better this way :smile: He also told us how Amsterdam derived it's name from the river Amstel. While we were having lunch, we thought of the museums we would like to check out during our stay but evidently the museums here need to be booked **well** in advance. There was a special Rembrandt exhibition going on in the Rijksmuseum and we decided to do that. Lot looked up and booked us the first available tickets which were just a day before our departure :grimacing: Europe definitely needs more planning than what I had thought and what we are used to.
 
 Arno's tour of Amsterdam lasted for half of the day post which we met some of his friends over food and drinks. They were a fun lot and we spent time checking out the King's Day preparation and then settled down in a place with some amazing Apple Pie and beers.
 
@@ -382,7 +383,7 @@ TODO add link to parul's post
 
 ### The Country Up North
 
-The morning after, C&A had another plan for us and we left in their car to the north of Amsterdam. The destination was Friesland, the native province of Arno and Wietze. The Keuning family had a house by the lake out here. The drive this time was assisted by modern technology (:joy:) and as we crossed the 32 kilometer long Afsluitdijk, Arno explained the creation of the IJsselmeer (yes, it's written like that :expressionless:) and the [history](https://en.wikipedia.org/wiki/IJsselmeer) of Holland's biggest lake.
+The morning after, C&A had another plan for us and we left in their car to the north of Amsterdam. The destination was Friesland, the native province of Arno and Wietze. The Keuning family had a house by the lake out here. The drive this time was assisted by modern technology (:joy:) and as we crossed the 32 kilometer long Afsluitdijk (yes, it’s written like that), Arno explained the creation of the IJsselmeer (yes, it's written like that as well :expressionless:) and the [history](https://en.wikipedia.org/wiki/IJsselmeer) of Holland's biggest lake.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687763653_6613e30eda_c.jpg" data-toggle="lightbox">
@@ -575,7 +576,7 @@ The next morning we had another easy breakfast by the lake and in the sun.
   <em>Don't judge! :expressionless:</em>
 </div>
 
-Then while Charlotte put in her working hours, we took to doing some laundry and watching boats go past us. When Arno felt that we were feeling bored, we went out for a dive and saw the famous Friesian horses (yes, a lot about this small country seems to be pretty famous!), checked out a local boating accessory shop and saw IJsselmeer up close.
+Then while Charlotte put in her working hours, we took to doing some laundry and watching boats go past us. When Arno felt that we were feeling bored, we went out for a drive and saw the famous Friesian horses (a lot about this small country seems to be pretty famous!), checked out a local boating accessory shop and saw IJsselmeer up close.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48687775668_04f81db5f5_c.jpg" data-toggle="lightbox">
