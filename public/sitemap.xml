@@ -15,6 +15,17 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/laos/</loc>
+    <lastmod>2019-09-09T18:33:46-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/series/no-mames/</loc>
+    <lastmod>2019-09-09T18:33:46-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/author/parul/</loc>
     <lastmod>2019-09-09T18:33:46-05:00</lastmod>
     <priority>0</priority>
@@ -27,13 +38,19 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/series/</loc>
+    <lastmod>2019-09-09T18:33:46-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/</loc>
     <lastmod>2019-09-09T18:33:46-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/post/travel/bolavenplateau/</loc>
+    <loc>http://grasskode.xyz/post/travel/no-mames/bolavenplateau/</loc>
     <lastmod>2019-09-09T18:33:46-05:00</lastmod>
   </url>
   
@@ -44,6 +61,12 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/backpacking/</loc>
+    <lastmod>2019-09-09T18:33:46-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/biking/</loc>
     <lastmod>2019-09-09T18:33:46-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -61,31 +84,19 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/laos/</loc>
-    <lastmod>2019-09-09T18:33:46-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/tags/pakse/</loc>
     <lastmod>2019-09-09T18:33:46-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/pakse-loop/</loc>
+    <loc>http://grasskode.xyz/tags/roadtrip/</loc>
     <lastmod>2019-09-09T18:33:46-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/tags/south-east-asia/</loc>
-    <lastmod>2019-09-09T18:33:46-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/the-loop/</loc>
     <lastmod>2019-09-09T18:33:46-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -143,17 +154,6 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/series/no-mames/</loc>
-    <lastmod>2019-08-26T19:52:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/series/</loc>
-    <lastmod>2019-08-26T19:52:18-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/tags/art/</loc>
     <lastmod>2019-08-26T19:52:18-05:00</lastmod>
     <priority>0</priority>
@@ -197,12 +197,6 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/netherlands/</loc>
-    <lastmod>2019-08-26T19:52:18-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/roadtrip/</loc>
     <lastmod>2019-08-26T19:52:18-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -466,12 +460,6 @@
   <url>
     <loc>http://grasskode.xyz/post/travel/where-is-north-east/manipur/</loc>
     <lastmod>2019-06-07T15:36:42-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/biking/</loc>
-    <lastmod>2019-06-07T15:36:42-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
