@@ -2,7 +2,6 @@
 date = "2019-08-26T19:52:18-05:00"
 categories = ["travel"]
 tags = ["europe", "netherlands", "austria", "hungary", "lake", "culture", "art", "museum", "roadtrip", "unesco site"]
-type = "draft"
 title = "Europa"
 series = "NO MAMES!"
 image = "https://live.staticflickr.com/65535/48688260227_a44d67c940_c.jpg"
