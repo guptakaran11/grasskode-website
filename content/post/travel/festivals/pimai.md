@@ -38,7 +38,7 @@ This festival is officially three days long, but it lasts about a full week and 
 
 ##### **Dress code is C for Comfort**
 
-Wear light clothes, clothes you won't mind being drenched in for a long time. Avoid jeans and pants or any other clothing which might become heavier when wet. Try not to wear shoes, flip flops or sandals would be nice. A cap or a hat if possible. It is HOT! Also be respectful of the locals, do not walk around in bikinis!
+Wear light clothes, clothes you won't mind being drenched in for a long time. Avoid jeans and pants or any other clothing which might become heavier when wet. Try not to wear shoes, flip flops or sandals would be nice. A cap or a hat if possible. It is HOT! Also be respectful of the locals, do not walk around in bikinis!!
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48712652431_d008b30850_c.jpg" data-toggle="lightbox">
