@@ -27,12 +27,6 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/laos/</loc>
-    <lastmod>2019-12-01T16:58:16-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/tags/luang-prabang/</loc>
     <lastmod>2019-12-01T16:58:16-05:00</lastmod>
     <priority>0</priority>
@@ -91,6 +85,12 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/laos/</loc>
+    <lastmod>2019-12-01T16:58:16-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/sokran/</loc>
     <lastmod>2019-12-01T16:58:16-05:00</lastmod>
     <priority>0</priority>
@@ -98,6 +98,17 @@
   
   <url>
     <loc>http://grasskode.xyz/author/karan/</loc>
+    <lastmod>2019-11-28T16:49:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/series/no-mames/</loc>
+    <lastmod>2019-11-28T16:49:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/series/</loc>
     <lastmod>2019-11-28T16:49:42+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -200,17 +211,6 @@
   <url>
     <loc>http://grasskode.xyz/post/travel/no-mames/europa/</loc>
     <lastmod>2019-10-02T19:52:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/series/no-mames/</loc>
-    <lastmod>2019-10-02T19:52:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/series/</loc>
-    <lastmod>2019-10-02T19:52:18-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
