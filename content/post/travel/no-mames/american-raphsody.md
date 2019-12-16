@@ -1,17 +1,20 @@
 +++
 date = "2019-11-28T16:49:42+05:30"
 categories = ["travel"]
-tags = ["usa", "nyc", "washington dc", "san francisco", "pride", "big sur", "san diego", "museum", "roadtrip", "napa", "vineyard", "camping", "family", "niagra", "liberty state park"]
+tags = ["usa", "nyc", "washington dc", "san francisco", "pride", "big sur", "san diego", "museum", "roadtrip", "napa", "vineyard", "camping", "family", "niagara", "liberty state park"]
 type = "draft"
 title = "The American Raphsody"
-image = ""
+image = "https://live.staticflickr.com/65535/49198870873_0fa2df62ae_z.jpg"
 toc = true
 author = "Karan"
 +++
 
-We left the Netherlands with fond memories and a slab of old Dutch cheese. We flew westward, to the east coast of Northern America. This was my third visit to the United States of America and was going to be the longest one yet.
+We left the Netherlands with fond memories and a slab of old Dutch cheese. We flew westward, to the eastern coast of Northern America. This was my third visit to the United States of America and was going to be the longest one yet.
 
-Here is a photo blog since I find myself extremely lazy to find ways to fit the 2 months into a single blog. Weirdly, I think my US trips are more about pictures than experiences :shrug: TODO
+Here is a pseudo-photo-blog since I find myself extremely lazy and disinclined for cooking up ways to fit the 2 months into a single blog. Plus it makes sense since it was a break from travelling and we were enjoying family time. But we have quite a few photos to share and events to document, so... :unamused:
+
+<hr />
+
 
 ## Home, Sweet Home
 
@@ -433,7 +436,12 @@ Oh! And we discovered "The Doll" of Shenandoah at our campsite :scream:
   <em>We found this creepy thing at the camp :grimacing:</em>
 </div>
 
-TODO VIDEO
+<div class="postimg">
+  <div class="video-container">
+  <iframe src="https://player.vimeo.com/video/379691796" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  </div>
+  <em>So we made a video :stuck_out_tongue:</em>
+</div>
 
 While we were wrapping up the camp in the morning, we saw some deer grazing near the camp grounds :smile:
 
@@ -975,6 +983,13 @@ We literally spent our days and night looking at him move and yawn and smile and
   <em>An inevitable love affair :heart:</em>
 </div>
 
+<div class="postimg">
+  <div class="video-container">
+  <iframe src="https://player.vimeo.com/video/379692221" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  </div>
+  <em>Silly little thing :kissing_heart:</em>
+</div>
+
 Our days fell into a blissful routine again. Picking up Salsa from her playschool and taking her to the playground before walking back home became the norm. We got a bigger share of time with her since Sushi kept everyone else busy. I think everyone liked this arrangement :stuck_out_tongue:
 
 <div class="postimg">
@@ -1013,7 +1028,7 @@ Our days fell into a blissful routine again. Picking up Salsa from her playschoo
       </a>
     </div>
   </div>
-  <em>Our little munchkin :kiss:</em>
+  <em>Our little munchkin :kissing_heart:</em>
 </div>
 
 <div class="postimg">
@@ -1257,7 +1272,7 @@ Di's apartment afforded a beautiful scenery on clear days and occasionally we we
   <em>Night walks</em>
 </div>
 
-Praval came to visit Sushi towards the middle of the month. We made time to visit a famous Indian food place in New York City that was on Di's list for a while. [GupShup](TODO) did not disappoint!
+Praval came to visit Sushi towards the middle of the month. We made time to visit a famous Indian food place in New York City that was on Di's list for a while. [GupShup](https://g.page/GupShupNYC?share) did not disappoint!
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49199566782_10eb041e83_c.jpg" data-toggle="lightbox">
@@ -1292,8 +1307,6 @@ We joined Praval on his return to Washington DC. Of course, we rented another Mu
   </a>
   <em>:blue_heart: Oh Yeah! :yellow_heart: :v:</em>
 </div>
-
-TODO VIDEO
 
 This time around we were going to meet our friends from school who had planned a trip to DC at an overlapping time. Ruchika was coming down from Canada and Shivank was going to be there with his family. Social media had managed to keep us in touch but we had not met each other in a long long time.
 
@@ -1428,10 +1441,8 @@ The evening was spent in Adam's Morgan, a neighbourhood that Shivank's brother w
       </a>
     </div>
   </div>
-  <em>Madam's Organ @ Adam's Morgan :joy:</em>
+  <em>:guitar: Madam's Organ @ Adam's Morgan :saxophone:</em>
 </div>
-
-TODO VIDEO
 
 On the third day, which was also to be the last for us as a group, we wandered around Old Town Alexandria.
 
@@ -1453,7 +1464,7 @@ On the third day, which was also to be the last for us as a group, we wandered a
   <a href="https://live.staticflickr.com/65535/49211922301_77018c5354_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49211922301_77018c5354.jpg">
   </a>
-  <em>:heart:</em>
+  <em>:heart: :astonished: :heart:</em>
 </div>
 
 <div class="postimg">
@@ -1539,7 +1550,7 @@ On the third day, which was also to be the last for us as a group, we wandered a
   <em>Ending the afternoon with some Vietnamese lunch</em>
 </div>
 
-While Ruchika and Shivank left for their respective cities, we spent more days in Washington DC. Our days were spent exploring the side of city that we were in. With Praval we had a regular routine of gym and watching [Dark](TODO). The latter also caused intense discussions about physics and metaphysics.
+While Ruchika and Shivank left for their respective cities, we spent more days in Washington DC. Our days were spent exploring the side of city that we were in. With Praval we had a regular routine of gym and watching [Dark](https://www.imdb.com/title/tt5753856/). The latter also caused intense discussions about physics and metaphysics.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49212148282_fa64257ff3_c.jpg" data-toggle="lightbox">
@@ -1820,7 +1831,7 @@ Aditi went off with her friends and we somehow coordinated to meet up after the 
   <em>And some inspirational messages :smiley:</em>
 </div>
 
-TODO Album for Pride
+> There are many more pictures of the Pride parade that Parul and I took and processed. You can see them all [here](https://flic.kr/s/aHsmK3JFQU) :smile:
 
 We walked around at leisure and ended up in the San Francisco City Hall. We sat down to relax and take in the vibes of the place, the city and the festival. I had mixed emotions about the parade. There was an obvious commercial angle to it. Every brand probably took it as a chance to get some marketing and PR done. But underneath, the spirit of the festival remained. The liberty to be who you are out in the open. It was a happy feeling seeing everyone enjoying their pure unadulterated selves. Philosophically I might not completely align with this extreme but then my alignment hardly matters. The city had it's own character and it was living it right there. We also wondered what it'd be like to get our parents to a festival like this. A culture they haven't been exposed to. It'd be interesting to know how they'd react to a culture shock like this!
 
@@ -2108,15 +2119,15 @@ San Francisco was definitely an interesting city. I got some time to walk around
 </div>
 
 
-## Big Sur & San Diego
+## Highway 1 to San Diego
 
-The real reason why we were on the West Coast was because of Devashish. We had planned to meet him in SF and then accompany him on his drive to Seattle. He, as usual, messed up with our plans :expressionless: We were now going to drive south to San Diego with him and Lavanya. But since our agenda was to spend time with Deva and to check out the American landscape, it made little difference to us whether we were headed north or south.
+The real reason why we were on the West Coast was because of Devashish. We had planned to meet him in SF and then accompany him on his drive to Seattle. He, as usual, messed up with our plans :expressionless: We were now going to drive south on Highway 1 to San Diego with him and Lavanya. But since our agenda was to spend time with Deva and to check out the American landscape, it made little difference to us whether we were headed north or south.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49213940036_4ac8cb80ca_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49213940036_4ac8cb80ca.jpg">
   </a>
-  <em>Deva gets what he deserves :angry:</em>
+  <em>Deva gets what he deserves :feelsgood:</em>
 </div>
 
 We arranged for some camping gear and gathered supplies for a night of camping (we were tasked with the wine (because we had been to Napa :joy:)). One the appointed morning, we bade Nishant and Aditi farewell, thanked them for hosting us and dumped our bags in Deva and Lavanya's (D&L) new car. We headed south and the road got scenic as soon as we exited the city.
@@ -2207,7 +2218,7 @@ We stopped at a bunch of points for some photos. D&L were doing this part of the
       </a>
     </div>
   </div>
-  <em>title</em>
+  <em>Rocky Creek Bridge</em>
 </div>
 
 It was a fun ride that ended in a small camping ground where we set up our tents and prepared for the night. Deva, who was supposed to get all the ration for the camping, had forgotten all about it :expressionless: So we spent the night barbequeing a slab of paneer and drinking all the wine and sake (the sake was there because of the extremely fun night we had had with Nishant, Aditi and the MindTickle bunch a night before :stuck_out_tongue:)
@@ -2216,7 +2227,7 @@ It was a fun ride that ended in a small camping ground where we set up our tents
   <a href="https://live.staticflickr.com/65535/49213937871_d3b6719ca5_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49213937871_d3b6719ca5.jpg">
   </a>
-  <em>title</em>
+  <em>Working on those slabs of Paneer :expressionless:</em>
 </div>
 
 <div class="postimg">
@@ -2232,17 +2243,17 @@ It was a fun ride that ended in a small camping ground where we set up our tents
       </a>
     </div>
   </div>
-  <em>title</em>
+  <em>Camping scenes</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49211605748_78cefe9850_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49211605748_78cefe9850.jpg">
   </a>
-  <em>title</em>
+  <em>Having a hearty breakfast before hitting the road again</em>
 </div>
 
-The next day we slowly made our way to San Diego, stopping multiple times for more scenery, photos and a bunch of sea lions TODO.
+The next day we slowly made our way to San Diego, stopping multiple times for more scenery, photos and a bunch of sea lions :laughing:
 
 <div class="postimg">
   <div class="grid">
@@ -2257,7 +2268,7 @@ The next day we slowly made our way to San Diego, stopping multiple times for mo
       </a>
     </div>
   </div>
-  <em>title</em>
+  <em>I want a :house: like that!</em>
 </div>
 
 <div class="postimg">
@@ -2273,14 +2284,14 @@ The next day we slowly made our way to San Diego, stopping multiple times for mo
       </a>
     </div>
   </div>
-  <em>title</em>
+  <em>Highway 1</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49211605118_61fe6b8ed6_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49211605118_61fe6b8ed6.jpg">
   </a>
-  <em>title</em>
+  <em>Shutter Island :grimacing:</em>
 </div>
 
 <div class="postimg">
@@ -2296,7 +2307,7 @@ The next day we slowly made our way to San Diego, stopping multiple times for mo
       </a>
     </div>
   </div>
-  <em>title</em>
+  <em>Life's a beach</em>
 </div>
 
 <div class="postimg">
@@ -2312,7 +2323,7 @@ The next day we slowly made our way to San Diego, stopping multiple times for mo
       </a>
     </div>
   </div>
-  <em>title</em>
+  <em>Them blues</em>
 </div>
 
 <div class="postimg">
@@ -2328,7 +2339,7 @@ The next day we slowly made our way to San Diego, stopping multiple times for mo
       </a>
     </div>
   </div>
-  <em>title</em>
+  <em>Of bridges and oceans</em>
 </div>
 
 <div class="postimg">
@@ -2344,7 +2355,7 @@ The next day we slowly made our way to San Diego, stopping multiple times for mo
       </a>
     </div>
   </div>
-  <em>title</em>
+  <em>Sea Lions basking in the sun :sunny:</em>
 </div>
 
 We reached San Diego late in the afternoon and checked into a hostel. The city has a nice vibe to it and we found a lot of Mexican restaurants there which made sense since it was so close to the border.
@@ -2353,16 +2364,16 @@ We reached San Diego late in the afternoon and checked into a hostel. The city h
   <a href="https://live.staticflickr.com/65535/49212089921_96f19af4b2_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49212089921_96f19af4b2.jpg">
   </a>
-  <em>title</em>
+  <em>Guacamole and chips (with tequila on the side). Who doesn't love Mexican food! :smile:</em>
 </div>
 
-While D&L went to check out the SF zoo, we decided to give it a skip because of the ticket price. We did do the San Diego beach though and it was quite fun despite the slightly nippy water :freeze: TODO
+While D&L went to check out the SF zoo, we decided to give it a skip because of the ticket price. We did do the San Diego beach though and it was quite fun despite the slightly nippy water :snowflake:
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49212085791_7513153845_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49212085791_7513153845.jpg">
   </a>
-  <em>title</em>
+  <em>Beach Day!</em>
 </div>
 
 <div class="postimg">
@@ -2386,37 +2397,37 @@ While D&L went to check out the SF zoo, we decided to give it a skip because of 
       </a>
     </div>
   </div>
-  <em>title</em>
+  <em>Making a splash! :ocean:</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49212312137_0f345acc4a_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49212312137_0f345acc4a.jpg">
   </a>
-  <em>title</em>
+  <em>The road-trippers :car:</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49213459988_01e6a197aa_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49213459988_01e6a197aa.jpg">
   </a>
-  <em>title</em>
+  <em>Chappals galore!</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49213939461_a28875bc54_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49213939461_a28875bc54.jpg">
   </a>
-  <em>title</em>
+  <em>More mexican food == day well spent!</em>
 </div>
 
-Then of course there was the night life in the Gaslamp district (TODO). More Mexican food and margeritas. Deva bought us dinner at a fancy Greek restaurant.
+Then of course there was the night life in the Gaslamp Quarter; more Mexican food and margaritas. Deva bought us dinner at a fancy Greek restaurant where we kept shouting 'Oppa' for no apparent reason :joy:
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49212314932_270b3ac7c8_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49212314932_270b3ac7c8.jpg">
   </a>
-  <em>title</em>
+  <em>Oppa!</em>
 </div>
 
 All in all, it was a good couple of days. Then D&L headed north back to SF and we stayed on in San Diego for a couple of days till it was time to take our flight to Vegas and thence to Mexico City.
@@ -2425,15 +2436,15 @@ All in all, it was a good couple of days. Then D&L headed north back to SF and w
   <a href="https://live.staticflickr.com/65535/49213939926_9ccd18872c_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49213939926_9ccd18872c.jpg">
   </a>
-  <em>title</em>
+  <em>Where else will you find slot machines in an airport? :unamused:</em>
 </div>
 
 
-## Niagra & Liberty State Park
+## Niagara & Liberty State Park
 
 Two months later, our flight back to India would take us through the East Coast of USA. Parul's parents were visiting Praval in Washington so we decided to spend some time with them since we hadn't gotten much overlap in the past year. Parul had left earlier when I was doing the yearly ADK with the boiz.
 
-Once I reached Jersey City, I caught the next day's train to Niagra. The train took a beautiful route through upstate New York and I found myself in the city of Niagra by the end of the day. I do not have any pictures to show because my phone was a dead brick by then (:middle_finger: Motorola)
+Once I reached Jersey City, I caught the next day's train to Niagara. The train took a beautiful route through upstate New York and I found myself in the city of Niagara by the end of the day. I do not have any pictures to show because my phone was a dead brick by then (:fu: Motorola)
 
 Parul and family reached a couple of hours later and we settled into our pretty AirBnB.
 
@@ -2450,7 +2461,7 @@ Parul and family reached a couple of hours later and we settled into our pretty 
       </a>
     </div>
   </div>
-  <em>title</em>
+  <em>The pretty AirBnB</em>
 </div>
 
 We went out for a walk till the falls that night and saw it lit up in trippy lights.
@@ -2459,7 +2470,7 @@ We went out for a walk till the falls that night and saw it lit up in trippy lig
   <a href="https://live.staticflickr.com/65535/49212135441_97451c6244_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49212135441_97451c6244.jpg">
   </a>
-  <em>title</em>
+  <em>Niagara was lit!</em>
 </div>
 
 We spent the next morning taking the Maid of Mist boat ride.
@@ -2468,76 +2479,65 @@ We spent the next morning taking the Maid of Mist boat ride.
   <a href="https://live.staticflickr.com/65535/49212362227_2c40499b83_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49212362227_2c40499b83.jpg">
   </a>
-  <em>title</em>
+  <em>The family selfie</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49212361957_a499e6aed2_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49212361957_a499e6aed2.jpg">
   </a>
-  <em>title</em>
+  <em>The gorgeous Niagara Falls</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49211653288_661ef4da72_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49211653288_661ef4da72.jpg">
   </a>
-  <em>title</em>
+  <em>Under the Bridge</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49211652778_ff814ff90d_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49211652778_ff814ff90d.jpg">
   </a>
-  <em>title</em>
+  <em>:muscle:</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49212362212_47d6e0e506_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49212362212_47d6e0e506.jpg">
   </a>
-  <em>title</em>
+  <em>Mother approves :thumbsup:</em>
 </div>
 
-We went back to the BnB to dry up and then returned to walk about in the State Park and soak in the beauty of this gorgeous waterfall. Other than the extremely urban feeling of everything around it, the Niagra Falls is one of the more beautiful waterfalls I have seen. Though I must admit that I had imagined it to be much bigger :stuck_out_tongue:
+We went back to the BnB to dry up and then returned to walk about in the State Park and soak in the beauty of this gorgeous waterfall. Other than the extremely urban feeling of everything around it, the Niagara Falls is one of the more beautiful waterfalls I have seen. Though I must admit that I had imagined it to be much bigger :stuck_out_tongue:
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49212136386_432bd25705_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49212136386_432bd25705.jpg">
   </a>
-  <em>title</em>
 </div>
 
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
-            <a href="https://live.staticflickr.com/65535/49212136601_fa812ed897_c.jpg" data-toggle="lightbox">
+      <a href="https://live.staticflickr.com/65535/49212136601_fa812ed897_c.jpg" data-toggle="lightbox">
         <img class="lazy" data-src="https://live.staticflickr.com/65535/49212136601_fa812ed897.jpg">
       </a>
-    </div>
-    <div class="grid-column-50">
-            <a href="https://live.staticflickr.com/65535/49212136311_d19a3523d1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49212136311_d19a3523d1.jpg">
-      </a>
-    </div>
-  </div>
-  <em>title</em>
-</div>
-
-<div class="postimg">
-  <div class="grid">
-    <div class="grid-column-50">
-            <a href="https://live.staticflickr.com/65535/49212362542_1dff011409_c.jpg" data-toggle="lightbox">
+      <a href="https://live.staticflickr.com/65535/49212362542_1dff011409_c.jpg" data-toggle="lightbox">
         <img class="lazy" data-src="https://live.staticflickr.com/65535/49212362542_1dff011409.jpg">
       </a>
     </div>
     <div class="grid-column-50">
-            <a href="https://live.staticflickr.com/65535/49212136236_53e14f431f_c.jpg" data-toggle="lightbox">
+      <a href="https://live.staticflickr.com/65535/49212136311_d19a3523d1_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49212136311_d19a3523d1.jpg">
+      </a>
+      <a href="https://live.staticflickr.com/65535/49212136236_53e14f431f_c.jpg" data-toggle="lightbox">
         <img class="lazy" data-src="https://live.staticflickr.com/65535/49212136236_53e14f431f.jpg">
       </a>
     </div>
   </div>
-  <em>title</em>
+  <em>Canada through the Niagara mist</em>
 </div>
 
 <div class="postimg">
@@ -2553,35 +2553,37 @@ We went back to the BnB to dry up and then returned to walk about in the State P
       </a>
     </div>
   </div>
-  <em>title</em>
+  <em>:camera:</em>
 </div>
 
 <div class="postimg">
-  <a href="https://live.staticflickr.com/65535/49212362572_2a424b2035_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49212362572_2a424b2035.jpg">
-  </a>
-  <em>title</em>
-</div>
-
-<div class="postimg">
-  <a href="https://live.staticflickr.com/65535/49212362727_d336fdf73f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49212362727_d336fdf73f.jpg">
-  </a>
-  <em>title</em>
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49212362572_2a424b2035_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49212362572_2a424b2035.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49212362727_d336fdf73f_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49212362727_d336fdf73f.jpg">
+      </a>
+    </div>
+  </div>
+  <em>The impressive Niagara river</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49212362602_d9039af46b_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49212362602_d9039af46b.jpg">
   </a>
-  <em>title</em>
+  <em>Sunset</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49212362687_8e9551118d_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49212362687_8e9551118d.jpg">
   </a>
-  <em>title</em>
+  <em>Parul likes this one a lot :smiley:</em>
 </div>
 
 We drove back to Jersey City a day later. The roads were as beautiful as the train route had been.
@@ -2590,7 +2592,7 @@ We drove back to Jersey City a day later. The roads were as beautiful as the tra
   <a href="https://live.staticflickr.com/65535/49211653098_8500e46d19_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49211653098_8500e46d19.jpg">
   </a>
-  <em>title</em>
+  <em>How I had to take Parul to Jersey City :sweat_smile:</em>
 </div>
 
 The next day, we went to see the Statue of Liberty with family. The history of that statue is quite interesting and we had a fun day out.
@@ -2599,14 +2601,14 @@ The next day, we went to see the Statue of Liberty with family. The history of t
   <a href="https://live.staticflickr.com/65535/49213947261_bf23a29a7d_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49213947261_bf23a29a7d.jpg">
   </a>
-  <em>title</em>
+  <em>We got to meet the little ones yet again :smile:</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49212361547_d4da8efb09_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49212361547_d4da8efb09.jpg">
   </a>
-  <em>title</em>
+  <em>A random guy insisted we take a picture here. Came out quite good! :camera:</em>
 </div>
 
 <hr />
@@ -2617,7 +2619,7 @@ That night, we caught our flight back to India, ending the four months or so in 
   <a href="https://live.staticflickr.com/65535/49213468938_288a88069d_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49213468938_288a88069d.jpg">
   </a>
-  <em>title</em>
+  <em>All our (and Di's) bags are packed...</em>
 </div>
 
 We had gotten a taste of what this part of the world had to offer and I am certain we'll be going back sometime, though not soon :grimacing:
