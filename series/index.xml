@@ -9,26 +9,36 @@
     <managingEditor>gupta.karan.11@gmail.com (Karan Gupta)</managingEditor>
     <webMaster>gupta.karan.11@gmail.com (Karan Gupta)</webMaster>
     <copyright>Copyright (c) 2018, Karan Gupta; some rights reserved.</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 09 Sep 2019 18:33:46 -0500</lastBuildDate>
+=======
+    <lastBuildDate>Mon, 22 Feb 2016 01:04:10 +0530</lastBuildDate>
+>>>>>>> 7018951a4f98192eabb3844af799af5b6e3ccdb3
     
 	<atom:link href="http://grasskode.xyz/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>NO MAMES!</title>
       <link>http://grasskode.xyz/series/no-mames/</link>
       <pubDate>Mon, 09 Sep 2019 18:33:46 -0500</pubDate>
+=======
+      <title>Delhi To Pune Roadtrip</title>
+      <link>http://grasskode.xyz/series/delhi-to-pune-roadtrip/</link>
+      <pubDate>Mon, 22 Feb 2016 01:04:10 +0530</pubDate>
+>>>>>>> 7018951a4f98192eabb3844af799af5b6e3ccdb3
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/series/no-mames/</guid>
+      <guid>http://grasskode.xyz/series/delhi-to-pune-roadtrip/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Where is North East?</title>
-      <link>http://grasskode.xyz/series/where-is-north-east/</link>
-      <pubDate>Mon, 10 Jun 2019 16:19:42 -0400</pubDate>
+      <title>NO MAMES!</title>
+      <link>http://grasskode.xyz/series/no-mames/</link>
+      <pubDate>Wed, 02 Oct 2019 19:52:18 -0500</pubDate>
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/series/where-is-north-east/</guid>
+      <guid>http://grasskode.xyz/series/no-mames/</guid>
       <description></description>
     </item>
     
@@ -51,11 +61,11 @@
     </item>
     
     <item>
-      <title>Delhi To Pune Roadtrip</title>
-      <link>http://grasskode.xyz/series/delhi-to-pune-roadtrip/</link>
-      <pubDate>Mon, 22 Feb 2016 01:04:10 +0530</pubDate>
+      <title>Where is North East?</title>
+      <link>http://grasskode.xyz/series/where-is-north-east/</link>
+      <pubDate>Mon, 10 Jun 2019 16:19:42 -0400</pubDate>
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/series/delhi-to-pune-roadtrip/</guid>
+      <guid>http://grasskode.xyz/series/where-is-north-east/</guid>
       <description></description>
     </item>
     
