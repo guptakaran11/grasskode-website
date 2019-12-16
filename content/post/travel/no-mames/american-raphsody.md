@@ -3,6 +3,7 @@ date = "2019-11-28T16:49:42+05:30"
 categories = ["travel"]
 tags = ["usa", "nyc", "washington dc", "san francisco", "pride", "big sur", "san diego", "museum", "roadtrip", "napa", "vineyard", "camping", "family", "niagara", "liberty state park"]
 title = "The American Raphsody"
+series = "NO MAMES!"
 image = "https://live.staticflickr.com/65535/49198870873_0fa2df62ae_z.jpg"
 toc = true
 author = "Karan"
@@ -892,7 +893,7 @@ After much uncertainty and deliberation, Parul and I settled on the name Sushi a
   <a href="https://live.staticflickr.com/65535/49199564172_5df067dd96_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49199564172_5df067dd96.jpg">
   </a>
-  <em>A joint effort :joy:</em>
+  <em>The Usual Suspects :joy:</em>
 </div>
 
 <div class="postimg vertimg">
