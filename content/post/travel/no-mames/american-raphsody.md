@@ -2,7 +2,6 @@
 date = "2019-11-28T16:49:42+05:30"
 categories = ["travel"]
 tags = ["usa", "nyc", "washington dc", "san francisco", "pride", "big sur", "san diego", "museum", "roadtrip", "napa", "vineyard", "camping", "family", "niagara", "liberty state park"]
-type = "draft"
 title = "The American Raphsody"
 image = "https://live.staticflickr.com/65535/49198870873_0fa2df62ae_z.jpg"
 toc = true
