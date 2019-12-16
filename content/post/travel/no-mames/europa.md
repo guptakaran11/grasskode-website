@@ -1,5 +1,5 @@
 +++
-date = "2019-08-26T19:52:18-05:00"
+date = "2019-10-02T19:52:18-05:00"
 categories = ["travel"]
 tags = ["europe", "netherlands", "austria", "hungary", "lake", "culture", "art", "museum", "roadtrip", "unesco site"]
 title = "Europa"
@@ -348,9 +348,7 @@ That evening after another amazing dinner (prepared by Lot of course), we went t
   <em>Roorkee Junta</em>
 </div>
 
-The next day was an extended party. We were out the whole day. Drinking, standing on the roads, talking to everyone we met, watching boats full of people partying in the canals. Everything was coloured in orange and we tried our best to blend in. It was extremely entertaining and amusing to watch an entire city party together.
-
-TODO add link to parul's post
+The next day was an extended party. We were out the whole day. Drinking, standing on the roads, talking to everyone we met, watching boats full of people partying in the canals. Everything was coloured in orange and we tried our best to blend in. It was extremely entertaining and amusing to watch an entire city party together. [Parul has written more about this crazy festival](/post/travel/festivals/kingsday/).
 
 <div class="postimg">
   <div class="grid">
