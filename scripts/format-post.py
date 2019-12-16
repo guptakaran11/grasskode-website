@@ -19,8 +19,8 @@ def format_post(filename):
     formattedtext = filetext
 
     ## format the regex for images
-    regex_single = '<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="([\S]*)" height="([\S]*)" alt="[^"]*"><\/a><script async src="[\S]*" charset="utf-8"><\/script>'
-    regex_multiple = '((?:<a data-flickr-embed="true" [a-z=" -]* href=\"[\S]*\" title="[^"]*"><img src="[\S]*.jpg" width="[\S]*" height="[\S]*" alt="[^"]*"><\/a><script async src="[\S]*" charset="utf-8"><\/script>\s)+)\s'
+    regex_single = '<a data-flickr-embed="true" [a-z=" -]*href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="([\S]*)" height="([\S]*)" alt="[^"]*"><\/a><script async src="[\S]*" charset="utf-8"><\/script>'
+    regex_multiple = '((?:<a data-flickr-embed="true" [a-z=" -]*href=\"[\S]*\" title="[^"]*"><img src="[\S]*.jpg" width="[\S]*" height="[\S]*" alt="[^"]*"><\/a><script async src="[\S]*" charset="utf-8"><\/script>\s)+)\s'
     for match in re.finditer(regex_multiple, filetext):
         # a possible group of images
         num_images = 0
@@ -40,10 +40,12 @@ def format_post(filename):
             for im in it:
                 col1 += """      <a href="{0}_c.jpg" data-toggle="lightbox">
         <img class="lazy" data-src="{0}.jpg">
-      </a>""".format(im[0])
+      </a>
+""".format(im[0])
                 col2 += """      <a href="{0}_c.jpg" data-toggle="lightbox">
         <img class="lazy" data-src="{0}.jpg">
-      </a>""".format(next(it)[0])
+      </a>
+""".format(next(it)[0])
             replacement_text = """<div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
@@ -55,6 +57,7 @@ def format_post(filename):
   </div>
   <em>title</em>
 </div>
+
 """.format(col1, col2)
         else:
             replacement_text = """<div class="postimg{1}">
@@ -63,6 +66,7 @@ def format_post(filename):
   </a>
   <em>title</em>
 </div>
+
 """.format(images[0][0], " vertimg" if images[0][1] else "")
 
         # search original match and replace with replacement text
