@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Laos on grasskode</title>
+    <title>laos on grasskode</title>
     <link>http://grasskode.xyz/tags/laos/</link>
-    <description>Recent content in Laos on grasskode</description>
+    <description>Recent content in laos on grasskode</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>gupta.karan.11@gmail.com (Karan Gupta)</managingEditor>
@@ -15,7 +15,16 @@
     
     
     <item>
-<<<<<<< HEAD
+      <title>Pimai</title>
+      <link>http://grasskode.xyz/post/travel/festivals/pimai/</link>
+      <pubDate>Sun, 01 Dec 2019 16:58:16 -0500</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/post/travel/festivals/pimai/</guid>
+      <description>Since August 2018, over the course of No Mames trip we have been to 10 countries and have been fortunate enough to experience cultural festivals of some of these countries. Through this post we plan to relive Pi Mai festival of Laos 😄
+What is it about Lao New Year is called &amp;lsquo;Songkran&amp;rsquo; or &amp;lsquo;Pi Mai&amp;rsquo; in Lao. It is based on the traditional solar new year, that was observed in parts of India and Asia.</description>
+    </item>
+    
+    <item>
       <title>The Bolaven Plateau</title>
       <link>http://grasskode.xyz/post/travel/no-mames/bolavenplateau/</link>
       <pubDate>Mon, 09 Sep 2019 18:33:46 -0500</pubDate>
@@ -25,15 +34,12 @@
     </item>
     
     <item>
-=======
->>>>>>> 7018951a4f98192eabb3844af799af5b6e3ccdb3
-      <title>Pimai</title>
-      <link>http://grasskode.xyz/post/travel/festivals/pimai/</link>
-      <pubDate>Sun, 01 Dec 2019 16:58:16 -0500</pubDate>
+      <title>Been there, Don Det</title>
+      <link>http://grasskode.xyz/post/travel/no-mames/dondet/</link>
+      <pubDate>Thu, 20 Jun 2019 18:20:17 -0400</pubDate>
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/post/travel/festivals/pimai/</guid>
-      <description>Since August 2018, over the course of No Mames trip we have been to 10 countries and have been fortunate enough to experience cultural festivals of some of these countries. Through this post we plan to relive Pi Mai festival of Laos 😄
-What is it about Lao New Year is called &amp;lsquo;Songkran&amp;rsquo; or &amp;lsquo;Pi Mai&amp;rsquo; in Lao. It is based on the traditional solar new year, that was observed in parts of India and Asia.</description>
+      <guid>http://grasskode.xyz/post/travel/no-mames/dondet/</guid>
+      <description>After spending close to a month backpacking in Cambodia our next destination was Laos. A country which neither of us had seen and were looking forward to very eagerly. There was little we had heard of the country and all we had planned was for the places we wanted to go to. We were to cross over to Laos over land and the first place we wanted to go to after entering Laos was the 4000 Islands.</description>
     </item>
     
   </channel>
