@@ -2,7 +2,7 @@
 date = "2019-11-28T16:49:42+05:30"
 categories = ["travel"]
 tags = ["usa", "nyc", "washington dc", "san francisco", "pride", "big sur", "san diego", "museum", "roadtrip", "napa", "vineyard", "camping", "family", "niagara", "liberty state park"]
-title = "The American Raphsody"
+title = "The American Rhapsody"
 series = "NO MAMES!"
 image = "https://live.staticflickr.com/65535/49198870873_0fa2df62ae_z.jpg"
 toc = true
@@ -173,7 +173,7 @@ Praval came over from Washington DC for Parul's birthday and we celebrated it in
       </a>
     </div>
   </div>
-  <em>Cakes! Left : Chocolate cheesecake by Cheesecake Factory; Right : Matcha crepe cake by LadyM</em>
+  <em>Cakes! Left : the giant Chocolate cheesecake by Cheesecake Factory (took a week to finish this one off!); Right : Matcha crepe cake by LadyM (I think I like the classic flavour more)</em>
 </div>
 
 <div class="postimg">
@@ -276,7 +276,7 @@ The first thing we did when we reached Washington DC in the dead of the night wa
   <em>Big Abe's House :house: by night :crescent_moon:</em>
 </div>
 
-There were two things that stood out about this place. One, the number of _byrds_ lying about. Second, the number of drunk people enjoying under the watchful eyes of Uncle Abe. Had this been India, a bunch of constables would have beaten them out with sticks :stuck_out_tongue:
+There were two things that stood out about this place. One, the number of _birds_ lying about. [This thing](https://www.bird.co/) is a menace I tell you :expressionless: Second, the number of drunk people enjoying under the watchful eyes of Uncle Abe. Had this been India, a bunch of constables would have beaten them out with sticks :stuck_out_tongue:
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49192555766_e7c09fc056_c.jpg" data-toggle="lightbox">
@@ -323,7 +323,7 @@ We settled into Praval's house for the next few days.
       </a>
     </div>
   </div>
-  <em>Praval slept exchanged his bed for a plate of Rajma Chawal. Fair trade I guess :smile:</em>
+  <em>Praval exchanged his bed for a plate of Rajma Chawal. Fair trade I guess :smile:</em>
 </div>
 
 <div class="postimg vertimg">
@@ -1293,7 +1293,7 @@ Praval came to visit Sushi towards the middle of the month. We made time to visi
       </a>
     </div>
   </div>
-  <em>Lunch in the city</em>
+  <em>Lunch in the city. As you can see, Parul has an obsession with yellow things :stuck_out_tongue:</em>
 </div>
 
 
@@ -1941,6 +1941,8 @@ We met with Parul's boss and then did a couple of tours in the nearby vineyards 
   <em>Stony Hill Vineyard</em>
 </div>
 
+> A special mention to the yellow dress that served Parul so well. May it rest in peace, wherever it is :yellow_heart:
+
 Back in San Francisco, we spent time at home with Nishant and Aditi, exploring the nearby Fisherman's Warf and the Pier, and caught up with friends from our erstwhile offices (which were headquartered in SF).
 
 <div class="postimg">
@@ -2018,7 +2020,7 @@ Back in San Francisco, we spent time at home with Nishant and Aditi, exploring t
       </a>
     </div>
   </div>
-  <em>Parul's ex-colleagues and a picture I have later of the night :stuck_out_tongue:</em>
+  <em>Evening out with Parul's ex-colleagues; the night ended at a cool pirate themed pub :skull:</em>
 </div>
 
 San Francisco was definitely an interesting city. I got some time to walk around and explore the streets as well which were a mixed bag of pleasantries and unpleasantries.
