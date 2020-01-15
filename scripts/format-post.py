@@ -49,10 +49,10 @@ def format_post(filename):
             replacement_text = """<div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
-      {0}
+{0}
     </div>
     <div class="grid-column-50">
-      {1}
+{1}
     </div>
   </div>
   <em>title</em>
