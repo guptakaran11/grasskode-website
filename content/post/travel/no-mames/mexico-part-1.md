@@ -7,8 +7,6 @@ series = "NO MAMES!"
 image = "https://live.staticflickr.com/65535/49331837543_a27b8e4083_c.jpg"
 toc = true
 author = "Karan"
-
-type = "draft"
 +++
 
 After spending about two months in the USA, mostly with Di and Praval, we took a flight out of Vegas to Mexico City. When our travel plans had been detoured towards the western hemisphere, we decided to make the most of the time there. While a lot of things were in consideration, including Cuba and South America, we had settled for a couple of months in Mexico. While discussing these plans in the US circle, the frequent question of "Two months!? What will you do for two months in Mexico?" came up. Well, we were about to find out.
