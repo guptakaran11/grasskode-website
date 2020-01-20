@@ -126,7 +126,7 @@ Walking through these grand structures, we hit upon the dug up site of Templo Ma
   <em>The dioramas outside Templo Major</em>
 </div>
 
-The temple was discovered a few years back right in the center of Mexcio City. The ancient city of Tenochtitlan, on top of which the center of Mexico City now resides, was destroyed by the Spanish conquistadors. The natives' temples were destroyed and churches were built on the top of them. Templo Major was the main temple of Tenochtitlan but since it had been rebuilt 7 times helped the older phases of the temple survive the destruction.
+The temple was discovered a few years back right in the center of Mexico City. The ancient city of Tenochtitlan, on top of which the center of Mexico City now resides, was destroyed by the Spanish conquistadors. The natives' temples were destroyed and churches were built on the top of them. Templo Major was the main temple of Tenochtitlan but since it had been rebuilt 7 times helped the older phases of the temple survive the destruction.
 
 <div class="postimg">
   <div class="grid">
@@ -153,7 +153,7 @@ The temple was discovered a few years back right in the center of Mexcio City. T
   <em>A model of what Templo Major would have looked like</em>
 </div>
 
-We walked through the preserved complex which had a lot of history to it. Since this was an unknown part of the world to us, it was all quite engrossing and we, in our typical style, spent close to 4 hours here as opposed to the recommended hour and a half. The temple was dedicated to _Tlaloc_ (rain god) and _Huitzilopochtli_ (sun god or god of war). These were the primary dieties of the people of this region - _Mexica_ (dubbed Aztec by the Spanish).
+We walked through the preserved complex which had a lot of history to it. Since this was an unknown part of the world to us, it was all quite engrossing and we, in our typical style, spent close to 4 hours here as opposed to the recommended hour and a half. The temple was dedicated to _Tlaloc_ (rain god) and _Huitzilopochtli_ (sun god or god of war). These were the primary deities of the people of this region - _Mexica_ (dubbed Aztec by the Spanish).
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49332303711_622cb4b228_c.jpg" data-toggle="lightbox">
@@ -357,7 +357,7 @@ After the temple, we sat at a cafe which overlooked the ruins and had some guaca
   <em>It was a long day</em>
 </div>
 
-We wandered through the lanes of a local market enroute the hostel. It felt very much like India (minus the honking). The Zocalo was certainly an interesting place.
+We wandered through the lanes of a local market en route the hostel. It felt very much like India (minus the honking). The Zocalo was certainly an interesting place.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49332525222_a358dc0e65_c.jpg" data-toggle="lightbox">
@@ -1225,7 +1225,7 @@ Our last day in Mexico City started off with Dahlia teaching us how to make sals
 
 We gobbled it up hungrily as brunch, packed up, and made an impromptu decision to go check out the _Cineteca Nacional de Mexico_ with Dahlia. It was *such* a cool place! They show popular and art movies from around the world. We were too late for the one English show we had enough time to catch. So we walked around the complex, browsed through booked in the bookstore, bought some coffee and cakes, talked a lot, shopped in a cool retro store and got caught in a sudden shower. I jotted down some music and movie recommendations as Dahlia drove us to the airport where we caught a late night flight to our next destination, Puerto Escondido.
 
-We reached Puerto Escondido late in the night and took a colectivo to Brisas de Zicatela, where we had booked an AirBnB. We dumped our bags and found a shop close by to have some _sope_ for dinner before we called it a night. The next morning we headed out to the beachside to check out what the town had to offer. Turned out, Puerto Escondido was a surf beach. Who knew :grimacing: The big waves crashing down meant that we wouldn't be doing a lot of swimming out here.
+We reached Puerto Escondido late in the night and took a colectivo to Brisas de Zicatela, where we had booked an AirBnB. We dumped our bags and found a shop close by to have some _sope_ for dinner before we called it a night. The next morning we headed out to the beach to check out what the town had to offer. Turned out, Puerto Escondido was a surf beach. Who knew :expressionless: The big waves crashing down meant that we wouldn't be doing a lot of swimming out here.
 
 <div class="postimg">
   <div class="grid">
