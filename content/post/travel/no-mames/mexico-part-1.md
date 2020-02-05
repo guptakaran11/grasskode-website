@@ -455,7 +455,7 @@ Realising that it was too late to do anything touristy that day, we headed out t
 
 ## Of Art and Theater
 
-The next morning we started off towards the Chapultepec park which housed a bunch of museums. It was a huge park in the center of the city and me, being a sucker_ for parks, totally loved it! Lots of people were out and the general vibe of the place was one of happiness (the reason why I love parks).
+The next morning we started off towards the Chapultepec park which housed a bunch of museums. It was a huge park in the center of the city and me, being a sucker for parks, totally loved it! Lots of people were out and the general vibe of the place was one of happiness (the reason why I love parks).
 
 <div class="postimg">
   <div class="grid">
@@ -950,7 +950,7 @@ However, we rushed down for the fear of obsidian artists shutting shop. We click
   <em>Hunt for the Obsidian</em>
 </div>
 
-Rainy clouds gathered in as we did a quick tour of the museum to make sense of what was around us. The 40 minutes we spent before the museum closed down was probably the shorted we have done in a museum of this size!
+Rainy clouds gathered in as we did a quick tour of the museum to make sense of what was around us. The 40 minutes we spent before the museum closed down was probably the shortest we have done in a museum of this size!
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49332516577_bbd7470565_c.jpg" data-toggle="lightbox">
