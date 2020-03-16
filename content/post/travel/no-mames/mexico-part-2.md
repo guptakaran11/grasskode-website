@@ -25,7 +25,16 @@ It was in Pochutla that we finally hit on the Spanish language barrier. There wa
   <em>Jarritos for breakfast :smile:</em>
 </div>
 
-From Pochutla we took a van to San Jose del Pacifico, a small hill town mid way to Oaxaca where we were eventually headed. The route was so winding that even I felt motion sick. The town was so small that you could see one end of it from the other! We roamed a bit and found a small and basic cabana from an old Mexican lady. There was the language barrier again but we managed and paid her upfront for a night. The view from the cabana was worth every peso we had spent for it.
+From Pochutla we took a van to San Jose del Pacifico, a small hill town mid way to Oaxaca where we were eventually headed. The route was so winding that even I, who usually does not feel the curves, started felt motion sick. Parul is much more susceptible to it so she must have been counting down the kilometers.
+
+<div class="postimg vertimg">
+  <a href="https://live.staticflickr.com/65535/49654604696_3e7a56b059_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49654604696_3e7a56b059.jpg">
+  </a>
+  <em>Welcome!</em>
+</div>
+
+The town was so small that you could see one end of it from the other! We roamed a bit and found a small and basic cabana from an old Mexican lady. There was the language barrier again but we managed and paid her upfront for a night. The view from the cabana was worth every peso we had spent for it.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49654881867_dde87d1b80_c.jpg" data-toggle="lightbox">
@@ -58,13 +67,6 @@ From Pochutla we took a van to San Jose del Pacifico, a small hill town mid way 
 </div>
 
 We walked the 100 meters to the other end of the village and looked down the hillside to the green foliage and white clouds floating under us. Mountains are love in themselves.
-
-<div class="postimg vertimg">
-  <a href="https://live.staticflickr.com/65535/49654604696_3e7a56b059_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49654604696_3e7a56b059.jpg">
-  </a>
-  <em>Welcome!</em>
-</div>
 
 <div class="postimg">
   <div class="grid">
@@ -430,7 +432,7 @@ We walked around the market area, buying random things to eat, enjoying the lang
 
     </div>
   </div>
-  <em>I forgot the name of this batura like thing :grimacing:</em>
+  <em>I forgot the name of this bhatura like thing :grimacing:</em>
 </div>
 
 <div class="postimg">
@@ -542,7 +544,7 @@ We ran to a cafe and spent the evening there drinking mezcal and having dinner.
   <a href="https://live.staticflickr.com/65535/49654603966_1ebcf8c72e_c.jpg" data-toggle="lightbox">
     <img class="lazy" data-src="https://live.staticflickr.com/65535/49654603966_1ebcf8c72e.jpg">
   </a>
-  <em>Kevin hearts _salsas picantes_ :fire:</em>
+  <em>Kevin hearts salsas picantes :fire:</em>
 </div>
 
 The rain did not let up and we returned to our AirBnB drenched for the second day in a row :grimacing: The mezcal had warmed us up though and after drying ourselves up, we sat with our hosts, discussing Mexican slang and Indian customs :joy: They had been to India a couple of years back on a whim and I was curious as to how they had found our country just as they were curious about what we thought of theirs.
@@ -611,7 +613,7 @@ There was a vast level area with lots of restored pyramid-like structures that w
   <em>Taking a break from the sun</em>
 </div>
 
-We walked around from structure to structure and tried reading the information on the boards set up in front of them. It was minimal and purely factual. We found the entire site lacking in narrative. There was nothing triggering the imagination for what went on out here, who these people allied with, which gods they worshipped and how, etc. The beautiful site suddenly seemed like a pile of rocked on an extremely scenic location. The restoration was just structural. The bas-reliefs were all but gone. Perhaps a guide would have made sense but a basic narrative should have been provided on the site itself. Even the museum was a disaster with barely any information.
+We walked around from structure to structure and tried reading the information on the boards set up in front of them. It was minimal and purely factual. We found the entire site lacking in narrative. There was nothing triggering the imagination for what went on out here, who these people allied with, which gods they worshipped and how, etc. The beautiful site suddenly seemed like a pile of rocks on an extremely scenic location. The restoration was just structural. The bas-reliefs were all but gone. Perhaps a guide would have made sense but a basic narrative should have been provided on the site itself. Even the museum was a disaster with barely any information.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49654061228_224eab6db7_c.jpg" data-toggle="lightbox">
@@ -915,7 +917,7 @@ The bus dropped us at Mitla. This looked like a nice little town and staying her
   <em>Mitla</em>
 </div>
 
-We we took a slow *caminoseta* to the falls. The road was broken up but beautiful and we saw clouds hanging over our destination in the next valley.
+We we took a slow *caminoseta* to the falls. The road was broken up but beautiful and we saw clouds hanging over our destination in the next valley. Parul, in her typical way, started fretting over how the entire experience would be dampened by the rains :expressionless:
 
 <div class="postimg">
   <div class="grid">
