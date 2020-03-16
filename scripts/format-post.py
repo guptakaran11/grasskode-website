@@ -18,6 +18,8 @@ def format_post(filename):
     # initialize formatted text to the original file text
     formattedtext = filetext
 
+    print("\nsearching for images...\n")
+
     ## format the regex for images
     regex_single = '<a data-flickr-embed="true" [a-z=" -]*href=\"[\S]*\" title="[^"]*"><img src="([\S]*).jpg" width="([\S]*)" height="([\S]*)" alt="[^"]*"><\/a><script async src="[\S]*" charset="utf-8"><\/script>'
     regex_multiple = '((?:<a data-flickr-embed="true" [a-z=" -]*href=\"[\S]*\" title="[^"]*"><img src="[\S]*.jpg" width="[\S]*" height="[\S]*" alt="[^"]*"><\/a><script async src="[\S]*" charset="utf-8"><\/script>\s)+)\s'
@@ -68,6 +70,24 @@ def format_post(filename):
 </div>
 
 """.format(images[0][0], " vertimg" if images[0][1] else "")
+
+        # search original match and replace with replacement text
+        formattedtext = formattedtext.replace(match.group(0), replacement_text)
+
+    print("\nsearching for videos...\n")
+
+    ## format the regex for videos
+    regex_vimeo = '<iframe src="([\S]*)" width="([\S]*)" height="([\S]*)" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>'
+    for match in re.finditer(regex_vimeo, filetext):
+        # a video match
+        print('++')
+        print('{0} - {1}x{2}'.format(match.group(1), match.group(2), match.group(3)))
+        replacement_text = """<div class="postimg{1}">
+    <div class="video-container">
+        {0}
+    </div>
+    <em>VID - title</em>
+</div>""".format(match.group(0), "" if int(match.group(2)) > int(match.group(3)) else " vertimg")
 
         # search original match and replace with replacement text
         formattedtext = formattedtext.replace(match.group(0), replacement_text)
