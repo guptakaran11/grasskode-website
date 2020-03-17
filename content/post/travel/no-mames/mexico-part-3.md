@@ -1,12 +1,12 @@
 +++
-date = "2020-02-20T17:15:02+05:30"
+date = "2020-03-02T17:15:02+05:30"
 categories = ["travel"]
 series = "NO MAMES!"
 toc = true
+title = "The Magical Chiapas"
 author = "Karan"
 
-title = "A Magical Land"
-tags = ["mexico", "san jose del pacifico", "oaxaca", "monte alban", "hierve de agua", "la guelaguetza", "cultural_festival", "waterfall", "ruins", "airbnb", "local_food", "unesco-site"]
+tags = ["mexico", "san cristobal de las casas", "chiapas", "zinacantan", "chamula", "hierve de agua", "la guelaguetza", "cultural_festival", "waterfall", "ruins", "airbnb", "local_food", "unesco-site"]
 image = "https://live.staticflickr.com/65535/49331837543_a27b8e4083_c.jpg"
 type = "draft"
 +++

@@ -57,7 +57,7 @@ The town was so small that you could see one end of it from the other! We roamed
   <em>:scream: - credits to my zoom lens :laughing:</em>
 </div>
 
-**San Jose del Pacifico** has a very strange speciality. It is known for [Temazcal](TODO) and mushrooms (hallucinogens and non). Tired, we did not feel like doing either that day but we did have some amazing vegetarian food cooked by a Portuguese man who had been to India a few years ago! The food was accompanied by some amusing conversation as our cook recalled the few Hindi words that he had managed to retain from his trip. The Mezcal was good. Cloudy as it had been all day, rain started drizzling and the small village got cozy.
+**San Jose del Pacifico** has a very strange speciality. It is known for [Temazcal](https://en.wikipedia.org/wiki/Temazcal) and mushrooms (hallucinogens and non). Tired, we did not feel like doing either that day but we did have some amazing vegetarian food cooked by a Portuguese man who had been to India a few years ago! The food was accompanied by some amusing conversation as our cook recalled the few Hindi words that he had managed to retain from his trip. The Mezcal was good. Cloudy as it had been all day, rain started drizzling and the small village got cozy.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49654062383_8331ccb16f_c.jpg" data-toggle="lightbox">
@@ -155,7 +155,7 @@ We caught another van that was heading towards Oaxaca. The first half wound down
   <em>Taking a bus in the rains</em>
 </div>
 
-The next morning we took a bus to centro and walked around. The [Guelaguetza](TODO) feels were slow to pick up. We had rushed here since it was the first day of the festival and we had expected it to be a lot of fun with all the various groups coming in. However, Fernando and Marianna had told us yesterday that the groups had come in over the weekend which is the *unofficial* start of the week long festival. This meant that we had rushed through everything before and not even reached Oaxaca on time. Brilliant :expressionless:
+The next morning we took a bus to centro and walked around. The [Guelaguetza](https://en.wikipedia.org/wiki/Guelaguetza) feels were slow to pick up. We had rushed here since it was the first day of the festival and we had expected it to be a lot of fun with all the various groups coming in. However, Fernando and Marianna had told us yesterday that the groups had come in over the weekend which is the *unofficial* start of the week long festival. This meant that we had rushed through everything before and not even reached Oaxaca on time. Brilliant :expressionless:
 
 Oaxaca was making up for it all though. The lanes of the town were beautiful. So colourful and unlike those of CDMX. Just walking around randomly is a treat to the eyes. There were small stalls and markets selling _artesnal_ produces from around Oaxaca - beautiful dresses and craft items. Parul was going out of her mind for sure :joy:
 
