@@ -781,6 +781,13 @@ This, again, was great. I loved the music, the colours and the choreography. Fer
   <em>The Splendor of Istmo</em>
 </div>
 
+<div class="postimg">
+    <div class="video-container">
+        <iframe src="https://player.vimeo.com/video/356965611" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    </div>
+    <em>Excerpts from the show</em>
+</div>
+
 The night ended with some street food, a deeper understanding of the "complicated" Mexican cuisine and a conversation that did not want to get political.
 
 We spent the entire next day wandering in the city once again, shopping a little, hitting the mercado once again for lunch and watching another round of Guelaguetza celebrations outside the church.
@@ -855,7 +862,14 @@ We spent the entire next day wandering in the city once again, shopping a little
   <em>Scenes from the Guelaguetza performances</em>
 </div>
 
-That evening we wandered around the Xochimilco neighbourhood and discussed how Oaxaca had so many pretty streets to get lost in. After a nice dinner, we ended the night with Mezcal. We were developing a liking for this one!
+That evening we walked around in the centro for a bit and witnessed some crazy party scenes :joy:
+
+<div class="postimg">
+    <div class="video-container">
+        <iframe src="https://player.vimeo.com/video/357102199" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    </div>
+    <em>Guelaguetza Night :dancer:</em>
+</div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49654060693_14ffb02ae5_c.jpg" data-toggle="lightbox">
@@ -863,6 +877,8 @@ That evening we wandered around the Xochimilco neighbourhood and discussed how O
   </a>
   <em>Street art in centro</em>
 </div>
+
+Then we wandered into the Xochimilco neighbourhood and discussed how Oaxaca had so many pretty streets to get lost in. After a nice dinner, we ended the night with Mezcal. We were developing a liking for this one!
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49654060918_025a595f0d_c.jpg" data-toggle="lightbox">

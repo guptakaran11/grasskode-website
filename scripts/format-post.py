@@ -77,7 +77,7 @@ def format_post(filename):
     print("\nsearching for videos...\n")
 
     ## format the regex for videos
-    regex_vimeo = '<iframe src="([\S]*)" width="([\S]*)" height="([\S]*)" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>'
+    regex_vimeo = '^<iframe src="([\S]*)" width="([\S]*)" height="([\S]*)" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>'
     for match in re.finditer(regex_vimeo, filetext):
         # a video match
         print('++')
