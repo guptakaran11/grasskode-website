@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Author on grasskode</title>
+    <title>grasskode</title>
     <link>http://grasskode.xyz/author/</link>
-    <description>Recent content in Author on grasskode</description>
+    <description>Recent content on grasskode</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>gupta.karan.11@gmail.com (Karan Gupta)</managingEditor>
@@ -15,30 +15,32 @@
     
     
     <item>
-      <title></title>
-      <link>http://grasskode.xyz/author/</link>
+      <title>Mexico Part 5</title>
+      <link>http://grasskode.xyz/post/travel/no-mames/mexico-part-5/</link>
       <pubDate>Sun, 22 Mar 2020 15:46:35 +0530</pubDate>
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/author/</guid>
-      <description></description>
+      <guid>http://grasskode.xyz/post/travel/no-mames/mexico-part-5/</guid>
+      <description>From Bacalar, we took a van to Mahahual. It was not very far and we had to spend half of the distance standing because the driver had picked up extra passengers on the way. That&amp;rsquo;s just how things were in Mexico and no one seemed to mind the mild chaos too much. It was similar to the chaos which most communal societies have.
+Diving In We checked into a hotel that was a bit outside the centro.</description>
     </item>
     
     <item>
-      <title>Karan</title>
-      <link>http://grasskode.xyz/author/karan/</link>
-      <pubDate>Mon, 02 Mar 2020 17:15:02 +0530</pubDate>
+      <title>Mexico Part 4</title>
+      <link>http://grasskode.xyz/post/travel/no-mames/mexico-part-4/</link>
+      <pubDate>Sun, 08 Mar 2020 20:04:13 +0530</pubDate>
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/author/karan/</guid>
-      <description></description>
+      <guid>http://grasskode.xyz/post/travel/no-mames/mexico-part-4/</guid>
+      <description>The late night bus took an bee-lining route to Palenque. The direct route was one of those that were &amp;ldquo;not safe&amp;rdquo;. The morning vans went there with a convoy for security. This was the darker side of Chiapas, the land of Zapatistas, the rebellious natives and the scorn for capitalism. The longer route, however, was safe and come morning, we woke up in the beautiful Palenque.
+Mayan Glory The apartment we had booked was nice and cozy.</description>
     </item>
     
     <item>
-      <title>Parul</title>
-      <link>http://grasskode.xyz/author/parul/</link>
-      <pubDate>Sun, 01 Dec 2019 16:58:16 -0500</pubDate>
+      <title>Kingsday</title>
+      <link>http://grasskode.xyz/post/travel/festivals/kingsday/</link>
+      <pubDate>Sun, 01 Sep 2019 16:58:24 -0500</pubDate>
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/author/parul/</guid>
-      <description></description>
+      <guid>http://grasskode.xyz/post/travel/festivals/kingsday/</guid>
+      <description>King&amp;rsquo;s Day, Amsterdam Koningsdag or King&amp;rsquo;s Day — formerly known as Queen&amp;rsquo;s Day is the annual Dutch holiday in honor of King Willem-Alexander. It is a national holiday in the Kingdom of the Netherlands and is celebrated on 27 April (26 April if the 27th is a Sunday) 😂, as you read on you will know why! The festivities start with a King&amp;rsquo;s night, the night before King&amp;rsquo;s day with lot of concerts and small stages all over the main area of Amsterdam.</description>
     </item>
     
   </channel>
