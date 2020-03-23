@@ -4,31 +4,36 @@
   
   <url>
     <loc>http://grasskode.xyz/author/</loc>
-    <lastmod>2020-03-08T20:04:13+05:30</lastmod>
+    <lastmod>2020-03-22T15:46:35+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/author/</loc>
-    <lastmod>2020-03-08T20:04:13+05:30</lastmod>
+    <lastmod>2020-03-22T15:46:35+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/travel/no-mames/mexico-part-5/</loc>
+    <lastmod>2020-03-22T15:46:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/</loc>
+    <lastmod>2020-03-22T15:46:35+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/</loc>
+    <lastmod>2020-03-22T15:46:35+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/post/travel/no-mames/mexico-part-4/</loc>
     <lastmod>2020-03-08T20:04:13+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/post/</loc>
-    <lastmod>2020-03-08T20:04:13+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/</loc>
-    <lastmod>2020-03-08T20:04:13+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -71,43 +76,13 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/airbnb/</loc>
-    <lastmod>2020-03-02T17:15:02+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/chamula/</loc>
-    <lastmod>2020-03-02T17:15:02+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/tags/chiapas/</loc>
     <lastmod>2020-03-02T17:15:02+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/cultural_festival/</loc>
-    <lastmod>2020-03-02T17:15:02+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/hierve-de-agua/</loc>
-    <lastmod>2020-03-02T17:15:02+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/la-guelaguetza/</loc>
-    <lastmod>2020-03-02T17:15:02+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/local_food/</loc>
+    <loc>http://grasskode.xyz/tags/culture_tours/</loc>
     <lastmod>2020-03-02T17:15:02+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -119,13 +94,7 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/ruins/</loc>
-    <lastmod>2020-03-02T17:15:02+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/san-cristobal-de-las-casas/</loc>
+    <loc>http://grasskode.xyz/tags/san_cristobal_de_las_casas/</loc>
     <lastmod>2020-03-02T17:15:02+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -137,24 +106,36 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/waterfall/</loc>
-    <lastmod>2020-03-02T17:15:02+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/zinacantan/</loc>
-    <lastmod>2020-03-02T17:15:02+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/post/travel/no-mames/mexico-part-2/</loc>
     <lastmod>2020-02-20T12:21:06+05:30</lastmod>
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/airbnb/</loc>
+    <lastmod>2020-02-20T12:21:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/cultural_festival/</loc>
+    <lastmod>2020-02-20T12:21:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/hierve-el-agua/</loc>
+    <lastmod>2020-02-20T12:21:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/la-guelaguetza/</loc>
+    <lastmod>2020-02-20T12:21:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/local_food/</loc>
     <lastmod>2020-02-20T12:21:06+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -172,7 +153,19 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/ruins/</loc>
+    <lastmod>2020-02-20T12:21:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/san-jose-del-pacifico/</loc>
+    <lastmod>2020-02-20T12:21:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/waterfall/</loc>
     <lastmod>2020-02-20T12:21:06+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -237,12 +230,6 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/laos/</loc>
-    <lastmod>2019-12-01T16:58:16-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/tags/luang-prabang/</loc>
     <lastmod>2019-12-01T16:58:16-05:00</lastmod>
     <priority>0</priority>
@@ -273,6 +260,12 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/festivals/</loc>
+    <lastmod>2019-12-01T16:58:16-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/laos/</loc>
     <lastmod>2019-12-01T16:58:16-05:00</lastmod>
     <priority>0</priority>
   </url>
