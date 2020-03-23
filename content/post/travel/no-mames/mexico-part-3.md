@@ -158,7 +158,7 @@ San Cristobal initially seemed to me to be a smaller version of Oaxaca City. But
   <em>Going vegan for lunch</em>
 </div>
 
-We checked out a couple of museums (as we must!). One of jade and another of cacao. Neither was mind-blowing but the [Jade Museum](TODO) had a really good recreation of the tomb of Pacal that we would see later at Palenque.
+We checked out a couple of museums (as we must!). One of jade and another of cacao. Neither was mind-blowing but the [Jade Museum](https://www.tripadvisor.in/Attraction_Review-g150802-d2090857-Reviews-Museo_Mesoamericano_del_Jade-San_Cristobal_de_las_Casas_Southern_Mexico.html) had a really good recreation of the tomb of Pacal that we would see later at Palenque.
 
 <div class="postimg">
   <div class="grid">
@@ -258,7 +258,7 @@ We climbed up the hill to the west of the city where sat **Iglesia de San Cristo
   <em>A good spot for photography</em>
 </div>
 
-After sunset we came back down and spent some more time at the centro before finally heading back to the AirBnB. That too because the vegan lunch that we had had was not letting us sit and eat/drink in a cafe (damn vegan food! :grimacing:) We picked up some pizza and mezcal on the way back and finished [Roma](TODO) before calling it a night.
+After sunset we came back down and spent some more time at the centro before finally heading back to the AirBnB. That too because the vegan lunch that we had had was not letting us sit and eat/drink in a cafe (damn vegan food! :grimacing:) We picked up some pizza and mezcal on the way back and finished [Roma](https://www.rottentomatoes.com/m/roma_2018) (which we had started in Oaxaca at the recommendation of Fernando and Marianna) before calling it a night.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49654599096_a3ae29432a_c.jpg" data-toggle="lightbox">
@@ -277,7 +277,7 @@ After sunset we came back down and spent some more time at the centro before fin
 
 ## People of the Land
 
-The next morning we had scheduled a tour with [Alex y Raul](TODO) to Zinacantan and Chamula. This was a culture tour and had come highly recommended by our hostess. We decided to give it a shot in order to understand the culture of the land better. Would definitely be something different from what we were used to. We reached the Zocalo at 9:30 AM and were met by our guide, Cesar. The group was a small one. A four member family from Netherlands and the two of us. We learnt over the course of the tour that they were doing a road-trip across the Yucatan and had come inland as far as Chiapas.
+The next morning we had scheduled a tour with [Alex y Raul](https://www.facebook.com/AlexyRaulTours/) to Zinacantan and Chamula. This was a culture tour and had come highly recommended by our hostess. We decided to give it a shot in order to understand the culture of the land better. Would definitely be something different from what we were used to. We reached the Zocalo at 9:30 AM and were met by our guide, Cesar. The group was a small one. A four member family from Netherlands and the two of us. We learnt over the course of the tour that they were doing a road-trip across the Yucatan and had come inland as far as Chiapas.
 
 The tour started at **Zinacantan**, a community of _Tsotsil_ speaking Mayans who had adopted Christ and his ways. We walked around the church first, which seems to form the crux of all towns in Mexico. The town's main church was under restoration so they had shifted into a temporary one.
 
@@ -317,7 +317,7 @@ They also fed us tortillas with a pumpkin seed powder that was utterly delicious
   <em>The most delicious tortillas we had in the country!</em>
 </div>
 
-Parul bought a tote bag from the weavers on our way out. We headed to the van which ferried us to our next destination. **Chamula** was a different part of the land and, as was to be expected, the clothes of the people here changed to reflect the change in location. The town was much bigger than Zicantan. The people here also spoke Tsotsil but were much more conservative about their traditions than the people of Zicantan. Cesar explained the various differences as we walked in front of the massive church and then took us inside, warning that the people here did not appreciate the camera so we had better put it away. It was an extremely surreal experience to walk in that church. The people had adopted the Christian God and saints but modified them to fit into their traditional belief. Candles burnt everywhere in the church and hay lined the floors. People sat chanting and shamans carried out rituals to heal the sick. The Vatican had tried interfering a few times to establish it's version of Christianity but the locals had violently repelled it away.
+Parul bought a tote bag from the weavers on our way out. We headed to the van which ferried us to our next destination. **Chamula** was a different part of the land and, as was to be expected, the clothes of the people here changed to reflect the change in location. The town was much bigger than Zinacantan. The people here also spoke Tsotsil but were much more conservative about their traditions than the people of Zinacantan. Cesar explained the various differences as we walked in front of the massive church and then took us inside, warning that the people here did not appreciate the camera so we had better put it away. It was an extremely surreal experience to walk in that church. The people had adopted the Christian God and saints but modified them to fit into their traditional belief. Candles burnt everywhere in the church and hay lined the floors. People sat chanting and shamans carried out rituals to heal the sick. The Vatican had tried interfering a few times to establish it's version of Christianity but the locals had violently repelled it away.
 
 <div class="postimg">
   <div class="grid">
@@ -371,7 +371,7 @@ The tour ended at the town's graveyard where Cesar showed us the unique tombs of
   <em>The graveyard</em>
 </div>
 
-I agreed with what Cesar was saying. The village had it's right to exist in the manner that it wished to. Modernization would bring about many changes for sure but adopting those changes was a choice of the natives. It should not be forced on them. This strong hold on the traditional way of life was probably the reason that [Zapatistas](TODO) were so firmly rooted in Chiapas. They were a bit like Naxalites in India (TODO), only much less political and much more supported by the local communities.
+I agreed with what Cesar was saying. The village had it's right to exist in the manner that it wished to. Modernization would bring about many changes for sure but adopting those changes was a choice of the natives. It should not be forced on them. This strong hold on the traditional way of life was probably the reason that [Zapatistas](https://en.wikipedia.org/wiki/Zapatista_Army_of_National_Liberation) were so firmly rooted in Chiapas. They were a bit like [Naxalites](https://en.wikipedia.org/wiki/Naxalite) in India, only much more supported by the local communities and much more effective.
 
 <div class="postimg">
   <div class="grid">
@@ -407,7 +407,7 @@ I agreed with what Cesar was saying. The village had it's right to exist in the 
 
 We thanked Cesar for the wonderful tour as he dropped us back to the city center. This had been an extremely insightful experience and we decided to do more of such culture tours whenever we could. There are things you do not understand as an outsider unless it is explained to you by a well informed local.
 
-Back in San Cristobal, we had a wonderful lunch of soups in a restaurant where two old men played a [marimba](https://en.wikipedia.org/wiki/Marimba) for our entertainment.
+Back in San Cristobal, we had a wonderful lunch of soups in a restaurant where two old men played a [marimba](https://en.wikipedia.org/wiki/Marimba) for our entertainment. Parul thought that one of them looked like [Robin Williams](https://en.wikipedia.org/wiki/Robin_Williams) when he smiled :smile:
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49654058968_27299865aa_c.jpg" data-toggle="lightbox">
@@ -515,7 +515,7 @@ We also went to check out the Museum of Mayan Medicine which was on the other si
   <em>The streets of Oaxaca :blue_heart: :heart: :yellow_heart:</em>
 </div>
 
-In the afternoon Parul went back for a nap and I sat in a cafe editing pictures and drinking more coffee with chocolate. I returned to the AirBnB later and decided to go for a run in the sports complex nearby. This was the [SEDEM park](TODO) and seemed to be quite a elaborate public amenity with football fields, a jogging track, basketball courts and more.
+In the afternoon Parul went back for a nap and I sat in a cafe editing pictures and drinking more coffee with chocolate. I returned to the AirBnB later and decided to go for a run in the sports complex nearby. This was the [SEDEM park](https://goo.gl/maps/NburBXiGSL2iUL3h8) and seemed to be quite an elaborate public amenity with football fields, a jogging track, basketball courts and more. While jogging around, I thought how it's things like these that make life so much more livable and enjoyable.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49654878007_720989c3c2_c.jpg" data-toggle="lightbox">
@@ -526,7 +526,7 @@ In the afternoon Parul went back for a nap and I sat in a cafe editing pictures 
 
 I ran a disastrous few laps and cursing myself for the bad shape I had gotten into, returned to the room. My phone had been misbehaving for a few days now and the battery finally died during the run. Frustrated, I swore off Motorola phones.
 
-That night we went back to the city center to book a tour of the Sumidero Canyons and then book a ticket to Palenque with ADO. After getting done with all the bookings, we sat at [TierrAdentro](TODO), a Zapatista cafe that Dahlia had suggested. Like all her suggestions, this turned out to be pretty amazing. There was live music, okay food and lots of drinks during the happy hours :smile:
+That night we went back to the city center to book a tour of the Sumidero Canyons and then book a ticket to Palenque with ADO. After getting done with all the bookings, we sat at [TierrAdentro](https://www.lonelyplanet.com/mexico/tabasco-and-chiapas/san-cristobal-de-las-casas/restaurants/tierradentro/a/poi-eat/433918/361649), a Zapatista cafe that Dahlia had suggested. Like all her suggestions, this turned out to be pretty amazing. There was live music, okay food and lots of drinks during the happy hours :smile:
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49654600841_bd658d2b1f_c.jpg" data-toggle="lightbox">
