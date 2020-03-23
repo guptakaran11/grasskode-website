@@ -78,7 +78,7 @@ def format_post(filename):
 
     ## format the regex for videos
     regex_vimeo = '^<iframe src="([\S]*)" width="([\S]*)" height="([\S]*)" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>'
-    for match in re.finditer(regex_vimeo, filetext):
+    for match in re.finditer(regex_vimeo, filetext, re.MULTILINE):
         # a video match
         print('++')
         print('{0} - {1}x{2}'.format(match.group(1), match.group(2), match.group(3)))
