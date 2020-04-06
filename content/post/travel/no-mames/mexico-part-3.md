@@ -1067,7 +1067,7 @@ As we exit the plaza, we took a look at the impressive craft that was up for sal
 </em>
 </div>
 
-We walked around the Palace to the other side and took a break in the shade of a tree. The beautiful site was all around us and we sat and enjoyed the beautiful setting of this one. This was by far the most beautiful site we had seen so far ([Teotihuacan](../mexico-part-1/#birthplace-of-the-gods) and [Monte Alban](../mexico-part-2/#going-local)). The restoration, the surrounding jungle and the narration, all added to this beauty.
+We walked around the Palace to the other side and took a break in the shade of a tree. We sat and took in the Mayan glory all around us. This was by far the most beautiful site we had seen in Mexico ([Teotihuacan](../mexico-part-1/#birthplace-of-the-gods) and [Monte Alban](../mexico-part-2/#going-local)). The restoration, the surrounding jungle and the narration, all added to this beauty.
 
 <div class="postimg">
   <div class="grid">
@@ -1109,7 +1109,7 @@ While there were more sections of the site that were marked on the map, we decid
 </em>
 </div>
 
-Out here we nded up spotting a keel-billed Toucan and a black squirrel which was stealthily avoiding attention :laughing:
+Out here we ended up spotting a **keel-billed Toucan** and a **black squirrel** which was stealthily avoiding attention :laughing:
 
 <div class="postimg">
   <div class="grid">
@@ -1291,7 +1291,7 @@ There were ropes drawn across the pool. Apparently Mexicans share the same probl
 </em>
 </div>
 
-We took a lot of pictures and swam around in the pool for the better part on an hour. I even jumped off a tree near the pool surface :sweat_smile: It was mighty fun!
+We took a lot of pictures and swam around in the pool for the better part of an hour. I even jumped off a tree near the pool surface :sweat_smile: It was mighty fun!
 
 <div class="postimg">
   <div class="grid">
@@ -1333,7 +1333,7 @@ We took a lot of pictures and swam around in the pool for the better part on an 
 
     </div>
   </div>
-  <em>Attempts at diving off a tree :laughing:
+  <em>Attempts at diving off a tree. I did manage to pull of a nice one despite Parul's badly timed photographs :confused:
 </em>
 </div>
 
