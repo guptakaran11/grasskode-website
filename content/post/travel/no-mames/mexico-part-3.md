@@ -1,6 +1,6 @@
 +++
 date = "2020-03-02T17:15:02+05:30"
-tags = ["mexico", "san_cristobal_de_las_casas", "chiapas", "culture_tours", "unesco-site"]
+tags = ["mexico", "san_cristobal_de_las_casas", "palenque", "chiapas", "culture_tours", "unesco-site", "mayan", "ruins", "cascades", "waterfall"]
 image = "https://live.staticflickr.com/65535/49654878477_678f0fe48e_c.jpg"
 title = "The Magical Chiapas"
 categories = ["travel"]
@@ -836,6 +836,556 @@ Then we sat in the central park chatting, clicking pictures and commenting on th
   <em>:camera:</em>
 </div>
 
+The rest of the day was all about killing time till our bus later that night. I got my phone working by a local repair center (there are no official Motorola repair centers in the whole of Mexico :expressionless:) and I just hoped that it lasted till the end of the trip. We sat at a Starbucks to use their good internet and worked on the blogs. Eventually it was time for the bus and we headed to the ADO bus stand right outside the town center.
+
+
+## Mayan Glory
+
+The late night bus took a long route to Palenque. The direct route was one of those that were "not safe". The tourist vans went there in the daytime with a convoy for security. This was the darker side of Chiapas, the land of Zapatistas, the rebellious natives and the scorn for capitalism. The longer route, however, was safe and come morning, we woke up in the town of Palenque.
+
+We walked to the apartment we had booked. It was just a half hour walk, something we were not averse to by now. The apartment seemed nice and cozy and our host explained things to us, gave us a bunch of recommendations and left us to ourselves. It was a whole apartment with a functional kitchen, an air-conditioned bedroom and a clean bathroom. What more could a weary traveler want? :smile:
+
+We went to see the Palenque ruins that morning. We freshened up and then walked out of the apartment. Our host had told us where we could get a _colectivo_ for the ruins and we found one waiting there. We got in and a short ride through a beautiful road got us to the _Zona Arqueologica_ of Palenque.
+
+We bought the tickets and denied the guides who were explaining the site to us. These sites would definitely make more sense with someone to explain the history of the place but we were on a budget that did not allow such luxuries. Getting a guide would have meant cutting down on a whole lot else. So we contended ourselves with admiring the beauty, making sense from the short descriptions written here and there and imagining as much as we could.
+
+The first three buildings that commanded out attention right after the entrance were the Temple of the Skull, Temple of the Red Queen and Temple of Inscriptions. They were in various states of restorations and except for the Temple of the Red Queen, the other two were cordoned off by ropes. We admired the beautiful restoration and the description on the boards helped us put these temples in perspective of their histories.
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49736829563_f632722f4d_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49736829563_f632722f4d.jpg">
+  </a>
+  <em>Temple of the Skull - the first building to greet you at the beautiful site
+</em>
+</div>
+
+<div class="postimg vertimg">
+  <a href="https://live.staticflickr.com/65535/49737369511_21dd93a535_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737369511_21dd93a535.jpg">
+  </a>
+  <em>Temple of the Red Queen
+</em>
+</div>
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737701307_b790f5df57_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737701307_b790f5df57.jpg">
+      </a>
+      <a href="https://live.staticflickr.com/65535/49736830573_6529bdecf1_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736830573_6529bdecf1.jpg">
+      </a>
+
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49736829433_530e3b7b7c_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736829433_530e3b7b7c.jpg">
+      </a>
+      <a href="https://live.staticflickr.com/65535/49737702692_bb3e6459d0_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737702692_bb3e6459d0.jpg">
+      </a>
+    </div>
+  </div>
+  <em>The Temple of Inscriptions
+</em>
+</div>
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737370926_ee112352e4_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737370926_ee112352e4.jpg">
+      </a>
+
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737702647_ccf0cdc63b_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737702647_ccf0cdc63b.jpg">
+      </a>
+
+    </div>
+  </div>
+  <em>Murals on the Temple of Inscriptions
+</em>
+</div>
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737702472_10edef5104_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737702472_10edef5104.jpg">
+      </a>
+
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49736830483_ac2c5ab6e9_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736830483_ac2c5ab6e9.jpg">
+      </a>
+
+    </div>
+  </div>
+  <em>Ruins and Restoration
+</em>
+</div>
+
+The next building was the elaborate Palace. We were free to walk around in this one and we did so, looking at the splendid architecture and the murals carved in limestone.
+
+<div class="postimg vertimg">
+  <a href="https://live.staticflickr.com/65535/49736829138_96f540f327_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49736829138_96f540f327.jpg">
+  </a>
+  <em>The watchtower of the Palace
+</em>
+</div>
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49737371076_48f881eb9b_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737371076_48f881eb9b.jpg">
+  </a>
+  <em>Inside the Palace grounds
+</em>
+</div>
+
+We then wandered off into the jungle to see some off the path temples. The shade from the jungle was welcome but it was accompanied by the oppressive humidity. We decided to take it easy rather than do a thorough combing of the site.
+
+<div class="postimg vertimg">
+  <a href="https://live.staticflickr.com/65535/49737701087_d8676ed093_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737701087_d8676ed093.jpg">
+  </a>
+
+</div>
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49737701137_79d5aec298_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737701137_79d5aec298.jpg">
+  </a>
+  <em>The temples in the forests were full of delightful surprises
+</em>
+</div>
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49736830408_9e47afc62f_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49736830408_9e47afc62f.jpg">
+  </a>
+  <em>The jungle had delights of its own :smile:
+</em>
+</div>
+
+We came back to the Cross Group Plaza which connected a bunch of temples of all sides. This was the religious center of Palenque.
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49737371011_21726d2490_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737371011_21726d2490.jpg">
+  </a>
+  <em>Temple of the Foliated Cross
+</em>
+</div>
+
+<div class="postimg vertimg">
+  <a href="https://live.staticflickr.com/65535/49737702827_46c568c831_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737702827_46c568c831.jpg">
+  </a>
+  <em>The murals inside the temple told stories of mythologies and ceremonies
+</em>
+</div>
+
+<div class="postimg vertimg">
+  <a href="https://live.staticflickr.com/65535/49736829018_0bf631c1bd_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49736829018_0bf631c1bd.jpg">
+  </a>
+
+</div>
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49736830263_c92f0c59fe_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49736830263_c92f0c59fe.jpg">
+  </a>
+  <em>Temple of the Cross
+</em>
+</div>
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49736830733_0ceddd1303_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736830733_0ceddd1303.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49736830053_9cbab228c5_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736830053_9cbab228c5.jpg">
+      </a>
+
+    </div>
+  </div>
+  <em>Temple of the Sun
+</em>
+</div>
+
+We lazily did the temples, all of which involved climbing considerable number of stairs. As a consolation, the vantage points provided good opportunities for taking pictures.
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737702282_cb6ccb9799_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737702282_cb6ccb9799.jpg">
+      </a>
+      <a href="https://live.staticflickr.com/65535/49736830293_b450d2fe59_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736830293_b450d2fe59.jpg">
+      </a>
+
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49736830353_01e81a15b4_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736830353_01e81a15b4.jpg">
+      </a>
+      <a href="https://live.staticflickr.com/65535/49737702167_576d7d779f_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737702167_576d7d779f.jpg">
+      </a>
+
+    </div>
+  </div>
+
+</div>
+
+As we exit the plaza, we took a look at the impressive craft that was up for sale. The famous Mayan calendar was also available and we ended up taking pendants of limestone made for our respective Mayan horoscope :smile:
+
+<div class="postimg vertimg">
+  <a href="https://live.staticflickr.com/65535/49737701682_cc9d2b5962_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737701682_cc9d2b5962.jpg">
+  </a>
+  <em>The Mayan Calendar
+</em>
+</div>
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49737370061_c852613ec2_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737370061_c852613ec2.jpg">
+  </a>
+  <em>Beautifully crafted
+</em>
+</div>
+
+We walked around the Palace to the other side and took a break in the shade of a tree. The beautiful site was all around us and we sat and enjoyed the beautiful setting of this one. This was by far the most beautiful site we had seen so far ([Teotihuacan](../mexico-part-1/#birthplace-of-the-gods) and [Monte Alban](../mexico-part-2/#going-local)). The restoration, the surrounding jungle and the narration, all added to this beauty.
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49736829828_f4a494eb50_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736829828_f4a494eb50.jpg">
+      </a>
+
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737370011_52eaa377a5_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737370011_52eaa377a5.jpg">
+      </a>
+
+    </div>
+  </div>
+  <em>The description of sites and the site map definitely helped
+</em>
+</div>
+
+While there were more sections of the site that were marked on the map, we decided to slowly make our way to the exit and the museum. We took a shorter route out that went through the forest and we stumbled across insignificant and unmarked ruins. Well, this called for a photo-shoot for sure :stuck_out_tongue:
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737701882_d93b180d92_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737701882_d93b180d92.jpg">
+      </a>
+
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737701907_8fdf42d06c_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737701907_8fdf42d06c.jpg">
+      </a>
+
+    </div>
+  </div>
+  <em>Parul was certainly dressed for this :sweat_smile:
+</em>
+</div>
+
+Out here we nded up spotting a keel-billed Toucan and a black squirrel which was stealthily avoiding attention :laughing:
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49736829923_516b4cd294_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736829923_516b4cd294.jpg">
+      </a>
+
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737370081_af260178b0_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737370081_af260178b0.jpg">
+      </a>
+
+    </div>
+  </div>
+  <em>Tracking this one down was a high point of my photography career :stuck_out_tongue:
+</em>
+</div>
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49737701832_99dcbd6bca_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737701832_99dcbd6bca.jpg">
+  </a>
+  <em>The stealthy squirrel
+</em>
+</div>
+
+The route down to the visitor center went along cascades of extremely clear water. The water seemed so inviting because of the heat but it did not seem like the stream was open to visitors :stuck_out_tongue:
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49736829963_0489a3947a_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49736829963_0489a3947a.jpg">
+  </a>
+  <em>Water be so inviting :weary:
+</em>
+</div>
+
+<div class="postimg vertimg">
+  <a href="https://live.staticflickr.com/65535/49737701362_8628d854c9_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737701362_8628d854c9.jpg">
+  </a>
+  <em>Dying for a splash :sweat_drops:
+</em>
+</div>
+
+Back near the visitor center, we spent some time in the museum and saw Pakal's grave. The recreation at the Jade Museum in San Cristobal de Las Casas that we had seen earlier seemed pretty accurate now.
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737701677_8d3dc5f532_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737701677_8d3dc5f532.jpg">
+      </a>
+      <a href="https://live.staticflickr.com/65535/49736829618_978b8f72e4_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736829618_978b8f72e4.jpg">
+      </a>
+
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737701627_9e6b27130b_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737701627_9e6b27130b.jpg">
+      </a>
+      <a href="https://live.staticflickr.com/65535/49737369816_294592a59a_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737369816_294592a59a.jpg">
+      </a>
+
+    </div>
+  </div>
+  <em>A compulsive necessity :grimacing:
+</em>
+</div>
+
+We got a _colectivo_ back to the centro and decided to go check out a Chinese food place that we had earlier seen. Thus ensued a funny episode where we tried conversing in Spanish with the Chinese lady to figure out if she had vegetarian food or not :joy: She dismissed us harshly when she understood what we were asking for :stuck_out_tongue: We sought food elsewhere and I shopped for some basic vegetables and groceries for later. The dinner was made in the rare luxury of the kitchen and after watching [Andhadhun](https://www.rottentomatoes.com/m/andhadhun) I was dazed enough to fall asleep.
+
+
+## Endless Cascades
+
+The next morning we woke up later than planned. While we had initially planned to just spend a day in Palenque, it got extended to two. The relaxing apartment was partially responsible for it and the other reason was that I was quite excited about the **Roberto Barrios** cascades that our host had described as _unique_. After cooking and and eating some breakfast, we headed to the market to get a _colectivo_ for the cascades.
+
+Parul had not been sharing my enthusiasm for the cascades since the morning. Partly because of the hot weather and partly because the idea of "another waterfall" did not seem exciting to her. Meghalaya and South-East Asia had presented us with enough waterfalls to raise the bar for what exited us and what did not. I offered that she sit it out and chill in the centro but she did not take take option as well. Her mood was visibly sullen during the hour it took us to find a van and another on the road to get to the cascades. We bought a ticket and then went to check out the _cascadas_.
+
+<div class="postimg vertimg">
+  <a href="https://live.staticflickr.com/65535/49736828968_25d50b42ac_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49736828968_25d50b42ac.jpg">
+  </a>
+  <em>Colectivo ride
+</em>
+</div>
+
+My first impression was that this was a slightly more spread out version of _Kuang Xi_ (Luang Prabang, Laos). The water was not as surrealistically blue but the surrounding area was much less touristy. It was mostly a jungle with trails leading down by the sides of the cascades. There were a few tourists scattered here and there but not a lot.
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49736828928_5e64c45c35_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736828928_5e64c45c35.jpg">
+      </a>
+
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737369206_310a0e2c35_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737369206_310a0e2c35.jpg">
+      </a>
+
+    </div>
+  </div>
+  <em>First impressions of the Cascades
+</em>
+</div>
+
+We went down a couple of levels and found a nice pool where I wanted to take a dip. Parul joined in after much hesitation. Her mood visibly lightened once she got into the water :smile:
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49736827933_0f8736bf77_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49736827933_0f8736bf77.jpg">
+  </a>
+  <em>Inviting!
+</em>
+</div>
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49737699392_b24a0577df_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737699392_b24a0577df.jpg">
+  </a>
+  <em>I had been craving for this!
+</em>
+</div>
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49737367636_f7abcd0f49_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737367636_f7abcd0f49.jpg">
+  </a>
+  <em>:stuck_out_tongue:
+</em>
+</div>
+
+There were ropes drawn across the pool. Apparently Mexicans share the same problem as Indians with regards to swimming skills. There were shaded spots where we lounged and the water's temperature was extremely relaxing in the hot weather. The cascades formed infinity pools at every level and it was a delight to see. There seemed to be no end to these cascades!
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49737367731_8b76ecbce3_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737367731_8b76ecbce3.jpg">
+  </a>
+
+</div>
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737699617_3b5b250cf1_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737699617_3b5b250cf1.jpg">
+      </a>
+
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737699462_9e8e2132d5_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737699462_9e8e2132d5.jpg">
+      </a>
+
+    </div>
+  </div>
+  <em>Infinity
+</em>
+</div>
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49737699587_58e0f28616_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737699587_58e0f28616.jpg">
+  </a>
+  <em>Happy Us
+</em>
+</div>
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49737367466_fca64716f0_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737367466_fca64716f0.jpg">
+  </a>
+  <em>The endless cascades
+</em>
+</div>
+
+We took a lot of pictures and swam around in the pool for the better part on an hour. I even jumped off a tree near the pool surface :sweat_smile: It was mighty fun!
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49736827493_219bbff7e9_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736827493_219bbff7e9.jpg">
+      </a>
+
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49736827408_d57cd3cac8_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736827408_d57cd3cac8.jpg">
+      </a>
+
+    </div>
+  </div>
+  <em>Trying weird selfie angles :joy:
+</em>
+</div>
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737368006_806e2f8d46_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737368006_806e2f8d46.jpg">
+      </a>
+      <a href="https://live.staticflickr.com/65535/49737369161_0359fea927_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737369161_0359fea927.jpg">
+      </a>
+
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49737699677_48e174623e_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737699677_48e174623e.jpg">
+      </a>
+      <a href="https://live.staticflickr.com/65535/49737700777_d27d722aac_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49737700777_d27d722aac.jpg">
+      </a>
+
+    </div>
+  </div>
+  <em>Attempts at diving off a tree :laughing:
+</em>
+</div>
+
+The crowd increased as the day progressed and here I had thought we were late! We walked off to explore more cascades and saw some small ones hidden away in the forest. I have no idea how much of the whole thing we actually witnessed :scream:
+
+<div class="postimg">
+  <a href="https://live.staticflickr.com/65535/49737367396_4aebf0451b_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737367396_4aebf0451b.jpg">
+  </a>
+  <em>Exploring more cascades
+</em>
+</div>
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49736827243_6c74f613f8_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736827243_6c74f613f8.jpg">
+      </a>
+
+    </div>
+    <div class="grid-column-50">
+      <a href="https://live.staticflickr.com/65535/49736827188_a936b58e6c_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49736827188_a936b58e6c.jpg">
+      </a>
+
+    </div>
+  </div>
+  <em>Stumbling across small pools inside the jungle
+</em>
+</div>
+
+We exited and got a refreshing serving of mangoes and coconut at the exit. These guys put salsa on everything :expressionless: I had some grilled chicken with rice for lunch and then we found a van to take us back to the town.
+
+<div class="postimg vertimg">
+  <a href="https://live.staticflickr.com/65535/49736828943_f98232ff33_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49736828943_f98232ff33.jpg">
+  </a>
+  <em>Her mood was definitely better :smile:
+</em>
+</div>
+
+We ended the night with some _micheladas_, mezcal and another movie. It had been a fun couple of days in Palenque.
+
+<div class="postimg vertimg">
+  <a href="https://live.staticflickr.com/65535/49737700957_6cf334b543_c.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://live.staticflickr.com/65535/49737700957_6cf334b543.jpg">
+  </a>
+  <em>Palenque Centro
+</em>
+</div>
+
 <hr />
 
-The rest of the day was all about killing time till our bus later that night. I got my phone in working condition by a local repair center (there are no official Motorola repair centers in the whole of Mexico :expressionless:). It was working now and I just hoped that it lasted till the end of the trip. We sat at a Starbucks to use their good internet and worked on the blogs. Eventually it was time for the bus and we headed to the ADO bus stand right outside the town center.
+Chiapas would remain with us. The beautiful town of San Cristobal with it's hippies and chocolate, and the magical Mayan city-state of Palenque, all of it abounding in natural beauty and a rawness that commanded admiration. This was also where we learnt the culture of the modern Mayans a little better. We now understood what attracted travellers to this part of the country and why they seemed to leave a piece of themselves out here, much like us.
