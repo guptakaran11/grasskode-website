@@ -1,5 +1,5 @@
 +++
-date = "2020-03-02T17:15:02+05:30"
+date = "2020-03-20T17:15:02+05:30"
 tags = ["mexico", "san_cristobal_de_las_casas", "palenque", "chiapas", "culture_tours", "unesco-site", "mayan", "ruins", "cascades", "waterfall"]
 image = "https://live.staticflickr.com/65535/49654878477_678f0fe48e_c.jpg"
 title = "The Magical Chiapas"
