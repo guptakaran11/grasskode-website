@@ -4,58 +4,111 @@
   
   <url>
     <loc>http://grasskode.xyz/author/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/author/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/categories/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/post/travel/no-mames/mexico-part-4/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/author/karan/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/post/travel/no-mames/mexico-part-5/</loc>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/series/no-mames/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/post/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/series/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/tags/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/categories/travel/</loc>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/cenotes/</loc>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/culture/</loc>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/</loc>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/izamal/</loc>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/los_colorades-todo/</loc>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/mexico/</loc>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/valladolid/</loc>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/yucatan/</loc>
+    <lastmod>2020-04-07T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/travel/no-mames/mexico-part-4/</loc>
     <lastmod>2020-04-06T20:04:13+05:30</lastmod>
   </url>
   
@@ -67,12 +120,6 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/diving/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/</loc>
     <lastmod>2020-04-06T20:04:13+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -114,12 +161,6 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/mexico/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/tags/quintana-roo/</loc>
     <lastmod>2020-04-06T20:04:13+05:30</lastmod>
     <priority>0</priority>
@@ -132,7 +173,7 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/sailboat/</loc>
+    <loc>http://grasskode.xyz/tags/sailing/</loc>
     <lastmod>2020-04-06T20:04:13+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -145,12 +186,6 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/tulum/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/yucatan/</loc>
     <lastmod>2020-04-06T20:04:13+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -463,12 +498,6 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/austria/</loc>
-    <lastmod>2019-10-02T19:52:18-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/culture/</loc>
     <lastmod>2019-10-02T19:52:18-05:00</lastmod>
     <priority>0</priority>
   </url>

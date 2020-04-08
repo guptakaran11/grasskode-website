@@ -9,10 +9,73 @@
     <managingEditor>gupta.karan.11@gmail.com (Karan Gupta)</managingEditor>
     <webMaster>gupta.karan.11@gmail.com (Karan Gupta)</webMaster>
     <copyright>Copyright (c) 2018, Karan Gupta; some rights reserved.</copyright>
-    <lastBuildDate>Mon, 06 Apr 2020 20:04:13 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 21:26:33 +0530</lastBuildDate>
     
 	<atom:link href="http://grasskode.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cenotes</title>
+      <link>http://grasskode.xyz/tags/cenotes/</link>
+      <pubDate>Tue, 07 Apr 2020 21:26:33 +0530</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/tags/cenotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>culture</title>
+      <link>http://grasskode.xyz/tags/culture/</link>
+      <pubDate>Tue, 07 Apr 2020 21:26:33 +0530</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>izamal</title>
+      <link>http://grasskode.xyz/tags/izamal/</link>
+      <pubDate>Tue, 07 Apr 2020 21:26:33 +0530</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/tags/izamal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>los_colorades TODO</title>
+      <link>http://grasskode.xyz/tags/los_colorades-todo/</link>
+      <pubDate>Tue, 07 Apr 2020 21:26:33 +0530</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/tags/los_colorades-todo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mexico</title>
+      <link>http://grasskode.xyz/tags/mexico/</link>
+      <pubDate>Tue, 07 Apr 2020 21:26:33 +0530</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/tags/mexico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>valladolid</title>
+      <link>http://grasskode.xyz/tags/valladolid/</link>
+      <pubDate>Tue, 07 Apr 2020 21:26:33 +0530</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/tags/valladolid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yucatan</title>
+      <link>http://grasskode.xyz/tags/yucatan/</link>
+      <pubDate>Tue, 07 Apr 2020 21:26:33 +0530</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/tags/yucatan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bacalar</title>
@@ -87,15 +150,6 @@
     </item>
     
     <item>
-      <title>mexico</title>
-      <link>http://grasskode.xyz/tags/mexico/</link>
-      <pubDate>Mon, 06 Apr 2020 20:04:13 +0530</pubDate>
-      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/tags/mexico/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>quintana roo</title>
       <link>http://grasskode.xyz/tags/quintana-roo/</link>
       <pubDate>Mon, 06 Apr 2020 20:04:13 +0530</pubDate>
@@ -114,11 +168,11 @@
     </item>
     
     <item>
-      <title>sailboat</title>
-      <link>http://grasskode.xyz/tags/sailboat/</link>
+      <title>sailing</title>
+      <link>http://grasskode.xyz/tags/sailing/</link>
       <pubDate>Mon, 06 Apr 2020 20:04:13 +0530</pubDate>
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/tags/sailboat/</guid>
+      <guid>http://grasskode.xyz/tags/sailing/</guid>
       <description></description>
     </item>
     
@@ -137,15 +191,6 @@
       <pubDate>Mon, 06 Apr 2020 20:04:13 +0530</pubDate>
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
       <guid>http://grasskode.xyz/tags/tulum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>yucatan</title>
-      <link>http://grasskode.xyz/tags/yucatan/</link>
-      <pubDate>Mon, 06 Apr 2020 20:04:13 +0530</pubDate>
-      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/tags/yucatan/</guid>
       <description></description>
     </item>
     
@@ -560,15 +605,6 @@
       <pubDate>Wed, 02 Oct 2019 19:52:18 -0500</pubDate>
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
       <guid>http://grasskode.xyz/tags/austria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>culture</title>
-      <link>http://grasskode.xyz/tags/culture/</link>
-      <pubDate>Wed, 02 Oct 2019 19:52:18 -0500</pubDate>
-      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/tags/culture/</guid>
       <description></description>
     </item>
     
