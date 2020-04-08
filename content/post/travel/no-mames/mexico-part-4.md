@@ -1,6 +1,6 @@
 +++
 date = "2020-04-06T20:04:13+05:30"
-tags = ["mexico", "bacalar", "mahahual", "tulum", "yucatan", "quintana roo", "mayan", "ruins", "iguanas", "sailboat", "lagoon", "kayaking", "lake", "diving", "seafood"]
+tags = ["mexico", "bacalar", "mahahual", "tulum", "yucatan", "quintana roo", "yucatan", "mayan", "ruins", "iguanas", "sailing", "lagoon", "kayaking", "lake", "diving", "seafood"]
 image = "https://live.staticflickr.com/65535/49737365781_61edc30959_c.jpg"
 title = "Into the Blues"
 categories = ["travel"]
@@ -225,7 +225,8 @@ We got on the boat again and sailed into the lagoon. Miguel put on some music an
     </div>
     <em>Sunset Cruise</em>
 </div>
-We had dinner at Christian Tacos, right across the street from where we were staying, the place right opposite our AirBnB. The food was nice but their cocktails did not have any effect :grimacing: Perhaps we were developing a strong constitution when it came to alcohol. We suspected the Mezcal had something to do with it :joy:
+
+We had dinner at Christian Tacos, right across the street from where we were staying at the AirBnB. The food was nice but their cocktails did not have any effect :grimacing: Perhaps we were developing a strong constitution when it came to alcohol. We suspected the Mezcal had something to do with it :joy:
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49737369036_ae1da2404c_c.jpg" data-toggle="lightbox">
@@ -241,6 +242,7 @@ We had dinner at Christian Tacos, right across the street from where we were sta
     </div>
     <em>Live music added to the ambiance</em>
 </div>
+
 
 ## Falling in Love
 
@@ -326,7 +328,8 @@ Later we sat in a bar for a few drinks. The I Scream Bar was probably one of the
     </div>
     <em>:joy:</em>
 </div>
-We had fallen in love with Bacalar during the two days we had spent here. And not we were thinking of extending our stay. Bacalar was a bit pricey so we decided to go ahead and splurge, one of the occasional luxuries we indulged in. So we booked a [lagoon-side villa](https://www.tripadvisor.in/Hotel_Review-g1202648-d15098644-Reviews-Villas_Karalv-Bacalar_Yucatan_Peninsula.html) which was a little way away from the centro and checked out of our AirBnB the next morning.
+
+We had fallen in love with Bacalar during the two days we had spent here. And now we were thinking of extending our stay. Bacalar was a bit pricey so we decided to go ahead and splurge, one of the occasional luxuries we indulged in. So we booked a [lagoon-side villa](https://www.tripadvisor.in/Hotel_Review-g1202648-d15098644-Reviews-Villas_Karalv-Bacalar_Yucatan_Peninsula.html) which was a some distance away from the centro and checked out of our AirBnB the next morning.
 
 <div class="postimg">
   <div class="grid">
@@ -421,7 +424,7 @@ Later that night we sat by the lake and indulged in some good wine after a dinne
 </em>
 </div>
 
-The next morning we had planned to go kayaking at sunrise but failed to wake up for it. Parul is not really a morning person and I get tempted into staying in bed seeing her blissfully asleep :stuck_out_tongue: The entire day was spent in blissful laziness by the lake. I read, wrote and played Civ. Parul indulged in some laziness and photography.
+The next morning we had planned to go kayaking at sunrise but failed to wake up for it. Parul is not really a morning person and I get tempted into staying in bed seeing her blissfully asleep :stuck_out_tongue: The entire day was spent in laziness by the lake. I read, wrote and played Civ. Parul indulged in some intense day dreaming and photography.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49737699952_397884dc3b_c.jpg" data-toggle="lightbox">
@@ -540,7 +543,16 @@ The Pirates Channel was a long distance away and extremely tiring. At the channe
 </em>
 </div>
 
-We packed up in time for checkout and then planned to walk back the couple of kilometers to the ADO bus station but a couple leaving the villa in their car gave us a ride to the city center. They were riding around the Yucatan themselves and gave us a really nice recommendation - [El Cuyo](http://elcuyo.net/), that we meant to but could unfortunately not follow up on.
+While we had thought about extending our stay by yet another day to enjoy this beautiful place, the villa was booked and we fortunately saved on a considerable sum of money :stuck_out_tongue: We packed up as the wild peacocks walked around in the property.
+
+<div class="postimg">
+    <div class="video-container">
+        <iframe src="https://player.vimeo.com/video/404220789" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    </div>
+    <em>Wild peacocks walking about</em>
+</div>
+
+We had planned to walk back the distance back to the ADO bus station but a couple leaving the villa in their car gave us a ride to the city center. They were driving around the Yucatan themselves and gave us a really nice recommendation - [El Cuyo](http://elcuyo.net/), that we meant to but could unfortunately not follow up on.
 
 
 ## A Fisherman's Village
@@ -632,7 +644,7 @@ We thanked the guys and bade them goodbye for the day. Auden told me to go throu
 </em>
 </div>
 
-The town was much more lively today than it had been yesterday. The shops were open and tourists were walking down the street. It was a regular tourist town now! The secret to the transformation was the cruise ship docked at a distance. Mahahual was a regular stop for cruise ships making their way on the eastern coast of the continent. When the cruise ships docked, the taxis plied, the shops opened, the masseurs called out the happy wide eyed tourists walking the streets. These were mostly American tourists, wide eyed and loud, splurging their dollars and pumping them in the local economy.
+The town was much more lively today than it had been yesterday. The shops were open and tourists were walking down the street. It was a regular tourist town now! The secret to the transformation was the cruise ship docked at a distance. Mahahual was a regular stop for cruise ships making their way on the eastern coast of the continent. When the cruise ships docked, the taxis plied, the shops opened, the masseurs called out the happy tourists walking the streets, the shacks played loud music to attract patrons. These were mostly American tourists, wide eyed and loud, splurging their dollars and pumping them in the local economy.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49744425008_2f7bf8f89f_c.jpg" data-toggle="lightbox">
@@ -897,7 +909,8 @@ Our AirBnB also had two furry denizens. Bob, the dog, hated being patronized, lo
     </div>
     <em>Unwanted intrusions :cat:</em>
 </div>
-We spent our days working indoors. The heat was daunting and the comfort of the room was somnolent. I got hooked to Civ6 (officially addicted by now), ranted on the philosophy of [slow living](/post/rant/slow/), completed editing pending pictures from Europe. It was quite a fruitful time spent there. After all the continuously active travel, this was a much needed respite.
+
+We spent our days working indoors. The heat was daunting and the comfort of the room was somnolent. I got hooked to Civ6 (officially addicted by now), ranted on the philosophy of [slow-living](/post/rant/slow/), completed editing pending pictures from Europe. It was quite a fruitful time spent there. After all the continuously active travel, this was a much needed respite.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49744423438_1939c15c6e_c.jpg" data-toggle="lightbox">

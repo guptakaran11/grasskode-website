@@ -79,7 +79,7 @@ def format_post(filename):
     print("\nsearching for videos...\n")
 
     ## format the regex for videos
-    regex_vimeo = '^(<iframe src="([\S]*)" width="([\S]*)" height="([\S]*)" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>)\s([\S ]+)\s'
+    regex_vimeo = '^(<iframe src="([\S]*)" width="([\S]*)" height="([\S]*)" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>)(?:\s([\S ]+))?\s'
     for match in re.finditer(regex_vimeo, filetext, re.MULTILINE):
         # a video match
         print('++')
@@ -91,7 +91,8 @@ def format_post(filename):
         {0}
     </div>
     {2}
-</div>""".format(match.group(1), "" if int(match.group(3)) > int(match.group(4)) else " vertimg", "<em>%s</em>"%title if title is not None else "")
+</div>
+""".format(match.group(1), "" if int(match.group(3)) > int(match.group(4)) else " vertimg", "<em>%s</em>"%title if title is not None else "")
 
         # search original match and replace with replacement text
         formattedtext = formattedtext.replace(match.group(0), replacement_text)
