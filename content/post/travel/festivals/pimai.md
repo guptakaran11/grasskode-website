@@ -1,8 +1,7 @@
 +++
 categories = ["travel"]
 tags = ["festivals", "Pi Mai Laos", "Pi Mai", "Laos", "Luang Prabang", "sokran", "Lao new year"]
-date = "2020-12-04T16:58:16-05:00"
-type = "draft"
+date = "2020-01-04T16:58:16-05:00"
 title = "Pi Mai"
 image = "https://live.staticflickr.com/65535/48455230217_742a50b53a_b.jpg"
 toc = true
