@@ -1,6 +1,6 @@
 +++
 date = "2020-04-06T20:04:13+05:30"
-tags = ["mexico", "bacalar", "mahahual", "tulum", "yucatan", "quintana roo", "yucatan", "mayan", "ruins", "iguanas", "sailing", "lagoon", "kayaking", "lake", "diving", "seafood"]
+tags = ["mexico", "bacalar", "mahahual", "tulum", "quintana roo", "yucatan_peninsula", "maya", "ruins", "iguanas", "sailing", "lagoon", "kayaking", "lake", "diving", "seafood"]
 image = "https://live.staticflickr.com/65535/49737365781_61edc30959_c.jpg"
 title = "Into the Blues"
 categories = ["travel"]
@@ -280,7 +280,7 @@ We spent another day at the AirBnB. Bacalar, much like [Brisas de Zicatela](../m
 </em>
 </div>
 
-We headed to the _centro_ that evening and decided to eat the pancake like thing that were being sold in carts. We had been seeing it since Palenque and it had piqued my interest. It was thus that we discovered _marquesitas_, one of the most affordable and beloved street food of Yucatan and adjoining area. It was a thin pancake filled with sweet or savoury fillings and rolled up to take on the go :yum:
+We headed to the _centro_ that evening and decided to eat the pancake like thing that were being sold in carts. We had been seeing it since Palenque and it had piqued my interest. It was thus that we discovered _marquesitas_, one of the most affordable and beloved street food of the Yucatan peninsula. It was a thin pancake filled with sweet or savoury fillings and rolled up to take on the go :yum:
 
 <div class="postimg">
   <div class="grid">
@@ -552,7 +552,7 @@ While we had thought about extending our stay by yet another day to enjoy this b
     <em>Wild peacocks walking about</em>
 </div>
 
-We had planned to walk back the distance to the ADO bus station but a couple leaving the villa in their car gave us a ride to the city center. They were driving around the Yucatan themselves and gave us a really nice recommendation - [El Cuyo](http://elcuyo.net/), that we meant to but could unfortunately not follow up on.
+We had planned to walk back the distance to the ADO bus station but a couple leaving the villa in their car gave us a ride to the city center. They were driving around the peninsula in a rented car and gave us a really nice recommendation - [El Cuyo](http://elcuyo.net/), that we meant to but could unfortunately not follow up on.
 
 
 ## A Fisherman's Village
