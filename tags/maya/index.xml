@@ -9,10 +9,20 @@
     <managingEditor>gupta.karan.11@gmail.com (Karan Gupta)</managingEditor>
     <webMaster>gupta.karan.11@gmail.com (Karan Gupta)</webMaster>
     <copyright>Copyright (c) 2018, Karan Gupta; some rights reserved.</copyright>
-    <lastBuildDate>Mon, 06 Apr 2020 20:04:13 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 21:26:33 +0530</lastBuildDate>
     
 	<atom:link href="http://grasskode.xyz/tags/maya/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Valladolid</title>
+      <link>http://grasskode.xyz/post/travel/no-mames/mexico-part-5/</link>
+      <pubDate>Mon, 13 Apr 2020 21:26:33 +0530</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/post/travel/no-mames/mexico-part-5/</guid>
+      <description>While there was much more that could be done in Tulum, we left the town after a few days of relaxation, wandering around and drinking good tequila. We took a bus and headed inland to a city that had come recommended by our friend Gabriela, who was a traveller herself.
+A Happy Place We reached the town later in the afternoon and the bus dropped us at the ADO station in the middle of the town.</description>
+    </item>
     
     <item>
       <title>Into the Blues</title>
@@ -30,16 +40,6 @@
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
       <guid>http://grasskode.xyz/post/travel/no-mames/mexico-part-3/</guid>
       <description>We took an ADO bus out of Oaxaca which would get us to San Cristobal de Las Casas overnight. Weirdly sleeper buses are not a concept out there but fortunately the ADO buses are luxurious enough to spend the night comfortably. Parul slept as soon as the bus hit the highway but I stayed up initially, trying to test my Spanish against a movie that was being played. Come morning, we were at our destination.</description>
-    </item>
-    
-    <item>
-      <title>Valladolid</title>
-      <link>http://grasskode.xyz/post/travel/no-mames/mexico-part-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/post/travel/no-mames/mexico-part-5/</guid>
-      <description>While there was much more that could be done in Tulum, we left the town after a few days of relaxation, wandering around and drinking good tequila. We took a bus and headed inland to a city that had come recommended by our friend Gabriela, who was a traveller herself.
-A Happy Place We reached the town later in the afternoon and the bus dropped us at the ADO station in the middle of the town.</description>
     </item>
     
   </channel>

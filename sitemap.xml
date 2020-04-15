@@ -139,12 +139,71 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/post/travel/no-mames/mexico-part-4/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
+    <loc>http://grasskode.xyz/series/no-mames/</loc>
+    <lastmod>2020-04-13T21:26:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/series/no-mames/</loc>
+    <loc>http://grasskode.xyz/post/travel/no-mames/mexico-part-5/</loc>
+    <lastmod>2020-04-13T21:26:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/cenote/</loc>
+    <lastmod>2020-04-13T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/chichen_itza/</loc>
+    <lastmod>2020-04-13T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/culture/</loc>
+    <lastmod>2020-04-13T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/izamal/</loc>
+    <lastmod>2020-04-13T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/las_coloradas/</loc>
+    <lastmod>2020-04-13T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/maya/</loc>
+    <lastmod>2020-04-13T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/ruins/</loc>
+    <lastmod>2020-04-13T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/unesco-site/</loc>
+    <lastmod>2020-04-13T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/world_wonder/</loc>
+    <lastmod>2020-04-13T21:26:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/travel/no-mames/mexico-part-4/</loc>
     <lastmod>2020-04-06T20:04:13+05:30</lastmod>
   </url>
   
@@ -185,19 +244,7 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/maya/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/tags/quintana-roo/</loc>
-    <lastmod>2020-04-06T20:04:13+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/ruins/</loc>
     <lastmod>2020-04-06T20:04:13+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -251,12 +298,6 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/san_cristobal_de_las_casas/</loc>
-    <lastmod>2020-03-20T17:15:02+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/unesco-site/</loc>
     <lastmod>2020-03-20T17:15:02+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -534,12 +575,6 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/austria/</loc>
-    <lastmod>2019-10-02T19:52:18-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/culture/</loc>
     <lastmod>2019-10-02T19:52:18-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1711,35 +1746,6 @@
   
   <url>
     <loc>http://grasskode.xyz/about/</loc>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/post/travel/no-mames/mexico-part-5/</loc>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/cenote/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/chichen_itza/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/izamal/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/las_coloradas/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/world_wonder/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
