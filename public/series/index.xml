@@ -9,17 +9,35 @@
     <managingEditor>gupta.karan.11@gmail.com (Karan Gupta)</managingEditor>
     <webMaster>gupta.karan.11@gmail.com (Karan Gupta)</webMaster>
     <copyright>Copyright (c) 2018, Karan Gupta; some rights reserved.</copyright>
-    <lastBuildDate>Tue, 07 Apr 2020 21:26:33 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2020 02:52:22 +0530</lastBuildDate>
     
 	<atom:link href="http://grasskode.xyz/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Island Hopping</title>
+      <link>http://grasskode.xyz/series/island-hopping/</link>
+      <pubDate>Tue, 14 Apr 2020 02:52:22 +0530</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/series/island-hopping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NO MAMES!</title>
       <link>http://grasskode.xyz/series/no-mames/</link>
-      <pubDate>Tue, 07 Apr 2020 21:26:33 +0530</pubDate>
+      <pubDate>Mon, 06 Apr 2020 20:04:13 +0530</pubDate>
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
       <guid>http://grasskode.xyz/series/no-mames/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Festivals</title>
+      <link>http://grasskode.xyz/series/festivals/</link>
+      <pubDate>Sat, 04 Jan 2020 16:58:16 -0500</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/series/festivals/</guid>
       <description></description>
     </item>
     
