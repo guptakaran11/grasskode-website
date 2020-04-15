@@ -1,5 +1,5 @@
 +++
-date = "2020-04-013T21:26:33+05:30"
+date = "2020-04-13T21:26:33+05:30"
 tags = ["mexico", "valladolid", "izamal", "las_coloradas", "chichen_itza", "yucatan", "yucatan_peninsula", "cenote", "culture", "world_wonder", "ruins", "maya", "unesco-site"]
 image = "https://live.staticflickr.com/65535/49775685031_cf90011646_c.jpg"
 title = "Valladolid"
