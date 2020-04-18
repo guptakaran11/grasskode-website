@@ -14,7 +14,7 @@ While there was much more that could be done in Tulum, we left the town after a 
 
 ## A Happy Place
 
-We reached the town later in the afternoon and the bus dropped us at the ADO station in the middle of the town. Most of the shops seemed closed, giving the small town a somewhat smaller feeling. As we hunted for the AirBnB we had booked, we walked the pastel streets and I was staring to enjoy the small town feeling that emanated from it.
+We reached the town later in the afternoon and the bus dropped us at the ADO station in the middle of the town. Most of the shops seemed closed, giving the small town a somewhat smaller feeling. As we hunted for the AirBnB we had booked, we walked the pastel streets and I was starting to enjoy the small town feeling that emanated from it.
 
 <div class="postimg">
   <div class="grid">
@@ -888,7 +888,7 @@ The guides were quite well trained when it came to taking pictures. Perhaps it w
 </em>
 </div>
 
-There were quite a few tourists and I had definitely not sen these many Asian tourists anywhere in Mexico. The power of social media was on display right before us.
+There were quite a few tourists and I had definitely not seen these many Asian tourists anywhere in Mexico. The power of social media was on display right before us.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775155723_2935c78ed9_c.jpg" data-toggle="lightbox">
@@ -1053,7 +1053,7 @@ And then there were pelicans lazing nonchalantly.
 </em>
 </div>
 
-Rio Lagartos, the town closest to Las Coloradas, hosts a biosphere that is famous for it's birds. The place definitely deserved time of it's own. Perhaps the next time we are in Yucatan :smile: We sat in a shed like area that overlooked the ocean. I think we had forgot to pack our swimming costumes since we were not expecting to find something so beautiful (we had been swimming a lot of late). After so many times, I still make the silliest of mistakes :expressionless:
+Rio Lagartos, the town closest to Las Coloradas, hosts a biosphere that is famous for it's birds. The place definitely deserved time of it's own. Perhaps the next time we are in Yucatan :smile: We sat in a shed like area that overlooked the ocean. I think we had forgotten to pack our swimming costumes since we were not expecting to find something so beautiful (we had been swimming a lot of late). After so many times, I still make the silliest of mistakes :expressionless:
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775682111_ab19003cc7_c.jpg" data-toggle="lightbox">
@@ -1071,7 +1071,7 @@ Rio Lagartos, the town closest to Las Coloradas, hosts a biosphere that is famou
 </em>
 </div>
 
-> Never forget to pack your swimming costume. NEVER.
+> Never forget to keep your swimming costume. NEVER.
 
 But all the same, we enjoyed sitting and watching the gulls go crazy as the fishing boats arrived. It was too hot and the slow breeze under the shed's canopy provided a relaxing respite.
 
