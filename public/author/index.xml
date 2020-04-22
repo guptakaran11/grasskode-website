@@ -9,15 +9,24 @@
     <managingEditor>gupta.karan.11@gmail.com (Karan Gupta)</managingEditor>
     <webMaster>gupta.karan.11@gmail.com (Karan Gupta)</webMaster>
     <copyright>Copyright (c) 2018, Karan Gupta; some rights reserved.</copyright>
-    <lastBuildDate>Tue, 14 Apr 2020 02:52:22 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2020 21:12:26 +0530</lastBuildDate>
     
 	<atom:link href="http://grasskode.xyz/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title></title>
+      <link>http://grasskode.xyz/author/</link>
+      <pubDate>Wed, 22 Apr 2020 21:12:26 +0530</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Karan</title>
       <link>http://grasskode.xyz/author/karan/</link>
-      <pubDate>Tue, 14 Apr 2020 02:52:22 +0530</pubDate>
+      <pubDate>Mon, 20 Apr 2020 02:52:22 +0530</pubDate>
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
       <guid>http://grasskode.xyz/author/karan/</guid>
       <description></description>
