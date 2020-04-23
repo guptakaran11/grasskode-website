@@ -44,7 +44,7 @@ The AirBnB was another simple one with a kitchenette and a attached bathroom. Th
 
 We went to a famous seafood pizzeria near the centro and ordered a margherita pizza :stuck_out_tongue: Pizzas were quite famous here. As were the golf carts (did I tell you about those?). As were whale-sharks (more about them later). After a nice meal, the heat pushed us back to our room where we stayed till late afternoon.
 
-One the sun mellowed down a bit, we went to the beach and spread our towel on the sand. Then we got into the water and enjoyed the calm waters that seemed perfect for a swim.
+Once the sun mellowed down a bit, we went to the beach and spread our towel on the sand. Then we got into the water and enjoyed the calm waters that seemed perfect for a swim.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805956367_eb06aacae2_c.jpg" data-toggle="lightbox">
@@ -100,7 +100,7 @@ One the sun mellowed down a bit, we went to the beach and spread our towel on th
 </em>
 </div>
 
-The evening brought on another surprise. Mosquitoes! There was a plethora of tiny mosquitoes that took over the island one the sun set. They had painful bites and were so ruthless that walking or shaking yourself did not deter them as they stuck onto your limbs and sucked your blood :scream: The only way out seemed to be the mosquito repellent sprays that repel as well. So I tried coating my body with some oil (as much as my sensitive skin allowed) and braved the mosquitoes with my hairy limbs (it really helps :joy:). Parul was coating herself with some natural bug repellent that we had bought back in Cambodia.
+The evening brought on another surprise. Mosquitoes! There was a plethora of tiny mosquitoes that took over the island once the sun set. They had painful bites and were so ruthless that walking or shaking yourself did not deter them as they stuck onto your limbs and sucked your blood :scream: The only way out seemed to be the mosquito repellent sprays that repel me as well. So I tried coating my body with some oil (as much as my sensitive skin allowed) and braved the mosquitoes with my hairy limbs (it really helps :joy:). Parul was coating herself with some natural bug repellent that we had bought back in Cambodia.
 
 We walked around the centro a bit and grabbed some cheap roadside dinner. Holbox, much like the rest of Quintana Roo we had seen so far, was much more expensive than the rest of Mexico we had seen.
 
@@ -123,7 +123,7 @@ We walked around the centro a bit and grabbed some cheap roadside dinner. Holbox
 </em>
 </div>
 
-When the online research did not yield much to go by, we walked to the hostel next doors to book a whale-shark snorkelling tour. They gave us a ticket and asked us to be at the vendor's (Gama Adventures) by 6:50 AM the next morning. So we were at the beach at 6:45 AM the next morning and once the boats started loading, we saw one group after another leave. When I went to enquire as to why we were left out, I learnt that they had received the request late and our names had not been put up on their list. So we could go today only if a slot opened up, else we would have to come back tomorrow. Bummer! We talked amongst ourselves and decided to come back the next day. The whale-shark tours are recommended to start as early as possible. We went back to the BnB to catch up on the unnecessarily lost sleep. The rest of the day was spent bumming around in the town.
+When the online research did not yield much to go by, we walked to the hostel next door to book a whale-shark snorkelling tour. They gave us a ticket and asked us to be at the vendor's (Gama Adventures) by 6:50 AM the next morning. So we were at the beach at 6:45 AM the next morning and once the boats started loading, we saw one group after another leave. When I went to enquire as to why we were left out, I learnt that they had received the request late and our names had not been put up on their list. So we could go today only if a slot opened up, else we would have to come back tomorrow. Bummer! We talked amongst ourselves and decided to come back the next day. The whale-shark tours are recommended to start as early as possible. We went back to the BnB to catch up on the unnecessarily lost sleep. The rest of the day was spent bumming around in the town.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805091458_6c8bf6ebcf_c.jpg" data-toggle="lightbox">
@@ -412,10 +412,9 @@ We boarded the boats again and then it took us to a small beach - Cabo Catoche, 
 
     </div>
     <div class="grid-column-50">
-      <a href="https://live.staticflickr.com/65535/49805090713_1c8ef8c86d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805090713_1c8ef8c86d.jpg">
+      <a href="https://live.staticflickr.com/65535/49805090713_cdec36cf0a_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805090713_cdec36cf0a.jpg">
       </a>
-
     </div>
   </div>
   <em>:raised_hands:
@@ -483,7 +482,7 @@ We sat in a cafe where we talked about the day. Internet was abuzz with the [Ama
 
 >< rant >
 >
-I think that calling this snorkelling a harassment of the whale-shark is extremely self centered. If I had the ability to run like Flash Gordon, and someone "harassed" me, would I not simply sun away? Of course these whale-sharks heard us coming in our loud motor boats, heard us jump into the water and splash our way close to them. Had they been harassed, they would have simply turned around and we wouldn't have been able to do anything about it. We had chased two whale sharks today. The first had simply turned around and people were left thrashing in the water trying to find the fish. The second one was much more humouring. It let us swim while it fed on nonchalantly. It had no obligation to, but it did. The manta rays were the other extreme. They would have none of it and there was no way we could keep up with them. Despite Copernicus's discovery, we humans still believe that we are the center of the universe. We need to save the Amazon which is the "Earth's lungs". The Earth is the third rock from the sun and it's existence surpasses ours. Let us first understand that what we are trying to do is simply preserve our existence, trying to halt the evolutionary trend that gave us birth in the first place. It's out lungs that we want to preserve, not the Earth's. You are no altruist to donate to such causes. You are just a human being fighting for survival.
+I think that calling this snorkelling a harassment of the whale-shark is extremely self centered. If I had the ability to run like Flash Gordon, and someone "harassed" me, would I not simply run away? Of course these whale-sharks heard us coming in our loud motor boats, heard us jump into the water and splash our way close to them. Had they been harassed, they would have simply turned around and we wouldn't have been able to do anything about it. We had chased two whale sharks today. The first had simply turned around and people were left thrashing in the water trying to find the fish. The second one was much more humouring. It let us swim while it fed on nonchalantly. It had no obligation to, but it did. The manta rays were the other extreme. They would have none of it and there was no way we could keep up with them. Despite Copernicus's discovery, we humans still believe that we are the center of the universe. We need to save the Amazon which is the "Earth's lungs". The Earth is the third rock from the sun and it's existence surpasses ours. Let us first understand that what we are trying to do is simply preserve our existence, trying to halt the evolutionary trend that gave us birth in the first place. It's out lungs that we want to preserve, not the Earth's. You are no altruist to donate to such causes. You are just a human being fighting for survival.
 >
 >< / end rant>
 
@@ -524,7 +523,7 @@ We returned to the AirBnB to rest a bit and let the day die in peace.
 </em>
 </div>
 
-That evening, after dinner, we decided to go to the farther end of the island for the second most exciting thing that Holbox offered - planktons. It was a long walk and we alternated between the beach and the path parallel to it. Eventually we reached the end of the road and a narrow path led on into the dark mangroves. We continued and managed to find the beach somehow. At a distance we could hear some kayakers taking and laughing. It was dark enough but since the water was so calm, we needed to wade the water for the planktons to glimmer. I took off my clothes and got into the water but to my surprise, Parul stayed behind. She was getting spooked by the darkness and the water was not really inviting her. I waded a little ahead and saw a most unexpected magical thing. A streak of light zig-zagged it's way across in the water. I soon realised that it was a flying fish darting in the water that left these glowing streaks in it's wake :open_mouth: I was back out soon though since the mosquitoes were wrecking havoc on Parul in the mangroves. It would have been fun to kayak out here. Maybe next time :smile:
+That evening, after dinner, we decided to go to the farther end of the island for the second most exciting thing that Holbox offered - planktons. It was a long walk and we alternated between the beach and the path parallel to it. Eventually we reached the end of the road and a narrow path led on into the dark mangroves. We continued and managed to find the beach somehow. At a distance we could hear some kayakers talking and laughing. It was dark enough but since the water was so calm, we needed to wade the water for the planktons to glimmer. I took off my clothes and got into the water but to my surprise, Parul stayed behind. She was getting spooked by the darkness and the water was not really inviting her. I waded a little ahead and saw a most unexpected magical thing. A streak of light zig-zagged it's way across in the water. I soon realised that it was a flying fish darting in the water that left these glowing streaks in it's wake :open_mouth: I was back out soon though since the mosquitoes were wrecking havoc on Parul in the mangroves. It would have been fun to kayak out here. Maybe next time :smile:
 
 We walked back to the BnB, expecting the party that the hostel next door had invited us to. It was cancelled by the time we reached the place and thus ended our last night in Holbox, quite uneventfully.
 
@@ -739,4 +738,4 @@ The next day we decided to rest in Cozumel. The island has beautiful beaches to 
 
 <hr/>
 
-We had deliberated a lot about what we wanted to do. There was the obvious choice of staying here and seeing the beaches of Cozumel. Perhaps doing some more dives. But we were really not clicking with us. The high expenses at the end of the trip was making us overthink. Plus our hearts were elsewhere. So we thought that rather than do checklist stuff, we should spend the remaining few days of our time in Mexico in the way that we had liked best :smile:
+We had deliberated a lot about what we wanted to do. There was the obvious choice of staying here and seeing the beaches of Cozumel. Perhaps doing some more dives. But these were really not clicking with us. The high expenses at the end of the trip was making us overthink. Plus our hearts were elsewhere. So we thought that rather than do checklist stuff, we should spend the remaining few days of our time in Mexico in the way that we had liked best :smile:
