@@ -6,7 +6,6 @@ title = "Hopping Islands"
 categories = ["travel"]
 series = "NO MAMES!"
 author = "Karan"
-toc = true
 +++
 
 It was with reluctance that we left Valladolid. But we had other things on our agenda that needed to be looked into. So we packed our bags and walked the pastel coloured lanes of the town we had so fallen in love with. We went to our faithful ADO bus station and booked a ticket to Isla Holbox.
@@ -31,7 +30,7 @@ Holbox is an island at the north eastern tip of the Yucatan peninsula, in the st
 </em>
 </div>
 
-It was quite apparent that we were now off the backpacking grid and entering into the more mainstream tourist destinations. As we walked the distance to our AirBnB on the island, we noticed a lot of golf carts plying as taxis. Isla Holbox is home to the [Yum Balam Natural Reserve](TODO). There are no vehicles allowed on the island that use oil to work. But since people always need luxury, there were the golf carts; even if the entire island can be easily navigated by a bicycle :expressionless: I find the concept rather ridiculous but then I am a broke backpacker, ain't I?
+It was quite apparent that we were now off the backpacking grid and entering into the more mainstream tourist destinations. As we walked the distance to our AirBnB on the island, we noticed a lot of golf carts plying as taxis. Isla Holbox is home to the [Yum Balam Reserve](https://en.wikipedia.org/wiki/Yum_Balam). There are no vehicles allowed on the island that use oil to work. But since people always need luxury, there were the golf carts; even if the entire island can be easily navigated by a bicycle :expressionless: I find the concept rather ridiculous but then I am a broke backpacker, ain't I?
 
 The AirBnB was another simple one with a kitchenette and a attached bathroom. There was an air conditioner as well and we absolutely needed it out here. The days were sultry and the heat was quite oppressive. The WiFi connectivity in the room was quite limited. WiFi availability was one thing about Mexico that was erratic at best. I guess people don't come to such beautiful beaches for the internet connectivity but for longer-term traveller, it is somewhat irksome.
 
@@ -480,7 +479,7 @@ Back at the jetty we thanked the captain and out guide. It had been a good day d
 </em>
 </div>
 
-We sat in a cafe where we talked about the day. Internet was abuzz with the [Amazon fires](TODO) as well so it made for a rich discussion. We pondered on the ethical aspect of snorkelling with whale sharks. There is an [online debate](TODO) on this, much similar to the ethical correctness of the [Sen Monorom elephant tourism](TODO). But here are my two cents.
+We sat in a cafe where we talked about the day. Internet was abuzz with the [Amazon fires](https://www.bbc.com/news/world-latin-america-49971563) as well so it made for a rich discussion. We pondered on the ethical aspect of snorkelling with whale sharks. There is an [online debate](https://www.nationalgeographic.com/animals/2018/08/whale-sharks-tourism-philippines-benefit-harm-news/) on this, much similar to the ethical correctness of the [Sen Monorom elephant tourism](/post/travel/no-mames/2019-cambodia-part-1/). But here are my two cents.
 
 < rant >
 
@@ -618,7 +617,7 @@ In twenty odd minutes we were on the other side. Cozumel was much different from
 </em>
 </div>
 
-We found our guesthouse and stowed our luggage. Then we left to find the dive shop that Jorge from [Mahahual](TODO) had recommended. The dive shop turned out to be just that - a shop. The prices for me were ridiculously cheap now that I was an advanced diver. Parul booked a dive and an instructor to accompany her. Once we signed all the relevant documents and chose the gear that fitted us, we were done for the day.
+We found our guesthouse and stowed our luggage. Then we left to find the dive shop that Jorge from [Mahahual](/post/travel/no-mames/mexico-part-4/#diving-days) had recommended. The dive shop turned out to be just that - a shop. The prices for me were ridiculously cheap now that I was an advanced diver. Parul booked a dive and an instructor to accompany her. Once we signed all the relevant documents and chose the gear that fitted us, we were done for the day.
 
 The next morning we returned to the shop early. The gear was already packed and ready to go. We met Luis, who was to be Parul's instructor. Confusion started when the taxi took off without Luis. It was just us, the gear and the taxi driver. At the marina, the driver was as much at a loss as to what was next as us :joy:
 
@@ -667,7 +666,7 @@ After thanking Luis and Issac we were dropped back to the dive shop. For lunch w
 </em>
 </div>
 
-That night we checked out a local restaurant recommended by our hosts. This one deserves a special mention. [Super Taquiera Pique](TODO) was one of those no nonsense amazing food places that I totally love! Their _gringa pique_ is a speciality worth trying. It's kind of a Mexican thin crust pizza :smile:
+That night we checked out a local restaurant recommended by our hosts. This one deserves a special mention. [Taqueria El Pique](https://goo.gl/maps/1LkGJVL1LVnCXAAVA) was one of those no nonsense amazing food places that I totally love! Their _gringa pique_ is a speciality worth trying. It's kind of a Mexican thin crust pizza :smile:
 
 <div class="postimg">
   <div class="grid">
