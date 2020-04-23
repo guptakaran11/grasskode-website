@@ -481,11 +481,11 @@ Back at the jetty we thanked the captain and out guide. It had been a good day d
 
 We sat in a cafe where we talked about the day. Internet was abuzz with the [Amazon fires](https://www.bbc.com/news/world-latin-america-49971563) as well so it made for a rich discussion. We pondered on the ethical aspect of snorkelling with whale sharks. There is an [online debate](https://www.nationalgeographic.com/animals/2018/08/whale-sharks-tourism-philippines-benefit-harm-news/) on this, much similar to the ethical correctness of the [Sen Monorom elephant tourism](/post/travel/no-mames/2019-cambodia-part-1/). But here are my two cents.
 
-< rant >
-
+>< rant >
+>
 I think that calling this snorkelling a harassment of the whale-shark is extremely self centered. If I had the ability to run like Flash Gordon, and someone "harassed" me, would I not simply sun away? Of course these whale-sharks heard us coming in our loud motor boats, heard us jump into the water and splash our way close to them. Had they been harassed, they would have simply turned around and we wouldn't have been able to do anything about it. We had chased two whale sharks today. The first had simply turned around and people were left thrashing in the water trying to find the fish. The second one was much more humouring. It let us swim while it fed on nonchalantly. It had no obligation to, but it did. The manta rays were the other extreme. They would have none of it and there was no way we could keep up with them. Despite Copernicus's discovery, we humans still believe that we are the center of the universe. We need to save the Amazon which is the "Earth's lungs". The Earth is the third rock from the sun and it's existence surpasses ours. Let us first understand that what we are trying to do is simply preserve our existence, trying to halt the evolutionary trend that gave us birth in the first place. It's out lungs that we want to preserve, not the Earth's. You are no altruist to donate to such causes. You are just a human being fighting for survival.
-
-< / end rant>
+>
+>< / end rant>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805090648_0c566247c7_c.jpg" data-toggle="lightbox">
