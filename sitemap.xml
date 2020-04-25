@@ -60,6 +60,18 @@
   </url>
   
   <url>
+    <loc>http://grasskode.xyz/tags/cenote/</loc>
+    <lastmod>2020-04-22T21:12:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/coba/</loc>
+    <lastmod>2020-04-22T21:12:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grasskode.xyz/tags/culture/</loc>
     <lastmod>2020-04-22T21:12:26+05:30</lastmod>
     <priority>0</priority>
@@ -73,6 +85,12 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/mexico/</loc>
+    <lastmod>2020-04-22T21:12:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/quintana_roo/</loc>
     <lastmod>2020-04-22T21:12:26+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -137,12 +155,6 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/quintana_roo/</loc>
-    <lastmod>2020-04-20T02:52:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/tags/whale_shark/</loc>
     <lastmod>2020-04-20T02:52:22+05:30</lastmod>
     <priority>0</priority>
@@ -151,12 +163,6 @@
   <url>
     <loc>http://grasskode.xyz/post/travel/no-mames/mexico-part-5/</loc>
     <lastmod>2020-04-13T21:26:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/cenote/</loc>
-    <lastmod>2020-04-13T21:26:33+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -420,12 +426,6 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/laos/</loc>
-    <lastmod>2020-01-04T16:58:16-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/tags/luang-prabang/</loc>
     <lastmod>2020-01-04T16:58:16-05:00</lastmod>
     <priority>0</priority>
@@ -456,6 +456,12 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/festivals/</loc>
+    <lastmod>2020-01-04T16:58:16-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/laos/</loc>
     <lastmod>2020-01-04T16:58:16-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -561,12 +567,6 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/tags/netherlands/</loc>
-    <lastmod>2019-10-02T19:52:18-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/tags/art/</loc>
     <lastmod>2019-10-02T19:52:18-05:00</lastmod>
     <priority>0</priority>
@@ -586,6 +586,12 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/hungary/</loc>
+    <lastmod>2019-10-02T19:52:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/netherlands/</loc>
     <lastmod>2019-10-02T19:52:18-05:00</lastmod>
     <priority>0</priority>
   </url>
