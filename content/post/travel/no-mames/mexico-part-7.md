@@ -1,12 +1,11 @@
 +++
 date = "2020-04-22T21:12:26+05:30"
-tags = ["mexico", "valladolid", "adk", "yucatan", "yucatan_peninsula", "culture"]
+tags = ["mexico", "valladolid", "coba", "cenote", "yucatan", "quintana_roo", "yucatan_peninsula", "culture", "adk"]
 categories = ["travel"]
 image = "https://live.staticflickr.com/65535/49808721687_70a156b654_c.jpg"
 title = "Afterglow"
 series = "NO MAMES!"
 author = "Karan"
-type = "draft"
 +++
 
 We had a few days left to our time in Mexico together. The Caribbean coat, despite it's beauty, had not managed to entice us enough to stay on. So we decided to head back to the town that we had liked the most during our stay in Mexico.
@@ -84,23 +83,13 @@ This time we were in no rush to see things in or around Valladolid. We decided t
       <a href="https://live.staticflickr.com/65535/49807861558_056c69982b_c.jpg" data-toggle="lightbox">
         <img class="lazy" data-src="https://live.staticflickr.com/65535/49807861558_056c69982b.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
-      <a href="https://live.staticflickr.com/65535/49807861463_2c05b0b142_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49807861463_2c05b0b142.jpg">
+      <a href="https://live.staticflickr.com/65535/49807861443_777d5e4d91_c.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://live.staticflickr.com/65535/49807861443_777d5e4d91.jpg">
       </a>
-
     </div>
   </div>
-  <em>Healthy breakfasts
-</em>
-</div>
-
-<div class="postimg">
-  <a href="https://live.staticflickr.com/65535/49807861443_777d5e4d91_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49807861443_777d5e4d91.jpg">
-  </a>
   <em>The joy of being able to make your own food :smile:
 </em>
 </div>
@@ -254,8 +243,12 @@ There were also some performances, the most significant one being the one depict
 </em>
 </div>
 
-TODO video
-Dance of the Ancient Mayans
+<div class="postimg">
+    <div class="video-container">
+        <iframe src="https://player.vimeo.com/video/411680078" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    </div>
+    <em>Dance of the Ancient Mayans</em>
+</div>
 
 The festival ended, like most in Mexico (I guess), with salsa! Everyone there seemed to know how to dance to the tune - young and old, thick and thin, men and women :laughing: It was a pleasure to be a part of it, even though I knew jack about salsa :stuck_out_tongue:
 
