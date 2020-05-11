@@ -2,14 +2,13 @@
 date = "2020-01-05T15:58:43+05:30"
 categories = ["travel"]
 tags = ["mexico", "cdmx", "mexico city", "puerto escondido", "surf", "beach", "museum", "airbnb", "lucha libre", "unesco-site", "ruins", "aztec"]
-title = "Mexico, Baby!"
+title = "Mexico [Part 1] - Mexico, Baby!"
 series = "NO MAMES!"
 image = "https://live.staticflickr.com/65535/49331837543_a27b8e4083_c.jpg"
-toc = true
 author = "Karan"
 +++
 
-After spending about two months in the USA, mostly with Di and Praval, we took a flight out of Vegas to Mexico City. When our travel plans had been detoured towards the western hemisphere, we decided to make the most of the time there. While a lot of things were in consideration, including Cuba and South America, we had settled for a couple of months in Mexico. While discussing these plans in the US circle, the frequent question of "Two months!? What will you do for two months in Mexico?" came up. Well, we were about to find out.
+After spending about [two months in the USA](../american-rhapsody/), mostly with Di and Praval, we took a flight out of Vegas to Mexico City. When our travel plans had been detoured towards the western hemisphere, we decided to make the most of the time there. While a lot of things were in consideration, including Cuba and South America, we had settled for a couple of months in Mexico. While discussing these plans in the US circle, the frequent question of "Two months!? What will you do for two months in Mexico?" came up. Well, we were about to find out.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49332526027_1dcac14ae3_c.jpg" data-toggle="lightbox">
@@ -1731,3 +1730,5 @@ Mexico City and Puerto Escondido had given us a taste of Mexico and we were defi
   </a>
   <em>Our last Michelada in Zicatela</em>
 </div>
+
+Read the next part from Mexico [here](../mexico-part-2/).

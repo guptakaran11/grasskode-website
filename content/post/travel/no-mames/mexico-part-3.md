@@ -2,12 +2,13 @@
 date = "2020-03-20T17:15:02+05:30"
 tags = ["mexico", "san_cristobal_de_las_casas", "palenque", "chiapas", "culture_tours", "unesco-site", "maya", "ruins", "cascades", "waterfall"]
 image = "https://live.staticflickr.com/65535/49654878477_678f0fe48e_c.jpg"
-title = "The Magical Chiapas"
+title = "Mexico [Part 3] - The Magical Chiapas"
 categories = ["travel"]
 series = "NO MAMES!"
 author = "Karan"
-toc = true
 +++
+
+Read the [Part 2](../mexico-part-2/) of our time in Mexico.
 
 We took an ADO bus out of Oaxaca which would get us to San Cristobal de Las Casas overnight. Weirdly sleeper buses are not a concept out there but fortunately the ADO buses are luxurious enough to spend the night comfortably. Parul slept as soon as the bus hit the highway but I stayed up initially, trying to test my Spanish against a movie that was being played. Come morning, we were at our destination.
 
@@ -1389,3 +1390,5 @@ We ended the night with some _micheladas_, mezcal and another movie. It had been
 <hr />
 
 Chiapas would remain with us. The beautiful town of San Cristobal with it's hippies and chocolate, and the magical Mayan city-state of Palenque, all of it abounding in natural beauty and a rawness that commanded admiration. This was also where we learnt the culture of the modern Mayans a little better. We now understood what attracted travellers to this part of the country and why they seemed to leave a piece of themselves out here, much like us.
+
+Read the next one from Mexico [here](../mexico-part-4/).

@@ -3,10 +3,12 @@ date = "2020-04-22T21:12:26+05:30"
 tags = ["mexico", "valladolid", "coba", "cenote", "yucatan", "quintana_roo", "yucatan_peninsula", "culture", "adk"]
 categories = ["travel"]
 image = "https://live.staticflickr.com/65535/49808721687_70a156b654_c.jpg"
-title = "Afterglow"
+title = "Mexico [Part 7] - Afterglow"
 series = "NO MAMES!"
 author = "Karan"
 +++
+
+Here is the [previous part](../mexico-part-6/) from Mexico.
 
 We had a few days left to our time in Mexico together. The Caribbean coat, despite it's beauty, had not managed to entice us enough to stay on. So we decided to head back to the town that we had liked the most during our stay in Mexico.
 

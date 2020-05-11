@@ -2,11 +2,13 @@
 date = "2020-04-20T02:52:22+05:30"
 tags = ["mexico", "isla_holbox", "cozumel", "quintana_roo", "yucatan_peninsula", "diving", "whale_shark", "beach", "island", "plankton"]
 image = "https://live.staticflickr.com/65535/49805953492_6beffef6ff_c.jpg"
-title = "Hopping Islands"
+title = "Mexico [Part 6] - Hopping Islands"
 categories = ["travel"]
 series = "NO MAMES!"
 author = "Karan"
 +++
+
+[Part 5](../mexico-part-5/) of the Mexican stories.
 
 It was with reluctance that we left Valladolid. But we had other things on our agenda that needed to be looked into. So we packed our bags and walked the pastel coloured lanes of the town we had so fallen in love with. We went to our faithful ADO bus station and booked a ticket to Isla Holbox.
 
@@ -739,3 +741,5 @@ The next day we decided to rest in Cozumel. The island has beautiful beaches to 
 <hr/>
 
 We had deliberated a lot about what we wanted to do. There was the obvious choice of staying here and seeing the beaches of Cozumel. Perhaps doing some more dives. But these were really not clicking with us. The high expenses at the end of the trip was making us overthink. Plus our hearts were elsewhere. So we thought that rather than do checklist stuff, we should spend the remaining few days of our time in Mexico in the way that we had liked best :smile:
+
+Onwards to the [last part](../mexico-part-7/) of the Mexican saga.

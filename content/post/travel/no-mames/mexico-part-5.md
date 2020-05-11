@@ -2,12 +2,13 @@
 date = "2020-04-13T21:26:33+05:30"
 tags = ["mexico", "valladolid", "izamal", "las_coloradas", "chichen_itza", "yucatan", "yucatan_peninsula", "cenote", "culture", "world_wonder", "ruins", "maya", "unesco-site"]
 image = "https://live.staticflickr.com/65535/49775685031_cf90011646_c.jpg"
-title = "Valladolid"
+title = "Mexico [Part 5] - Valladolid"
 categories = ["travel"]
 series = "NO MAMES!"
 author = "Karan"
-toc = true
 +++
+
+Read the previous part [here](../mexico-part-4/).
 
 While there was much more that could be done in Tulum, we left the town after a few days of relaxation, wandering around and drinking good tequila. We took a bus and headed inland to a city that had come recommended by our friend Gabriela, who was a traveller herself.
 
@@ -1658,3 +1659,5 @@ Meanwhile, Guadalupe was being a sweetheart as always. She had arranged for some
   <em>Liqueurs of Yucatan
 </em>
 </div>
+
+Read the next in our Mexican adventures [here](../mexico-part-6/).

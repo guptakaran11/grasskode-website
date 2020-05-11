@@ -3,11 +3,12 @@ date = "2020-02-20T12:21:06+05:30"
 tags = ["mexico", "san jose del pacifico", "oaxaca", "monte alban", "hierve el agua", "la guelaguetza", "cultural_festival", "waterfall", "ruins", "airbnb", "local_food", "unesco-site"]
 categories = ["travel"]
 image = "https://live.staticflickr.com/65535/49654061598_dd48d8f9ac_c.jpg"
-title = "Viva La Guelaguetza!"
+title = "Mexico [Part 2] - Viva La Guelaguetza!"
 series = "NO MAMES!"
 author = "Karan"
-toc = true
 +++
+
+Read [here](../mexico-part-1/) about how our Mexican adventure began.
 
 We had spent close to a week in Brisas de Zicatela without doing much. A bit of walking around the village, checking out the beaches around and eating a whole lot of artesnal food. We left Brisas in a local bus that headed for Pochutla. In that bus, racing down an empty highway along the coast, with Mexican music blaring on it's loudspeakers, I finally got the geographical feeling of being in Mexico, halfway across the world from India!
 
@@ -1079,3 +1080,5 @@ We rushed to Fernando and Marianna's place, packed up, said our goodbyes and rus
   </a>
   <em>Night bus</em>
 </div>
+
+Read the next part from Mexico [here](../mexico-part-3/).

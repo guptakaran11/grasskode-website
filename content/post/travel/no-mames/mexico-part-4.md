@@ -2,12 +2,13 @@
 date = "2020-04-06T20:04:13+05:30"
 tags = ["mexico", "bacalar", "mahahual", "tulum", "quintana roo", "yucatan_peninsula", "maya", "ruins", "iguanas", "sailing", "lagoon", "kayaking", "lake", "diving", "seafood"]
 image = "https://live.staticflickr.com/65535/49737365781_61edc30959_c.jpg"
-title = "Into the Blues"
+title = "Mexico [Part 4] - Into the Blues"
 categories = ["travel"]
 series = "NO MAMES!"
 author = "Karan"
-toc = true
 +++
+
+[Here](../mexico-part-3/) is a recap of our time in Chiapas.
 
 We woke up next morning later than we had planned to. This was becoming a routine now :grimacing: I made some breakfast of the things we had in the kitchen and we packed up and left. There was a random [tripadvisor post](https://www.tripadvisor.in/ShowTopic-g3194809-i30468-k11707552-Palenque_to_Bacalar-Southern_Mexico.html) that I had run into while searching for a cheap and local way to travel to our next destination and we decided to try it out first instead of taking the longer option later in the day. Fortunately, we were still in time to get a _camioneta_ for Zapata that got us there in time for the 10:30 bus to Chetumal. We reached Chetumal later in the afternoon via some beautiful and green roads and barely any civilization enroute. After a super late lunch at a Subway, we caught a _colectivo_ to **Bacalar**.
 
@@ -1346,3 +1347,5 @@ While we had considered more things to do out here, we decided to hit up the nex
   <em>Cheers to the craziness :sake:
 </em>
 </div>
+
+The next from Mexican stories - [Part 5](../mexico-part-5/).
