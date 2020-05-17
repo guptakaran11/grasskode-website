@@ -4,19 +4,95 @@
   
   <url>
     <loc>http://grasskode.xyz/author/</loc>
-    <lastmod>2020-04-22T21:12:26+05:30</lastmod>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/categories/</loc>
-    <lastmod>2020-04-22T21:12:26+05:30</lastmod>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://grasskode.xyz/author/karan/</loc>
-    <lastmod>2020-04-22T21:12:26+05:30</lastmod>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/</loc>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/categories/rant/</loc>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/post/rant/shutters-up/</loc>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/</loc>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/alcohol/</loc>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/coronavirus/</loc>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/covid19/</loc>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/fiction/</loc>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/</loc>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/india/</loc>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/lockdown/</loc>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/politics/</loc>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grasskode.xyz/tags/satire/</loc>
+    <lastmod>2020-05-17T22:57:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -31,19 +107,7 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/post/</loc>
-    <lastmod>2020-04-22T21:12:26+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/series/</loc>
-    <lastmod>2020-04-22T21:12:26+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/</loc>
     <lastmod>2020-04-22T21:12:26+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -73,12 +137,6 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/culture/</loc>
-    <lastmod>2020-04-22T21:12:26+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/</loc>
     <lastmod>2020-04-22T21:12:26+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -655,11 +713,6 @@
   </url>
   
   <url>
-    <loc>http://grasskode.xyz/categories/rant/</loc>
-    <lastmod>2019-08-13T15:25:26-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://grasskode.xyz/post/rant/slow/</loc>
     <lastmod>2019-08-13T15:25:26-05:00</lastmod>
   </url>
@@ -858,12 +911,6 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/birding/</loc>
-    <lastmod>2019-06-10T16:19:42-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/india/</loc>
     <lastmod>2019-06-10T16:19:42-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1341,12 +1388,6 @@
   
   <url>
     <loc>http://grasskode.xyz/tags/dystopia/</loc>
-    <lastmod>2017-01-01T12:59:07+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://grasskode.xyz/tags/fiction/</loc>
     <lastmod>2017-01-01T12:59:07+05:30</lastmod>
     <priority>0</priority>
   </url>
