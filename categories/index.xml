@@ -9,10 +9,19 @@
     <managingEditor>gupta.karan.11@gmail.com (Karan Gupta)</managingEditor>
     <webMaster>gupta.karan.11@gmail.com (Karan Gupta)</webMaster>
     <copyright>Copyright (c) 2018, Karan Gupta; some rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 Apr 2020 21:12:26 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2020 22:57:26 +0530</lastBuildDate>
     
 	<atom:link href="http://grasskode.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rant</title>
+      <link>http://grasskode.xyz/categories/rant/</link>
+      <pubDate>Sun, 17 May 2020 22:57:26 +0530</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/categories/rant/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Travel</title>
@@ -20,15 +29,6 @@
       <pubDate>Wed, 22 Apr 2020 21:12:26 +0530</pubDate>
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
       <guid>http://grasskode.xyz/categories/travel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rant</title>
-      <link>http://grasskode.xyz/categories/rant/</link>
-      <pubDate>Tue, 13 Aug 2019 15:25:26 -0500</pubDate>
-      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/categories/rant/</guid>
       <description></description>
     </item>
     
