@@ -2,9 +2,8 @@
 date = "2020-05-17T22:57:26+05:30"
 categories = ["rant"]
 tags = ["coronavirus", "lockdown", "covid19", "india", "alcohol", "politics", "satire", "fiction"]
-type = "draft"
 title = "Shutters Up"
-image = ""
+image = "https://live.staticflickr.com/65535/49929088362_14c1d2fdfb_c.jpg"
 toc = false
 author = "Karan"
 +++
@@ -15,9 +14,11 @@ A lot of the people in this line were there for a similar reason of bliss. When 
 
 The shopkeeper lit an *agarbatti* in front of _Ma Laxmi_, prayed for her blessings and served the first customer. Cash. He did not have change to return. The customer did not mind. This was going to be an amazing day, _Guptaji_ could tell. The next customer knew exactly what he wanted and _Guptaji's_ boys knew exactly where to find it. Another simple and efficient transaction. The machine beeped as it read the barcodes, the cash register rumbled as it accepted the cash offerings, _Guptaji_ sat with his POS machine and made the card transactions, the boys shouted orders at each other, bottles clinked as the were served to the customer, the customer beamed as he left the counter, _Ma Laxmi_ overlooked the booming commerce from her LED lit asylum. It was just like the older times, _Guptaji_ thought as he looked at his shop; even better, he thought as his eyes fell on the growing line.
 
-<hr />
-
 The line that was taking a life and character of it's own as the cool of the dawn faded and people's will to isolate melted. There were some women who had joined the list of prospective customers and been made to queue up separately by _Guptaji_. He respected women as goddesses and was not a man to make the goddesses wait. Heaven forbid that one of these be an incarnation of _Ma Laxmi_ sent to test his faith! This, however, did not please the ones who had been standing in the line since the morning. There were murmurs of discontent in pockets all along the line but vocal accusations were met with harsh abuses by the fat shopkeeper.
+
+<div class="soft-break">
+  <hr />
+</div>
 
 "Is this a railway station?" Gopal asked the nonchalant man in front of him. "What's the meaning of a separate line for females here?"<br />
 The neighbour looked back at Gopal and smiled. Shrugged his shoulders and said "Maybe they want a drink as well. It's okay."<br />
@@ -29,7 +30,9 @@ The guy behind *kaka* exclaimed "Every evening? *Kaka*, you have hit a jackpot! 
 "You don't want a woman in your life buddy. You just want a slave. No woman will ever marry you!" his friend chided.<br />
 The group compressed together and the the conversation continued as such, discussing the declining morality of women, the simplicity of patriarchal times, blaming the media for a promiscuous culture and so on.
 
-<hr />
+<div class="soft-break">
+  <hr />
+</div>
 
 There were other pockets that had recovered from the shock of a separate queue for females and had moved on to more important topics. Shiv was telling everyone that would listen how the virus was a Chinese conspiracy.<br />
 "Believe me brothers! This is all China's doing. I read in the news that they were developing this virus in a laboratory."<br />
@@ -45,7 +48,9 @@ Everyone agreed.<br />
 "That's how China works - Maoists and viruses!" Shiv continued. "They leaked the virus, infected enough of their people so that they would spread it to the world, and then cured their own people. Their economy is going strong now while the rest of the world is dying. We have been in a lockdown for so long. There isn't enough money now. I was saving for my sister's marriage. It's all gone now!"<br />
 "The government should do something. Why don't we declare war on China? Are we afraid?" someone added angrily. There was a wave of consent and the conversation diverged into how the Indian and Chinese armies compared.
 
-<hr />
+<div class="soft-break">
+  <hr />
+</div>
 
 Rishi and Ravi had decided to meet up here after days of containment in their homes. They had much to share with each other.<br />
 "The lockdown has made a slave out of me!" Ravi exclaimed. "I spend my days cooking food, cleaning the house and doing laundry."<br />
@@ -61,7 +66,9 @@ Rishi nodded "That is true. That is **true**! I just wish these drunkards would 
 "Yes, these lines are everywhere now" Ravi agreed. "Grocery stores, milk booths, now alcohol shops! That's all I do these days. Wait in lines."<br />
 Thus went on the conversation between the two friends, each sharing his share of woe with the other and lightening his load.
 
-<hr />
+<div class="soft-break">
+  <hr />
+</div>
 
 Meanwhile, Biswa was lecturing his cohort on how the government wasn't doing nearly enough.<br />
 "They are not doing enough tests!" Biswa declared. "What is the meaning of this lockdown? What good has it done? The numbers are still rising. The government should be testing all of us instead of being tyrannical and forcing us to stay indoors."<br />
@@ -77,7 +84,9 @@ The crowd looked at each other again. They were still clueless.<br />
 This had an immediate effect. Suddenly the crowd distanced themselves from each other.<br />
 "Relax," Biswa said. "Don't panic. Panic will do you no good." He went on to explain the intricacies of statecraft and economics to his willing crowd. No one knew what exactly his areas of competency were, but clearly he was a man of infinite wisdom that needed to be heard out.
 
-<hr />
+<div class="soft-break">
+  <hr />
+</div>
 
 Much ahead in the line, a young man, bored of standing so long without having someone to talk to, asked the older gentleman behind him "*Tau*, what time did you get into the line?"<br />
 The older man looked up and smiled. "I have been here since the dawn. I live at the construction site around the corner."<br />
@@ -95,10 +104,12 @@ The young man got his bottles and bought the old man a couple of cheap quarters 
 The young man smiled as they said their goodbyes. "Keep heart *tau*. Stay optimistic. This too shall end."<br />
 The two men then went their own ways, each lost in their own thoughts.
 
-<hr />
+<div class="soft-break">
+  <hr />
+</div>
 
 So continued the day, which melted into a hot afternoon. The police came along and hurled abuses at the ones who were not maintaining distance amongst themselves. A few were hit with *lathis* but no one seemed to have any complains. The inspector sat in the PCR van and looked at the scene with nonchalance. The main constable went inside the shop and asked the shopkeeper to load *Inspector Sahab*'s van with some good beers and whiskey. Then he warned the shopkeeper to maintain the line properly else he would have to come back to close down the shop. The shopkeeper assured him that the line would be maintained without fault. The constable nodded meaningfully and turned around. Noticing that the bill had not been paid, the shopkeeper asked timidly "*Sirji*, what about the bill for the alcohol?" The constable glared at him. "_Gupta_! You want to keep your shop open, do you not? You seem to be a businessman. Does it make sense to incur losses of lacs because you were foolish enough to ask for a few thousand?" The shopkeeper turned down his gaze and apologized. The policeman went back to the van and _Guptaji_ turned to his shop. He was seething with rage. No one called him _Gupta_! Even his wife called him _Guptaji_ in their tenderest of moments. All policemen were pigs! He spat on the ground and shouted at two of his boys to let some steam off. One even got a smack on his head and the shop was back to it's expected level of chaos.
 
 The van was loaded with the requisite amount of alcohol and the engine purred to life once the other constables were back after their quota of fun beating up some people.<br />
 "Look *sirji*. Just look at these fools!" The head constable told his inspector. "You would think that there's a *mandir* handing out *prasad* out here. Have you ever seen such a line?"<br />
-The van guffawed together as they slowly ambled down the streets. The line, however, continued strong till the shopkeeper shut down the shop, sometime after dusk. A few more days like these and he would cover up for all his lost time!<br />
+The van guffawed together as they slowly ambled down the streets. The line, however, continued strong till the shopkeeper shut down the shop, sometime after dusk. A few more days like these and he would cover up for all his lost time!
