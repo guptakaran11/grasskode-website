@@ -21,6 +21,12 @@ hr {
   border-color: #7a7a7a;
 }
 
+.soft-break hr {
+  border: 1px dashed #8c8b8b;
+  width:30%;
+  align:center"
+}
+
 .navbar-default {
   margin: 30px;
   padding: 5px 0;
